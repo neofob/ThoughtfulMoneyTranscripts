@@ -1,0 +1,665 @@
+ I think you're going to have a fairly deep recession, and we're only at the early stages
+ of it here in the U.S., so I think it's pretty early on still before you see the large jumps in
+ the layoffs that will occur. Now, we're starting to see that job cuts are increasing,
+ the challenger numbers are up multi-month high here, and so we're seeing that,
+ but it's going to get a lot worse. We're not even half-time, I don't think, at this point.
+ Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. Heading into 2024,
+ we may be witnessing a change in a number of trends. The October CPI numbers suggest
+ inflation is moderating faster than expected. If that proves true, this may mean the Federal
+ Reserve's aggressive campaign of hiking interest rates is over, and if that's true, the three-year
+ beating the bond market has suffered may be coming to an end. As for stocks, they've been powered
+ higher all year by the magnificent seven, but even there we may be witnessing a regime change.
+ To clarify whether these are indeed real and significant trend shifts, we're fortunate today
+ to speak with Fred Hickey, editor of the highly respected newsletter The High-Tech Strategist,
+ which Fred's been publishing since 1987. Fred, thanks so much for joining us today.
+ Always my pleasure.
+ Well, a pleasure to have you back here on the new channel. Fred, you're one of the very first
+ guests. I can't think of anybody better to kick this new channel off with, so thank you for making
+ the time to join us here. Lots of questions for you, lots of new news to react to. Very quickly,
+ though, just to set the context before we get into the details, a general question for you.
+ What's your current assessment of the global economy and financial markets?
+ Well, it's a lot worse than what the consensus is right now. Internationally, I think major parts of
+ the economy are in recession already. Certainly that's the case in China and also in the case
+ in parts of Europe. Germany is in recession. Largest countries in Europe are in recession.
+ France is following it. And then you have the US, which, you know, last quarter showed a 4.9 percent
+ GDP number, but the latest Atlanta Fed fracker is 2 percent. I think the economy is a lot worse than
+ some of the headline, that 4.9 percent number, GDP number shows. You can start with consumer spending,
+ which is 70 percent of the economy. And we have a lot of data that's come in, including Home Depot
+ this morning, a lot of data. But Home Depot once again came out and said that their sales are down.
+ They're expecting 3 to 4 percent decline. Obviously, they're being hurt by housing because
+ housing is in a deep recession, given that rates have soared there. We're talking about 7.5 percent
+ mortgages versus 3-plus before. So housing, which leads the economy usually, is in a dark place.
+ Mortgage applications a week or two ago went to 28-year low. Existing home sales are down to a
+ 13-year low. We've seen a drop off in industrial production. And I was going to say, in consumer,
+ we just had a great report come out yesterday. It's a new one from the National Retail Federation
+ that instead of, like, the government tracks or does a survey and they'll have that report this
+ week. This one actually tracks transactions. So 1,400 institutions, financial institutions,
+ 500 billion dollars of sales, 9 billion credit and debit transactions. So it's accurate data,
+ not survey data. And there they showed a decline in retail sales in the month of October,
+ month over month. And it's been slipping now since April. Bank of America had a similar report out
+ last week and they showed also a 0.5 percent year-over-year decline in retail sales.
+ So consumer sentiment was out last Friday. University of Michigan, that was a 5 percent
+ decline to 60 percent. That's showing, that was fourth straight month of decline. So retail sales
+ are weakening. There isn't any doubt about that. And of course, when you raise rates as much as
+ the Fed has, starting in 2022, it was going to have an impact. And it is having an impact,
+ but it's maybe slower than some expected, including myself.
+ Just on that point, because you're hitting on my favorite topic here, which is the lag effect.
+ You know, you're essentially saying it acts with a lag and this lag is taking longer than
+ many folks, perhaps even yourself, expected. I'm just curious, I'm just asking you to guess here,
+ how much of the lag effect has expressed itself to date?
+ Well, when I was on this show some months ago, I said that I thought we would head into recession
+ here at the end of the year into 2024, but it could be extended out if the Fed
+ acted. And shortly after that, well, at the time, the Fed's balance sheet was 8.3 billion.
+ They had taken it down via QT from 8.9, I should say trillion. The billions and trillions can get
+ confusing. 8.9 trillion down to 8.2 trillion. It was 8.3 when we spoke. And then over the next
+ few weeks, they took it up by $700 billion. They injected money to combat the banking,
+ the regional banking crisis. And that helped extend everything out. We had that huge surge
+ in money that came into the system. And that caused the lag to be longer, I think, than
+ would have occurred had the Fed not. And that's what I warned about. If they did that,
+ then they could extend everything out. But I think now things are turning down. And I don't know,
+ I don't think the Fed can act again right now. Well, you just saw, as I mentioned,
+ the University of Michigan, they also have an inflation expectations component. And that came
+ out on Friday. And that went up for the next year from 4.2% to 4.4%. And long-term inflation
+ expectations also rose from 3 to 3.2%. And when that happened, all the Fed members, all the
+ governors came out and sang from the same hymnal and said, "Higher for longer, and we might have to
+ raise rates." So I don't think you're going to have, you're going to see rate cuts as soon as
+ some of the market would hope because there are inflation expectations, a big part of inflation,
+ but you also have the Atlanta Fed wage tracker up to 5.2%. Today's CPI report still shows 4%
+ inflation, excluding food and energy is 3+% in the headline. That's still much higher than the
+ Fed wants. So I don't think the Fed can come in and save the day. And the erosion effects of these
+ higher rates of QT, because now the Fed has taken their balance sheet back down and reversed that
+ 700 billion plus some. So we've gone from 8.9 trillion to 7.8 trillion right now. That's a big
+ 1.1 trillion dollar decline and it's dropping by 90 billion dollars a month. So the tightening
+ continues and all these companies that used to borrow at half the rate they can borrow at today,
+ now it's 10% in many cases or higher if it's a junk bond. When they go to refinance, their
+ interest cost goes way up and it's causing companies like WeWork last week, it was a very
+ large company, has a large real estate footprint for that company to go bankrupt. So we're going to
+ see these kinds of erosionary effects. It's all lag, but it's still happening.
+ Great. So you're taking this exactly where I wanted to, and I'm going to ask my question in
+ a slightly different way, which is the lag effect is the Fed takes action, but it takes a while for
+ the impact of that action to manifest in the real economy. And right now the Fed has been trying
+ with its rate hike campaign and QT to slow the economy. So it's increasing the gravitational
+ force pulling economic growth down. So as you're saying, there are all these reasons, especially
+ the longer we stay higher and higher for longer, the more that force of gravity is going to start
+ just pulling everything down with it. And one of the problems with the lag effect is that their
+ numbers lag. So everyone looks and they look at, you see GDP at 4.9%. Well, I don't think we're
+ going at 4.9%. Right. It doesn't reflect where we are today. Yeah, exactly. Right. And so that's
+ why you have a lag effect. I mean, you have in the jobs area, you've seen some growth there in jobs.
+ Well, actually the jobless rate has gone up from almost a half a percent now to 3.9%,
+ but they're still showing job strong jobs growth. Well, last month's numbers was all due to birth
+ death, birth death, 414,000 jobs. Those are phantom jobs. It's just monkeying with an
+ Excel spreadsheet, right? Well, no, I won't say they're monkeying it. It's their methodology.
+ What happens is that when they add or subtract these jobs, depending on what their
+ forecasts are, where they think the economy is, well, if we've been in an upturn, they add jobs.
+ They don't see the downturn, so they keep adding jobs, even though they're not really
+ adding jobs. So it was 414,000 and this has been going on. So the jobs numbers are all inflated.
+ And those are the things that they show, even though we do have an increase in the
+ unemployment rate happening. And there's a lot of other jobs related that temporary help
+ is declining. There are a lot of other items in the numbers that are showing that there is a
+ decline, but the headline, the big headline numbers are showing strong growth. And that's why a lot of
+ people in the stock market are calling it Goldilocks economy because they think the
+ economy is strong and it really isn't. >>So in many ways, we're kind of looking
+ at data that is flawed, right? So just to finish my question here, so lag effect,
+ we still have yet to see all of it. My question to you is how much has yet to manifest? And I'll
+ make it easy. Have we seen more than half of the impact yet or does more than half of the
+ lag effect impact lie ahead of us? Like how much lag effect should we be bracing for is kind of
+ what I'm trying to get to. >>Well, I think you're going to have a fairly deep recession
+ and we're only at the early stages of it here in the US. So I think it's pretty early on still
+ before you see the large jumps in the layoffs that will occur. Now, we're starting to see that job
+ cuts are increasing. The challenger numbers are up multi-month high here. And so we're seeing that,
+ but it's going to get a lot worse. We're not even half-time, I don't think, at this point.
+ >>Okay, not even half-time. That's exactly the general ballpark I was looking for. Okay. >>Right,
+ 2024. Again, unless the Fed comes in and I don't think they can right now, unless they come in and
+ and try to extend this out again, I think we'll continue down into 2024. >>Okay, so then one
+ question on that is I want to tie it to the recent October CPI numbers that came out that you just
+ mentioned where they did surprise on the downside. They were less than folks expected. There's a
+ great chart I'll try to find in a moment here that ZeroHedge put up showing how the CPI tracks with
+ M2 with a delay. And if you look at where M2 has gone, it suggests that CPI is going to continue
+ going substantially lower even from here. And so this data may, well, the discussion this week is,
+ hey, this has put the nail in the coffin on the Fed's hiking regime, which means not that it's
+ going to cut anytime soon necessarily, but it's going to remain at this plateau higher for longer.
+ Now, history shows us very clearly when you look at the past recessions that we've had,
+ they've pretty much all followed an aggressive rate hike regime, then a plateau, and then the
+ recession kicks in and then the Fed is scrambling to lower rates and we have a multi-quarter,
+ sometimes multi-year, recessionary period that follows. Do you expect history to follow that
+ script this time around? Sounds like you do. >>It always does. The Fed's always wrong. They're
+ always backward looking and there's always a lag effect to their numbers and they're either too
+ tight for too long or they're too easy for too long. Lately, we've seen the too easy for too long
+ and most recently now they're tight and they remain tight because they do have these inflationary
+ effects that are going to stay with us. I think it would be very difficult to get it down to their
+ 2% target. So they're going to keep this higher for longer. And yeah, so they'll keep it higher
+ for longer and those erosionary effects underneath the economy and corporations going bankrupt and
+ having to cut back and lay off people and all that kind of stuff will continue on.
+ So yeah. >>Okay, and as you've been talking, I put up the chart here which shows these peaks
+ where we have this plateau where the Fed has hung out, said, "Okay, we're done hiking, we're
+ going to stay here because this is the right place to be," and then all of a sudden they realize, "Oh
+ no, it's not the right place to be. We are way too tight," and then they scramble. So it sounds like
+ you're saying, "Yep, here at the end of this chart here with the peak with the question mark,
+ your experience makes you fairly confident that we're going to see the same cycle repeat."
+ >>Absolutely. It really never changes and I don't see it. Given the circumstances that we have today
+ where we can see the erosion of the economy yet the headline numbers kind of look strong,
+ they'll continue to tighten for two, well, they'll continue to be tight and of course they are still
+ tightening with QT at 90 billion dollars every month. So it's not just a pause here.
+ We have a pause in rate hikes at what are very high levels relative to what we have been when
+ you were at zero for over a decade. You go from zero to five and a quarter, five and a half percent
+ of the Fed funds and you jump rates as high as you did, not just mortgages but corporate loans,
+ everything. They're all up, they're all doubled. There are going to be severe effects because
+ companies and people borrowed record amounts of money. You saw credit card borrowing go to 1.8
+ trillion dollars up 16% year over year. Well, you're talking 21% rates there on credit cards.
+ >>The highest amount of outstanding credit card balance paired with the highest average APR on
+ credit cards. >>Right, ever. And so those effects, we're starting to see those in a slowdown in the
+ economy, a slowdown in retail sales and that will only continue. And then you can throw in, of
+ course, the student loans which have started to impact a significant percentage of the economy.
+ They have these loans and I saw where the average cost was $350 per month. That's
+ going to be taking out here in the fourth quarter. So it doesn't look good for Christmas sales here
+ at all. >>All right, so let's assume for a moment and showing my cards, I'm on the same page as you
+ are, Fred, but that the lag effect does tip the US into recession next year. And again, while a
+ lot of our cohorts globally are doing the same, thinking back to that chart that I just showed
+ there, that shows that in the past, the Fed has scrambled to reduce rates. Presumably when the
+ recession hits, if something hasn't broken before then, the Fed will probably stop QT, but tell me
+ if you disagree. And then secondly, it'll start cutting rates. We're up here at five and a quarter
+ ish. Again, I'm sort of forcing you to prognosticate a little bit here, but how
+ aggressive do you expect the Fed to be in bringing the federal funds rate down? As aggressive as we
+ seen in previous regimes? >>I think it depends on how badly the stock market's getting hit and if
+ there are, as you said, if there are any explosions that might occur like we saw in March. And
+ to that point, those regional banks have bigger problems today than they did back in March and the
+ amount of losses they're holding on their balance sheet. Now they have the new program, the BP,
+ BFTB or whatever it's called, that helps that where they're borrowing from. But if that
+ spreads and in recessions, that certainly could happen. And then you have some kind of a crisis,
+ then that will speed their actions up. So I think it's a stock market, the big decline of which we're
+ not having it right now, and certainly not today, or some kind of crisis in the banking system that
+ would speed everything up. Otherwise they'll be slow because of the trouble getting inflation
+ down. >>Got it. Okay. Well, let me read this and then let you run with your commentary.
+ This was said recently by a smart man, a smart man that I'm actually talking to right now.
+ Moody's cuts the US outlook to negative, citing deficits and political polarization late Friday
+ afternoon after the 310 and miserable 30-year auctions. We're heading to such a train wreck
+ and almost all investors are 100% clueless. What could go wrong? So when you say that the Fed's
+ actions are basically going to depend upon what we see happen in the markets, it does not sound like
+ you're very optimistic about what's going to happen in the markets next year. >>No, and what we didn't
+ talk about yet was the box that the Fed is in. We have the deficit. I was on this channel
+ seven months ago. The national debt was 31.5 trillion. It grew 2.2 trillion dollars in just
+ seven months. It's staggering numbers. The government's only paying 3% right now on average
+ on their debt. So that's going higher because Treasury Secretary Yellen is issuing as much
+ many bills as she can at five and a half percent. So that's going higher. We're already at a run
+ rate of one trillion dollars in an interest expense or over two, almost getting to three billion
+ dollars per day. So there's a huge problem here that the Fed has. They have to keep
+ funding this, all this spending that's going on, all these programs that the Biden
+ administration has started with, the CHIPS program, infrastructure, the inflation
+ reduction act. These are all major spending programs where spending continues to actually build
+ over the next few years. So now we have Moody's, which is finally after Fitch and S&P had
+ come in. Although Moody's hasn't downgraded, they just warned that they were in a negative
+ mode and they would probably downgrade the debt of the government. This is a big
+ problem and the market's not considering that at all right now. The cost of debt is too high,
+ interest expense, and there's no sense of any fiscal responsibility in Washington. They just
+ keep spending. So you could have a situation where rates, longer term rates, actually go up
+ when the Fed is trying to lower rates some point next year because of these dynamics.
+ The buyers, the traditional buyers of in the last several years, the largest holders were
+ the Fed itself, which is not buying. They're reversing, they're letting
+ bonds mature at 90 billion dollars in total for his reason and mortgage backs. So they're out of
+ the market. China has has dumped over the last several years from 500 billion dollars worth of
+ bonds and they're doing it at an accelerated pace. So it's gone from 1.3 trillion to 800 billion.
+ And the pace that they were running at now is 200 billion dollars a year. And I know they're going
+ to continue. I read comments from them. They're going to continue to dump. Japanese holders are
+ selling now and they are the current largest foreign holders. And what's making this up right
+ now, what's making up the difference is what they call the household category,
+ which is made up of people like me who did put short money into short term. I mean, five percent
+ plus is really good. So it's that trend that's injuring all those small, all the banks, right,
+ which is everyone's taking their money out. That's correct. And that could cause, that's part of,
+ along with their losses, which could cause further crisis. But also then you have this basis trade
+ that's going on where hedge funds are buying a lot, buying a huge, now we don't know exactly
+ how much, no one knows exactly how much, but we know it's levered. And, you know, just last week
+ I will read this comment from Lisa Cook, who is a Fed governor, talking about this basis trade.
+ Because the basis trade is highly leveraged, a funding shock or heightened volatility in
+ Treasury markets could force some hedge funds to abruptly unwind their positions at potentially
+ distressed prices. That's a Fed governor saying that. Now, the BIS, the Bureau, the bank,
+ the bankers to the bankers, the central bankers, want also a potential dislocation just
+ relatively recently. So we have big problems potentially here. You just can't, you just can't
+ keep spending like this and borrowing like this. You know, the great economist Herb Stein,
+ Stein, you know, said if something cannot go on forever, it won't, it'll stop. And that's what
+ also is out there. There are these big potentially huge problems that could come up and likely will.
+ I mean, we had the March Madness where the Fed had to come in. We saw that in England
+ not too long ago. And then the Fed has to react. That's usually what's been happening here over the
+ last multi-decades is that something happens that they don't anticipate and then they have
+ to come in again. All right. Well, let me ask you to opine on this, right? So we've got the Fed
+ pumping the brakes hard, right? Tightening QT rate hikes, right? Yet we've got the fiscal side,
+ right? We've got the Congress and the administration hitting the gas, right? And
+ I've talked about this a lot in the program. That's not sustainable, right? Just like if you
+ were in a car and you jammed your feet on both the accelerator and the brake, you'd basically
+ burn out the engine not too long of a time. How does that manifest? And I've asked this
+ question of a couple of different previous experts on the channel. I've kind of gotten
+ different answers. So I'm curious to hear what your thoughts are. Well, it could manifest itself
+ in higher long-term rates, and that would be a problem or higher than they would like to see.
+ And that may be part of what we've seen already is that the rates are high. The Fed stopped hiking
+ rates in July, and then longer-term rates went up another 100 basis points from there. Well,
+ that was the Fed. That was showing the Fed losing control a bit. Now, it might lose a lot more
+ control. You have all of these central banks that are, I mean, I should say the countries that are
+ dropping their bonds, well, their bond holdings here, well, that could cause a problem. And then
+ you could have a dollar decline. Right now, we don't know how large the carry trade is in Japan.
+ Some think it's enormous, but if Japan is forced to come off their yield control, the yen could,
+ after it's been declining significantly, could reverse, and the dollar could actually start to
+ decline. And I actually think that will happen here at some point. Inflation is rising in Japan,
+ and they're coming to the point where they're going to have to come off of that. So you could
+ see a dynamic with the dollar declines, too, which would lift inflation even higher here.
+ There's a whole bunch of different variables that could occur that would upset the apple cart.
+ Okay, it's such an interesting tangle here. So the market this week clearly thinks that the Fed
+ is done hiking and that the next action the Fed is going to take is a cut. Now, that cut might not
+ come till some point into 2024. We can argue about when. We can argue about what might trigger it.
+ But clearly, this week at least, the bond market is cheering this. It's had three years of declines,
+ at least with treasuries, unprecedented. And so I think bond investors are all of a
+ sudden maybe thinking like, oh my goodness, maybe the beatings just ended. Maybe we're poised to
+ have a good year next year. And of course, there's been a number of people on this channel who have
+ been arguing a long treasury bond trade, which would say at some point the Fed's going to be
+ done. And then either willingly or reluctantly, the Fed's going to have to bring down interest
+ rates in the way that we just talked about. That should actually be quite favorable for treasuries,
+ unless inflation remains really sticky and high and the vigilantes keep pushing up the
+ further end of the long end of the curve. I'm curious, what are your thoughts right
+ now on the long treasury trade? If we were in normal times where we didn't have these funding
+ issues or we didn't have this out of control spending, and if that was not the case, we were
+ just in a normal heading into a recessionary period, you would want to be buying hand over
+ fist long-term bonds right now. And it may be, we have seen rates come down here, it may be that we
+ will have a rally. However, the problem is that you do have this potential funding crisis, you do
+ have a potential dollar crisis, and that could shoot rates up the other way. So it's a possibility,
+ and you have to consider that possibility of that happening. So I'm mixed. Like I said,
+ normally you should be buying bonds, but this is a different environment. This is uncharted territory
+ that we're in right now. And so it makes me a little bit leery. I certainly wouldn't be
+ jumping in and buying these long-term bonds hand over fist at this point, because I do know that
+ there are these problems that could keep rates up. Okay. So there's too much risk in the system right
+ now. I believe for everything you've told us so far, those are all reasons why you're a fan of
+ gold. We'll get to gold in a bit. You're nodding as I'm saying this. Before I do, in the intro,
+ I talked about these trend changes. And I think we have talked about the trend change that the
+ hiking regime is probably done at this point in time. You're nodding. I'd say for sure.
+ Okay. We've talked that bonds may be reversing here, and you're saying, hey, we could well get
+ a rally in the near term, longer term murky, given what goes on with the additional reckless spending
+ that's going on. Stocks, we touched earlier that you think that stocks probably don't have a great
+ future ahead of them next year, especially if you go into recession. But specifically,
+ the Magnificent Seven stocks have really been what's powered the market this year.
+ So the S&P Seven. If you look at the S&P 493, it hasn't gone anywhere this year.
+ Right. The Russell 2000, as of this morning, was down.
+ Okay. So here's something that you said. You said Magnificent Seven techs attract all the
+ money in a wild FOMO driven frenzy, taking valuations to beyond nosebleed levels,
+ will eventually flame out as fundamentals do not support. So building off of that,
+ some other things that you've noted recently. You retweeted a Bloomberg headline that said Apple
+ delays work on next year's iPhone, max software to fix bugs. Here's what you said to that.
+ Nothing seems to matter when the boys be wilding. Four straight cuts of negative sales growth,
+ four straight quarters, sorry, of negative sales growth, guide downs, extreme overvaluations for
+ this ultimately will end badly. Meta's CFO also talked about seeing weakness in their advertising
+ revenues, which is basically how Meta makes its money. So when you look at-
+ And Google did too, by the way. Google did too.
+ Okay. Google did too, which makes sense. They live in the same ecosystem, advertising ecosystem.
+ So we've had these kind of bulletproof companies where you're shining a light and saying,
+ actually, they've got a lot of tarnish on them in a lot of ways. Apple, not only has it had,
+ oh yeah, four straight quarters of negative sales growth. We're not talking earnings
+ growth here. We're talking negative sales growth. That's top line revenues. And yet these companies
+ still enjoy these fantastic PEs and they still get the majority of the dollars that come into
+ the market through just the passive ETF indexing. Are they going to remain bulletproof or are these
+ warning signs that you're flashing a bright light on here finally going to start mattering next year?
+ They won't remain bulletproof. They weren't bulletproof last year. They got crushed.
+ You saw Meta drop 64% last year. Microsoft dropped 30%. Nvidia dropped 50%. It was down
+ 68% at one point. Amazon was down 50%. So they weren't invincible then.
+ And then we had a rally in October, which the market was oversold and that was to be expected.
+ And when you get these rallies in bear markets, as we've seen before, I've seen it in 1990,
+ I saw it in 2000. I've seen it every time, 2007. When you're still on a bear market,
+ you haven't transitioned. Usually the old leaders are not your leaders and you have new leadership
+ and you get capitulation in what were the favorites. We've not seen the capitulation,
+ obviously. We saw a big decline. We then had that rally into October that was extended because of
+ the Fed's $700 billion increase. And also, there was one event that occurred around the same time
+ in March was the AI frenzy. And that got imaginations going quite a bit.
+ Right, that started the animal spirits.
+ Right. The animal spirits were going. And so they poured all into the AI plays,
+ which just so happened to be mostly the Magnificent Seven types. So that had a big
+ rally. But then we had another big decline. So we had a big a three month market decline
+ and these stocks all declined with it as well. Some less than others. But Apple took a pretty
+ hard hit down to $1.60. And, you know, when Google reported results just a couple of weeks ago that
+ had its biggest one day decline in that three month period. Since then, we've had a two week
+ just explosion of buying in these stocks. Once again, another one, another surge where they go
+ back into the favorites. Yet, you know, I put out my headline, the last newsletter I had was,
+ you know, Magnificent Three. I think I had a question mark because only the only ones whose
+ numbers were holding up were Microsoft, which had a good quarter still, Amazon, although it was all
+ most much of their much of their improvement was was due to the largest layoffs in history,
+ 27000 people. And they just announced some more layoffs today in a business segment.
+ And then also Nvidia, which hasn't reported, but will in another week and a half. And they'll have
+ fantastic numbers, which we can get into if you'd like. But all the other four were trouble. I mean,
+ Tesla's earnings fell by 44 percent. And Elon Musk gave some very negative commentary going forward
+ into 2024. And we know in their case, in EVs, that there's been a big buildup in inventories and
+ his sales of his deliveries have not come through for several quarters now.
+ So Tesla was in trouble. Pretty big sticker price declines, too, on the retail. Well,
+ because they had to. They've had to in order to drive the sales that they have done. And so a huge
+ slowdown. And remember, Tesla is the most favorite stock amongst investors. It's the highest traded
+ stock and the highest traded options of any of them, any any stock out there, even though it's
+ not as large in market cap, it is not a trillion dollar market cap or more like some of the others.
+ It's the most popular stock and it has it has severe problems. And it's it's so of the magnitude
+ seven, that's the weakest one. And then and then you look at Apple. Well, you said, you know,
+ for consecutive quarters, it's likely going to happen again in the current quarter.
+ Foxconn just reported their October numbers and they were down. That's the largest manufacturing
+ partner. And they were down five percent year over year in October. You know, in Apple's case,
+ they have a new product line with iPhone, iPhone 15, and they're highlighting the titanium aspect
+ of the phone. Well, you've run out of colors now and now you start talking about a titanium
+ sheet over an aluminum base. And that's what you're highlighting, because there really isn't
+ much else a little bit faster, a little bit better camera. And it's really a marketing scheme than
+ anything else. You're highlighting titanium. Well, that's not going over so well right now.
+ You mean that's not a reason to drop twelve hundred bucks on a new phone?
+ No, in fact, no. And the Wall Street Journal's tech reporter headlined a story saying you don't
+ need a new iPhone. All you need is a new battery. Well, that doesn't help sales. And so so that but
+ that's that's a fact. So if the consumer is under pressure and they have this one point one trillion
+ dollars of debt and it's at twenty one percent, you really want to go out and buy another new
+ iPhone when there's nothing really there. And that's a problem. And then in addition to that,
+ they have serious problems in China. So their revenues in China were running at twenty percent.
+ And it was twenty four percent the quarter prior to that. It dropped to sixteen in the latest
+ quarter. And that's because the Chinese government told their government agencies and their
+ privately owned to not to buy iPhones anymore, as well as other Apple products. And one of the
+ reasons that is, is that Apple's trying to move away from China. And so there's a backlash there.
+ And also we had put restraints on on Huawei and almost killed them in the completely killed them
+ in the in the smartphone area. They were the number. At one point they were larger than Apple.
+ It was Samsung one, Huawei two and Apple three. Huawei just got decimated when we stopped when our
+ the suppliers couldn't issue them any components. Well, Huawei's kind of got around that over the
+ last couple of years and they came out with a Mate 60 phone, which was a big hit. And so that's
+ hurting and that will continue to hurt Apple sales going forward. So you have a big problem in China.
+ And then to make it worse, they went after Foxconn, the major manufacturer I talked about,
+ with tax audits and many subsidiaries and also looking at land, land use. So China's turned
+ against Apple and yet it was one of their largest markets. And that's only going to continue and get
+ worse. The Huawei Mate 60 phone was only introduced in September, only had one month of sales and it's
+ been a huge hit. And then Qualcomm came out with their numbers at the beginning of this month,
+ just a couple of weeks ago, and said that they were seeing a huge surge in Chinese in component
+ ordering. Qualcomm's the largest semiconductor maker for smartphones. And it was that they were
+ up 35%, indicating that Apple was going to be, essentially Apple's going to lose share because
+ the smartphone market itself is still declining. It declined 1% year over year in the third quarter.
+ And that was against a quarter before, it was a double digit decline. So these things aren't good
+ there. One other point is, is that Asia got a review, broke down the new iPhone and they found
+ that the components cost 10% more. So inflation impacting up in the past, that hasn't been a
+ problem because Apple's been able to raise prices. But now that they're competing with more like
+ Huawei, they couldn't raise prices this time, except on one model. So they're going to likely
+ take a hit here as they go forward from higher component costs. That's your number one market cap
+ company. So more competition from competitors, higher input component costs, which brings down
+ their profit margin, plus weaker consumer demand. That is not a good mix. No. And then one of the
+ things that they've been bolstering the bottom line. So they're still showing growth on the
+ bottom line, even though they don't have any growth on the top line. One of the ways they've
+ been doing that is through share buybacks, but they're not generating the cash that they used to.
+ And there's so many shares outstanding. Well, the market cap is so big that when you do $77 billion,
+ it's only 2%, so it doesn't move the needle any longer. And in fact, that buyback came down.
+ People talk about Apple, well, they have $162 billion of cash on the balancing. Well, yes,
+ they do. But they also have $110 billion in debt that they poured on in order to buy back all these
+ shares. So there's a net of only $50 billion. And that's fallen a lot. And this is the first time
+ I've seen this, that their buybacks were significantly less, 16% less in dollar terms
+ versus last year. Last year, they did $90 billion in buybacks. This year was only $76 or $77 billion.
+ So the buybacks itself are smaller on a $3 trillion market cap. So you don't have that
+ lever either anymore. Wow. I'm going to ask you a heretical question here, which is,
+ is Apple a short? It's my favorite short. That and Tesla. I think those are the two most at risk.
+ Now, when I say, is it a short? Well, for me, I don't short outright. It's very difficult to short
+ in a money printing environment because the Fed could come back in again and we could see higher
+ valuations nominally in the market. That's what happens in money printing periods.
+ So I only do it via put options. That's it. I limit my risk with put options, but it is my
+ biggest put option position. Great. And I'm guessing you're doing longer dated put options?
+ Yeah, I'm out to mid 2024. So I want some time. I want some time for the economy to continue
+ to decline. I want some more time for the Fed to pull more money out of the system. It's like
+ Jenga, you're pulling blocks out. And then when you'll get to the capitulation phase, and it might
+ be in the middle of next year, and that might be a very good time. Okay. I want to remind folks what
+ I said in the introduction, which is that you are the publisher of the high tech strategist and have
+ been doing that since 1987. So your analysis of the tech space isn't just some guy in the
+ internet's opinion. You are one of the top analysts following this sector for the past
+ 40 years? I've been doing it for 40 years, since 1979. So I've been invested in the group since
+ 1979. So that's 45 years to be exact, almost 45 years. Yeah. So my point is, folks listening,
+ you should place a lot of weight on what... That's where I spend most of my time in that
+ area. And I didn't get into... We talked about smartphones, but also PCs. And people think that
+ we hit a bottom there. Intel made some positive comments. Taiwan Semiconductor made some
+ similar kinds of comments, but I just had three... The three largest distributors of computer products
+ report results in the last two weeks. One of them is CDW, it's a $22 billion distributor
+ of computer products, so networking, hardware, PCs, all of that. 250,000 customers, and these
+ are corporate and small business customers. And this gets back to the erosion in the economy part
+ of it, but also ties into tech. What they saw was a worsening of demand. Not an improvement,
+ not a stabilization, it was a worsening. So they had in the prior conference call, which was for
+ the Q2 numbers, they had said they had seen some glimmers of hope, some early signs, and those
+ reversed on them. It got worse everywhere. It got worse in their international sales, it got worse
+ in domestic sales, worse small business, worse corporations, commerce everywhere except for
+ public government. And in cloud, which is still growing, 20% for them, and also security. But all
+ of the hardware categories were down double digit percent, including PCs, which are 15%. And Insight
+ and PC Connections said exactly the same thing. So people thought they were going to see an
+ improvement, thought they had seen stabilization, and in fact, reversed. That makes sense if the
+ economy is still turning down. Got it. So you're basically saying from your perch in the tech world,
+ and tech tends to be a leading industry, you are seeing the lag effect in action here.
+ You are actually seeing the gravitational force begin to pull down business results.
+ Right. Before it was just consumer, because we had had a big surge of consumer spending around COVID,
+ and then those people didn't need to upgrade their systems, didn't need to upgrade their PCs,
+ and so we saw a big consumer decline. What we're seeing now is worsening around the world of
+ business customers, and that's a much bigger market than consumer. And that's what you would
+ expect to see when these companies are under pressure, when their interest expenses are higher,
+ and many of the zombie-type companies are going to go out of business.
+ Okay. All right. Two last macro questions that I want to get into. Okay, so how does the average
+ viewer who's watching all this and maybe a little bit freaked out now about your somewhat dark
+ outlook, what should they consider doing about it? Inflation. I think we sort of danced around
+ this a little bit, but what are you expecting for inflation? So CPI is coming down. I talked about
+ that chart, which I haven't found yet, but I'll try to find while you're answering. It shows
+ how CPI tends to follow M2. And M2 is falling.
+ And M2 is falling. But it's an important, but maybe an overly simplistic way to look at it.
+ I'm curious, do you see the inflation fight as all over but for the crying, or do you think it's
+ going to be stickier than maybe today's data suggests? We're seeing very small amounts of
+ money supply declines right now, but we had seen a 50% decline over a three-year period, 40% over
+ two years during COVID. It was an enormous amount of money that was put into the system.
+ And that really, you know, part of inflation is inflation expectations. And so what I had said
+ about the University of Michigan consumer inflation expectations rising in the latest
+ report, that's not a good thing. But if you look, you know, oftentimes it gets, once you let
+ inflation get out of the bag, it starts to get going and you get inflation expectations rise,
+ people start demanding higher wages. So what are we seeing? Well, we just, we 25 to 30% increase
+ from auto workers right now. That's the deal. And those are unions, but just in the last few weeks
+ now, Hyundai had to come out with a, that was this week, 25% increase in their wages over next several
+ years, five years, I think. Honda increased theirs by 11%, Toyota by 9%. Those were immediate
+ increases. And you had UPS had big wage hikes. My brother-in-law works for FedEx and he's telling
+ me we're way underpaid. We'll be next. We'll get our big increase. After seeing what happened with
+ UPS. Absolutely. You can imagine this first thing they did was go to the manager's office.
+ Yeah. So, you know, we've seen it in healthcare. We've seen it in service workers in Las Vegas.
+ There's more union activity than we've ever seen in years and years and years. And they're all
+ getting, they're all getting higher wages. And that's why that Atlanta Fed wage tracker at 5.2%
+ is meaningful. In addition to that, healthcare costs continue to rise. The Mercer group,
+ which monitors these things, they're predicting 6.5% increase in health and insurance,
+ health insurance costs, I should say, in 2024. And then PWC just came out with a forecast for
+ 2024 of 7% increase in medical costs versus 6% last year and five and a half the year before.
+ So you can see these are major components of inflation. Wages, health insurance, health,
+ healthcare costs, and they're all rising. And people's expectations for inflation are there too.
+ And that's why I think it'll be very difficult to get the inflation numbers. I knew the inflation
+ numbers would come down. I knew that would happen. There were shortages, supply chain problems,
+ base effects where it would show, where it would decline as a result of that. Energy prices would
+ come down off the top, which they did, but those are all done. And now you have these more
+ persistent declines because inflation expectations have been released. So I don't think it's going to
+ be easy to get to the 2% target rate that they have. Okay. And folks, I'm just putting up that
+ chart of CPI versus M2 that I mentioned earlier, just so you can see the trajectory that we were
+ talking about. Now, of course, Fred has just thrown a lot of sand in the gears of this simplistic
+ argument to say, "Hey, there's a lot of things that could support inflation going up from here."
+ Fred, let me just ask you to square part of that circle with me, which is take that,
+ which everything you said is absolutely happening right now. Don't disagree at all.
+ But if I share your prediction that we're going to have a recession next year and maybe a pretty
+ serious one, a lot of that stuff can get unwound in many ways by a serious recession. Demand brings
+ down a lot of good prices, brings down a lot of service prices. Yeah, maybe you can't renegotiate
+ those wage contracts quickly, but you sure can lay people off. So you can be paying your average
+ worker more on average, but you just have less average workers. I just think it would be hard to
+ get to what I'm saying is it'll be because of these other pressures and potentially also the
+ dollar decline, which I think is almost certain on a purchase power parity basis, dollars way too
+ high. So that would be inflationary as well. Those pressures will make it difficult for the rate to
+ come down as fast as some people think it will. I wouldn't be surprised to see it come down. I would
+ expect it to come down unless something happens. I would expect it to come down, but not to get it
+ down to 2%. That's what's going to be difficult. So in a recession, now if it gets to be the really
+ severe part of a recession, the Fed will come back in and they'll print again and then you might get
+ that wave effect that we saw in the 70s where you kept going, you went down for a while and then you
+ went back up again and down for a while and then went back up again. And as long as they still
+ think this quantitative easing tool works, that's probably what you're going to get.
+ Right. So that's the Arthur Burns effect that Powell is frightened of here. Just to give you
+ some further ammunition, Fred, that's the path that Felix Zulauf sees us being stuck in for the
+ next decade. He calls it the decade of the roller coasters. We keep doing this. Now, I'm not trying
+ to pick a fight here, but one of the reasons why I was sort of digging around for your inflation
+ prediction is the video, one of the videos that precedes you on this channel recently is David
+ Rosenberg saying that he expects CPI to be at a 1% handle by the end of next year. Sounds like you
+ think that that's going to be pretty tough unless we just had some horrific recession.
+ Yeah, David's a good friend of mine. He thought inflation was going -- no disrespect to him
+ because I think he's one of the very best economists there are out there -- he thought
+ inflation was going to come down a lot faster. He believed it was transitory and it wasn't.
+ And he's always been a little bit too optimistic on how far inflation is going to come. And I was
+ not in agreement with back then and I'm not in agreement with him. And that's probably the only
+ thing I'm not in agreement with him on is his inflation forecast. That's fine. And look, as I
+ always say on this channel, smart people can look at the same data and come to different
+ conclusions and that's what makes a market, right? Okay, so sounds like one of your most high
+ conviction predictions from where we are right here is what you just said, which is that the
+ dollar is way too high, especially on a purchase price parity basis. Can you first, just very
+ quickly for folks that don't understand PPP, what it is and why you think the dollar is so
+ overvalued right now? Well, I look at the charts and they show it's like 30 percent over. So,
+ basically it tries to measure what your purchasing power is for the dollar versus the yen or the euro
+ and what it really should be. And it shows that the dollar, relative to the goods you can buy
+ elsewhere, is overvalued. That's essentially it. There's a big MAC index where they actually
+ measure MAC hamburger prices. That's another way of doing it. It seems to have worked well over time.
+ Sorry, that's not an acronym. You're saying it's the big MAC index, which is what you can buy
+ a big MAC and McDonald's for in different currencies. In different currencies, that's right.
+ Yeah, and so that's the big MAC index also shows the same thing where the dollars are
+ overvalued by about 30 percent. And it's only happened, it's only been at this level a couple
+ of times before in the last decades and each time the dollar's falling rapidly. So, a reversion to
+ the mean. What you would expect is that to happen. You know, right now there's, you know, the US has
+ 24 percent of the world's GDP, I think two or three or four percent of the world's population
+ and 60 percent of the money invested in stocks. Well, a lot of that's foreign money and that
+ money is in dollars. And if they start selling, as I expect they will, you're going to see,
+ just as they're reselling bonds right now, the Japanese are, you're going to see weakness in
+ the dollar. Okay, and so again, I believe that that's one of your higher conviction positions
+ right now. So, now moving into, okay, so how can people sort of position themselves for the
+ type of future you see coming? Obviously, they'd want to be positioning themselves for a future
+ where there's a weaker dollar. I believe that's one of the main tenets for why you're bullish on
+ gold right now. True? Absolutely. You know, what you ought to do, though, too, you should put up
+ that first chart you had of the Fed pauses. We should do that because that's important to the
+ gold story. All right. You talk and I'll bring it up. Okay. So, you showed, that chart shows three
+ pauses there. One was around 2000 time frame, one was 2006 time frame, one was 2019 time frame.
+ Gold does really, so, okay, there's one in 1980s there as well, but see the 2000, 2006, and again
+ in 2019, you see the three pauses there. Well, gold went up 170% right after that, 200 after 2000,
+ and it went further, a lot further, obviously, up by 600%. And then 2006, it went up 270% on that
+ pause, after that pause, and in 2019, it went up 150% after that pause. So, we just paused and we
+ just got a big rally in gold here. I don't think that's a coincidence. So, that's one of the main
+ reasons that you want to be long gold. In addition to that, you know, and we do have a sticky
+ inflation, that is a positive as well. And then one of the big factors that I think is driving gold
+ to ever higher lows and eventually to higher highs, I guess, is this enormous demand that's
+ coming from overseas buyers. So, you know, last year we had central banks buy 1,100 something tons
+ of gold. This year to date, they have purchased 800 tons, they're up, I think it's around 15%
+ over last year. So, they're running at a record pace again. Central banks used to account for 10
+ to 12% or so of world gold demand. It's now 25% plus. So, central banks, and it's not just
+ the central banks, and it's not just the enemies of the U.S. who are behind the sea there,
+ who are dumping bonds like China, but countries like Poland, which has purchased this year to date
+ 111 tons. Now, they've increased that by their positioning by 50%. Now, Poland's a friend of the
+ U.S. Some of these countries are buying because they're worried about the weaponization of the
+ dollar. So, enemies of the U.S., all of those brick countries, almost all of them are buying
+ gold. But in addition to that, Poland's there, Singapore has purchased 80 tons this year.
+ You have Czechoslovakia's increased theirs by 125%. These are all friendly countries to the U.S.
+ So, all around the world, they're buying gold. And part of the reason is that they see, you know,
+ we just had all these downgrades of the debt, and they see the problems here. They see the lack of
+ fiscal discipline, and they see the deficits going crazy, and they want to protect themselves as well.
+ So, all that demand has been growing and growing and growing. And, you know,
+ and so it may be higher because China doesn't report everything. The Bank of China doesn't
+ report. Sometimes they don't report all, but lately they've just been reporting less than
+ they're actually buying based upon what I know and we know. But also Saudi Arabia is not reporting,
+ yet we know they're buying too. So, all these central banks are buying gold, and it's lifting
+ the lows, higher lows, on gold. So, in 2015, where we bottomed at $10.50 gold, we've not,
+ we then went up into 2018, the $11.80 low. Last year's low was $16.10. This year's low is $18.20.
+ This is all being done without any real Western demand. In fact, it's negative demand. The GLD
+ ETF, which is the largest ETF, currently has only 800 tons in its holdings. That's down from,
+ it's down 410 tons from where it was just three years ago. And the IAU, which is the second
+ largest gold ETF, is down close to 30% in their holdings. These are Western-based, so mostly U.S.
+ and Europe, and they've been dumping gold. Let me just ask this question because I have trouble
+ understanding it, which is why? We just had massive inflation for the first time in decades.
+ You would think people would be rushing out to buy gold. Because everybody's chasing the
+ magnificent seven and that's what happened. Gold does well in times of turmoil. Gold does well
+ when the stock market is not doing well. In the 1970s, the stock market was a poor place to be.
+ But it was a giant gold market. In 1980 to 2000, people were chasing the tech stocks,
+ especially in the end in the late 1990s, and gold was abandoned. Same thing. And gold was a 20-year
+ bear market. Then we had a big decline, a couple of big bear markets in 2000 to 2002 and then again
+ in 2008. And gold had a massive run. Gold went up, as I said, 600% and the miners went up 1600%
+ during that time. And then we went back into the magnificent seven here in these recent years.
+ And so Western investors have been abandoning it. They don't see a need. They think they're
+ in the Goldilocks environment, where inflation is okay and the economy is going to keep growing.
+ And they have belief in the central bank. They have belief that the Fed is in control. And
+ I don't. I don't know why anyone does, but they do. And they want to believe. They want to,
+ and that's why they keep going back, keep buying the magnificent seven. They want to believe
+ everything's going to be okay, just as they tried to do the same in 2000 with tech stocks.
+ So when they're buying magnificent seven, then no interest in gold in the West. But if you think the
+ magnificent seven companies like Tesla can't sustain its market cap or Apple can't sustain
+ a $3 trillion market cap, then if those start falling, there'll be much more interest in gold
+ from the West. And so we've not seen, all we've seen is outflows, outflows, outflows, outflows,
+ and the futures positions are also low. So the managed money hedge fund positions in gold are
+ also very low as well. That demand on top of the demand that's been lifting us to higher lows,
+ from overseas, could set you off on a real big run in gold.
+ Okay, great. So just because we're at the hour here and I want to be respectful of your time,
+ I'm going to get to sort of the rapid fire segment to kind of wrap things up here.
+ So you just made a great case for gold. Is 2024 the year that the Western markets get the memo
+ on gold? I think so because I think the magnificent seven is going to have a rough year.
+ The economy is going to be weak. The buying overseas will continue. There's no reason that
+ won't. The dollar will decline. That's also positive for gold. The eight-year cycle that
+ my friend Felix Zulauf talks about, we just began that. These next three years are supposed to be
+ great. From a technician standpoint, the 10-year over a decade cup and handle is perfect. And so
+ for almost any way, any aspect you want to look at it, yes, it's going to go and probably go for
+ a few years. Okay, and how are you -- because I know you do talk about your gold views in your
+ newsletter, which I love that the guy writing the high-tech newsletter is into something as low tech
+ as gold -- how are you recommending that people consider playing it? Is it more just owning the
+ metal itself? Is it playing the miners which give you leverage to the price? Well, I think that
+ given the situation that we're in and what the outlook is for gold and silver will follow,
+ it's good to own physical metals. And so I own a certain percentage, you know, personally.
+ And some people say it could be five or ten percent or, you know, could be more. You know,
+ that's prudent. And it's insurance against all of the things that I just talked about if they occur.
+ Obviously, much more speculatively, the miners, which will -- I talked about the
+ 22,000 time frame where gold went up 600%, but miners went up 16 times, 1,700%.
+ It also can go down. We've seen miners go down 75% to 90%. They have these kinds of huge swings.
+ And there's a lot of mining investors over the past decade that have experienced that part of
+ the ride. Well, you know, that's the problem is they came in -- they didn't come in in 2002 into
+ the miners like I did, right? My first miner positions. They came in in 2008. They came in in
+ 2011. You know, always at the top, which is the mistake you have to buy when they're hated, which
+ is what they are now. You know, the Huey de Gold ratio is 0.108. It was 0.12 when we were speaking.
+ It's gotten worse and it's almost at a record low right now. When we spoke some months ago,
+ it was 0.12. The 20-year average is 0.2. And back in the bull market days, they averaged, you know,
+ 0.46. So severely undervalued to net asset value. They're hated. There's no interest. There's no
+ volume. If you're a contrarian, it's the time to buy. But you have to be wary that, you know,
+ they're a volatile group. On the upside, they generally do two to three times better than the
+ price of gold. But they also decline that as much. I think it's a good time to do it. But it all
+ depends upon one's personal position, you know, what their responsibilities and all that are.
+ Absolutely. And as you know, Fred, on this channel, every video I tell people to, you know,
+ almost everybody watching this, unless they're super experienced, started doing this themselves,
+ especially in this sector, should be working under the guidance of a professional financial advisor.
+ So you're not giving individual advice and everybody needs to talk to your professional
+ to find out what works best for them. Correct. Correct.
+ OK. So we've got your-- it sounds like you're very optimistic on gold and gold related equities.
+ Sounds like you are pretty bearish on the big tech, the Magnificent Seven. You've talked about,
+ you know, Tesla and Apple are the ones that you're most bearish on out of that crew.
+ Bonds, it sounds like you're guardedly optimistic in the near term. But there's a lot of risk out
+ there and it's not time in your estimation to go whole hog on the long treasury trade.
+ I like the short treasuries. I have big positions in the shorts because I'm getting paid
+ up to five and a half percent. And I just want to be super clear for folks.
+ You're saying you like short duration treasuries. You're not saying short treasuries. You're saying
+ short duration. No, no, no. Short term duration treasuries, you know, out to two years or
+ something. I don't want to take a duration risk there. Yeah. I mean, best-- I don't want to say
+ best ever, but certainly best in decades for investors that want to get a positive real return.
+ With no risk. You don't have to take a lot of risk there. That's the thing, you know, it's
+ really something to take advantage of, I think, right now. Yeah. Any other potential, you know,
+ investment areas that have your attention? I talked about the, you know, how everyone's
+ piled in around the world. It's piled in the U.S. stocks with 60% of all the market valuation. So
+ that means that the rest of the world has been abandoned and has. So I'm not an expert in
+ international and international. I own a couple of different names, but I'm not an expert in that
+ area. But I know Japanese stocks are cheap and their earnings are improving and they've done a
+ lot of a lot of positive things. Corporations are starting to wake up, I think, over there.
+ And so Murphy and Martin are cheap as well. Warren Buffett agrees with you, by the way.
+ Yeah, that doesn't hurt. So, you know, look, if you have the ability to look outside,
+ if you have an advisor that has expertise in that area, that's an area that should be looked at,
+ I think, though it's not my area of expertise. All right, great. Well, look, I'll wrap it up
+ here given that you've very generously gone over the hour. Fred, for folks that have really enjoyed
+ this conversation and maybe weren't as familiar with you before this interview, where can folks
+ go to follow you in your work? Yes, so I'm on Twitter @HTSFhickey. If you're interested
+ in the newsletter, then you could send an email to us at the high tech strategist at yahoo.com.
+ That's T-H-E-H-I-G-H-T-E-C-H, strategist as it's spelled, @yahoo.com, and we'll send you all the
+ details. All right, great. And Fred, when I edit this, I will put up those URLs on the screen here
+ so folks know exactly where to go. Folks, I'll also have links in the description below, too,
+ so you can just have one-click access to that. Fred, it's been wonderful. Folks, if you'd like
+ to have Fred come back on the program when his analysis tells him that something big is about
+ to happen on the path to what he's laid out for us here, please vote your encouragement for that
+ by hitting the like button, then clicking on the red subscribe button below. It's almost that little
+ bell icon right next to it, and please do subscribe to this channel if you haven't yet because we're
+ just new out of the gate. Every new subscriber we get helps us burn more brightly on the YouTube
+ algorithm, so really appreciate your help there. Also, Fred is one of the greats, but he's one of
+ the great lineup that we have lined up for you in the first couple months here already
+ lined up in terms of people that we've already booked here on Thoughtful Money. To find out
+ exactly everybody else who's on that list as well as get my updates on what lies ahead for
+ Thoughtful Money, go subscribe for free to my substack over at adamtagert.substack.com. Fred,
+ I can't thank you enough. I'm going to let you have the parting words of counsel here for the
+ viewers here. Any parting bits of advice for them in this environment that you see ahead?
+ Keep following you. I've been a fan for a long time and I'm sure you're going to be extremely
+ successful. You're already off to a great start, and so congratulations on your new venture.
+ Well, thank you. You're more than kind, and Fred, I got to tell you, we just landed Fred Hickey on
+ this channel. It's an amazing discussion. You're going to love it. Thanks so much, Fred. Really
+ appreciate the time. Look forward to having you back on the channel soon. Everybody else,
+ thanks so much for watching.
