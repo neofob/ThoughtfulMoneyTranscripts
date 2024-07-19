@@ -1,32 +1,24 @@
 ### Summary
 
-1. The global economy is in a worse state than what the consensus suggests,
-with major parts of it already in recession, including China and parts of
-Europe such as Germany and France. In the US, despite a 4.9% GDP growth in
-the last quarter, consumer spending (which accounts for 70% of the economy)
-is showing signs of weakness, with declining retail sales, job cuts, and
-layoffs expected to increase.
+1. The global economy and financial markets are in worse shape than consensus
+suggests, with major parts of the economy already in recession, including
+China and parts of Europe.
 
-2. The October CPI numbers suggest that inflation may be moderating faster than
-expected, which could mean an end to the Federal Reserve's aggressive campaign
-of interest rate hikes and a potential reversal in the three-year beating
-suffered by the bond market. However, this trend shift is not yet confirmed.
+2. Inflation is moderating faster than expected, but it remains to be seen if
+this trend will continue. If inflation does moderate, the Federal Reserve's
+aggressive campaign of raising interest rates may come to an end.
 
-3. Fred Hikey believes that the US will head into a deep recession at the
-end of 2022 or early 2024, driven by the lag effect of the Fed's actions
-and the erosion effects of higher rates and quantitative tightening (QT). He
-also thinks that the Fed cannot act again to save the day due to inflation
-expectations remaining high.
+3. The bond market has suffered a three-year beating, but this may be
+coming to an end as well. Stocks have been powered higher all year by the
+"magnificent seven," but even there we may be witnessing a regime change.
 
-4. The University of Michigan's consumer sentiment survey showed a 5% decline
-in October, marking the fourth straight month of decline. This indicates
-weakened retail sales and an increase in unemployment rates. Additionally,
-there has been a significant slowdown in industrial production and housing,
-with mortgage applications at a 28-year low and existing home sales down to
-a 13-year low.
+4. Fred Hikey, editor of The High-Tech Strategist newsletter since 1987,
+believes that the economy is worse than headline numbers suggest and that
+consumer spending, which makes up 70% of the economy, is slowing down. He
+cites declining retail sales, a drop in industrial production, and weak job
+growth as evidence.
 
-5. Fred Hikey is not optimistic about the US stock market next year,
-especially if it enters a recession. He believes that the Magnificent Seven
-tech stocks have been attracting all the money in a wild FOMO-driven frenzy,
-taking valuations to beyond nosebleed levels, and will eventually flame out
-as fundamentals do not support them.
+5. Hikey also notes that there are significant risks to the global economy,
+including political polarization, deficit spending, and potential funding
+crises. These factors could lead to higher long-term interest rates and
+potentially disrupt financial markets.

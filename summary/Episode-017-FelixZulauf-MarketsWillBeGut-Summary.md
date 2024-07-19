@@ -3,33 +3,28 @@
 1. The global economy is weak, with Europe stagnating or in recession and
 China struggling with secular structural issues. The US is the only spot
 still doing well, but Felix Zulauf expects it to be weaker than it turned
-out. He expected a recovery in stock markets from last fall's lows to be
-temporary and thinks the Fed made a mistake by easing too much.
+out. He believes that the Fed made a mistake by easing too much and adding
+too much liquidity, which has led to inflationary problems.
 
-2. Felix Zulauf predicts that 2024 could see an important new high and an
-important new low in the market, similar to what happened in 2020, 2018,
-and 2022. He thinks this will be due to a mini bull cycle caused by the Fed
-adding too much liquidity, which will peak in Q1 of 2024 before turning into
-a weak economy because declining asset prices hurt consumers.
+2. There is an extreme consensus in today's world that we are dealing with
+a soft landing, according to the global fund manager survey by Bank of
+America. This consensus will be tested because when forecasts and experts
+agree on something to such a degree, usually something else happens. Felix
+Zulauf expects the surprise in the first half of 2024 to be that the US
+economy will turn out to be stronger than expected and could create problems
+for the bond market.
 
-3. The market risk is concentrated in the "magnificent seven" stocks (FAANG),
-which are overvalued and have a historic concentration of assets in equity
-portfolios. If the market begins to correct and decline, these stocks could
-magnify the decline and exaggerate it due to their heavy concentration in
-portfolio holdings.
+3. The second half of 2024 is expected to be weaker due to higher inflation,
+which will lead to another spike in yields and rates. This will impact the
+markets and could result in both an important new high and an important low
+in the market, as seen in previous years such as 2020, 2018, and 2022.
 
-4. Felix Zulauf plans on positioning for this by remaining light long up
-until end of Q1, where he will then start loading on his short positions
-in anticipation of a pretty extreme fall. He sees big opportunities if we
-hit somewhere around 3000 S&P and expects it to be 6000 within a year or
-two. Commodities could perform even better, especially commodity-related
-companies.
+4. The stock markets are expected to go to new highs, but then a big decline
+is predicted due to the concentration of assets in so few stocks. This could
+lead to a situation where the market sees the low 3000 in the S&P in the
+late summer of 2024 after having seen a high before in the first quarter.
 
-5. Felix Zulauf is not as bearish on the dollar as the consensus, which
-predicts a weak dollar. He thinks the current medium-term decline in the dollar
-will end soon and that it may rally again due to interest rates bouncing from a
-first quarter low. Gold could see an increase of 40% next year, reaching $2800
-or so on the upside. The Japanese yen is also interesting, as Japan's stock
-market has performed well due to a weak yen and lifted yield curve. However,
-Felix Zulauf thinks that once all central banks begin easing in the second
-half of 2024, the Japanese will not and the yen will strengthen dramatically.
+5. The next wave of inflation in '25 and '26 is expected to be way above 10%
+and will create problems for the bond market, which will then trigger the
+next wave down in the stock market. This roller coaster picture is expected
+to continue into the future.

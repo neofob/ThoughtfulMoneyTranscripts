@@ -1,24 +1,25 @@
 ### Summary
 
-1. The period from 1981-82 to 2020 was a "heaven" for financial assets,
-with both bonds and stocks returning superior returns. However, this period
-of favorable conditions has come to an end as of January 2022.
+1. The global economy is facing a murky and uncertain future with many
+macroeconomic indicators suggesting stagnation in economic activity, leading
+to diminished standards of living for most people.
 
-2. From here on out, returns will be disappointing for most people, especially
-those aiming at high returns such as 10-12%. The typical stock hasn't done
-well and portfolio performance has been lackluster.
+2. Inflationary pressures are expected to continue, potentially reaching high
+levels (30-40%) over the next decade due to government deficit spending and
+central bank policies. This could lead to social unrest as costs rise faster
+than wages.
 
-3. Emerging markets have underperformed the US for many years and are now
-relatively inexpensive compared to the US. In contrast, technology stocks are
-highly valued while material stocks, particularly energy and energy-related
-stocks, are relatively cheap.
+3. The US stock market has seen strong performance in certain sectors such
+as technology, while other areas like materials and energy stocks remain
+relatively cheap compared to historical valuations. However, overall portfolio
+returns have been disappointing for most investors.
 
-4. The low in interest rates seen in May/August 2020 is unlikely to be
-repeated and we are now entering a rising inflation wave and rising interest
-rate structure that could last for 20-30 years. However, there may be counter
-moves and volatility in the markets.
+4. Emerging markets have underperformed the US for many years but are now
+becoming more attractive due to their lower valuations relative to developed
+markets. Investors should consider diversifying their portfolios geographically
+and across asset classes.
 
-5. The global economy is facing stagflation, with most countries reporting
-figures indicating stagnant economic activity and diminishing standards of
-living for most people. Inflationary pressures are expected to continue,
-potentially leading to high inflation rates in the future.
+5. Central banks around the world are currently tightening monetary policy
+by raising interest rates, which could lead to a recession in the near term
+(1-2 years). However, this may be followed by another wave of inflationary
+pressures as governments continue to finance deficits through money printing.

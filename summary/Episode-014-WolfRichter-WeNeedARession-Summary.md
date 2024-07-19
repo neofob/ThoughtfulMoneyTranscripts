@@ -1,25 +1,21 @@
 ### Summary
 
-1. The global economy is doing well in some places and not so well in
-others. The US economy is doing pretty good despite higher interest
-rates. However, markets cannot thrive with central bank tightening and
-quantitative easing.
+1. The global economy is currently experiencing divergence, with some
+regions such as the US doing well while others like Europe and Canada are
+softening. China also has its own problems but Japan's economy is doing
+pretty good.
 
-2. There are conflicting narratives about the state of the economy and
-markets. Some say everything is awesome again while others warn of a
-rececession and bear market. It's important to take a cold and calculated
-look at the data to see what is actually happening.
+2. Markets cannot thrive in an environment of central bank tightening
+and quantitative easing (QE) has been replaced by quantitative tightening
+(QT). This means that markets may not see the same level of growth as they
+did during QE periods.
 
-3. The US economy has held up well despite higher interest rates, which is
-surprising. However, there has been a softening in other places like the
-European Union and Canada. China also has its own problems.
+3. The US economy is currently doing well, with record numbers of people
+working and making money. However, there are concerns about the lag effect
+of QT on the economy in the future.
 
-4. It's important to separate markets from the economy. They can behave
-differently depending on central bank behavior. For example, we have seen
-cruddy economies with booming markets due to interest rate repression and
-quantitative easing in the past.
+4. Inflation has come down significantly from its peak but services inflation
+remains high and could pose a risk to the economy.
 
-5. The speaker believes that a rececession is needed to clear out deadwood
-such as zombie companies and shopping malls. Reccessions are a natural part
-of the business cycle and can help get rid of inflation. However, they also
-cause personal tragedy for those who lose their jobs.
+5. The cost of servicing US federal debt is increasing as interest rates rise,
+which could limit monetary policy options in the future.
