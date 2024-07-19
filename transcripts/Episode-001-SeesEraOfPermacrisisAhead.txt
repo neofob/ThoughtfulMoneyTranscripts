@@ -1,694 +1,689 @@
- We're going into a world in which, as long as these supply constraints are as binding as they are,
- that inflation will be a persistent threat, and by that I mean any demand surge is going
- to produce inflationary pressure. It's going to be a world with higher interest rates,
- higher costs of capital, lower valuations, and a difficult transition
- from a relatively highly indebted world, including sovereign debt.
- Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. This is the first video
- to launch on this new YouTube channel where I, now operating independently, am continuing my work of
- interviewing the top minds in money and the markets to help regular investors like you better build
- wealth to fund your life goals, and I'm so pleased and privileged that the first guest expert to
- appear on this channel is Nobel Prize winning economist Michael Spence. He was also the dean
- of Stanford Business School when I got my MBA there a million years ago and I've got fond
- memories of his inspiration and leadership during that very formative time for me. Today we'll talk
- about the interconnected tangle of challenges the global economy, as well as society at large,
- currently faces, a predicament that Spence refers to as the perma crisis. Dean Spence,
- thank you so much for joining us today. Thank you, Adam. It's a pleasure. I'm delighted to be with you.
- Thank you. Well, it's so wonderful to see you after so many years. You look great. I look a lot
- older, a lot more weight in this beard. You look great. I'd love at some point at the end of this
- discussion to get a chance to delve into some of the great advice you gave us at Stanford and
- the fact that you've had a successful career but helped launch a lot of successful
- careers. I know you have a lot of sort of best practice advice for personal success
- in life and I hope we have some time to delve into that but let's start talking about your
- book, The Permacrisis, but even before that, since I last saw you, as I said in the intro,
- you won the Nobel Prize in Economics. Congratulations. That's a phenomenal achievement. Can you just
- give us a brief sense of the work that you were recognized for? Absolutely. So it was a big
- surprise. I mean, before I came to Stanford and got to know you, I was the Dean of the
- Faculty of Arts and Sciences at Harvard and my predecessor said, well, you know, if you take that
- job, meaning the one at Harvard, you'll never receive a Nobel Prize and I thought to myself,
- well, yeah, but to use the economist language, that's a non-binding constraint. I probably won't
- receive one anyway. So I launched into academic administration, which I just loved and learned a
- lot from all of you and all my colleagues. So the work, you know, there were three of us,
- Joe Stiglitz, George Akerlof, and me, all of us in one way or another, we're focused on
- what are called informational gaps and asymmetries in markets, but, you know,
- to a first approximation, there are just many, many situations in which buyers and sellers have
- different levels of knowledge about what the products or services are,
- their characteristics and so on. That's true of job markets. It's true in lots of financial
- markets. You know, we have financial disclosure laws that are designed to close those gaps and
- markets perform astonishingly poorly if those gaps are big and remain. So George talked about the,
- they're kind of illuminated a phenomenon called adverse selection, which is what happens in
- markets when you basically can't distinguish between different products that have different
- levels of quality in them. And in this extreme case, you know, that kind of structure can lead
- to the complete destruction of a market. That's the phenomenon of adverse selection that sort of
- high quality people facing the price that reflects average quality, essentially pull out of the
- market. And then that cascades down and eventually you can destroy the whole market. And then Joe
- and I, in different ways, we're trying to figure out, well, what markets are pretty creative
- entities? What happens in those markets that, you know, that endogenously, you know, not by
- regulation, that tends to close these gaps. In my case, it was signaling. And there are activities
- that people can undertake that have differential costs with respect to, you know, that are
- negatively correlated with the underlying quality characteristics that buyers want to know. And those
- signals turn out to be pretty important, not just in economics, but, you know, more broadly in
- society. So that's what I was after. And that then took root. Not, you know, again, not just me, but
- all three of us took root in economics. It's affected contract theory and mechanism design and
- all kinds of things. So I guess that's what they were recognizing back then.
- Yeah, super interesting. Hey, can you just give a quick example of signaling in terms of how that
- actually helps people close these gaps? Yeah. So, I mean, people work hard and, you know,
- the example I used was, you know, the job market, right? So people have very different
- characteristics, you know, coming into the job market, capabilities and so on. And so, you know,
- basically employers don't know that and it takes quite a long time to know it, but they do receive
- signals. And one of the most powerful signals is the educational one. So it makes a huge difference
- if you graduated from MIT in engineering or the Stanford Business School, or, you know, not to pick
- on just two institutions, but I mean, these institutions, you know, basically, because of
- the screening, the process of getting into them, the hard work people have to do, the fact that
- not everybody can do it, they carry powerful signals. So I mean, after I wrote my thesis and
- published a couple of papers, I was called out to the University of Chicago, where they were quite
- unhappy with me. Because they basically said, you know, you're saying the return to higher education
- is just the signaling effect. And human capital doesn't matter. And which was a kind of ridiculous
- extreme form. And I said, No, no, no, wait a minute. I wasn't saying there's no human capital
- acquisition in higher education. I was saying that in addition, at least for the, for the top
- institutions, there's a pretty powerful signaling effect as well. And the return to education is a
- combination of those two things. Got it. Fascinating. So there are behaviors that market
- participants can undertake, or perhaps credentials they can get or whatnot, that basically send a
- signal that, you know, help people assess their true value, right? It helps with price discovery.
- Yeah, I mean, to take another example, and I used to talk to Merton Miller about this, you know,
- if a company is not expected, you know, they know a lot about their, you know, present and future
- earnings potential, not everything. I mean, there's always surprises.
- And they're not supposed to cut the dividends, right? So if they cut the dividend, it issues
- a very powerful signal about what they think, you know, their future cash flows are going to be.
- So an example or imagine if management is buying stock, that's another set.
- Management is buying stock, you know, selling large amounts of stock, etc. Yeah. In it. I mean,
- this, the presence of informational survey symmetries is pretty, you kind of almost
- universal. I mean, it's not true of every market, but it's more common than people normally think,
- especially when you, you know, we don't talk about them in the first course in microeconomics
- and price theory. So, and that's probably the right way to teach it, but nevertheless,
- you know, they're there. Well, it's interesting because in the first course of microeconomics,
- we talk about how efficient markets are, right? Yeah. So you're actually layering on the nuances
- of how the world actually works there. In this topic of information asymmetry, Dean Spence is
- dearer to my heart than perhaps you even realize because it's a main reason why I founded
- this channel and why I've been doing the work I've been doing over the past two and a half years is
- because there has been historically a big information asymmetry between the sort of
- the wall street power players and just the regular investor. And one of the things that I've been
- trying to do with this channel is to reduce that asymmetry to sort of democratize in many ways,
- a lot of the knowledge and information and expertise that the top experts have,
- which really wall street's kind of had the corner on for a long time, but now the internet is
- allowing us to make that information much more freely available. So even in my own little corner
- of the world, I am working very hard on information asymmetry and hopefully to reduce it for societal
- benefit. No, I mean, I think it's tremendous what you're doing and more generally the presence of
- the internet and the fact that you can access very large amounts of information at essentially
- negligible cost does transform the informational structure of markets and does democratize it in
- many ways. I mean, there's some issues having to do with, well, what's believable and what's not.
- And so people have to sort of sort that out and maybe there's a role for signaling
- in that context, but the overall impact is just enormous.
- Alright, well in talking about overall impact, I want to now move to your book because
- it's about a really big issue. It is close to a lot of the issues that we talk about in this
- channel generally, but clearly you're concerned kind of about the global macro situation
- as are your co-authors of this book. You had some pretty credentialed partners in writing it.
- Mohamed Olerian, chief economic advisor of Allianz, and he took over the torch from Bill
- Gross at PIMCO. Many folks are familiar with him. Honestly, he's one of the guys I'd love to get on
- this channel as well. And then Gordon Brown, former UK prime minister. I mean, these are big
- hitters that you've joined forces with here. Clearly they're concerned as well, concerned
- enough to write this book with you. Look, the book is called Permacrisis, a plan to fix a fractured
- world. Can you maybe just define for us what you all meant by Permacrisis and what its key
- components are? Yeah, so I think that the title captures part of what we're after, which is
- a cascading sequence of crises. So we go back to the Asian financial crisis
- in the late 1990s and then the great financial crisis and the pandemic,
- then wars, now two of them, and climate shocks that are devastating
- various parts of the world and coming with increasing frequency and severity.
- And so we sort of thought, and I think the idea was this is a pretty confusing
- environment. And so maybe we can sort of make some sense of it a little bit, not completely.
- Nobody's arrogant enough to kind of be able to see through all this and then help people
- sort of navigate, whether they're companies or individuals or policymakers in various parts of
- the world. But when we looked at it carefully, I mean, it's a pretty daunting set of conditions
- that we face on the supply side of economies, on kind of regime change in the global economy,
- you know, a problem of mindsets that were conditioned by three decades of
- pretty benign conditions, no inflation, very low interest rates and costs of capital and so on.
- You know, and so we think it's sort of changing pretty fast and there's lots of, you know,
- problems, accidents, and so on that go along with that. We don't really have a plan to kind of fix a
- fractured world, but we thought if you start with an understanding of what we're dealing with,
- there's a lot of serious people, you know, because some committed to climate change,
- some committed to sort of increasing equity, some committed to try to reverse the kind of
- fragmentation and the global economy, some very concerned with kind of polarization
- and governance issues in our society. And so we thought we can probably at least help people by
- identifying what I call "mini-steps" in that direction. But on the authors, I mean,
- it's hilarious, you know, we have Gordon Brown, former Prime Minister of Britain and the longest
- serving Chancellor of the Exchequer in the British government, at least for a long time,
- and Mohamed Olerian is one of the most visible and knowledgeable commentators on sort of
- macroeconomics, financial markets and monetary policy, and then that other guy.
- Not at all. Other guy who happens to be a Nobel Prize winner in economics.
- Look, I'd love to dive into at least a few of these problem areas first, and first off,
- let me commend you as well. There's a lot of talk on the internet and on YouTube, and I've done a
- lot of it with a lot of other experts on what's wrong. There's not a lot of talk about what to do
- about it and the fact that you guys did what you could to start laying down the seeds for
- betterment. I commend you for that and I do want to talk to those micro-steps that you talked about
- in a moment. Before we get into the problems, and I guess we'll start with the economic ones
- because I'm guessing those are the ones that you understand best.
- Let me just ask you this because you sit at a really interesting intersection.
- I will say that there's sort of a skepticism that I think a lot of people in the public have about
- kind of our sovereign and corporate leaders these days, and that they're out of touch,
- they're driving their own interests or the interests of corporations, and they don't
- really care that much about the general public, and that they see these problems necessarily.
- Sometimes they maybe don't think these people really see them or appreciate them that much
- or they see them as opportunities to continue advancing their own agendas or enriching
- themselves. I think you live in a really interesting world where you spend a lot of time looking at the
- data and understanding the world through the data, but you do interact with a lot of
- these power players at different points of time. What's the reality like? Are these people
- genuinely more engaged in trying to solve these problems and whatnot, or is it more
- either a Game of Thrones or a let them eat cake type of world out there?
- Well, I think historically it's not a pretty picture, including for a long time my profession
- took the view that globalization and trade was basically a good thing, because in the aggregate
- there was benefits. If somebody said, "Yeah, but not everybody benefits, and some people probably
- get hurt pretty badly," then somebody would say, "You can compensate the losers." The problem with
- that is that there's no practical way to get that job done. I think one of the more attractive
- trends in the economics profession in the last 10 to 15 years is much, much more serious attention,
- and I think it is serious, not just words, to distributional issues. They're incredibly
- important, in part because we've come to understand that this is really political economy.
- You can't implement stuff in terms of governance and policies that drive change if everybody's
- decided to get off the train. That in some ways is a pretty good description of where we are.
- There's a massive loss of trust in institutions of various kinds, in various groups of people,
- exactly as you just said, Adam. That then makes it harder to move forward and do something that
- is designed to help everybody and their children and grandchildren. We wrote this book because we
- thought if we stay on the same course that we're on now in multiple dimensions, we're not going to
- be proud of the world that our children and grandchildren inherit. I think that's right.
- Now, let me go beyond my profession. Is there more serious interest now as you go around the world
- and talk to people who are arguably in positions of power? I think the answer is yes. Is it
- universal? No, I don't think so. I think there's still people who think the world that we've
- lived in before was terrific and don't really internalize the pain that was caused by some
- aspects of those growth patterns. It's a mixed picture, I guess, but the trend seems to me in
- the right direction. It sounds like you said the skepticism has been earned, but we have at least
- a slow awakening or changing happening, but it's a slow process and not everybody's
- on the same train yet. But we'll try to be optimistic. I'm curious. Did you write the book?
- Sorry, go ahead. No, I was just saying the amount of attention that -- there's a group
- of economists now who are very influential, Thomas Piketty, Emmanuel Saez and others,
- talking basically about distributional issues, so they're just getting a lot of attention and I
- don't think it's just in economics, and this is really serious sort of long-term data intensive
- work that's designed to convince people that we really need to think about these things, so
- I don't think it's just words. Okay, sorry I've got so many questions here for you. I'm going to
- try to flight them in an intelligent order, but do you feel -- and don't let me put words in your
- mouth -- but do you feel like we are hurtling towards -- I guess crisis is the right word,
- and of course you wrote your book Permacrisis and maybe I've already answered the question,
- but do you feel like we're sort of on a trajectory to a mounting crisis unless we
- proactively find a better way to start doing things? In some dimensions, yes. In some
- dimensions, no. So the one where I think we're hurtling towards something pretty bad
- unless we change direction pretty quickly is the climate change. You know, we're -- and the
- scientists are using increasingly alarmist language in talking about it. I think the
- one they've landed on most recently is probably the most effective, which is if you think
- of there being a carbon budget associated with holding temperature increases on average to 1.5
- degrees Celsius, that carbon budget on our current trajectory will be used up, I think, before the
- end of this decade. And so -- and that's a pretty kind of daunting task because it's hard to imagine
- changing course on a global basis fast enough to prevent, you know, some overshoot of that
- carbon budget. That one, I think, has existential sort of issues. Many of the other things we talk
- about, you know, or it's -- the question is basically underperformance, right? The global
- economy is fragmenting. Some of that's inevitable because we have, you know, strategic competition,
- an override that has to do with national security, economic security, energy security, food security,
- all kinds of things are modifying the way the global economy runs, you know, as compared with
- before where basically the only considerations were economic efficiency and comparative advantage,
- right? So that's not -- we've left that world behind, but that doesn't mean we have to kind
- of give up on everything and the benefits. We just have a more complicated architecture to
- construct collaboratively, you know, on a global basis to kind of try to get it done.
- So that would be an example where, you know, the failure is not perhaps catastrophic unless you're
- talking about the low-income countries that might just get cut off at the pass. But if you're
- talking about ordinary citizens in the wide range of middle-income countries and the developed
- countries, this is just, you know, underperformance. And then the same thing goes for macroeconomic
- policy. You know, if your mindset is conditioned on the previous three decades with very little
- inflation and so on, then there's a lot of accidents and mistakes. There's an awful lot of
- debt out there, sovereign debt, etc. You know, we're living in a rising interest rate environment.
- Unless you think after the inflation fight, all the interest rates are going to come plummeting
- back down to where we were before, close to zero. You know, there's a kind of difficult
- few years of transitions here to deal with and we're just trying to kind of increase awareness
- of that, but they're not total collapse scenarios. Yeah, it's not like existential to
- the species that perhaps if climate-wise we lose our food systems, it could be.
- You're taking it right where I want to take it on the economic side of things. Real quick,
- I just want to shoehorn one question and to get it out of my mind, which is who did you write this
- book for more? Was it more for the policy makers and the decision makers or was it more for the
- average person? It's really a combination, right? I personally, I think I would say the same for the
- co-authors. We recognize not everybody's going to want to pick up this book, but we wanted to write
- it in such a way that a wide range of people were kind of interested and concerned about what's
- going on, had access to it, so that it's not for people who are in some sense kind of involved in
- these issues in the technical sense. And by the way, that's why we had a fourth co-author,
- who's very important, a very smart guy named Reid Liddell, who's worked with Gordon Brown before,
- and you know, and that was our serious attempt to do two things. One is to make it accessible
- because he's a really good writer and he's really smart about understanding, you know,
- what the issues are as well. So that was part of it. And the other part is if three people
- wrote three papers and that was the whole story and the book would look like three papers glued
- together as opposed to a book that was written collaboratively by three people. So Reid's a
- pretty important part of that. So I would say, I mean, in summary, we did not want to write this
- for a highly specialized audience. Okay, great. So, you know, obviously the implications of all
- these things appeal to everybody, but it's a book that the average person can become better educated
- about what's going on, hopefully take some preemptive steps today that might improve their,
- reduce their vulnerability going forward, and obviously hopefully influence some of the people
- that are in positions to actually help with the decision making on some of these issues. Okay,
- now to the economy. You mentioned the one word that I was going to get to with you if you hadn't
- brought it up, which was debt. So I think one of the big questions that's out there
- is does our current economic model have sort of, I don't know, a reckoning
- moment kind of built into it on the debt side of things? If we keep amassing debts at the way that
- we currently are, at least in the major western economies right now, does that get to a point
- where the system can't operate as intended? And as a good example of that, which we seem to be
- approaching in a faster and faster rate right now, is when the debt service cost on your national debt
- starts eating up all of your tax revenues, that begins to become a really big problem.
- Absolutely. So the question is how are we going to get from here to there?
- So let's backtrack a minute. If you think all this stuff was transitory, which is what the
- central banks thought for a while as we came out of the pandemic, then you don't worry about it
- too much because it's kind of annoying right now. But these impacts like declining fiscal space,
- which is what you were just talking about, are going to go away. So part of our purpose
- in writing the book was to say nobody knows with great certainty what's going to happen
- over the rest of the decade, but I often ask people the following questions. So we lived in
- a world after the great financial crisis which had the following characteristics. One, very low
- approaching zero interest rates. Two, massive injections of liquidity into the system designed
- to try to relax the demand constraints on growth that resulted from the balance sheet damage in the
- great financial crisis. And three, all of that in the presence of essentially no sign of inflation
- and inflation lurking below targets. So I say to people after I describe some of the supply side
- constraints that are secular and new and non-transitory, and then say, you know,
- do you want to bet your kids savings that we're going to go back to the world that we, you know,
- lived in up to the pandemic? Most people kind of snap to attention and say, well, maybe not, right?
- So my version of that, and I'm not, you know, people, there's a range of opinions on this,
- is that we're going into a world in which as long as these supply constraints are as binding as they
- are, that inflation will be a persistent threat, and by that I mean any demand surge is going to
- produce inflationary pressure. It's going to be a world with higher interest rates, higher costs of
- capital, lower valuations, and a difficult transition from a relatively highly indebted
- world, including sovereign debt. Okay, so just to underscore, I think you just said it well,
- but you really do see sort of a pre-pandemic era trend and a post-pandemic era trend where we had,
- I mean, depending on how you look at it, sort of almost 40 years of disinflation and
- lowering cost of capital and increasing liquidity intervention by the central banks to now at least,
- it sounds like you see secular inflation from here, secular higher cost of capital from here,
- and maybe sort of spotty or episodic central bank intervention, and we're certainly in an
- intervention off moment at the moment right now, at least in the major economies. If we
- start getting into trouble with the markets again or something breaks under these higher interest
- rates, presumably a lot of people think the central banks may intervene again, but if they do
- and they restoke inflation like you're talking about, we may be in the sort of stop-start world
- going forward. Did I summarize your outlook correctly? Yeah, except you said four years.
- I would have said more like three decades. Oh, I'm sorry. I meant F-O-R years, like four years,
- not four years. Four years, yes. We lived in that world and a lot of generation and a half of people
- think that's normal. That's when all was said and done and you take the shocks away. Oh, I'm sorry,
- 40 years is what I meant, which was the decline from the interest rate heights in the 80s,
- right? So we had like four decades basically of people getting attenuated to that world, right?
- Exactly right. Yeah, so it's that transition and the mindsets, changes that have to go with it,
- if we're right. I mean, we call what you just described regime change. It's a fairly big change
- in the way the global economy operates, and at least from my perspective, it's because
- for the first time we have serious supply-side constraints. The elasticity, both the cost and
- the elasticity on the supply side have changed in a way that makes for a different world.
- Okay, so in that world, if it's characterized by those factors,
- those all pretty much weigh on economic growth and we've had declining economic growth compared
- to previous eras in the 20th century, even during that 40-year kind of Goldilocks period I just
- talked about, right? So we've had not great growth and we're probably going to have even worse growth
- going forward given these headwinds that you mentioned. So I imagine that manifests in just
- being able to grow less and therefore I use the term lower valuations going forward. Are
- investors going to have to kind of prepare for a world where they're not going to get this
- steady eddy just by the dip, the market only goes up year after year after year? Will they
- need to readjust their expectations about what returns are possible in the markets?
- I think so. I'm not suggesting that there won't be sort of
- growth spurts, there won't be sectors that have high growth potential, at least I try to invest in
- those through people I trust who know what they're doing. I don't mean to paint with an
- excessively broad brush, but are we going to live in a world in which valuations are driven by very
- low discount rates in the indefinite future? I don't think so. So it feels to me like a very
- different environment and people in the private equity world are feeling this transition to a new
- set of valuations is not a fun process. I mean, we've done this before, we did it in the internet
- bubble and we're doing it again. And the private equity markets respond more slowly than the public
- ones. So the public ones, this is a new reality, we're adjusting to it, maybe not instantly,
- but relatively quickly, that happens more slowly on the private equity side and is a difficult
- process. Right. Okay, so here's where I'm going with this. We have had a pretty violent regime
- change in both inflation and cost of capital. When you look at how far and violently a
- short period of time interest rates have risen and now yields on debt have risen,
- it's almost unprecedented. And yet we haven't gone into recession. The markets had a bad year
- last year, but it wasn't like a market crash or anything like that and they're up this year.
- So I know you're not a market strategist. You sit way back, operate at a much higher
- level on what's going on the economy, but are you surprised that we have not kind of
- lurched into some sort of recession given this shock to the system? And do you think
- one is avoidable? Because this year we heard a lot of talk about -- seemed like everybody thought
- we'd be in recession starting 2023, but then the narrative changed to soft landing and then no
- landing. Do you think the odds are good that we can escape having to avoid some sort of
- blow or injury from this violent change in interest rates?
- Yeah, I think so. I mean the economy, I think everybody's surprised, the American economy
- has turned out to be stunningly resilient. I attribute that to a couple of things. One is
- the fundamental kind of dynamism is still there. And secondly, in the pandemic the government took
- a huge amount of balance sheet damage in the corporate sector, including small businesses
- and the household sector, and transferred it to the sovereign balance sheet, which left the
- balance sheets as compared with the GFC in critical sectors. I mean in the household
- sector if you wreck the balance sheets it won't take long before you've wrecked consumption.
- Consumption's holding up fine and I think that's partly a result of some pretty smart
- policies. I mean they have consequences. Sovereign debt at 100% of GDP is different from
- sovereign debt at 60% of GDP in a rising interest rate environment, and so we got to deal with that.
- Inflation was a consequence as well, right? I mean sending direct stimulus to households
- increased the velocity of money and therefore we got inflation? Yeah, so you combine supply
- side constraints from all kinds of sources, aging, diversification of supply
- change which is an expensive proposition, declining productivity and all that, and then
- produce a demand surge which is partly just pent-up demand coming out of the the pandemic,
- but turbocharged by relief of balance sheet damage in the household sector, and sure
- you're set up on both sides of that equation, right? The supply side isn't
- going to respond very quickly anymore unlike the past, and the demand side is surging
- at a tremendous rate and you get inflation. And the bet, and remember the bet the central
- banks made, and the reason why the interest rates went up so fast is because they got started late,
- was that the supply side constraints were transitory. We'd be transitory, yeah. We were
- transitory and so all of a sudden this demand surge would be accommodated by adjustments
- and some of them were transitory. I mean, let's be honest, right? Ocean shipping costs aren't
- $10,000 per container anymore across the Pacific. They're back down to $2,000. China wasn't
- going to stay in zero COVID mode, although the bounce back has been less dramatic than most
- people thought. The semiconductor industry is more or less sorted out in terms of
- kind of blockages and supply shortages, and since they are pretty much intermediate products in
- every sector in the economy practically, that's a pretty dramatic change. Some it was transitory,
- but what was missed was the non-transitory part, right? In which non-transitory elements do you
- think are most important going forward? Is it the redrawing of supply chains and reshoring more of
- the labor? Which ones have you sort of most convinced that inflation is going to be
- secularly higher as a result? So I think there's several. One is the fading of the emerging economy
- growth story. You had massive amounts of productive capacity introduced into the
- global economy. That's still going on to some extent, but there isn't another China
- out there, okay? We're just not going to do that again. And that produced dramatic deflationary
- forces. I mean, if you look at the 20 years coming up to the crisis, at the components of the
- consumer price index, everything that was imported declined in nominal terms. That's even before you
- subtract the overall rate of inflation to get the real effect. It's just dramatic. I mean,
- if you took that away, we would have had an inflationary environment. So that's one.
- Two is this aging. I mean, we really are aging. And it varies from place to place. But a lot of
- the baby boomers have decided enough is enough, and they've stopped working. But they haven't
- stopped consuming, right? So you get an instantaneous, nearly instantaneous kind of
- break. There's huge changes in labor market behavior. We have shortages in all the major labor,
- you know, I mean, big labor markets in the United States. Pick any one. Government, healthcare,
- you know, traditional retail, hospitality, construction, right? I mean, people have changed
- their behavior. They don't want to work when it's inflexible, or dangerous, or stressful, or low
- paid. Right. And that also combines with your demographic number two there, which is we just
- have 10,000 boomers basically taking themselves out of the workforce every day, right? Yeah,
- exactly. Right. And then you've got this, you know, I mean, I think the other than the declining
- productivity trend, which I'm hoping will be reversed with, you know, the application of
- technology, but we'll get to that later, is in the global supply chains are being constructed
- on a completely different basis, you know, in pursuit of resilience, and security, there's a
- dramatic- Cost being an important part of that, right, going from low cost to higher cost in most
- cases. Yeah, I mean, here in Europe, we're diversifying at light speed, away from dependence
- on Russian fossil fuels. It's a very expensive process, right? Maybe Americans don't feel this.
- I mean, they feel the energy prices going up, and they're about to go up again, I'm afraid,
- because of the most recent conflict. But yeah, I mean, that's a good example. But it's going on,
- really, for the first time all over the world, right? We're just not building supply chains by
- going to the low-cost source anymore. We may stay with the low-cost source, but we're going
- to diversify, and companies are doing it, and for the first time, economic policy is kind of right
- behind them, essentially pushing in the same direction. Okay, so I've got like five hours
- worth of material to do. Dean Spence, don't worry, we're going to keep it all within the hour here,
- but right now, in the US at least, the Federal Reserve is largely pumping the brakes, right?
- It's been raising interest rates. It's been doing QT. It's trying to get inflation down back under
- its 2% target here, right? But on the fiscal side, government spending has been at one of the highest,
- certainly, percentages of GDP we've ever seen and never seen this high outside of a wartime
- situation. So in many ways, the administration and Congress are kind of hitting the gas at the same
- time that the Federal Reserve, the central banks, are trying to hit the brakes. Obviously, that's
- got to not help with getting inflation under control. Do we kind of have a mismatch of policies
- going on right now? Could we be more effectively joining our policies than we are right now?
- Yeah, I think so. I mean, that's something that Mohamed writes about a lot.
- So we lived in a world, I mean, he wrote a book called The Only Game in Town, and he meant the
- central banks, right? So in a world where there's a kind of demand problem, and the supply side isn't
- really an issue, or people think it's not an issue, then basically, the central banks are sitting
- there. Nobody questions that they can cut off demand with interest rates, eventually, working
- hard at it. There's a different question, which is whether they can generate demand by lowering
- interest rates, given the zero lower bound and limits on the amount of liquidity they can pump in
- and whatnot. But yeah, I think we do need supply side policies. So it's not a question of just
- saying, well, the government shouldn't be sort of stimulating the economy at the same time
- that the central bank is fighting inflation. But a real conversation about kind of getting the
- balance right. I mean, a lot of the government spending, not all, is associated with a big
- set of expenditures associated with pandemic recovery. And then you had the so-called Inflation
- Reduction Act, which is our kind of re-entry into the kind of sustainability agenda. And you have
- the Chips and Science Act, which has multiple objectives, you know, I won't bore your listeners
- with. I mean, part of it is just plain long-term growth and an investment in technology. Part of it
- is national security, bringing enough stuff home so that if we have to expand it, we will be able
- to do it. And there's not just one Taiwan Semiconductor Manufacturing Association in the
- world. Exactly. This is the resilience you were talking about. Yeah. This is the resilience. And
- then part of it's just holding China down. What everyone thinks about whether that's a good idea
- or possible or whatever. So it's a kind of complicated mix of a whole bunch of different,
- at least three different things. But anyway, they're pretty big expenditure items. And
- I don't think, I mean, some people think they're just a waste of money. So there's a range of
- opinions on that. I don't. I think you need to invest in sort of long-term human capital
- technology and so on, if you want to drive long-term growth in the economy. So that's
- not the first thing I would consider cutting. But then you have a real kind of coordination
- problem between fiscal and monetary policy. I mean, some people think, I think it's a growing
- number that the central banks can't talk about changing the inflation target because, you know,
- as you start moving the goalposts, then you lose your credibility. But lots of people think,
- you know, they may sort of settle down at 3% eventually. And in a world that's changing
- structurally and where relative prices are changing fairly fast, maybe 3% isn't crazy
- if it's credible and stable. Okay, got it. I'd love to keep diving into that, but I want to get
- to the solutions part. Real quick before I do, I'm just going to chew on this bone one last time.
- You talked about the US economy being more resilient than most folks expected.
- And of course, there is stimulus going in. We just talked about some of that.
- But you sort of talked about how the ripple effect of the lag effect, or maybe the lag effect ripples
- across different markets at different speeds. And you talked about how private equity is slower.
- And clearly the housing market is moving slowly right now. It has frozen, but prices haven't
- come down. But the general inverse relationship between cost of a mortgage and price of a house,
- we've seen mortgages more than double, we've seen prices of housing go down by like a percent
- nationally. So my question is, do you expect to see more of the lag effect express itself as
- time go on here, and maybe more defaults begin to ripple through the system as these slower markets
- begin to feel the brunt of that, and the longer we remain higher for longer, to use Powell's words,
- the more balance sheets across America, both corporate and domestic or personal household,
- begin to re-rate at higher rates, and in some cases, much higher rates. For a lot of companies
- that are sitting on a current capital structure that has 3% debt, when those come up for maturity,
- they're going to be re-rating at something over 2x that.
- Yeah, no, that's right. I don't think of myself as an expert on the exact timing in these markets,
- and there are people who make their living understanding and communicating about that.
- But in general, we've seen this before, when you have a big change in housing prices,
- there's a lag. What happens first is the transactions dry out. Why? Because the sellers
- don't believe it. It takes a few months before they decided the value of the thing fundamentally
- changed. I saw this here in Italy. When trouble hit in the sovereign debt crisis, which followed
- the great financial crisis over here, things got pretty ugly, including in the banking sector,
- people had trouble getting mortgages at all, regardless of the price.
- And the housing market froze up. People just didn't believe that their €2 million
- apartment wasn't worth €2 million anymore. And it takes quite a while before those adjustments
- occur. So yes, there's bottom line as well. I'm not an expert. There's clearly lags.
- There's lags in the refinancing. There's lags in believing the new market conditions and so on.
- I think down the road, we could have some damage in terms of people's balance sheets
- and whatnot that we haven't seen so far. Okay, great. That's exactly where I was going,
- just to get your opinion on that. Okay, thank you for sharing. All right, so now to the more fun
- stuff. So we've talked about some of the big challenges we face. What are some of those
- micro steps, at least, that you and your co-authors advised that we, either as a grand populous or just
- as individuals, should consider embracing to help mitigate what may lie ahead? So the overlay,
- in my mind anyway, when we went into this, and in general, is notwithstanding the kind of turbulence,
- the crises, the headwinds, and so on that we've already talked about, we're living in a world in
- which there's three enormously powerful scientific and technological revolutions underway. One is the
- digital transformations, multi-decade, and it looks to be getting more and more powerful as we go
- along. We were writing this book when, you know, generative AI kind of hit the public awareness,
- and it's stunning. We'll come back to that. But there's a revolution in biomedical science and
- life sciences going on, and then there's this fair amount of technology that's pretty impressive in
- the energy transition that is the essence of the sustainability agenda. So I thought, and when I
- went and looked, you know, what I thought I found was not only was there sort of stunning
- breakthroughs, but that you had really powerful technologies that were widely accessible and
- declining in cost, and so therefore, you know, available to people. And I thought, well, you know,
- with tools as powerful, we ought to be able to engineer something that looks a little bit
- different from what's going on now. And that's part of, I think, the answer. I'm not sure they're
- many steps, because they won't happen overnight. Gen AI is probably going to transform
- among the whole range of economies, but it won't happen tomorrow or even next year.
- We're in a period of intense exploration and experimentation because it's so new.
- But, you know, if we're right, that has the potential really across the economy to change
- the kind of the business models and ultimately produce an enormous productivity surge.
- It's transformative, right? So the kind of flip side of the, you know, it's a pretty tough world,
- we've got geopolitical tensions, we've got polarization, we've got supply side constraints,
- and so on, is we've also got these incredibly powerful tools. Let me give it, I mean, I'll give
- you two examples. Solar has caused about somewhere between a fifth and a tenth of what it did 10 years
- ago. I mean, it's amazing. You know, in the proper kind of environment, it's competitive with
- traditional fossil fuel based, you know, electricity generation. The one that I don't
- think most people know about, except in the tech world, is, you know, DeepMind, which is now was
- bought by Alphabet, Google, has done a lot of stunning things. The one most people, you know,
- may have heard of was me kind of winning the game of Go in two rounds on the second round by playing,
- by the AI's playing against themselves. But the one that I think is very striking is called Alpha
- Fold. And basically, they, they set themselves the task of predicting the three dimensional structure
- of proteins from the amino acid sequence that defines it. Sounds technical, but the three
- dimensional structure is absolutely crucial, because that determines what, you know, what molecules
- bind to. So it's for pharmaceuticals, you know, vaccines, etc. It's just crucial. And it, and it
- can be done in a lab, but it takes, you know, somewhere between months and years to figure it
- out. And so they said, well, maybe AI can help. And we'll see if we can predict the three dimensional
- structure of these things. And basically, it worked. I mean, the predictions aren't perfect,
- but they're pretty good. And once they realized they'd done it, then they took the 200 million
- known proteins in the world, predicted the three dimensional structure, and published it as open
- source. Anybody in the world can go look it up. And so while that's not going to intersect
- anybody's lives directly, it may intersect them when, you know, they when, you know, immunotherapy
- kind of, you know, gets advanced, and they don't die. But in the world of biomedical science,
- it's a productivity enhancing shock of enormous magnitude. A seismic event. Yeah. So, okay, so
- what I hear you're saying here is, you know, sort of from a humanities prosperity stake,
- we should really be leaning into these technologies that have the benefit of,
- I think, increasing at exponential rates in terms of their ability to progress. And they also
- oftentimes can drive down costs exponentially too. So there's two exponential curves that
- are helping you out there. And that's fascinating. We don't have time to go through the individual
- examples in the book. I recommend that folks go to the book and do that. Let me ask just
- a question here that sticks in my mind about this. And I'm curious if you share this issue or not.
- I believe it was Keynes who talked about technological displacement,
- where he basically said, look, if you can, if you can displace human labor by, you know,
- transitioning to some sort of, you know, alternative solution, and in the old days,
- it was, you know, cars over horse and carriages, right, that type of thing,
- said you should, you should always do that. That makes economic sense. But you have to be careful
- at the rate at which you do it. In other words, if you displace the labor so fast, if you displace
- the labor faster than your ability to repurpose it to, you know, a higher productive use, you end
- up creating a societal problem that may be more costly than the economic gains that you are
- creating. And I do wonder in this era of automation and AI and whatnot, that we are quickly hollowing
- out the job market, maybe even at a faster rate than we expect, because AI is really going to be
- able to go up the stack of skills, right, and start displacing a lot more white collar workers
- than folks even imagined to. Where just the question is, what are we going to do with all
- these people, especially if we start making them live a lot longer through all these biomedical
- advances as well? Do you think about that? Oh, yeah, no, I mean, so this is a lively
- kind of discussion that's going on. And it's not the first time it's occurred. I mean,
- it's been going on since the start of the Industrial Revolution. Right. But, you know,
- digital is different. So, you know, we can't just rely on kind of historical experience.
- So I mean, I think there's two things to say about it. One, you know, there is an issue of pace.
- So that part's right, right? You can do some stuff so fast that that kind of structural
- adaptation that's essentially inherently limited in any economy, you know, people don't change
- their behavior, they don't change their skills, organizations don't change their business models,
- you know, overnight. So there's natural things that slow things down. But you can imagine some
- serious imbalances, you know, that and that are disruptive of people's lives on the way through.
- So that's point one. Point two, is everybody thinks that digital is when it comes to jobs
- is automation. Just automatically. If a senior hospital administrator starts talking about using
- AI, there's panic. And the panic is, they're coming for jobs, right? And it's not necessarily
- an accurate description of what's going to happen. So part of the reasons for writing about this,
- I just wrote something with James Manica on this in Foreign Affairs, is, you know,
- to kind of help people understand that that's not necessarily where we're going.
- Erik Brynjolfsson at Stanford wrote an influential paper in a Daedalus volume that James edited,
- or really put together. It's an extraordinarily useful volume, by the way, it's on AI.
- It's and it's got everything in it. It's not just economics, it's the AI people, it's, you know,
- it's, you know, artificial general intelligence and when it's going to happen and all kinds of
- things. But he said there's a there's a there's a thing called the touring trap. It's his term.
- And and the idea is, I think, important, which is Alan Turing, who's a genius.
- Developer of the computer, basically.
- Yeah, basically. Yeah. We propose that we evaluate progress in the digital domain,
- where what became the digital domain, by imagining asking the question, you know,
- can we produce a machine that interacts with the human in such a way that the human thinks
- that he or she is interacting with another human? So that was the Turing test, right?
- Most AI is evaluated when you just read the literature based on how it performs relative
- to humans, right? So in image recognition, which is a revolutionary development in the last decade,
- though, you know, all the attention is focused on when they cross, you know, and, and they again,
- and the AI identifies the images better than the average human. Or, you know, Gen AI takes
- the LSAT test and performs better than the average test taker. This is a law school aptitude test,
- right? That's okay. There's nothing's gone wrong so far, because it's probably a pretty good way
- to benchmark progress. But it's a very short step from there to say, well, okay, so now the AI
- performs better than the human in this test. So we'll just replace the humans. And that's where
- the automation bias comes from. Right. But remember, these AI's are prediction machines,
- they're not perfect, right? There's a, you know, a well known story that was written up in the press
- of a doctor who used chat GPT to prepare a brief and didn't check it. Right. And handed it in to
- the court. Well, it turns out, you know, that we know that these things have hallucinations,
- is the term that tech people use, they make stuff up, right? This one made up all the legal
- precedents that were handed in. Right. So that doesn't surprise me. Yeah, no, I mean,
- so that probably won't happen too many more times once people get the hang of it.
- You know, and, and so, yeah, I mean, I'll give it another example. These, an AI is going to write
- the first draft of a report that a doctor writes, doctors spend an incredible amount of time writing
- up reports, because they have to write, we need that information in the system. The AI will write
- the first draft that probably reduces, you know, 80% of the doctor's time. Right. So if you define
- the task, as the first draft, that's automation. But no doctor in their right mind, is going to
- hand in the first draft, right, they're going to check it. That's the other 20%. And if you define
- the task as producing the report that's needed, it's human machine collaboration. It's augmentation,
- you have a powerful digital assistant that does something that uses up a lot of your time
- that we didn't have before. I mean, it's an incredible achievement. And, you know,
- will a doctor spend more time on medicine, probably, maybe they even spend a little more
- time on the golf course. That's okay. Or just more time with their patients, which would be
- wonderful. We're all familiar with the other. What I really want to say is, when you go looking
- carefully across a wide range of potential applications of this, you get you get the same
- story with slight variations over and over and over again, right? That dominant, the dominant
- impact is likely to be once people learn how to use this powerful digital assistants, assistants
- and machine, you know, human or even machine systems, collaboration. I mean, they're starting
- to use AI's to try to increase the transparency of these incredibly complex things called global
- supply chains. They're completely opaque. No human being can kind of figure out all
- because they're too complicated. Yeah, they're just too complicated. And, and yeah, exactly.
- Right. I mean, there's a little bit of fragmentation of the data, but they're just
- too complicated. That's likely, I'll stop, but I mean, they're, you know,
- I mean, people who've studied at the Stanford Business School remember what the bullwhip effect
- is, right? You know, there's some people out at the end of supply chains reacting to the latest
- thing that somebody on the next part of the supply chain does. You'll be pleased to hear,
- Dean Spence, that I have created videos dedicated to explaining the bullwhip effect from what I
- learned at Stanford. That's great. Okay. Then I don't have to explain it anymore. But anyway,
- so that could materially transform that. Anyway, bottom line is, I think there's real potential
- for this to be dominantly augmentation when you stand back from it far enough. And, but there,
- but the last thing I'll mention, because it's, your question is really important is implementation
- is going to be critical. You know, you can't stand up and say, geez, we found this wonderful
- technology, we're going to introduce it, and have people sitting there thinking, you know,
- they're coming from my job. So the soft skills, the implementation of major structural change,
- or business model change, is going to be just as important as the technology itself.
- Okay. So what I'm taking from this is, I imagine, correct me if any of this is wrong,
- your advice to the average viewer here would be, you know, skill up on AI, like a lot of us just
- have heard about it. We think, oh, it sounds sciency, and I've got my life to focus on here,
- I'm just not going to really pay all that much attention to it until it's right in front of my
- face. My guess is you would say, be a little more proactive than that, lean into it, look for ways
- in which it can help you do what you do better and be at the forefront of this wave. From a policy
- standpoint, I hear you saying, we can't just let the free market ride this thing. There's going to
- have to be a partnership with policy that says, you know, how do we let this thing get out into
- the world in a way that doesn't necessarily create the societal issues that Cain warned about with
- technological displacement? You're sort of nodding as I'm saying all this.
- Yep. No, I think the policy thing has two sides to it. One is, there's a lot of potential damage
- and, you know, downside risk associated with the inappropriate use of these technologies. So,
- you know, policy has to deal with that. And that's multi-dimensional. I mean,
- the AI read your book and integrated it into the way it thinks about the world.
- Is there some intellectual property issue there? Probably yes. And we don't know how to handle it
- yet. The other part is positive, right? I mean, you know, we could have this, you know, tech and
- finance going full speed ahead with AI and a whole bunch of sectors lagging behind. We've done this
- before in earlier rounds of digital transformation. And we're not going to get the productivity surge
- and we'll get, you know, highly unequal results across sectors, you know, if we get that kind of
- divergence again. And government has a role in, you know, accelerating and increasing the footprint
- of the adoption and diffusion options for small and medium sized businesses. You know, JP Morgan,
- can spend a ton of money, you know, experimenting with AI in the way they do business, you know,
- a smaller business doesn't have the resources. So, yeah, there's a role for government on both the,
- you know, the positive side of the use of the technology and preventing, you know, some of
- these downside risks. I would say, I think James agrees with this, that the policy agenda at the
- moment is heavily biased toward the downside. Right. And we're kind of this, the paper is a little
- bit of a plea, you know, not to ignore that, because it's important, but pay attention to the
- upside potential as well. All right. Dean Spence, this has been a fantastic discussion. In our last
- couple minutes, I want to get to one more topic real quickly before I do. Where can people buy
- this book? Just anywhere books are sold? Yeah, in America now. It was published in the UK,
- but distributed in the United States, and I believe it's widely available now. And you can
- certainly find it on Amazon or any of the online booksellers. So we'd love it if people take a look
- and give us some feedback. Okay, great. And again, folks, it's Permacrisis, a plan to fix a fractured
- world. Dean Spence, in just the last couple of minutes we have here, I do want to squeeze in this
- question for you, because as I said earlier, you gave us some wonderful advice throughout our
- tenure at Stanford. And I remember sitting, people have heard me tell this on previous videos,
- but I remember sitting in a room with you and a bunch of other of my classmates as we were getting
- ready to graduate. And you were kind of just taking Q&A from folks. And one person said, "Hey,
- Dean Spence, I've got a job offer doing what I did before that's pretty lucrative, and I'm kind
- of lukewarm on it. I could do it. The one that really excites me is this other one, but it's in a
- field that I've never worked in before, and it would require me moving out with my wife to
- this new place that we've never lived before, and we're in the process of starting a family."
- And your advice was, as I recall, was, "Hey, you get ahead in life by taking risks, and that you're a
- fan of risk-taking, but calculated risk-taking." And your warning was, don't take on too many risks
- in parallel, because if you do, you risk not being able to do any of them well, and you're sort of
- sacrificing your odds for success. I've really taken that to heart in my career, and it actually
- was a factor in my recent decision to go independent. I had a lot of things going on
- this year that were unexpected, and I was able to sort of flight them in serial versus parallel so
- that when I took this big leap, I wasn't burdened with undue other risks at the time. So I'm just
- curious, do you have any other bits of advice like that for just sort of general success in the world
- given the fact that you've had such a successful career but you've helped so many other people
- birth some phenomenal careers? Well, when I was writing my thesis, a lot of thesis advisors
- would have said, "That's kind of risky. Nobody's heard of that. Why don't you do something else,
- and then you can go back to that later after you have a job and have taught or
- gotten tenure and stuff." And my thesis advisors didn't tell me that, and I've always been
- grateful to them. I mean, I think when you're young, you're at your most creative, right?
- For sure. There are just too many examples of this because you're not trapped by conventional wisdom,
- you know, a whole bunch of conceptual apparatus that you can't kind of get rid of.
- I mean, there are advantages to being a little older and having experience, but I think on
- balance and in most lines of human endeavor, there's a big advantage to youth. And so,
- it's the time to take risks and look for something that's truly rewarding, where you
- make a big difference or do something important, but then the calculated part comes in. You know,
- you can't do that on every front at the same moment. I mean, one of the investment banking
- types came along, and I've seen this over and over again, and said, "Look, if you're going to
- take a shot at being an entrepreneur or something, then don't get yourself a big mortgage at the same
- time and do all those other things." I remember being in Singapore, which is a pretty dynamic
- place now, and they were trying to build the kind of innovative side of that economy.
- And I said, "Well, you know, what are the obstacles?" And they said, "Well, you know,
- everybody's supposed to get married and have a house and whatnot, and pretty soon, you know,
- they're in a position where, you know, taking that kind of risk doesn't make a whole lot of sense."
- So, I can't think of anything that is more important, especially for younger folks,
- is what you talked about. But on these technology sides, I think not everybody's going to be
- interested in everything, but this is a really bad time to sit on the sidelines, right, and sort of
- say, "Well, that's kind of in somebody else's world. I don't really understand it." I think
- we get asked this question a lot by business people. I don't think one should rush into
- adopting various kinds of fancy new technology, you know, too quickly. But sort of just waiting
- on the sidelines and not paying attention strikes me as an even more dangerous thing.
- So, what I've tried to do all along is just, you know, go talk to people who know what they're
- talking about in various fields and try to get an education. I guess I learned that as being a dean,
- you know. I was talking to colleagues who were doing this, that, and the other thing,
- behavioral economics, you know, molecular biology, this, that, and the other thing.
- And I thought, A, it's fun to learn about what they're doing, even if you don't get to the
- depth they're at. But it's also, you know, a way of kind of keeping up, I think is the way I would
- say it, keeping up, and then making choices that are based on reasonably current understanding of
- what's going on. Great. Super well said. Thank you for being my dean one more time and coming
- on here and sharing your deep expertise with us and helping our viewers here make more informed
- decisions about what's coming and to underline your point there for folks. This is not a good
- time in history to be sitting on the sidelines. So take Dean Spence's advice and start getting
- educated about what's going on there in the AI world. Dean Spence, I can't thank you enough.
- This has been wonderful. Thank you so much for joining us today. Enjoyed it thoroughly. Thanks for
- having me, Adam. Well, folks, and winding things up here, first, I want to thank you for watching the
- very first video on this new Thoughtful Money channel. As the new independent proprietor, I very
- much appreciate your commitment to the content here and it's not every day that you get to talk
- to a Nobel prize-winning economist. I hope you found the discussion useful. To help this channel
- succeed from here, please do me a favor and hit that like button but very importantly click on the
- red subscribe button below as well as that little bell icon right next to it. We want to get the
- subscriber count up here as fast as possible and clicking that little bell will alert you when we
- have new future interviews lined up and actually we've got a bunch coming into the pipeline.
- Especially the next one coming after this one is going to be with Dr. Mark Fauber and if you've seen
- my previous interviews with him, you know that that is not to be missed. If you'd like to see
- who the remaining 20 plus or so experts that we have lined up over the next two months are going
- to be, head over to my sub stack at adamtagert.substack.com. That's where I'll be putting
- out important updates about this channel in the future so go subscribe to that for free when you
- have a moment. I'd like to say thank you so much for joining me, coming over from my old channel,
- watching this video, supporting this new channel, and thank you so much for your time and commitment
- and support and thank you so much for watching today.
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. This is the first video
+to launch on this new YouTube channel where I, now operating independently, am continuing my work of
+interviewing the top minds in money and the markets to help regular investors like you better build
+wealth to fund your life goals, and I'm so pleased and privileged that the first guest expert to
+appear on this channel is Nobel Prize winning economist Michael Spence. He was also the dean
+of Stanford Business School when I got my MBA there a million years ago and I've got fond
+memories of his inspiration and leadership during that very formative time for me. Today we'll talk
+about the interconnected tangle of challenges the global economy, as well as society at large,
+currently faces, a predicament that Spence refers to as the perma crisis. Dean Spence,
+thank you so much for joining us today. Thank you, Adam. It's a pleasure. I'm delighted to be with you.
+Thank you. Well, it's so wonderful to see you after so many years. You look great. I look a lot
+older, a lot more weight in this beard. You look great. I'd love at some point at the end of this
+discussion to get a chance to delve into some of the great advice you gave us at Stanford and
+the fact that you've had a successful career but helped launch a lot of successful
+careers. I know you have a lot of sort of best practice advice for personal success
+in life and I hope we have some time to delve into that but let's start talking about your
+book, The Permacrisis, but even before that, since I last saw you, as I said in the intro,
+you won the Nobel Prize in Economics. Congratulations. That's a phenomenal achievement. Can you just
+give us a brief sense of the work that you were recognized for? Absolutely. So it was a big
+surprise. I mean, before I came to Stanford and got to know you, I was the Dean of the
+Faculty of Arts and Sciences at Harvard and my predecessor said, well, you know, if you take that
+job, meaning the one at Harvard, you'll never receive a Nobel Prize and I thought to myself,
+well, yeah, but to use the economist language, that's a non-binding constraint. I probably won't
+receive one anyway. So I launched into academic administration, which I just loved and learned a
+lot from all of you and all my colleagues. So the work, you know, there were three of us,
+Joe Stiglitz, George Akerlof, and me, all of us in one way or another, we're focused on
+what are called informational gaps and asymmetries in markets, but, you know,
+to a first approximation, there are just many, many situations in which buyers and sellers have
+different levels of knowledge about what the products or services are,
+their characteristics and so on. That's true of job markets. It's true in lots of financial
+markets. You know, we have financial disclosure laws that are designed to close those gaps and
+markets perform astonishingly poorly if those gaps are big and remain. So George talked about the,
+they're kind of illuminated a phenomenon called adverse selection, which is what happens in
+markets when you basically can't distinguish between different products that have different
+levels of quality in them. And in this extreme case, you know, that kind of structure can lead
+to the complete destruction of a market. That's the phenomenon of adverse selection that sort of
+high quality people facing the price that reflects average quality, essentially pull out of the
+market. And then that cascades down and eventually you can destroy the whole market. And then Joe
+and I, in different ways, we're trying to figure out, well, what markets are pretty creative
+entities? What happens in those markets that, you know, that endogenously, you know, not by
+regulation, that tends to close these gaps. In my case, it was signaling. And there are activities
+that people can undertake that have differential costs with respect to, you know, that are
+negatively correlated with the underlying quality characteristics that buyers want to know. And those
+signals turn out to be pretty important, not just in economics, but, you know, more broadly in
+society. So that's what I was after. And that then took root. Not, you know, again, not just me, but
+all three of us took root in economics. It's affected contract theory and mechanism design and
+all kinds of things. So I guess that's what they were recognizing back then.
+Yeah, super interesting. Hey, can you just give a quick example of signaling in terms of how that
+actually helps people close these gaps? Yeah. So, I mean, people work hard and, you know,
+the example I used was, you know, the job market, right? So people have very different
+characteristics, you know, coming into the job market, capabilities and so on. And so, you know,
+basically employers don't know that and it takes quite a long time to know it, but they do receive
+signals. And one of the most powerful signals is the educational one. So it makes a huge difference
+if you graduated from MIT in engineering or the Stanford Business School, or, you know, not to pick
+on just two institutions, but I mean, these institutions, you know, basically, because of
+the screening, the process of getting into them, the hard work people have to do, the fact that
+not everybody can do it, they carry powerful signals. So I mean, after I wrote my thesis and
+published a couple of papers, I was called out to the University of Chicago, where they were quite
+unhappy with me. Because they basically said, you know, you're saying the return to higher education
+is just the signaling effect. And human capital doesn't matter. And which was a kind of ridiculous
+extreme form. And I said, No, no, no, wait a minute. I wasn't saying there's no human capital
+acquisition in higher education. I was saying that in addition, at least for the, for the top
+institutions, there's a pretty powerful signaling effect as well. And the return to education is a
+combination of those two things. Got it. Fascinating. So there are behaviors that market
+participants can undertake, or perhaps credentials they can get or whatnot, that basically send a
+signal that, you know, help people assess their true value, right? It helps with price discovery.
+Yeah, I mean, to take another example, and I used to talk to Merton Miller about this, you know,
+if a company is not expected, you know, they know a lot about their, you know, present and future
+earnings potential, not everything. I mean, there's always surprises.
+And they're not supposed to cut the dividends, right? So if they cut the dividend, it issues
+a very powerful signal about what they think, you know, their future cash flows are going to be.
+So an example or imagine if management is buying stock, that's another set.
+Management is buying stock, you know, selling large amounts of stock, etc. Yeah. In it. I mean,
+this, the presence of informational survey symmetries is pretty, you kind of almost
+universal. I mean, it's not true of every market, but it's more common than people normally think,
+especially when you, you know, we don't talk about them in the first course in microeconomics
+and price theory. So, and that's probably the right way to teach it, but nevertheless,
+you know, they're there. Well, it's interesting because in the first course of microeconomics,
+we talk about how efficient markets are, right? Yeah. So you're actually layering on the nuances
+of how the world actually works there. In this topic of information asymmetry, Dean Spence is
+dearer to my heart than perhaps you even realize because it's a main reason why I founded
+this channel and why I've been doing the work I've been doing over the past two and a half years is
+because there has been historically a big information asymmetry between the sort of
+the wall street power players and just the regular investor. And one of the things that I've been
+trying to do with this channel is to reduce that asymmetry to sort of democratize in many ways,
+a lot of the knowledge and information and expertise that the top experts have,
+which really wall street's kind of had the corner on for a long time, but now the internet is
+allowing us to make that information much more freely available. So even in my own little corner
+of the world, I am working very hard on information asymmetry and hopefully to reduce it for societal
+benefit. No, I mean, I think it's tremendous what you're doing and more generally the presence of
+the internet and the fact that you can access very large amounts of information at essentially
+negligible cost does transform the informational structure of markets and does democratize it in
+many ways. I mean, there's some issues having to do with, well, what's believable and what's not.
+And so people have to sort of sort that out and maybe there's a role for signaling
+in that context, but the overall impact is just enormous.
+Alright, well in talking about overall impact, I want to now move to your book because
+it's about a really big issue. It is close to a lot of the issues that we talk about in this
+channel generally, but clearly you're concerned kind of about the global macro situation
+as are your co-authors of this book. You had some pretty credentialed partners in writing it.
+Mohamed Olerian, chief economic advisor of Allianz, and he took over the torch from Bill
+Gross at PIMCO. Many folks are familiar with him. Honestly, he's one of the guys I'd love to get on
+this channel as well. And then Gordon Brown, former UK prime minister. I mean, these are big
+hitters that you've joined forces with here. Clearly they're concerned as well, concerned
+enough to write this book with you. Look, the book is called Permacrisis, a plan to fix a fractured
+world. Can you maybe just define for us what you all meant by Permacrisis and what its key
+components are? Yeah, so I think that the title captures part of what we're after, which is
+a cascading sequence of crises. So we go back to the Asian financial crisis
+in the late 1990s and then the great financial crisis and the pandemic,
+then wars, now two of them, and climate shocks that are devastating
+various parts of the world and coming with increasing frequency and severity.
+And so we sort of thought, and I think the idea was this is a pretty confusing
+environment. And so maybe we can sort of make some sense of it a little bit, not completely.
+Nobody's arrogant enough to kind of be able to see through all this and then help people
+sort of navigate, whether they're companies or individuals or policymakers in various parts of
+the world. But when we looked at it carefully, I mean, it's a pretty daunting set of conditions
+that we face on the supply side of economies, on kind of regime change in the global economy,
+you know, a problem of mindsets that were conditioned by three decades of
+pretty benign conditions, no inflation, very low interest rates and costs of capital and so on.
+You know, and so we think it's sort of changing pretty fast and there's lots of, you know,
+problems, accidents, and so on that go along with that. We don't really have a plan to kind of fix a
+fractured world, but we thought if you start with an understanding of what we're dealing with,
+there's a lot of serious people, you know, because some committed to climate change,
+some committed to sort of increasing equity, some committed to try to reverse the kind of
+fragmentation and the global economy, some very concerned with kind of polarization
+and governance issues in our society. And so we thought we can probably at least help people by
+identifying what I call "mini-steps" in that direction. But on the authors, I mean,
+it's hilarious, you know, we have Gordon Brown, former Prime Minister of Britain and the longest
+serving Chancellor of the Exchequer in the British government, at least for a long time,
+and Mohamed Olerian is one of the most visible and knowledgeable commentators on sort of
+macroeconomics, financial markets and monetary policy, and then that other guy.
+Not at all. Other guy who happens to be a Nobel Prize winner in economics.
+Look, I'd love to dive into at least a few of these problem areas first, and first off,
+let me commend you as well. There's a lot of talk on the internet and on YouTube, and I've done a
+lot of it with a lot of other experts on what's wrong. There's not a lot of talk about what to do
+about it and the fact that you guys did what you could to start laying down the seeds for
+betterment. I commend you for that and I do want to talk to those micro-steps that you talked about
+in a moment. Before we get into the problems, and I guess we'll start with the economic ones
+because I'm guessing those are the ones that you understand best.
+Let me just ask you this because you sit at a really interesting intersection.
+I will say that there's sort of a skepticism that I think a lot of people in the public have about
+kind of our sovereign and corporate leaders these days, and that they're out of touch,
+they're driving their own interests or the interests of corporations, and they don't
+really care that much about the general public, and that they see these problems necessarily.
+Sometimes they maybe don't think these people really see them or appreciate them that much
+or they see them as opportunities to continue advancing their own agendas or enriching
+themselves. I think you live in a really interesting world where you spend a lot of time looking at the
+data and understanding the world through the data, but you do interact with a lot of
+these power players at different points of time. What's the reality like? Are these people
+genuinely more engaged in trying to solve these problems and whatnot, or is it more
+either a Game of Thrones or a let them eat cake type of world out there?
+Well, I think historically it's not a pretty picture, including for a long time my profession
+took the view that globalization and trade was basically a good thing, because in the aggregate
+there was benefits. If somebody said, "Yeah, but not everybody benefits, and some people probably
+get hurt pretty badly," then somebody would say, "You can compensate the losers." The problem with
+that is that there's no practical way to get that job done. I think one of the more attractive
+trends in the economics profession in the last 10 to 15 years is much, much more serious attention,
+and I think it is serious, not just words, to distributional issues. They're incredibly
+important, in part because we've come to understand that this is really political economy.
+You can't implement stuff in terms of governance and policies that drive change if everybody's
+decided to get off the train. That in some ways is a pretty good description of where we are.
+There's a massive loss of trust in institutions of various kinds, in various groups of people,
+exactly as you just said, Adam. That then makes it harder to move forward and do something that
+is designed to help everybody and their children and grandchildren. We wrote this book because we
+thought if we stay on the same course that we're on now in multiple dimensions, we're not going to
+be proud of the world that our children and grandchildren inherit. I think that's right.
+Now, let me go beyond my profession. Is there more serious interest now as you go around the world
+and talk to people who are arguably in positions of power? I think the answer is yes. Is it
+universal? No, I don't think so. I think there's still people who think the world that we've
+lived in before was terrific and don't really internalize the pain that was caused by some
+aspects of those growth patterns. It's a mixed picture, I guess, but the trend seems to me in
+the right direction. It sounds like you said the skepticism has been earned, but we have at least
+a slow awakening or changing happening, but it's a slow process and not everybody's
+on the same train yet. But we'll try to be optimistic. I'm curious. Did you write the book?
+Sorry, go ahead. No, I was just saying the amount of attention that -- there's a group
+of economists now who are very influential, Thomas Piketty, Emmanuel Saez and others,
+talking basically about distributional issues, so they're just getting a lot of attention and I
+don't think it's just in economics, and this is really serious sort of long-term data intensive
+work that's designed to convince people that we really need to think about these things, so
+I don't think it's just words. Okay, sorry I've got so many questions here for you. I'm going to
+try to flight them in an intelligent order, but do you feel -- and don't let me put words in your
+mouth -- but do you feel like we are hurtling towards -- I guess crisis is the right word,
+and of course you wrote your book Permacrisis and maybe I've already answered the question,
+but do you feel like we're sort of on a trajectory to a mounting crisis unless we
+proactively find a better way to start doing things? In some dimensions, yes. In some
+dimensions, no. So the one where I think we're hurtling towards something pretty bad
+unless we change direction pretty quickly is the climate change. You know, we're -- and the
+scientists are using increasingly alarmist language in talking about it. I think the
+one they've landed on most recently is probably the most effective, which is if you think
+of there being a carbon budget associated with holding temperature increases on average to 1.5
+degrees Celsius, that carbon budget on our current trajectory will be used up, I think, before the
+end of this decade. And so -- and that's a pretty kind of daunting task because it's hard to imagine
+changing course on a global basis fast enough to prevent, you know, some overshoot of that
+carbon budget. That one, I think, has existential sort of issues. Many of the other things we talk
+about, you know, or it's -- the question is basically underperformance, right? The global
+economy is fragmenting. Some of that's inevitable because we have, you know, strategic competition,
+an override that has to do with national security, economic security, energy security, food security,
+all kinds of things are modifying the way the global economy runs, you know, as compared with
+before where basically the only considerations were economic efficiency and comparative advantage,
+right? So that's not -- we've left that world behind, but that doesn't mean we have to kind
+of give up on everything and the benefits. We just have a more complicated architecture to
+construct collaboratively, you know, on a global basis to kind of try to get it done.
+So that would be an example where, you know, the failure is not perhaps catastrophic unless you're
+talking about the low-income countries that might just get cut off at the pass. But if you're
+talking about ordinary citizens in the wide range of middle-income countries and the developed
+countries, this is just, you know, underperformance. And then the same thing goes for macroeconomic
+policy. You know, if your mindset is conditioned on the previous three decades with very little
+inflation and so on, then there's a lot of accidents and mistakes. There's an awful lot of
+debt out there, sovereign debt, etc. You know, we're living in a rising interest rate environment.
+Unless you think after the inflation fight, all the interest rates are going to come plummeting
+back down to where we were before, close to zero. You know, there's a kind of difficult
+few years of transitions here to deal with and we're just trying to kind of increase awareness
+of that, but they're not total collapse scenarios. Yeah, it's not like existential to
+the species that perhaps if climate-wise we lose our food systems, it could be.
+You're taking it right where I want to take it on the economic side of things. Real quick,
+I just want to shoehorn one question and to get it out of my mind, which is who did you write this
+book for more? Was it more for the policy makers and the decision makers or was it more for the
+average person? It's really a combination, right? I personally, I think I would say the same for the
+co-authors. We recognize not everybody's going to want to pick up this book, but we wanted to write
+it in such a way that a wide range of people were kind of interested and concerned about what's
+going on, had access to it, so that it's not for people who are in some sense kind of involved in
+these issues in the technical sense. And by the way, that's why we had a fourth co-author,
+who's very important, a very smart guy named Reid Liddell, who's worked with Gordon Brown before,
+and you know, and that was our serious attempt to do two things. One is to make it accessible
+because he's a really good writer and he's really smart about understanding, you know,
+what the issues are as well. So that was part of it. And the other part is if three people
+wrote three papers and that was the whole story and the book would look like three papers glued
+together as opposed to a book that was written collaboratively by three people. So Reid's a
+pretty important part of that. So I would say, I mean, in summary, we did not want to write this
+for a highly specialized audience. Okay, great. So, you know, obviously the implications of all
+these things appeal to everybody, but it's a book that the average person can become better educated
+about what's going on, hopefully take some preemptive steps today that might improve their,
+reduce their vulnerability going forward, and obviously hopefully influence some of the people
+that are in positions to actually help with the decision making on some of these issues. Okay,
+now to the economy. You mentioned the one word that I was going to get to with you if you hadn't
+brought it up, which was debt. So I think one of the big questions that's out there
+is does our current economic model have sort of, I don't know, a reckoning
+moment kind of built into it on the debt side of things? If we keep amassing debts at the way that
+we currently are, at least in the major western economies right now, does that get to a point
+where the system can't operate as intended? And as a good example of that, which we seem to be
+approaching in a faster and faster rate right now, is when the debt service cost on your national debt
+starts eating up all of your tax revenues, that begins to become a really big problem.
+Absolutely. So the question is how are we going to get from here to there?
+So let's backtrack a minute. If you think all this stuff was transitory, which is what the
+central banks thought for a while as we came out of the pandemic, then you don't worry about it
+too much because it's kind of annoying right now. But these impacts like declining fiscal space,
+which is what you were just talking about, are going to go away. So part of our purpose
+in writing the book was to say nobody knows with great certainty what's going to happen
+over the rest of the decade, but I often ask people the following questions. So we lived in
+a world after the great financial crisis which had the following characteristics. One, very low
+approaching zero interest rates. Two, massive injections of liquidity into the system designed
+to try to relax the demand constraints on growth that resulted from the balance sheet damage in the
+great financial crisis. And three, all of that in the presence of essentially no sign of inflation
+and inflation lurking below targets. So I say to people after I describe some of the supply side
+constraints that are secular and new and non-transitory, and then say, you know,
+do you want to bet your kids savings that we're going to go back to the world that we, you know,
+lived in up to the pandemic? Most people kind of snap to attention and say, well, maybe not, right?
+So my version of that, and I'm not, you know, people, there's a range of opinions on this,
+is that we're going into a world in which as long as these supply constraints are as binding as they
+are, that inflation will be a persistent threat, and by that I mean any demand surge is going to
+produce inflationary pressure. It's going to be a world with higher interest rates, higher costs of
+capital, lower valuations, and a difficult transition from a relatively highly indebted
+world, including sovereign debt. Okay, so just to underscore, I think you just said it well,
+but you really do see sort of a pre-pandemic era trend and a post-pandemic era trend where we had,
+I mean, depending on how you look at it, sort of almost 40 years of disinflation and
+lowering cost of capital and increasing liquidity intervention by the central banks to now at least,
+it sounds like you see secular inflation from here, secular higher cost of capital from here,
+and maybe sort of spotty or episodic central bank intervention, and we're certainly in an
+intervention off moment at the moment right now, at least in the major economies. If we
+start getting into trouble with the markets again or something breaks under these higher interest
+rates, presumably a lot of people think the central banks may intervene again, but if they do
+and they restoke inflation like you're talking about, we may be in the sort of stop-start world
+going forward. Did I summarize your outlook correctly? Yeah, except you said four years.
+I would have said more like three decades. Oh, I'm sorry. I meant F-O-R years, like four years,
+not four years. Four years, yes. We lived in that world and a lot of generation and a half of people
+think that's normal. That's when all was said and done and you take the shocks away. Oh, I'm sorry,
+40 years is what I meant, which was the decline from the interest rate heights in the 80s,
+right? So we had like four decades basically of people getting attenuated to that world, right?
+Exactly right. Yeah, so it's that transition and the mindsets, changes that have to go with it,
+if we're right. I mean, we call what you just described regime change. It's a fairly big change
+in the way the global economy operates, and at least from my perspective, it's because
+for the first time we have serious supply-side constraints. The elasticity, both the cost and
+the elasticity on the supply side have changed in a way that makes for a different world.
+Okay, so in that world, if it's characterized by those factors,
+those all pretty much weigh on economic growth and we've had declining economic growth compared
+to previous eras in the 20th century, even during that 40-year kind of Goldilocks period I just
+talked about, right? So we've had not great growth and we're probably going to have even worse growth
+going forward given these headwinds that you mentioned. So I imagine that manifests in just
+being able to grow less and therefore I use the term lower valuations going forward. Are
+investors going to have to kind of prepare for a world where they're not going to get this
+steady eddy just by the dip, the market only goes up year after year after year? Will they
+need to readjust their expectations about what returns are possible in the markets?
+I think so. I'm not suggesting that there won't be sort of
+growth spurts, there won't be sectors that have high growth potential, at least I try to invest in
+those through people I trust who know what they're doing. I don't mean to paint with an
+excessively broad brush, but are we going to live in a world in which valuations are driven by very
+low discount rates in the indefinite future? I don't think so. So it feels to me like a very
+different environment and people in the private equity world are feeling this transition to a new
+set of valuations is not a fun process. I mean, we've done this before, we did it in the internet
+bubble and we're doing it again. And the private equity markets respond more slowly than the public
+ones. So the public ones, this is a new reality, we're adjusting to it, maybe not instantly,
+but relatively quickly, that happens more slowly on the private equity side and is a difficult
+process. Right. Okay, so here's where I'm going with this. We have had a pretty violent regime
+change in both inflation and cost of capital. When you look at how far and violently a
+short period of time interest rates have risen and now yields on debt have risen,
+it's almost unprecedented. And yet we haven't gone into recession. The markets had a bad year
+last year, but it wasn't like a market crash or anything like that and they're up this year.
+So I know you're not a market strategist. You sit way back, operate at a much higher
+level on what's going on the economy, but are you surprised that we have not kind of
+lurched into some sort of recession given this shock to the system? And do you think
+one is avoidable? Because this year we heard a lot of talk about -- seemed like everybody thought
+we'd be in recession starting 2023, but then the narrative changed to soft landing and then no
+landing. Do you think the odds are good that we can escape having to avoid some sort of
+blow or injury from this violent change in interest rates?
+Yeah, I think so. I mean the economy, I think everybody's surprised, the American economy
+has turned out to be stunningly resilient. I attribute that to a couple of things. One is
+the fundamental kind of dynamism is still there. And secondly, in the pandemic the government took
+a huge amount of balance sheet damage in the corporate sector, including small businesses
+and the household sector, and transferred it to the sovereign balance sheet, which left the
+balance sheets as compared with the GFC in critical sectors. I mean in the household
+sector if you wreck the balance sheets it won't take long before you've wrecked consumption.
+Consumption's holding up fine and I think that's partly a result of some pretty smart
+policies. I mean they have consequences. Sovereign debt at 100% of GDP is different from
+sovereign debt at 60% of GDP in a rising interest rate environment, and so we got to deal with that.
+Inflation was a consequence as well, right? I mean sending direct stimulus to households
+increased the velocity of money and therefore we got inflation? Yeah, so you combine supply
+side constraints from all kinds of sources, aging, diversification of supply
+change which is an expensive proposition, declining productivity and all that, and then
+produce a demand surge which is partly just pent-up demand coming out of the the pandemic,
+but turbocharged by relief of balance sheet damage in the household sector, and sure
+you're set up on both sides of that equation, right? The supply side isn't
+going to respond very quickly anymore unlike the past, and the demand side is surging
+at a tremendous rate and you get inflation. And the bet, and remember the bet the central
+banks made, and the reason why the interest rates went up so fast is because they got started late,
+was that the supply side constraints were transitory. We'd be transitory, yeah. We were
+transitory and so all of a sudden this demand surge would be accommodated by adjustments
+and some of them were transitory. I mean, let's be honest, right? Ocean shipping costs aren't
+$10,000 per container anymore across the Pacific. They're back down to $2,000. China wasn't
+going to stay in zero COVID mode, although the bounce back has been less dramatic than most
+people thought. The semiconductor industry is more or less sorted out in terms of
+kind of blockages and supply shortages, and since they are pretty much intermediate products in
+every sector in the economy practically, that's a pretty dramatic change. Some it was transitory,
+but what was missed was the non-transitory part, right? In which non-transitory elements do you
+think are most important going forward? Is it the redrawing of supply chains and reshoring more of
+the labor? Which ones have you sort of most convinced that inflation is going to be
+secularly higher as a result? So I think there's several. One is the fading of the emerging economy
+growth story. You had massive amounts of productive capacity introduced into the
+global economy. That's still going on to some extent, but there isn't another China
+out there, okay? We're just not going to do that again. And that produced dramatic deflationary
+forces. I mean, if you look at the 20 years coming up to the crisis, at the components of the
+consumer price index, everything that was imported declined in nominal terms. That's even before you
+subtract the overall rate of inflation to get the real effect. It's just dramatic. I mean,
+if you took that away, we would have had an inflationary environment. So that's one.
+Two is this aging. I mean, we really are aging. And it varies from place to place. But a lot of
+the baby boomers have decided enough is enough, and they've stopped working. But they haven't
+stopped consuming, right? So you get an instantaneous, nearly instantaneous kind of
+break. There's huge changes in labor market behavior. We have shortages in all the major labor,
+you know, I mean, big labor markets in the United States. Pick any one. Government, healthcare,
+you know, traditional retail, hospitality, construction, right? I mean, people have changed
+their behavior. They don't want to work when it's inflexible, or dangerous, or stressful, or low
+paid. Right. And that also combines with your demographic number two there, which is we just
+have 10,000 boomers basically taking themselves out of the workforce every day, right? Yeah,
+exactly. Right. And then you've got this, you know, I mean, I think the other than the declining
+productivity trend, which I'm hoping will be reversed with, you know, the application of
+technology, but we'll get to that later, is in the global supply chains are being constructed
+on a completely different basis, you know, in pursuit of resilience, and security, there's a
+dramatic- Cost being an important part of that, right, going from low cost to higher cost in most
+cases. Yeah, I mean, here in Europe, we're diversifying at light speed, away from dependence
+on Russian fossil fuels. It's a very expensive process, right? Maybe Americans don't feel this.
+I mean, they feel the energy prices going up, and they're about to go up again, I'm afraid,
+because of the most recent conflict. But yeah, I mean, that's a good example. But it's going on,
+really, for the first time all over the world, right? We're just not building supply chains by
+going to the low-cost source anymore. We may stay with the low-cost source, but we're going
+to diversify, and companies are doing it, and for the first time, economic policy is kind of right
+behind them, essentially pushing in the same direction. Okay, so I've got like five hours
+worth of material to do. Dean Spence, don't worry, we're going to keep it all within the hour here,
+but right now, in the US at least, the Federal Reserve is largely pumping the brakes, right?
+It's been raising interest rates. It's been doing QT. It's trying to get inflation down back under
+its 2% target here, right? But on the fiscal side, government spending has been at one of the highest,
+certainly, percentages of GDP we've ever seen and never seen this high outside of a wartime
+situation. So in many ways, the administration and Congress are kind of hitting the gas at the same
+time that the Federal Reserve, the central banks, are trying to hit the brakes. Obviously, that's
+got to not help with getting inflation under control. Do we kind of have a mismatch of policies
+going on right now? Could we be more effectively joining our policies than we are right now?
+Yeah, I think so. I mean, that's something that Mohamed writes about a lot.
+So we lived in a world, I mean, he wrote a book called The Only Game in Town, and he meant the
+central banks, right? So in a world where there's a kind of demand problem, and the supply side isn't
+really an issue, or people think it's not an issue, then basically, the central banks are sitting
+there. Nobody questions that they can cut off demand with interest rates, eventually, working
+hard at it. There's a different question, which is whether they can generate demand by lowering
+interest rates, given the zero lower bound and limits on the amount of liquidity they can pump in
+and whatnot. But yeah, I think we do need supply side policies. So it's not a question of just
+saying, well, the government shouldn't be sort of stimulating the economy at the same time
+that the central bank is fighting inflation. But a real conversation about kind of getting the
+balance right. I mean, a lot of the government spending, not all, is associated with a big
+set of expenditures associated with pandemic recovery. And then you had the so-called Inflation
+Reduction Act, which is our kind of re-entry into the kind of sustainability agenda. And you have
+the Chips and Science Act, which has multiple objectives, you know, I won't bore your listeners
+with. I mean, part of it is just plain long-term growth and an investment in technology. Part of it
+is national security, bringing enough stuff home so that if we have to expand it, we will be able
+to do it. And there's not just one Taiwan Semiconductor Manufacturing Association in the
+world. Exactly. This is the resilience you were talking about. Yeah. This is the resilience. And
+then part of it's just holding China down. What everyone thinks about whether that's a good idea
+or possible or whatever. So it's a kind of complicated mix of a whole bunch of different,
+at least three different things. But anyway, they're pretty big expenditure items. And
+I don't think, I mean, some people think they're just a waste of money. So there's a range of
+opinions on that. I don't. I think you need to invest in sort of long-term human capital
+technology and so on, if you want to drive long-term growth in the economy. So that's
+not the first thing I would consider cutting. But then you have a real kind of coordination
+problem between fiscal and monetary policy. I mean, some people think, I think it's a growing
+number that the central banks can't talk about changing the inflation target because, you know,
+as you start moving the goalposts, then you lose your credibility. But lots of people think,
+you know, they may sort of settle down at 3% eventually. And in a world that's changing
+structurally and where relative prices are changing fairly fast, maybe 3% isn't crazy
+if it's credible and stable. Okay, got it. I'd love to keep diving into that, but I want to get
+to the solutions part. Real quick before I do, I'm just going to chew on this bone one last time.
+You talked about the US economy being more resilient than most folks expected.
+And of course, there is stimulus going in. We just talked about some of that.
+But you sort of talked about how the ripple effect of the lag effect, or maybe the lag effect ripples
+across different markets at different speeds. And you talked about how private equity is slower.
+And clearly the housing market is moving slowly right now. It has frozen, but prices haven't
+come down. But the general inverse relationship between cost of a mortgage and price of a house,
+we've seen mortgages more than double, we've seen prices of housing go down by like a percent
+nationally. So my question is, do you expect to see more of the lag effect express itself as
+time go on here, and maybe more defaults begin to ripple through the system as these slower markets
+begin to feel the brunt of that, and the longer we remain higher for longer, to use Powell's words,
+the more balance sheets across America, both corporate and domestic or personal household,
+begin to re-rate at higher rates, and in some cases, much higher rates. For a lot of companies
+that are sitting on a current capital structure that has 3% debt, when those come up for maturity,
+they're going to be re-rating at something over 2x that.
+Yeah, no, that's right. I don't think of myself as an expert on the exact timing in these markets,
+and there are people who make their living understanding and communicating about that.
+But in general, we've seen this before, when you have a big change in housing prices,
+there's a lag. What happens first is the transactions dry out. Why? Because the sellers
+don't believe it. It takes a few months before they decided the value of the thing fundamentally
+changed. I saw this here in Italy. When trouble hit in the sovereign debt crisis, which followed
+the great financial crisis over here, things got pretty ugly, including in the banking sector,
+people had trouble getting mortgages at all, regardless of the price.
+And the housing market froze up. People just didn't believe that their €2 million
+apartment wasn't worth €2 million anymore. And it takes quite a while before those adjustments
+occur. So yes, there's bottom line as well. I'm not an expert. There's clearly lags.
+There's lags in the refinancing. There's lags in believing the new market conditions and so on.
+I think down the road, we could have some damage in terms of people's balance sheets
+and whatnot that we haven't seen so far. Okay, great. That's exactly where I was going,
+just to get your opinion on that. Okay, thank you for sharing. All right, so now to the more fun
+stuff. So we've talked about some of the big challenges we face. What are some of those
+micro steps, at least, that you and your co-authors advised that we, either as a grand populous or just
+as individuals, should consider embracing to help mitigate what may lie ahead? So the overlay,
+in my mind anyway, when we went into this, and in general, is notwithstanding the kind of turbulence,
+the crises, the headwinds, and so on that we've already talked about, we're living in a world in
+which there's three enormously powerful scientific and technological revolutions underway. One is the
+digital transformations, multi-decade, and it looks to be getting more and more powerful as we go
+along. We were writing this book when, you know, generative AI kind of hit the public awareness,
+and it's stunning. We'll come back to that. But there's a revolution in biomedical science and
+life sciences going on, and then there's this fair amount of technology that's pretty impressive in
+the energy transition that is the essence of the sustainability agenda. So I thought, and when I
+went and looked, you know, what I thought I found was not only was there sort of stunning
+breakthroughs, but that you had really powerful technologies that were widely accessible and
+declining in cost, and so therefore, you know, available to people. And I thought, well, you know,
+with tools as powerful, we ought to be able to engineer something that looks a little bit
+different from what's going on now. And that's part of, I think, the answer. I'm not sure they're
+many steps, because they won't happen overnight. Gen AI is probably going to transform
+among the whole range of economies, but it won't happen tomorrow or even next year.
+We're in a period of intense exploration and experimentation because it's so new.
+But, you know, if we're right, that has the potential really across the economy to change
+the kind of the business models and ultimately produce an enormous productivity surge.
+It's transformative, right? So the kind of flip side of the, you know, it's a pretty tough world,
+we've got geopolitical tensions, we've got polarization, we've got supply side constraints,
+and so on, is we've also got these incredibly powerful tools. Let me give it, I mean, I'll give
+you two examples. Solar has caused about somewhere between a fifth and a tenth of what it did 10 years
+ago. I mean, it's amazing. You know, in the proper kind of environment, it's competitive with
+traditional fossil fuel based, you know, electricity generation. The one that I don't
+think most people know about, except in the tech world, is, you know, DeepMind, which is now was
+bought by Alphabet, Google, has done a lot of stunning things. The one most people, you know,
+may have heard of was me kind of winning the game of Go in two rounds on the second round by playing,
+by the AI's playing against themselves. But the one that I think is very striking is called Alpha
+Fold. And basically, they, they set themselves the task of predicting the three dimensional structure
+of proteins from the amino acid sequence that defines it. Sounds technical, but the three
+dimensional structure is absolutely crucial, because that determines what, you know, what molecules
+bind to. So it's for pharmaceuticals, you know, vaccines, etc. It's just crucial. And it, and it
+can be done in a lab, but it takes, you know, somewhere between months and years to figure it
+out. And so they said, well, maybe AI can help. And we'll see if we can predict the three dimensional
+structure of these things. And basically, it worked. I mean, the predictions aren't perfect,
+but they're pretty good. And once they realized they'd done it, then they took the 200 million
+known proteins in the world, predicted the three dimensional structure, and published it as open
+source. Anybody in the world can go look it up. And so while that's not going to intersect
+anybody's lives directly, it may intersect them when, you know, they when, you know, immunotherapy
+kind of, you know, gets advanced, and they don't die. But in the world of biomedical science,
+it's a productivity enhancing shock of enormous magnitude. A seismic event. Yeah. So, okay, so
+what I hear you're saying here is, you know, sort of from a humanities prosperity stake,
+we should really be leaning into these technologies that have the benefit of,
+I think, increasing at exponential rates in terms of their ability to progress. And they also
+oftentimes can drive down costs exponentially too. So there's two exponential curves that
+are helping you out there. And that's fascinating. We don't have time to go through the individual
+examples in the book. I recommend that folks go to the book and do that. Let me ask just
+a question here that sticks in my mind about this. And I'm curious if you share this issue or not.
+I believe it was Keynes who talked about technological displacement,
+where he basically said, look, if you can, if you can displace human labor by, you know,
+transitioning to some sort of, you know, alternative solution, and in the old days,
+it was, you know, cars over horse and carriages, right, that type of thing,
+said you should, you should always do that. That makes economic sense. But you have to be careful
+at the rate at which you do it. In other words, if you displace the labor so fast, if you displace
+the labor faster than your ability to repurpose it to, you know, a higher productive use, you end
+up creating a societal problem that may be more costly than the economic gains that you are
+creating. And I do wonder in this era of automation and AI and whatnot, that we are quickly hollowing
+out the job market, maybe even at a faster rate than we expect, because AI is really going to be
+able to go up the stack of skills, right, and start displacing a lot more white collar workers
+than folks even imagined to. Where just the question is, what are we going to do with all
+these people, especially if we start making them live a lot longer through all these biomedical
+advances as well? Do you think about that? Oh, yeah, no, I mean, so this is a lively
+kind of discussion that's going on. And it's not the first time it's occurred. I mean,
+it's been going on since the start of the Industrial Revolution. Right. But, you know,
+digital is different. So, you know, we can't just rely on kind of historical experience.
+So I mean, I think there's two things to say about it. One, you know, there is an issue of pace.
+So that part's right, right? You can do some stuff so fast that that kind of structural
+adaptation that's essentially inherently limited in any economy, you know, people don't change
+their behavior, they don't change their skills, organizations don't change their business models,
+you know, overnight. So there's natural things that slow things down. But you can imagine some
+serious imbalances, you know, that and that are disruptive of people's lives on the way through.
+So that's point one. Point two, is everybody thinks that digital is when it comes to jobs
+is automation. Just automatically. If a senior hospital administrator starts talking about using
+AI, there's panic. And the panic is, they're coming for jobs, right? And it's not necessarily
+an accurate description of what's going to happen. So part of the reasons for writing about this,
+I just wrote something with James Manica on this in Foreign Affairs, is, you know,
+to kind of help people understand that that's not necessarily where we're going.
+Erik Brynjolfsson at Stanford wrote an influential paper in a Daedalus volume that James edited,
+or really put together. It's an extraordinarily useful volume, by the way, it's on AI.
+It's and it's got everything in it. It's not just economics, it's the AI people, it's, you know,
+it's, you know, artificial general intelligence and when it's going to happen and all kinds of
+things. But he said there's a there's a there's a thing called the touring trap. It's his term.
+And and the idea is, I think, important, which is Alan Turing, who's a genius.
+Developer of the computer, basically.
+Yeah, basically. Yeah. We propose that we evaluate progress in the digital domain,
+where what became the digital domain, by imagining asking the question, you know,
+can we produce a machine that interacts with the human in such a way that the human thinks
+that he or she is interacting with another human? So that was the Turing test, right?
+Most AI is evaluated when you just read the literature based on how it performs relative
+to humans, right? So in image recognition, which is a revolutionary development in the last decade,
+though, you know, all the attention is focused on when they cross, you know, and, and they again,
+and the AI identifies the images better than the average human. Or, you know, Gen AI takes
+the LSAT test and performs better than the average test taker. This is a law school aptitude test,
+right? That's okay. There's nothing's gone wrong so far, because it's probably a pretty good way
+to benchmark progress. But it's a very short step from there to say, well, okay, so now the AI
+performs better than the human in this test. So we'll just replace the humans. And that's where
+the automation bias comes from. Right. But remember, these AI's are prediction machines,
+they're not perfect, right? There's a, you know, a well known story that was written up in the press
+of a doctor who used chat GPT to prepare a brief and didn't check it. Right. And handed it in to
+the court. Well, it turns out, you know, that we know that these things have hallucinations,
+is the term that tech people use, they make stuff up, right? This one made up all the legal
+precedents that were handed in. Right. So that doesn't surprise me. Yeah, no, I mean,
+so that probably won't happen too many more times once people get the hang of it.
+You know, and, and so, yeah, I mean, I'll give it another example. These, an AI is going to write
+the first draft of a report that a doctor writes, doctors spend an incredible amount of time writing
+up reports, because they have to write, we need that information in the system. The AI will write
+the first draft that probably reduces, you know, 80% of the doctor's time. Right. So if you define
+the task, as the first draft, that's automation. But no doctor in their right mind, is going to
+hand in the first draft, right, they're going to check it. That's the other 20%. And if you define
+the task as producing the report that's needed, it's human machine collaboration. It's augmentation,
+you have a powerful digital assistant that does something that uses up a lot of your time
+that we didn't have before. I mean, it's an incredible achievement. And, you know,
+will a doctor spend more time on medicine, probably, maybe they even spend a little more
+time on the golf course. That's okay. Or just more time with their patients, which would be
+wonderful. We're all familiar with the other. What I really want to say is, when you go looking
+carefully across a wide range of potential applications of this, you get you get the same
+story with slight variations over and over and over again, right? That dominant, the dominant
+impact is likely to be once people learn how to use this powerful digital assistants, assistants
+and machine, you know, human or even machine systems, collaboration. I mean, they're starting
+to use AI's to try to increase the transparency of these incredibly complex things called global
+supply chains. They're completely opaque. No human being can kind of figure out all
+because they're too complicated. Yeah, they're just too complicated. And, and yeah, exactly.
+Right. I mean, there's a little bit of fragmentation of the data, but they're just
+too complicated. That's likely, I'll stop, but I mean, they're, you know,
+I mean, people who've studied at the Stanford Business School remember what the bullwhip effect
+is, right? You know, there's some people out at the end of supply chains reacting to the latest
+thing that somebody on the next part of the supply chain does. You'll be pleased to hear,
+Dean Spence, that I have created videos dedicated to explaining the bullwhip effect from what I
+learned at Stanford. That's great. Okay. Then I don't have to explain it anymore. But anyway,
+so that could materially transform that. Anyway, bottom line is, I think there's real potential
+for this to be dominantly augmentation when you stand back from it far enough. And, but there,
+but the last thing I'll mention, because it's, your question is really important is implementation
+is going to be critical. You know, you can't stand up and say, geez, we found this wonderful
+technology, we're going to introduce it, and have people sitting there thinking, you know,
+they're coming from my job. So the soft skills, the implementation of major structural change,
+or business model change, is going to be just as important as the technology itself.
+Okay. So what I'm taking from this is, I imagine, correct me if any of this is wrong,
+your advice to the average viewer here would be, you know, skill up on AI, like a lot of us just
+have heard about it. We think, oh, it sounds sciency, and I've got my life to focus on here,
+I'm just not going to really pay all that much attention to it until it's right in front of my
+face. My guess is you would say, be a little more proactive than that, lean into it, look for ways
+in which it can help you do what you do better and be at the forefront of this wave. From a policy
+standpoint, I hear you saying, we can't just let the free market ride this thing. There's going to
+have to be a partnership with policy that says, you know, how do we let this thing get out into
+the world in a way that doesn't necessarily create the societal issues that Cain warned about with
+technological displacement? You're sort of nodding as I'm saying all this.
+Yep. No, I think the policy thing has two sides to it. One is, there's a lot of potential damage
+and, you know, downside risk associated with the inappropriate use of these technologies. So,
+you know, policy has to deal with that. And that's multi-dimensional. I mean,
+the AI read your book and integrated it into the way it thinks about the world.
+Is there some intellectual property issue there? Probably yes. And we don't know how to handle it
+yet. The other part is positive, right? I mean, you know, we could have this, you know, tech and
+finance going full speed ahead with AI and a whole bunch of sectors lagging behind. We've done this
+before in earlier rounds of digital transformation. And we're not going to get the productivity surge
+and we'll get, you know, highly unequal results across sectors, you know, if we get that kind of
+divergence again. And government has a role in, you know, accelerating and increasing the footprint
+of the adoption and diffusion options for small and medium sized businesses. You know, JP Morgan,
+can spend a ton of money, you know, experimenting with AI in the way they do business, you know,
+a smaller business doesn't have the resources. So, yeah, there's a role for government on both the,
+you know, the positive side of the use of the technology and preventing, you know, some of
+these downside risks. I would say, I think James agrees with this, that the policy agenda at the
+moment is heavily biased toward the downside. Right. And we're kind of this, the paper is a little
+bit of a plea, you know, not to ignore that, because it's important, but pay attention to the
+upside potential as well. All right. Dean Spence, this has been a fantastic discussion. In our last
+couple minutes, I want to get to one more topic real quickly before I do. Where can people buy
+this book? Just anywhere books are sold? Yeah, in America now. It was published in the UK,
+but distributed in the United States, and I believe it's widely available now. And you can
+certainly find it on Amazon or any of the online booksellers. So we'd love it if people take a look
+and give us some feedback. Okay, great. And again, folks, it's Permacrisis, a plan to fix a fractured
+world. Dean Spence, in just the last couple of minutes we have here, I do want to squeeze in this
+question for you, because as I said earlier, you gave us some wonderful advice throughout our
+tenure at Stanford. And I remember sitting, people have heard me tell this on previous videos,
+but I remember sitting in a room with you and a bunch of other of my classmates as we were getting
+ready to graduate. And you were kind of just taking Q&A from folks. And one person said, "Hey,
+Dean Spence, I've got a job offer doing what I did before that's pretty lucrative, and I'm kind
+of lukewarm on it. I could do it. The one that really excites me is this other one, but it's in a
+field that I've never worked in before, and it would require me moving out with my wife to
+this new place that we've never lived before, and we're in the process of starting a family."
+And your advice was, as I recall, was, "Hey, you get ahead in life by taking risks, and that you're a
+fan of risk-taking, but calculated risk-taking." And your warning was, don't take on too many risks
+in parallel, because if you do, you risk not being able to do any of them well, and you're sort of
+sacrificing your odds for success. I've really taken that to heart in my career, and it actually
+was a factor in my recent decision to go independent. I had a lot of things going on
+this year that were unexpected, and I was able to sort of flight them in serial versus parallel so
+that when I took this big leap, I wasn't burdened with undue other risks at the time. So I'm just
+curious, do you have any other bits of advice like that for just sort of general success in the world
+given the fact that you've had such a successful career but you've helped so many other people
+birth some phenomenal careers? Well, when I was writing my thesis, a lot of thesis advisors
+would have said, "That's kind of risky. Nobody's heard of that. Why don't you do something else,
+and then you can go back to that later after you have a job and have taught or
+gotten tenure and stuff." And my thesis advisors didn't tell me that, and I've always been
+grateful to them. I mean, I think when you're young, you're at your most creative, right?
+For sure. There are just too many examples of this because you're not trapped by conventional wisdom,
+you know, a whole bunch of conceptual apparatus that you can't kind of get rid of.
+I mean, there are advantages to being a little older and having experience, but I think on
+balance and in most lines of human endeavor, there's a big advantage to youth. And so,
+it's the time to take risks and look for something that's truly rewarding, where you
+make a big difference or do something important, but then the calculated part comes in. You know,
+you can't do that on every front at the same moment. I mean, one of the investment banking
+types came along, and I've seen this over and over again, and said, "Look, if you're going to
+take a shot at being an entrepreneur or something, then don't get yourself a big mortgage at the same
+time and do all those other things." I remember being in Singapore, which is a pretty dynamic
+place now, and they were trying to build the kind of innovative side of that economy.
+And I said, "Well, you know, what are the obstacles?" And they said, "Well, you know,
+everybody's supposed to get married and have a house and whatnot, and pretty soon, you know,
+they're in a position where, you know, taking that kind of risk doesn't make a whole lot of sense."
+So, I can't think of anything that is more important, especially for younger folks,
+is what you talked about. But on these technology sides, I think not everybody's going to be
+interested in everything, but this is a really bad time to sit on the sidelines, right, and sort of
+say, "Well, that's kind of in somebody else's world. I don't really understand it." I think
+we get asked this question a lot by business people. I don't think one should rush into
+adopting various kinds of fancy new technology, you know, too quickly. But sort of just waiting
+on the sidelines and not paying attention strikes me as an even more dangerous thing.
+So, what I've tried to do all along is just, you know, go talk to people who know what they're
+talking about in various fields and try to get an education. I guess I learned that as being a dean,
+you know. I was talking to colleagues who were doing this, that, and the other thing,
+behavioral economics, you know, molecular biology, this, that, and the other thing.
+And I thought, A, it's fun to learn about what they're doing, even if you don't get to the
+depth they're at. But it's also, you know, a way of kind of keeping up, I think is the way I would
+say it, keeping up, and then making choices that are based on reasonably current understanding of
+what's going on. Great. Super well said. Thank you for being my dean one more time and coming
+on here and sharing your deep expertise with us and helping our viewers here make more informed
+decisions about what's coming and to underline your point there for folks. This is not a good
+time in history to be sitting on the sidelines. So take Dean Spence's advice and start getting
+educated about what's going on there in the AI world. Dean Spence, I can't thank you enough.
+This has been wonderful. Thank you so much for joining us today. Enjoyed it thoroughly. Thanks for
+having me, Adam. Well, folks, and winding things up here, first, I want to thank you for watching the
+very first video on this new Thoughtful Money channel. As the new independent proprietor, I very
+much appreciate your commitment to the content here and it's not every day that you get to talk
+to a Nobel prize-winning economist. I hope you found the discussion useful. To help this channel
+succeed from here, please do me a favor and hit that like button but very importantly click on the
+red subscribe button below as well as that little bell icon right next to it. We want to get the
+subscriber count up here as fast as possible and clicking that little bell will alert you when we
+have new future interviews lined up and actually we've got a bunch coming into the pipeline.
+Especially the next one coming after this one is going to be with Dr. Mark Fauber and if you've seen
+my previous interviews with him, you know that that is not to be missed. If you'd like to see
+who the remaining 20 plus or so experts that we have lined up over the next two months are going
+to be, head over to my sub stack at adamtagert.substack.com. That's where I'll be putting
+out important updates about this channel in the future so go subscribe to that for free when you
+have a moment. I'd like to say thank you so much for joining me, coming over from my old channel,
+watching this video, supporting this new channel, and thank you so much for your time and commitment
+and support and thank you so much for watching today.
