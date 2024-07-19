@@ -14,7 +14,7 @@ TODO
 * https://github.com/ggerganov/whisper.cpp
 * https://github.com/neofob/tscripts/blob/master/text/pgpt_query.py
 * https://github.com/neofob/tscripts/blob/master/text/query_file.sh
-
+* https://github.com/neofob/Dotfiles/blob/master/instruct.yml
 
 [0]: https://github.com/ggerganov/whisper.cpp
 [1]: https://github.com/zylon-ai/private-gpt
