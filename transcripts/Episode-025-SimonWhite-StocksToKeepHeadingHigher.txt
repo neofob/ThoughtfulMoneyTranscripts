@@ -1,0 +1,971 @@
+Welcome to Thoughtful Money.
+I'm its founder and your host, Adam Taggart.
+Wall Street was extremely pessimistic heading into 2023 and the year surprised to the upside.
+Here at the end of the year, markets are now brimming with optimism and the S&P is trading
+at an all time high.
+So is the momentum likely to continue?
+Or will 2024 be another surprise year for investors, but this time to the downside?
+For an analyst perspective, we turn to Simon White, macro strategist at Bloomberg and co
+founder of the investment advisory firm Variant Perception.
+Simon, thanks so much for joining us today, all the way from Scotland.
+Yeah, all the way fresh from Scotland, even with a genuine Scottish accent as well.
+Alright, well, I love it.
+Simon, I have read your work now for at least a year and a half and wanted to interview
+you and it has taken me a long time to be able to figure out how to make that happen.
+Thank you so much for agreeing to come on the program here.
+I'm very excited for this.
+You write a great analysis.
+You create a lot of great charts, some of which you've already prepared for the audience
+here.
+Can't wait to walk through them with you.
+Really quickly, before we get into the details, let me just start with the general question
+I like to kick these discussions off with, what's your current assessment of the global
+economy and financial markets?
+Yes, very good question to begin with.
+And as you say, very broad, but where we are today, I think is very interesting, partly
+because we are still kind of coming out of the ripple effects from the pandemic.
+And that's obviously just throwing all kind of standard analysis really out the window.
+It hasn't necessarily turned it upside down, but it has pushed things very much out of
+sync.
+So there's an analogy used, the bullwhip effect and to talk about consumers, but you can use
+that thinking about that more broadly.
+We have had a number of cycles coming out of the pandemic and if you think of them like
+different whips, if you like different bull whips, they are out of sync.
+And I think that has thrown a lot of standard analysis out of the window, it's made the
+recession look like it's imminent for a long time now, and obviously we're still really
+not there.
+Certainly when it comes to an NBER recession, I think there's other ways you can obviously
+talk about a recession, but I think you have to be very clear about what you mean and well
+defined.
+And I think the NBER are a good referee.
+And I think also at the same time, we have had very favourable liquidity conditions.
+And so you kind of had these two almost contradictory things that I think have led to a lot of confusion
+in markets.
+You know, economies and markets do not always operate in the same cycle and they don't always
+necessarily do what you think they might do.
+Just because the economy is bad doesn't necessarily mean the markets are in bad shape and vice
+versa, just because the economy is doing well, it doesn't mean that you know you're going
+to have necessarily good markets.
+So we've had a lot of kind of ripple effects that are operating out of sync.
+And I think that's left, as I say, a lot of predictions kind of by myself included, my
+predictions included, you know, I think recession has looked imminent for a heck of a long time
+and it hasn't arrived.
+We've had kind of recession illusion and, you know, one of the reasons for that really
+is that you've had the goods and the service economy have operated out of sync since coming
+out of the pandemic.
+So we had a goods, very strong goods recovery was the first part of the economy to recover
+out of the pandemic, but then it began to decline, but from a very high level.
+And at the same time, you have the services economy was gradually improving.
+And while we've had what looks like, you know, declining goods from a very high level and
+services have continued to rise, we have not had goods and services economies at the same
+time contracting.
+And that's generally what you need to see to have a full blown recession.
+So what has kind of thrown traditional analysis out the window?
+Is it traditional leading indicators such as, you know, the conference boards, LEI,
+for instance, are strongly correlated to the goods economy.
+And so in that sense, they've kind of been right, because we have had a good recession,
+but because the service economy has been gradually improving the whole time, and it's never collapsed
+at the same time, and we just haven't had the two sides of the economy contracting at
+the same time and we haven't had the recession.
+So that's where we are today.
+We can get into, obviously, what the forward looking stuff is, you know, in the discussion.
+But that's kind of where we're left today.
+And I think that's why the real sort of main driver of why things have been kind of difficult
+to put your finger on for the last two years.
+Okay, great.
+Yeah, I do want to go into the details of each of those issues and where you see them
+headed.
+First, let me just ask.
+So I'm very familiar with the Bullwhip effect, actually have put out videos trying to explain
+it for people.
+And they can be highly disruptive, actually, even in normal times.
+But we had the pandemic come and really just, you know, shake the whole global economy,
+scramble everything.
+You said that we're still recovering from that.
+Two questions.
+One, where are we in that recovery?
+Are we now mostly recovered?
+And are we recovering back to a sense of normalcy where the old rules will continue to apply?
+Or has anything been sort of permanently changed by the unprecedented nature of everything
+we went through over the past couple years?
+I think the second part of the question, I think it's too early to tell, you know, will
+we revert to normal cycles that kind of operate in the way that they have in the past?
+I think I think it's too early to tell as far as like, you know, are we at a sense of,
+you know, how much of the recovery is taking place already?
+I think things will still continue to operate perhaps at sync for a little bit longer.
+So we have, you know, recession risk.
+I think, you know, certainly up until a few months ago was quite, you know, it looked
+very imminent that we're going to get recession.
+And then if you actually look at the, again, I stick to the NBER, because you look at GDI,
+you can say we've already had a recession.
+If you look at manufacturing, we've already had a recession, you could look at earnings.
+And you know, I think the two quarters of consecutive decline in GDP, I think that's
+too simplistic.
+And so that's why, you know, I stick to the NBER, they don't tell you exactly how they,
+you know, call a recession, but they do tell you some of the main indicators, you know,
+there's four things they look at, look at payrolls, they look at real PCE, look at industrial
+production, and they look at real personal income, less transfer payments.
+And actually, I think that's one of the charts on the slides that we've got there, we can
+look at, which is on, I think it's slide number seven.
+Yeah, so the chart on the left there.
+So you know, for the NBER to call a recession, if you look historically, all four of these
+indicators have been in contraction at the same time.
+And the only exception was 2001, and that's when you didn't have real PCE was was not
+contracting, but the other three were.
+And if you look at where we are today, so the chart on the right kind of zooms in to
+where we are today.
+And you can see there, you know, you have the non-farm payrolls, so job growth has been
+getting, the job market has been slowing, and it's been slowing gradually, so slowing
+from a high level.
+And you can see that that's still above contraction.
+And that fact, if you look at leading indicators of payrolls, for instance, claims, claims
+is actually a very good shorter term leading indicator for payrolls that's inflected higher
+again.
+So you know, all the things that I was looking at was kind of the trajectory was heading
+one direction.
+So you're expecting to see a much worse job market much quicker.
+But we've had this kind of like, you know, the rugs been taken from beneath your feet.
+And some indicators like claims have started to inflect higher.
+So that's really sort of suggesting that the any sort of NBR recession has been delayed,
+not often, definitely, of course, you know, the last person to say, you know, the end
+of boom and bust or one of the last people was Gordon Brown, and he was proven magnificently
+wrong.
+So, you know, I don't you premature and think this is there's no recession coming, a recession
+will come.
+But it looks like it's been delayed.
+And if you look at the bottom half of the second chart, you know, you can see that,
+you know, IP is kind of bumping around zeros industrial production is kind of bumping around
+zero, whereas real personal income, you know, it's still above zero factors in anything
+it might even be inflecting something higher, I mean, real wage growth is case not as high
+as it was, but it's still positive.
+So you know, wages are still growing in real terms.
+And in fact, if you look at some survey data, for instance, the NFIB compensation plans has
+just inflected higher, if you look at a lot of the feds, survey wage data, these things
+lead to wages, you know, by three to six months, they've started to inflect higher.
+So it's very hard to fashion an argument, and it says we're going to get an NBR recession,
+you know, very soon.
+And this is not all academic, by the way that, you know, the NBR, the problem with the NBR
+or any sort of recession dating body is that they will always date recession after the
+fact.
+But if we look at, as I say, leading indicators for all these indicators, the NBR look at
+were it the jobs, or we look at income, or even industrial production, the leading indicators
+for these are actually inflecting higher right now, and these leads, as I say, with a three
+to six month lead.
+So it's not like there's any imminent sign that they're going to suddenly turn down that,
+by the way, is tend to what tends to be what happens in recessions, things do move very
+fast, but there's nothing in these very reliable leading indicators that suggest that's going
+to happen.
+And certainly not in the next three to six months.
+So you know, the recession risk has receded for now.
+But there is still recession risk, and I think that's going to come from, and that's the
+next slide, is going to come from the slow impact of rising rates.
+So the first thing to say is, you know, the actual debt, you know, DSRs, or the debt service
+ratios are actually not as high as, again, people might think, you know, we've just had
+this massive, you know, very fast interest rate rise from the Fed, right, over 500 basis
+points in quite a short space of time.
+But the real, I guess, the game changer, because the biggest part of kind of certainly households
+debt levels is mortgages.
+And because you have so many people on longer duration fixed rates, and that's really shielded
+them in quite a big way from from the kind of like the shop window, mortgage rate shop
+window mortgage rates were up 8%, or maybe back down about seven now, and the kind of
+effective rate is more like three and a half, and that's only climbing quite slowly.
+And so well, you know, the chart on the left there, you can see the consumption debt service
+ratio has risen, and that's higher than it was pre pandemic, the, the white line, which
+is the mortgage one is still lower.
+And that means that the total one, which is the blue line is about roughly the same as
+where it was pre pandemic.
+And so you know, the overall kind of pain, if you like, right now, here and now, broadly
+speaking, there are obviously individual pockets of pain for sure, but on the aggregate level,
+it's just not there.
+It's not where you'd expect it to be.
+And a huge part of this, there's two big things is the government running the largest peacetime
+non recessionary deficit that ever has, that's one big thing.
+And the second thing is, you know, despite the Fed, you know, doing QT, and it's up to
+$95 billion a month, and it still has over $7 trillion of assets, so $7 trillion of duration
+risk on its balance sheet.
+And that has an enormous shielding impact on the economy that certainly I didn't appreciate
+at the very beginning of last year, and I was a lot more negative, and I thought a recession
+was a lot more imminent.
+But again, I was, you know, using traditional leading indicators, which have an excellent
+track record.
+But at that time, maybe not fully appreciating just how out of sync the economy was coming
+out of coming out the pandemic, but this this will change, you know, but we're not going
+to get a free pass forever.
+So you know, for instance, you know, corporates have also benefited or not benefited well,
+in fact, they have a net benefit so far from higher rates, because they've been quite kind
+of deft in their in their in their way that they have, if you like, manage their duration
+risk, they were essentially increasing their duration risk when rates were very, very low,
+you know, the very before the Fed start to raise them, and then you start to reduce duration
+risk, and when rates start to rise, and they also increase their exposure to short term,
+like money market funds and bills, where rates were obviously rising, you know, rates were
+up at over 5%.
+So the net interest income was actually rising, but that will that's changing.
+So the chart on the right there shows that, you know, as sort of next year goes on, that
+that's likely to change that white line is likely to start reflecting higher.
+So the kind of free pass, if you like, so households have had a kind of free pass or
+looking shielded from mortgage rates, but that effective rates creeping up, you know,
+there are still 25% of people on arms, you know, adjustable, reset mortgages, so they
+will gradually have to fix at higher rates.
+And that's why the effective rate is moving.
+And corporates will gradually have to pay more interest.
+So as that process continues to take place, you know, recession risk, you know, will rise,
+but I think that's very much the second half of the year thing at the earliest.
+All right.
+So you're basically saying, we had we had a guest on this program two weeks ago, Wolf
+Richter, who sort of made the comment, Hey, I think we would like for us to have a recession,
+because we I think we deserve one.
+And I think there's a lot of sort of, you know, malinvestment that needs to sort of
+be cleared out. And he said, looking at the data, I just don't see one happening anytime
+soon.
+I kind of hear you saying a similar story is that but saying, hey, you do think that
+over time, the lag effect is going to catch up with this economy.
+This chart here on the right, the corporates interest payment ones, I know that's a real
+head scratcher for folks, right?
+Because you're like, Oh, my God, we've had this tremendous increase in the cost of debt.
+And yet, the net interest payments is going down on average across corporates income statements.
+To your prediction here that eventually that's going to that's going to reverse.
+Given your current calculation of the maturity wall that lies ahead from here, when do you
+expect that to reverse and to start to matter?
+I think I just heard you say that's going to be a story of the second half of 2024.
+Is that kind of when you're beginning to expect that to bite?
+Yeah, I mean, it's not an exact science.
+And, you know, obviously, that chart there, you can see, so that the blue line, just to
+be clear, has been pushed forward already.
+And they're pushed forward by a year.
+But, you know, it's not exact science.
+But when I look at something like that, that tells me it's probably not an imminent leading
+relationship, like it's not something in the next few months, is probably like six to 12.
+And that's obviously just historically, how long it's taken for, you know, these higher
+interest rates to really feed through and have that sort of negative negative impact.
+I think the impact to households is slower, it seems to be, you know, obviously, after
+the financial crisis, I think, during the financial crisis, arms were like, more than
+50% of mortgages, and there was a huge reduction in that, in the years following the financial
+crisis, they've been in it bottomed, maybe a few years ago, and as I say, it's back up
+at 25%, but that really sort of is a very kind of effective break, if you like, of stopping
+that transmission mechanism.
+And that's really the overall message here is that the transmission mechanism from higher
+rates, through things like adjustable rate mortgages through corporates being savvy with
+their managing their interest rate risk, also, of course, banks and they have this time you
+look at banks net interest margins, they've risen, as they tend to when rates rise, throw
+in the fact that the Fed is warehousing $7 trillion of, you know, duration risk, and
+then the cherry in the cake is that the government's spending $2 trillion x-ish a year, and all
+these things are really mitigating what otherwise would have caused a lot of damage.
+And then as I say, throwing into the confusion, is the fact that everything is out of sync,
+coming out of the pandemic, you know, all different parts of the economy are kind of
+operating at different speeds.
+And because they're asynchronous, to say it's causing a lot of hitherto sort of reliable
+relationships, and not to operate in the way that you'd expect them to.
+And as I say, when it comes to assets, that this is the other side of this thing, right,
+is you have this kind of confusing backdrop that, you know, could look quite negative.
+But you also have extremely buoyant liquidity conditions.
+So one of the most useful, and I mean useful in the terms of the way that it has a leading
+effect, or sorry, as a leading relationship with asset prices, which kind of like really,
+if you're looking at other stuff, you know, hand you an investor, it's really that's what
+matters to you most, right?
+You can pontificate about the economy to the cows come home, but really what you're interested
+in is what does it mean for assets?
+And that's why excess liquidity, which is the difference between real money growth and
+economic growth is so useful, and it's quite intuitive kind of indicator because, you know,
+money is created by banks and central banks.
+And what isn't used up by the needs of the real economy is, you know, quote, unquote,
+excess.
+And that excess liquidity tends to find its way into risk assets.
+And if you look back in March, you know, things were pretty negative back then.
+But what really happened then is an inflection higher in access liquidity, you had a combination
+of things, you had money growth, okay, it wasn't rising, particularly, but it stopped
+falling.
+And because the central banks have been tightening, and, but growth was quite slow growth was
+relatively slow.
+And on top of that, the dollar had been weakening.
+And because excess liquidity, global excess liquidity is in dollar terms, that weakening
+in the dollar boosted excess liquidity.
+So I think that's kind of underappreciated how important it was.
+The dollar weakening this year to really help excess liquidity and therefore really help
+the risk asset rally that we've had for most of the year.
+But kind of it was counterintuitive, excess liquidity tends to be rising when people are
+most pessimistic.
+So there's something inherently contrarian about the indicator as well, which is kind
+of great from a markets perspective, you know, markets tend to have their biggest moves when
+people least expect it, right.
+People tend to extrapolate linearly, then the market turns and does something that no
+one else really expects.
+And that's when you tend to have the biggest moves in markets.
+So that that liquidity situation has been very favorable.
+And it's been really another dynamic this year, which is unique, we haven't had this
+before, is the fact that we've had a fiscal huge fiscal deficit.
+Now that would normally be quite problematic for liquidity, because you essentially have
+not to go into too much detail, but you have huge number of treasuries that essentially
+crowd out other assets and essentially crowd out liquidity.
+But because the Treasury decided to skew issuance to builds, so this is essentially like people
+talk about the Powell pivot, this was the Yellen pivot.
+And this happened, you know, really the beginning of this year, so the end of 2022, beginning
+of 2023, the Treasury decided to skew its issuance hugely towards bill.
+So most of its actual borrowing was done in bills.
+And this enabled the idle liquidity that was sat in the Fed's reverse repo facility to
+essentially mitigate the loss of liquidity that would otherwise happen if you're trying
+to issue so many treasuries.
+So by issuing bills, it allowed the money market funds, mainly money market funds to
+intermediate in this borrowing, and you get the best of both worlds.
+Normally you would get fiscal, you know, deficit's great because it's good for the economy, but
+it would have problems for, as I say, for liquidity, and that's not great for risk assets
+necessarily.
+But this time round, we got the economic boost of the fiscal deficit, and there was no impact
+to liquidity reserves, central bank reserves actually rose.
+And this is despite the fact the Fed's doing QUT.
+So if you look at reserves, they're actually higher now than when the Fed's started QUT
+in June 2022.
+So this is like a fiscal deficit on speed, you know, it's a complete best of all worlds
+for risk assets.
+And again, it's a very different dynamic.
+So if you're not really following what's happening, it's not obvious.
+People will try and attach narratives to why such and such is happening to markets, but
+really what drives markets is liquidity.
+And as I say, you've had positive excess liquidity.
+And this time around, you've had this extra dynamic of central bank liquidity being supported
+by the Treasury's actions.
+All right, let me just interject for a second.
+So first off, the video preceding this one, Simon, was with Michael Howell, and we did
+a deep dive into liquidity, because that's really his area of specialization.
+And at least some of the folks watching this, you know, have been introduced to that reality
+that you just mentioned, which is despite the fact that we have been in an aggressive
+rate hike regime with many of the major central banks in the world, and the Fed's done over
+a trillion in QT, and the narrative is that, okay, well, we're draining the pond here.
+That's not the case.
+Economic liquidity has been rising pretty much ever since October of 2022.
+And of course, that's when the stock market bottomed and we had a great year in the markets
+this year.
+And lo and behold, you know, the very direct correlation between net liquidity and asset
+prices is holding here, right?
+So looking through that lens, as you're saying, you're not terribly surprised.
+Now, you're saying it's not just sort of a standard form of liquidity.
+It's kind of like liquidity plus or QE plus the way that it's happening for the reasons
+that you mentioned.
+And one thing I just want to make sure that folks understand, and maybe you can elaborate
+a little bit more, is this isn't just sort of your regular liquidity stuff.
+This is an orchestrated back and forth handing of the baton back and forth between the Fed
+and the US Treasury.
+And Treasury obviously is run by Janet Yellen, who had the head of the Fed job before Jerome
+Powell.
+So do we really indeed have this sort of coordinated synchronized plan here where sort of the Fed
+was relying on the Treasury to provide liquidity while the Fed was going through its tightening
+and hiking regimes?
+And then now that the baton is being handed back to the Fed to say, hey, now that perhaps
+because interest on the national debt is now in the process of raising so much, and that's
+really beginning to bite our budget, all right, Powell, now you get to start bringing rates
+down to mitigate against that.
+Did I describe it correctly in terms of how you look at it?
+Yeah, I mean, that's exactly it.
+I mean, first of all, well, very first of all, I guess I wouldn't describe it as sort
+of QE plus.
+I think that to sort of use that term creates a lot of confusion because QE plus, they're
+actually buying assets, we know they're not, and their balance sheet would actually be
+expanding.
+It isn't.
+Okay.
+Let's say net positive liquidity plus.
+There is the high powered liquidity that tends to or can support risk asset markets is rising
+and not falling.
+And that's the critical thing here.
+The second thing in terms of coordination between, if you like, team fiscal and the
+monetary now, we'll never know, of course, because obviously central banks officially
+are still independent.
+But historically, if you look at central banking, for most of its existence, it's never been
+independent.
+It's essentially been an arm of the state.
+And central bank independence is only a sort of relatively recent phenomenon.
+And now if you're a central banker, you might argue that central banking independence over
+the last 20, 30 years, roughly, that's why we've had lower inflation.
+Central banks have had inflation targets, they've done their job very well.
+We've had low inflation, the so-called nice decades, non-inflationary, continuous expansion.
+But now things have changed.
+We've now, for the first time in decades, we've had very high inflation.
+And I think we can get into this as well later on if we have time, but I think inflation
+will return.
+I think it's way too early to sound it all clear on inflation.
+I think we're in an inflation regime.
+This cycle is going to be extremely different and last probably a lot longer than many people
+think.
+But the existence of inflation, now it's back, that means de facto central bank independence
+is kind of over.
+I mean, it will continue in name, but it's already happening.
+I mean, you can't have a government running that big a fiscal deficit outside a recession
+and still have independent central banks.
+You can't have three quarters of a trillion up to a trillion money sitting in the Treasury's
+account at the Fed and still have central bank independence.
+So already the lines are becoming blurred.
+It will never be kind of made explicit.
+And when it comes to, I mentioned what I called the Yellen pivot earlier on, that made, if
+you like Powell's job a lot easier, now whether it's coordinated or not, sometimes you don't
+even need to be told what to do.
+You just know what the right thing is to do.
+And I'm sure someone smart at the Treasury knew that they could take advantage of this
+idle liquidity sitting in the RRP and the way to do it was to issue lots of bills because
+then we could have rates still up at five and a half percent, but not crash the market.
+And we know that neither the Treasury or the Fed really want to do that no matter what
+they say.
+So, great, fantastic, but as you alluded to, the problem is now you now have this massive
+government issuance, which is going to lead to, or already is a huge interest rate expense
+bill.
+Now I remember looking at this thinking, well, that can't be a major problem, but the actual
+numbers are quite crazy.
+I mean, already it's around about 3% of total debt outstanding.
+You can basically just use, by the way, just use the 10 year as a proxy for how much the
+government has to pay on its interest rate bill.
+Obviously the 10 year over the last several months has risen quite a lot.
+And if you look, and it leads that interest rate bill by about six months.
+And so therefore the expected interest rate bill next year is going to be something in
+the region of four and a half to 5%, which is about in number terms, about the GDP of
+Spain.
+And that's an annual number, right?
+And the problem with that, of course, you have to borrow more to pay your interest bill.
+So first of all, that's not great for the national debt that you're having to borrow
+more just to pay interest, but when it comes more immediately, when it comes to liquidity.
+So that very conducive backdrop I was talking about with the Yellen pivot, that they were
+able to basically run this fiscal deficit and keep reserve support even while QUT was
+ongoing.
+In fact, reserves were rising.
+And so we had the Everthing rally, but that weight, that gravity, if you like, from this
+interest rate expense would gradually really start to suck reserves known in two ways.
+It would limit their velocity and it would also potentially reduce the amount in a system.
+And historically, that's what you've seen, right?
+When interest rate expense rises, government's interest rate expense rises, reserves tend
+to fall.
+And as I say, even if they don't fall, their velocity will tend to fall.
+And the reason is, is that government's taxes are essentially paid from back deposits, and
+then they're paid to people that hold government debt.
+And the general thinking is that that's not a problem because the people that own that
+debt then spend that interest.
+So it should be kind of circular.
+But if you look at who holds US treasuries, the only real holders that are likely to spend
+in the economy, if you like, are households and corporates.
+But they're only 10%, roughly, of treasuries outstanding.
+And even then, they're unlikely to spend all of their interest payments.
+90% of treasuries are held by financials and by foreigners.
+Now, financials are more likely to reinvest it.
+Again, some could be spent, but when we're looking at the numbers here, you can see that
+there's a high chance that a lot of that interest income is going to be reinvested.
+And even if it's reinvested, the propensity it has to be held by someone who's likely
+to spend it becomes less.
+So the more it filters through the economy, the more it filters through to the people
+that are less likely to spend and more likely to save.
+So that interest income becomes less stimulatory.
+And it becomes more likely to be held as savings.
+And therefore, the velocity of the reserves, if you like, the bank deposits, whatever you
+want to call it, but the bank deposits and the reserves are obviously related to one
+another and declines.
+Or outright, you could see a decline in reserves purely because some of the reinvested income
+ends up at the back of the RRP, assuming at some point the RRP becomes more attractive
+than bills, which is quite possible because front-end rates are already falling.
+The Fed has pivoted, and also because at some point, Yellen will probably renege somewhat
+from her pivot because right now they're issuing bills hand over fist.
+So bill rates would be like to fall.
+So you've kind of had like, maybe Yellen did Powell a favor by issuing bills, and now we've
+had the reverse.
+Powell has now done Treasury a favor by trying to reduce its interest rate bill.
+So they've kind of tried to buy more time into next year to keep the game going a little
+bit longer.
+Right.
+Although Powell has suggested he's going to help by bringing rates down, it hasn't actually
+cut rates yet.
+And one question I have with this liquidity is the more that we push liquidity into the
+system and the more that we create a wealth effect, which is definitely going on right
+now with the markets, right?
+They're in full party mode now.
+Spending goes up.
+We've got this momentum of workers starting to demand higher wages as well.
+We'll see what happens with that.
+But my point is, is that inflationary?
+And does that actually potentially hinder Powell's true ability to bring rates down
+as much as he'd like to because all of a sudden inflation starts coming back?
+Very good question.
+I think they have significantly increased inflation risks.
+It will obviously take some time to filter through, but analogies obviously can be quite
+lazy.
+But I think to look at the seventies or even the forties, everything, nothing will be exactly
+the same.
+But the one thing that is immutable through everything you look at in financial history
+or any history is human behavior.
+And I think that what happened in the seventies could be repeated to some extent this time
+round because in the seventies you had the same kind of conditions that created the inflation
+in the first place.
+You know, you had a central bank that could thought it could ease more than it could.
+We had average inflation targeting and all that sort of stuff.
+So you had like the a priori conditions for high inflation and then you had some quote
+unquote bad luck in the seventies.
+It was, well, the next and close the gold window.
+So the Fed can't control that.
+Then you had the Yom Kippur war and then at the end of the decade you had the Iranian
+revolution.
+This time round, you know, we had a pandemic, which obviously didn't help.
+And then we had the Ukraine war as well, which also didn't help.
+And they're kind of like, they would often, they would cause inflation on their own, but
+cause we already had the a priori conditions, like the kindling to some extent just needed
+to be lit and it got lit.
+But what happened in the seventies is we had a recession.
+And essentially the Fed cup, and it was the, you know, what I call the premature all clear.
+So the second act of the inflation play, it's a three act play.
+And the second act was the premature all clear where they cut rates.
+But then what they, what happened is inflation made a higher low and then start to climb
+again.
+And what I I'm looking at right now, people, you know, it seems to be, most people seem
+to think this is like Goldman called it the last mile of disinflation and things like
+that.
+But the consensus is that inflation is kind of done.
+It will head back to sort of maybe two and a half.
+And that's kind of really it.
+And it's unlikely to reaccelerate, but I think you look at a number of things that are already
+beginning to turn up.
+Simplistically, I'll give you one example.
+You can separate all the components of inflation, US inflation, this is into structural and
+cyclical components.
+So the structural components are ones that are persistently above their longterm average
+and the cyclical ones are anything that isn't, that doesn't conform to that.
+And almost all of the decline in headline inflation has been driven by a decline in
+the cyclical components.
+The structural stuff has remained elevated, it's fallen a little bit, but what's happening
+now is the cyclical has probably stopped falling, it might fall a little bit more.
+The structural is still elevated, but the structural still started, it started to turn
+up again.
+So we're starting to see a rise in the structural and the cyclical has fallen so far that, and
+as its name would suggest, it's cyclical.
+So the cyclical will start to turn up, driven by things like gas prices or whatever it might
+be.
+And then they'll start reinforcing one another again.
+And so you'll see this similar dynamic when inflation might fall a bit further, but then
+it will start to pick up again.
+And to be clear, I'm not saying we're going to get new highs, we're not going to necessarily
+eclipse 9% again in headline, but it's going to be enough that it's going to cause alarm
+and it's going to upset people because they're not expecting it.
+You know, the CPI fixing swap market, which is your actual tradable way of knowing what
+the market expects, is looking at inflation going back roughly two and a half within a
+year's time.
+So I think people are going to be unseated by this re-acceleration of inflation and the
+market is just completely not priced for it.
+OK.
+And right there, you're talking about monetary inflation or capital flows driven inflation.
+But the week we're talking here, rebels in the Red Sea have just started attacking shipping
+lanes there through the Suez Canal.
+And all of a sudden, 12% of global transport goes through the Suez Canal.
+That's all now being redirected.
+We don't know how long it's going to last for, whether the situation might even get
+worse from here.
+Who knows?
+But all we know is that if they're getting redirected around Africa, that adds I think
+like a 40% more in terms of time and costs and oil burned and all that stuff to the price
+of getting something that used to be shipped through that route.
+So that's inflationary, right?
+How inflationary it's going to be, we don't know.
+My point is just as there are sort of wildcards in this game that can add to that that the
+Fed has zero control over.
+Well, if you go actually on slide five, you just reminded me I had a chart.
+So two charts there, for instance, that tell you things are now reversing, but maybe seeing
+the most of the disinflationary kind of trend.
+So the chart on the left side of slide five shows wages and wages leading indicators.
+Just as one example, have started to rise again.
+And that's corroborated, as I mentioned earlier, by the NFIB compensation plans, which also
+leads wages that has started to pick up again.
+And then relating directly to your Red Sea point, which I mentioned on the slide, funnily
+enough, as the supply chain index started to pick up a while ago.
+So obviously, it collapsed, but now as everything does, especially after a large collapse, we
+expect to see some sort of bounce.
+So we're seeing a bounce in supply chain index, which suggests that, again, we're past the
+peak disinflationary advantage we've had from supply chain.
+And then all it takes, something like the Red Sea, and we know that supply chains are
+more fragile and more brittle now because of the geopolitical situation.
+And again, the '70s was kind of similar in that extent as well, that we had a lot more
+geopolitical uncertainty.
+So if you already have the day priority, the sort of remote cause, if you like, of bad
+inflation conditions, it just takes, as I say, bad luck, whatever you want to call it,
+but unexpected things to happen.
+And all of a sudden, something on its own, say 15 years ago, may not have been particularly
+inflationary.
+Or if it was, it would have been very briefly inflationary, now has the capacity to be considerably
+more inflationary and cause a lot more issues.
+So to think that the all clear has been sounded, I think, is way too premature on inflation.
+And what the Fed has just done, I think, has just doubled that down.
+They have just, as you said, given a green light to the wealth effects, animal spirits,
+huge inflows into equities, all the kind of things that they said they had problems with
+before, like financial conditions being too loose, well, it's just going to get even looser,
+all these things raise the risk, significantly raise the risk for inflation.
+So I think that's something that happens probably as early as I say later in next year and something
+that the market really is not priced for at all.
+Okay.
+And what's your level of concern that we do start hitting those lag effects due to the
+higher rates that we have had for the past two years, right at the time that inflation
+might be really starting to bite again.
+And so right at the time the Fed needs to use its tools to bring rates down, it can't.
+Yeah.
+I guess the question is, does the Fed cut rates this year?
+Well, given how the market is kind of gunning for a March cut, 80%, I mean, the Fed has
+always tried to disabuse the market of that has been too premature, but it shows you the
+direction we're going in, right?
+And the reaction function of the Fed has changed.
+So I would have said to you initially before what happened last week, we're going to get
+the next move will be a hike.
+But now I think it's clear, as I say, there's another agenda, there's another reaction function.
+So I think that they could push for a cut sooner than other things would justify.
+And that may come before really, it's clear that inflation is picking up.
+And then they're in a bit of a quandary.
+Because they really have taken a gamble that inflation is kind of like it's done.
+I mean, unless they're just being gung ho or you know what, the interest rate bill is
+the biggest risk is a bigger risk for us.
+I can't imagine that.
+That's what I wanted to ask, which is asking for your gut feel here, right?
+We don't know.
+We're speculating.
+But that they, as Powell seemed to intimate, we're winning this war.
+We're not going to clear the victory just yet.
+But we can see the beginning of the end here.
+We don't want to wait until we get down to 2% to start cutting because then the lag effect
+would drag us substantially below our inflation target.
+We got to start cutting at some point above 2%.
+We think we're getting close to that point.
+And it's very much like, yeah, we're just kind of wrapping this up now.
+Is it more that in their mind, do you think?
+Or as some are asking, is the Fed really worried about something that's not telling us about?
+Now it could be they could be worried about the budget, the cost of the interest service
+on the debt.
+I don't know.
+It doesn't sound like you think that's a big enough bugbear for them.
+But could there be something they see on the horizon that does worry them?
+And they're thinking, we got to get ahead of this thing.
+Yeah, well, to be clear, I think it could well be the interest burden.
+I think that is on its own to have perhaps influenced them to act because, again, it's
+so abrupt.
+I've never subscribed to the sort of thing the Fed knows something that everyone else
+doesn't in terms of the economy.
+I mean, I'm sure they get access to some data that normal punters don't see, but they've
+never really often behave in a way that's completely antithetical to what people expect.
+That would suggest that they constantly-- they always have information that other people
+aren't privy to.
+So I don't necessarily think that-- there's a lot of speculation that could be politically
+motivated in an election year or next year.
+Of course, that would make sense, but we'll never know.
+And I think it's kind of like-- there's not much point in speculating in that I think
+follow the money.
+And at the end of the day, politics is driven by what the economy is going to do and ultimately
+what markets are doing.
+And that's kind of driven by liquidity.
+So I think if you follow the money, you'll manage to get most of the motivations you
+need to.
+Following the money tells me that if they didn't do anything and they allow interest
+rates to keep rising-- and remember, by the time-- what really kind of unnerved them was
+term premiums started rising.
+And so basically, longer term yields started to rise, even though they weren't dependent
+on the front end.
+So the curve steepened, bear steepened, and term premiums started to rise.
+And they obviously brought that up.
+And so therefore, that really is a problem for the government's borrowing bill and therefore
+for liquidity and therefore for financial stability, especially, by the way, as it relates
+to funding markets.
+So we had that little flare up in the SOFR rate a couple of weeks ago.
+That's something they really want to avoid too because if we have a blow up in the funding
+markets, which is caused by too few reserves, that's a major issue because that really kicks
+in financial stability and markets and causes a lot of problems.
+All these things, I think, are definitely concerns.
+And having that interest rate bill ballooning-- and it really was ballooning-- is something
+they could do something about by lowering long end yields.
+And they took a punt, obviously, that they think inflation is not going to be an issue.
+OK.
+So back to liquidity being your point about following the money, what is your liquidity
+outlook for next year?
+Right now, excess liquidity is one of the things I follow now.
+That looked as if it might start to roll over.
+So one of the few things that sort of leads excess liquidity itself-- excess liquidity
+tends to lead stuff.
+If you look at annual returns of risk assets, like stocks, oil, things like that, excess
+liquidity tends to lead it based on the arguments I made before about it being liquidity that's
+excess and tends to find its way into assets.
+But the real yield curve tends to lead excess liquidity.
+Now, that looked like it started to roll over, as in it started to steepen, but the Fed's
+actions have now just caused the reversal on that.
+So I think the excess liquidity was on the cusp of declining and beginning to decline.
+And that would sort of overall make liquidity conditions less conducive, less friendly for
+risk assets.
+But the Fed's pivot has just kind of reversed that.
+So the dollar has weakened again.
+And I think that's really-- as I say, that's been a big positive for liquidity conditions
+this year.
+It had started to rally quite recently, but the Fed's reversal has caused it to decline
+again.
+So all systems are kind of green for now.
+That could change in a few months, but the outlook for the next few months, I think,
+is liquidity tailwinds, and it will continue to mean that risk assets-- it's kind of hard
+for them to go down.
+It's not necessarily like they can't go down.
+Of course, they can go down if something happens, but you have this kind of support.
+And with that support, it's kind of hard for them to really sell off a huge amount, and
+they'll just grind higher in the absence of anything negative.
+All right, well, let me share that I interviewed Felix Zulauf two weeks ago or so, and this
+was pre the Fed's surprise.
+And his outlook, he said, look, I think asset prices are going to continue rallying from
+here all the way through Q1, and the economy is going to look stronger to folks, and we're
+going to get this narrative of the Fed's achieved the impossible.
+We have the no landing scenario.
+Everything is great again.
+Everybody's making lots of money in the markets again.
+And then he sort of sees the wheels coming off, and the market, the S&P, potentially
+from whatever new high it's trading at at the end of Q1, could go down by as much as
+40%.
+He's not saying that's going to happen, but he's just saying the potential is there.
+I know you've got concerns about the second half of the year economically.
+How does that potential trajectory seem to you, given your outlook for markets right
+now?
+Do you see a similar kind of up and down?
+Do you see something different?
+So the endogenously, like obviously exogenously, if something happens, and looking at the market
+itself, as I say, I think the biggest risk, like it's not black swan, of course, it's
+known, unknown, but inflation coming back.
+And I think that that might take the second half of the year before you've got a chance
+of seeing that.
+And that would cause the Fed's reaction function to change, because say its reaction function
+is now changed again.
+So you can, you know, I think what applied a couple of weeks ago doesn't necessarily
+apply now.
+And I think they are more gung ho about allowing kind of animal spirits to reign for the time
+being, as long as they think inflation is not returning.
+So that will keep the game in play for now.
+So I wouldn't think Q1, I don't see, there's nothing I'm looking at to tell me Q1, but
+there are stuff, things I'm looking at that maybe tells me Q3 or Q4 for that sort of dynamic
+to take place, because as I say, as long as liquidity conditions are as they are right
+now, and as I say, the power pivot has bought more time, then that should keep risk assets
+kind of, they're not necessarily going to fly higher, but they really just have got
+such a friendly tailwind, that it means that the, you know, as I say, unless you have anything
+particularly negative happening from another angle, they should keep grinding higher.
+The other kind of endogenous risk, but you know, an unknown if you like, would be something
+happening in credit markets.
+So credit markets have been another thing that's benefited from, you know, this kind
+of like easier financial conditions, they're part of financial conditions, of course, but
+you know, the general kind of like good liquidity backdrop from reserves, you know, credit spreads
+have kept coming in, even though, you know, credit fundamentals have been deteriorating,
+charge off rates have been rising, banks have been tightening lending standards, all the
+usual things that tend to lead to credit cycle have been deteriorating.
+Some of them have actually started to turn back up a little bit.
+But I think, you know, if you look at, as I say, the underlying stuff, bankruptcy filings,
+for instance, were rising, you know, these are things I think we've got to watch for
+that suggests that maybe credit spreads are not necessarily reflective of the true health
+of the credit market.
+And then you've got to add in the opacity of the private credit market to, you know,
+that's not massive, it's like one and a half trillion dollars in the US.
+There, we don't have price discovery.
+So that think that I, you know, would be a little bit wary of making any predictions
+about a market that's even more opaque than it than it maybe was before.
+And so if you had something happening in credit, and the thing is about credit is the in terms
+of feeding through to the economy, like markets and economy kind of feed off on another you
+try it, you get recessions, basically, when you get negative feedback loops between markets
+and the economy.
+So, you know, the economy maybe shows that it's getting weaker, markets respond to that.
+So markets get weaker, but then that feeds back into the economy, and the economy gets
+weaker again, and you have a negative feedback loop, and if it cascades past a certain point,
+you tend to get recession.
+But the high, the thing that's the biggest accelerant of that, if you like, is credit
+spread.
+So the sort of strongest link between the economy and market.
+So that's why I'm concerned about something happening in credit markets, because I think
+that could quickly take us into recessionary territory, other than, as I say, other exogenous
+things.
+All right.
+And what do you think are the biggest risks that could manifest in trouble in the credit
+market?
+Is it the lag effect where we just have the longer we have rates high relative to where
+they were a few years back?
+We just start seeing more participants start to struggle, either because corporate balance
+sheets rerate or whatever.
+Yeah.
+I mean, there's the growing interest rate burden.
+So as we have the chart earlier, they've kind of, in the aggregate, benefited so far.
+So that will start to bite.
+So is that reversal?
+Yeah, that you talked about.
+Yeah, that reversal.
+There's the, what you alluded to, there's the maturity wall.
+So that will incrementally have more of an issue as they have to roll over the debt.
+And as I say, I think what's happening in private credit markets, there's all kinds
+of stuff that sounds crazy to me.
+I'm sure it makes sense if you're in the market, but nav loans and using insurance premiums
+to lend to people.
+And we know that credit, whenever you see a swelling in credit, whether it's bank credit
+or private credit or the credit markets, it's very hard to make a lot of loans quickly without
+some of these loans being bad loans, lending to the wrong people.
+Before the pandemic and stuff, they had all the covenant light loans, everything that's
+kind of orientated around the borrower, not the lender.
+And that just creates overall bad lending and lending that's likely to sour.
+And if there's too much of it, obviously it can create an issue that can mushroom pretty
+quickly.
+Yeah, I have sort of concerns there.
+I just don't necessarily credit spreads on their own are really as reflective of the
+true health of the credit market as perhaps they once were.
+Got it.
+Got it.
+And when you talk about problems mushrooming too, it's important to remind folks that there's
+counterparty risk in credit markets.
+And especially when there's greater opacity, like there isn't private credit, like you
+said, sometimes there's a player that goes down that you don't realize the dominoes that
+that one failure begins to set off.
+Exactly.
+Yeah.
+Yeah.
+And as I say that, and it very quickly feeds into the economy.
+And you have a situation where you have like what looks like a fairly kind of stable economy,
+like growing.
+Okay.
+Can very quickly go south.
+And that's often what happens in recessions.
+They don't happen gradually.
+They happen suddenly.
+Yeah.
+Okay.
+Well, look, I could keep going for hours longer here, Simon, and there's lots of questions
+I didn't get to, which means we're just going to have to have you back on in early 2024.
+And hopefully you'll have a little bit more data by then to sort of see where you think
+the year may be going.
+But given your current outlook, which again, I'll just sort of summarize and feel free
+to correct it, is lots of tailwind right now at the market sales, at least for the next
+couple of months or so.
+And then you get more worried as the year goes on, certainly back after the year, it
+definitely has some pretty stiff challenges that could turn into market headwinds.
+What assets right now do you think will fare well?
+I mean, it seems like all assets pretty much are doing well right now.
+Are we going to have all assets do well up until the momentum stops and then looking
+for your second half of the year?
+How would you consider folks or think folks should consider positioning given what could
+happen then?
+Yeah, that's a good question.
+I mean, I think to some extent, yeah, I think we're back in kind of everything rally territory.
+The things that maybe you want to look at now are the things that aren't participating.
+And unless you can find a really good reason as to why they're not, they might be good
+candidates.
+But potentially oil, I mean, oil is thus far not really participated much, but as the Red
+Sea thing has just reminded us that there's constant risks to oil.
+People have been very negative on it for a while.
+So these sort of things, whereas it's kind of hard to buy the S&P at all time highs.
+That's not to say, of course, like it goes through an all time high and there's FOMO
+kicks in and it keeps on rallying, but it depends how you want to trade.
+I mean, some people don't mind that other people just hate buying at the highs.
+It just feels, you know, it feels like it's too risky.
+So but I think you broadly characterized it right in terms of, you know, another laggard,
+by the way, is EM.
+And I guess that's been held back by by China.
+You know, China, again, is another one.
+I mean, next sentiment is so negative.
+You know, there's probably a lot of bad news already in the price.
+You know, unless you think China's going to have a deflationary bust.
+Some people do.
+You know, I just don't think we're quite there yet.
+And so at some point, I think, you know, the risk reward in something like China equity
+starts to look good.
+And they're, by the way, pumping liquidity in the system at an ever increasing rate.
+If you look at net injections from the PBOC, they're on a 12 month basis, they're at like
+multi year highs.
+So you know, they are incrementally easing more and more and more behind the scenes,
+plus all the other targets, it's kind of stimulus that they're adding.
+So China, I think at some point, I think next year, we'll recover.
+And then the second half of the year, yeah, I think the things that you are looking to
+kind of either get rid of or short are things that obviously have gone up the most, but
+I'd say, because I think inflation is going to come back, I think anything that looks
+like it's this duration risk, you know, again, the market traded kind of the inflation risk
+thing at the very beginning, like in, I think, late 2021, you know, when inflation was rising
+or 2021, people were shunning kind of tech shares, and sort of looking at lower duration
+stocks like utilities.
+So really, it kind of that point, it kind of made a lot sense.
+But then, you know, I guess the end of 2022, especially when chat GPT three and a half
+was released, that all got jettisoned, and it became like, just grab for duration.
+And obviously, inflation is not going to be an issue.
+So you know, who cares?
+So I think then that that could reverse again, you know, I think people might start to be
+if it looks like inflation is coming back, and no one's ready for it.
+People might start to reevaluate their attitude to duration again, not just in stocks, obviously,
+and fixed income.
+Yeah, exactly.
+All right.
+Fantastic.
+Thank you so much, Simon.
+This has been a just a wonderful discussion.
+Thanks for giving us so much of your time.
+I've got two more questions for you.
+The second one, which we'll end with is going to be we've been talking about monetary and
+financially related issues this whole hour.
+You just gave us a good sense of assets to go investigate given the potential outlook
+of how things could happen next year.
+But is there a non-financial investment that you would encourage people to consider adopting
+in their lives no matter how much money they might have in their portfolio a lot or a little?
+Before I get to that question, though, very important question for folks that have really
+enjoyed this discussion, maybe this is their first time meeting you virtually and would
+like to follow you and your work.
+How can they do that?
+So I write on Bloomberg.
+So I'm a macro strategist on Bloomberg.
+So I have a column called macroscope, which you can find on the Bloomberg terminal.
+And also I write for the Markets Live blog.
+So it's a 24-hour kind of scroll of market news, lots of contributors.
+And that also is on the terminal, too.
+So they're the best places to find my writing.
+OK, great.
+When I edit this, Simon, I will put up links to those or the URLs for those on the screen.
+Folks, I'll put links down in the description below the video, too.
+And also, too, if you just go to the internet and just search Simon White Bloomberg, you'll
+get a lot of news coverage of a lot of Simon's analysis where a lot of journalists are reading
+his reports and then sort of incorporating them into their writing.
+So fantastic.
+All right.
+Well, really quickly and just wrapping up here, a quick housekeeping before we get to
+our last question.
+One, if you've enjoyed meeting Simon here, we'd like to have him come on in early 2024
+and give us an update to his outlook.
+Please encourage him to do that by hitting the like button, then clicking on the red
+subscribe button below, as well as that little bell icon and just a reminder while this new
+Thoughtful Money channel is still in its infancy, the growth in our subscribers on this channel
+really does make a big difference in getting the YouTube algorithm to pick us up.
+So it's totally free to subscribe if you can do that.
+That is great.
+Secondly, just want to remind folks that I am now resumed publishing my Adam's notes,
+which are my cliff notes summaries to these interviews.
+If you want to get all the ones that I've done for every expert that I've interviewed
+on this channel so far, plus my one from this interview here with Simon.
+Just go to my sub stack, adamtagert.substack.com.
+I have a lot of information there for free, though, to get the notes, you have to subscribe
+for the premium service, which is still pretty darn cheap.
+It's still going to be $8 a month through the end of this month.
+So if you're interested in getting them, get them soon before the price goes up.
+And then last, we're at this question, Simon, what's a non-financial investment you'd encourage
+folks to consider?
+Something I've done in the past and then I've neglected recently, but I think it's even
+more appropriate now is learn as much as you can about programming and about AI.
+Because it's obviously, it's a cliche, but it is the future.
+But there's a book I read by a guy called Douglas Rushkoff a few years ago, it's called
+Program or Be Programmed.
+And I think that really captures exactly the sentiment here is that if, I guess, you don't
+know about exactly what's happening, is you essentially allow your life to be directed
+by tech.
+Or if you don't, it means you allow your life to be directed by others who've mastered tech
+or tech itself.
+One choice, the first one, you get access to the control panel of your life.
+And the second one, I think, maybe one of the last proper decisions that you ever make.
+So I think it's so important now, just not to be a consumer of tech, to actually have
+some inkling about what is happening behind it, so that you have some autonomy left, because
+I think it's just going to get more and more confusing.
+And the more confusing it, the less you know about it, the more confusing it will be.
+So that would be my suggestion for a non-financial investment.
+That is a fantastic answer.
+I love this question.
+Simon is getting so many great answers that I never would have predicted, but this is
+truly just almost an essential one, I think, given the new era that we're entering into.
+So Simon and folks watching, I will put a link down to Douglas Riskov's book in the
+description as well.
+So if you want to go check that out, you can do that at just one click.
+It's very short as well.
+It's pretty short.
+Okay, good.
+All right.
+Well, look, Simon again, thank you so much.
+Really appreciate you coming on.
+It's been even better than I'd hoped it was going to be.
+So thank you so much.
+The door is always open here to come back on this channel when you have an important
+shift in your outlook.
+But hopefully at the latest, we'll get you back in early 2024 for that.
+Folks, if you want to continue to investigate the topic of liquidity, which is central to
+how Simon sees the world, if you did not see the Michael Howell video, I'll put up a link
+to it right here.
+And if you still got some stamina, you can go watch that one.
+Simon again, thank you so much.

@@ -1,0 +1,622 @@
+Welcome to Thoughtful Money. I'm its founder
+and your host, Adam Tegard. Well, it's a new year and with it, I'm doing my best to bring important
+new voices into the discussion here at Thoughtful Money. And today we're fortunate to sit down with
+one of them, Jem Carson, founder, CIO and managing principal of CHI volatility advisors, widely known
+as Jem Croissant on X, formerly known as Twitter. He's one of the more requested names I've had from
+this audience and I'm thrilled we've been finally able to make an interview with him happen. Jem,
+thanks so much for joining us today. Thanks for having me. Great to be here.
+Oh, it's a total pleasure. Like I said, you're one of the most requested names by this viewing
+audience. Thank you so much for clearing your calendar early in 2024 to make this discussion
+happen. I'm excited for many reasons to talk with you today, Jem, but a really big one is sort of
+your relatively unique and proprietary framework with how you guys sort of see the world and see
+what's driving markets. And if we can, I'd like to just start at the high level of how you see
+the world. I'm going to ask you my normal kickoff question, which is intentionally broad, but then
+we're going to kind of get into how you see the markets before we turn on the camera. You sort
+of talked about, they've been famously referred to in the past as a voting machine in the short run
+and a weighing machine in the long run. Let's talk about both the voting machine and the weighing
+machine, but to get the conversation kicked off here, what's your current assessment of
+the global economy and financial markets? The current market environment is really,
+you have to bring in both that voting and weighing machine to really talk about that.
+We're amidst a big, in my opinion, regime change, a big structural change that's happening. So,
+a broader cycle change, but something very different than the last 40 years.
+But in the context of that, we are cyclically kind of moving through a usual kind of
+ebb and flow. So, from a structural perspective, we see populism having taken hold in a major way
+in the last decade, really. And really, with the election of Joe Biden after Donald Trump,
+a real move towards this populism, which had been building to a real actionable,
+both fiscal spending, as well as de-globalization and protectionism. All of that has led to a
+different structural environment, while at the same time now, cyclically, we are trying to
+push against that and use the old tools that we've really used in the last 40 years to try
+and manage that. So, at this current moment, and we'll dive back into all of that, at this
+current moment, we really do see a push and pull happening between these structural inflationary
+pressures that we've seen, again, in the past, in the '60s and '70s, in the '40s and '50s,
+and another way before, but really trying to now battle that with, again, cyclical kind of really
+strong measures of raising interest rates 5% in a year or so, etc. So, it is a volatile time
+in the sense that it creates a very kind of seemingly balanced market at times,
+but what we refer to it as a sumo market where there's lots of pressure. If you have two
+entities, two pressures coming together in a meaningful way that can compress volatility
+at a moment, but that doesn't mean the situation is stable. It doesn't take much of a slip of a
+toe to create that force to be kind of unleashed. And we really do believe we're in this very
+precarious kind of structural environment where secularly, there's a lot of global shifts
+happening that are being managed with contrary forces. So, I think that we'll start there,
+but there's a lot to dive into underneath the hood. What is causing those secular structural
+forces? How is it being managed? What are the new things in the market and market microstructure
+that are changing? So, there's a lot to dive into. So, let's dive into all of it. Just to clarify a
+couple of things here from the start. If I heard you correctly, we're experiencing a regime change
+where structurally we're entering an era different from the one that we've been accustomed to for the
+past 40-ish years or so. And if I heard you right, our central planners are basically using a cyclical
+playbook to address these new structural changes, which I think one could interpret as saying
+they're using the wrong playbook for the needs at hand. You're nodding as I'm saying this. So,
+do I have that part right? That's absolutely correct. Okay. And then just to understand
+volatility, because I sense we're going to talk more about this later, you say it's a
+volatile time. And I think by that, you probably mean there's just lots of disruption and change
+to the status quo that we've all gotten accustomed to over the past bunch of decades.
+But volatility specifically is something that your firm focuses on closely. And if you've been
+looking at volatility as measured by the VIX over the past year or so, it's been historically very
+low on a relative basis. And what you're saying is, don't be deceived by that, because there are
+these macro pressures, you call them sort of sumo market forces, pressing against each other. And
+maybe in the short term, almost like a tectonic plate, they're in stasis. But when they shift,
+they can shift quite dramatically and violently. And so don't get lulled to sleep by these low
+volatility ratings that traditional measures like the VIX have been showing us. You're kind of
+nodding as I'm saying this, but do I have that right? Very well summarized. Absolutely. I couldn't
+agree more. Okay, great. All right. So, I just want to make sure I and the viewers here sort
+of understand where you're coming from. All right. So, how do you want to jump off from here? What
+should we expect going forward? Maybe we can start with inflation just because you mentioned it. Do
+you see indeed a secular higher inflation regime ahead of us? Yeah, I agree. Let's start there. And
+this one, you really have to kind of go back to the very beginning. And when I say the beginning,
+I really mean the beginning. If you think about it, there's two major forces that matter
+really in humankind broadly. One is natural selection, right? This idea of competition
+and survival of fittest, that is a winner take all system. Capitalism essentially is a way of
+expressing that and feeding into that system. But we are human beings. And one of our reasons,
+the way we're differentiated from other animals is we have a bigger frontal cortex.
+What that means is that we are able as human beings to better define ourselves and ourselves
+relative to the world around us. That sense of self is a very specific human
+quality. And we are particularly think of ourselves as individuals. That causes this idea
+of fairness, of justice, of equality, of equity. All of these words are not actually not natural
+constructs. From day one, your mother probably told you life is not fair, right? Life is not fair
+at its core. However, as human beings, we believe fairness is important. And as a people, we believe
+that's important. And these two forces are often opposing to one another. I know I told you I was
+going to go way back here. You did. You're basically talking about sort of a winner
+take all versus we're all in this together and should treat each other fairly.
+Correct. And these are essentially left and right if you really think about them, right?
+This is not a new construct, but these two things are very important to understand.
+One of them is the natural kind of state of things. And another one is something we're
+trying to exert and control within the other. Because of that, the natural system tends to
+go to a winner take all and money tends to accrue to the top and power tends to accrue to the top.
+And every once in a while it goes too far and we get kind of a revolution or rebalancing,
+right? Depending on things. This is a tale as old as time, right? This is not a new idea,
+but important to kind of remember that. And where do we sit in the context of that,
+right? This is why big cycles happen, really big regime change cycles.
+The US was founded on this idea of more equality and justice, right? But allowing
+the free market system within that to kind of operate and just to kind of rebalance as we go.
+What the founding fathers were really scared about in the United States is that the power
+would ultimately be wrested from the people naturally because then the natural system,
+that's what happened. They were very careful to allow no such systems that didn't have checks and
+balances on them to take that power away. Unfortunately, people don't like volatility.
+We decided over time to try and smooth the business cycle. And in order to smooth the
+business cycle, we created something called the Federal Reserve. Our founding fathers would be
+turning in their grave if they knew we were creating a structure that powerful that was
+unchecked and it is largely unchecked. Because of that, especially once Nixon took us off of the
+gold standard, the Federal Reserve now began to have immense control, right? And they were no
+longer constrained by the value of gold. Fiat allows for dramatic power, especially when you
+have the exorbitant privilege of the US dollar like the US has at this point. And so the Federal
+Reserve now has controlled the whole economy for some time. And what was realized about in 1996
+with Greenspan is that there was really an unlimited ability to continue to stimulate
+with monetary policy as long as we had the exorbitant privilege here in the US without
+causing inflation. And the natural "state of unemployment" was lowered and lowered and lowered
+again. Why is that? Why is that? Because natural selection and capitalism, putting more oxygen in
+the system ultimately does lead to more growth, but it does it by sending money to the top.
+You send money to capital. Who borrows money when interest rates go to zero? Mostly corporations,
+mostly wealthy individuals. They're the ones that can borrow money and borrow money at scale.
+Also, obviously, QE, the new thing that we've created in the last 20 some years,
+is also directly to capital. And who owns capital? Who owns companies? These are the top,
+not just 1%, but top 0.1%. And so we have been using one tool, the Federal Reserve has been using
+one tool, which is monetary policy, supply side economics, sending money to the top,
+to balance two things, both employment and price stability. But they've been doing that in a sense,
+trying to manage the whole economy. And that is not the whole economy. It would be the whole
+economy if we did not have humans in the system. It is the way of natural selection. It is sending,
+in Socrates' words, the best violins to the best violin players. But what that does ultimately is
+that creates a very, very unequal system and it creates inequality. And what we've seen since we've
+got taken off the gold standard and really starting in the 1980s with all the supply side economics,
+is an incredible expansion of wealth disparity, driven primarily by the Federal Reserve.
+Gini coefficients, which are a measure of the width of the distribution of wealth here in the
+US have gone from 0.34 to 0.47. We are in line with third world countries, that idea of the US
+middle class being an engine of growth here is no longer the case, but we have moved far beyond that.
+And I'm not arguing to be clear for one system or another that being better, but this is a function
+of balance and two forces as we mentioned. And we went to an extreme level of inequality because
+every time the market declined, we responded with the same tool, which was sending money to the top.
+That created a structurally deflationary period. It's important to understand. Why is printing
+money, which we would think would be inflationary, deflationary? Well, if you print money and send
+it to the corporations, what do corporations do with it? Corporations are profit seeking entities.
+A profit seeking entity has one goal, which is to make profit. That means reduce their costs
+and increase their sales. Well, what's happened in the same 40 years, it's not a coincidence that
+we've had a massive growth of a globalization in the world. Corporations are transnational.
+We have expanded incentive, the supply chains have been expanded to China and the growth of
+China has been a big function of 0% interest rates as well. On top of that, deflation is a three-legged
+tool, globalization has happened, but also technological development. If you send a bunch
+of money to capital and corporations battle it out at a very intense level and they have unlimited
+funds, you create Amazon and you create Uber and you create all kinds of other things that
+ultimately take labor and substitute labor with technology as well. That and just the simple lower
+cost of capital makes it much more profitable at business. It's not a surprise that we're at record
+profit margins. This in the grand history of things is an outlier, the profit margins of
+corporations is a function of historical monetary policy. So very long-winded, but I have to start
+at the beginning and kind of get you to where we are. So at some point, inequality becomes
+a problem because people believe in an idea of fairness and justice and equality and equity.
+There are those words. Do those words sound familiar in this generation? Absolutely.
+We heard these in another generation, maybe in the 1960s. Yes. And that's not a coincidence.
+When you start to move towards populism and this idea that we need equity and equality and justice
+and fairness, what happens? The money no longer goes to the top. Now we're redistributing wealth
+from the top and we're sending money to the bottom. This populism started really 12 years
+ago or so. You heard Piketty wrote a book about equality. Everybody was talking about equality.
+You had Occupy Wall Street, you had the Tea Party, but it didn't come to political fruition yet
+because it needed time. Why did it need time? Why do these things operate on a general timescale?
+Why don't they happen sometimes over 100 years and sometimes over 20 years? Well,
+they happen more regularly because labor or the bottom of the distribution tends to be youth.
+And the top of the distribution in capital tends to be an older generation. You can take
+wealth disparity and you can really turn it on the horizontal axis and talk about it as
+generational disparity. And that very much happened in the 60s as well. You've seen all
+the videos. If you live through it and you're older, you know that there was this generational
+divide during that time. We're seeing that again now. You hear the term boomer thrown around every
+day. And it's real. Why does this younger generation feel this way? Why is there this
+disparity? Because they have underperformed. They're at 40% the wealth creation and household
+formation that baby boomers were at this time in their cycle. They're living at home, a lot of them
+in mom and dad's basement and can't afford a home. That anger, that feeling of inequality is driving
+a populist drive. And every four years, every election cycle, that millennial generation on
+down goes to greater and greater political dominance as baby boomers start to die off.
+And here we are moving through this cycle, this populist cycle. And the response is $9 trillion
+of fiscal spending, which is what we did, which is an order of magnitude more than any other time in
+history adjusted for inflation. It is the size of the new deal. 10 times, sorry, the size of the new
+deal. Now, adjusted for GDP, about the same size, but it is a massive amount of fiscal spending.
+And a lot of that's still in the pipe. We don't even have to pass more at this point. It's coming,
+it's here. It's being spent. We are also seeing protectionism, which is the cousin of populism.
+The more you're populist, you care about your people, not the people of the world, your people.
+And that creates a system that is no longer cooperative, but that is competitive. Is it
+a coincidence that in the 1960s and '70s that we saw the growth of a new cold war, that we saw the
+beginnings and the growth of a hot war in Vietnam, which was a reflection of that competition,
+is it a surprise that we saw an OPEC crisis where entities were flexing their muscles and trying to
+use their resources for their benefit? Does that sound familiar to another time that you know?
+So these things are not coincidences. These are all part of a much broader secular
+regime change. And this is where we are in the cycle. These cycles don't end overnight because
+they are political cycles and they are rebalancing. If we choose as a people to prioritize median
+outcomes, as opposed to mean outcomes, which sound very similar, but are very different things,
+we experience above trend inflation. And we are just at the beginning of this cycle.
+And it is important to keep that in context as you look forward in the next 10, 15 years.
+So that is the weighing machine. That is the bigger picture that we talk about.
+Underneath that now are short-term cyclical reaction functions that affect this, as well as
+structural supply and demand factors of a market that is not necessarily where it was in the 1960s
+and 70s. We have derivatives, we have all kinds of other things that did not exist during that time.
+And a lot of those forces really affect the path within a bigger structural regime change.
+Wow. Now I understand why you have been so in demand for the viewing audience here,
+Jem. This is great. So I just want to clarify one thing to make sure everybody gets it.
+When you talked about the way that system has been run for
+foreseeable memory, which was sending capital to those at the top, that that is a deflationary model
+and you explained why. In a populism world where you are trying to address equity and money starts
+getting sent to the bottom, that is inflationary. And of course, we saw that with the 9 trillion in
+fiscal spending that was spent and then we saw CPI at 9%. So I just want to make sure that that is
+part of why you see us in a secular inflation regime going forward is because we have flipped
+from sending it directly to the elite to now much more of it is going to go towards the bottom.
+Or I think the way you said it is actually really a great way to frame it, which is
+we went from prioritizing mean outcomes to median outcomes. As everybody knows,
+you can look at how the average person is doing and that is getting pulled way up by that 1%
+or 0.1% at the top that makes the average look much better than it really is when you look at
+I guess the median person where you are like, wow, they are still doing pretty poorly, right?
+So a populist movement really does strive to raise the standard of the median person.
+Which may not be GDP maximizing. Median prioritization is not the same as mean. Mean
+prioritization is maximizing GDP. And so as a people, you may need to say, hey,
+listen, maybe we don't want to grow at the fastest rate as a country, as an economy.
+Maybe you want the average, the median person to do better. And if that's what we choose,
+which is an idea of fairness and justice, again, not a natural system, that is less efficient and
+that is not maximizing, but that might be better for us as a people. And that's a political
+decision. I'm not making an argument for one or the other, but the truth is that over time,
+these competing forces push and pull on one another over time.
+Well, and this is the work, as I know you are aware of demographer Neil Howe, who has the
+turnings model, right? And he says that right now we are in a fourth turning, which is really kind
+of when the status quo, the old order falls apart and begins to get replaced by something new.
+And one of the characteristics he says of a fourth turning is a demand for a lot more centralized
+control. And actually there's a demand from the populace for this to happen. It's not just the
+folks running the system wanting to reserve more control. The populace is saying, we want you guys
+to solve these problems, get involved, right? And one of the things that Neil says is, yeah,
+you get a lot of disruptive change, but a commonality of that change in these fourth turnings
+is towards more equity. And so he said, look, it's for other people to determine whether that's
+a good thing or a bad thing, but you certainly can make an argument that says, hey, if you have
+a system that has become highly unequal, a return to equity for the majority of people might be in
+that good. And to your point, it might not be GDP maximizing. There might be people who are at the
+top who are doing less well going forward, but you may have an awful lot more opportunity for an
+awful lot more people coming out of it. Again, I'm not trying to put a value judgment on this
+necessarily. I'm just saying that is a characteristic that Neil Howe has said that
+fourth turnings generally tend to exert. I want to go into more of the voting machine side of things,
+just because you sort of gave a quick nod to the fact that there are a lot of things that are kind
+of making it different this time because we didn't have things like the derivative exposure that we
+have now. And I'm sure there's some other factors there. So I'd like to understand how the voting
+machine is impacting the transition of the weighing machine. Real quickly, and I'll let
+you decide whether we want to get into this now or punt this for later. A question I have found
+myself asking in previous interviews like this when this topic has come up is, I asked the
+guest, what do you think is more likely and what are you more worried about, a financial crisis
+or a social crisis? And you're definitely shining a light on the fertile field here for social
+unrest as we have a society that is becoming more and more unfair economically just because more
+wealth and opportunity is concentrating at the top. You talked about the plight of younger
+generations. I mean, empirically, they're being left behind on a relative basis to say where the
+boomers were at their same age. I actually consult. So I have people that reach out to me who want my
+advice on how to create their own YouTube channel or whatnot. And I'm consulting with a guy,
+mentoring a guy who is creating a channel about servicing the needs of millennials. So this
+channel is basically going to be focusing on the big trends that millennials wrestle with.
+And right at the top of it is affordability. Housing is an extremely common issue that goes
+on there. And also, I think just opportunity in the workforce. You talked about the huge
+incentive that corporations have had, both with low capital and with improving technology
+to basically replace human capital with automation. It just makes all the sense in the
+world of them economically. But in the process, we are hollowing out the on-ramp for jobs, for
+new talent to skill up and be able to demand a premium in the jobs market.
+So there is a lot of understandable despair that's growing in these younger generations. And I've got
+kids. And Jem, I know you've got kids from having looked at your Twitter feed. We hear it from them.
+And it's understandable. So are we laying the seeds of a social -- I don't know if revolution
+is too strong of a word here -- but some social movement that demands the pendulum swing
+further towards the median person's benefit because of just the --
+We have already laid the seeds, yeah. The problem here now is how do we get there
+without that tumult? And the truth is it's very hard. This is, again, the natural system.
+The reason people start to look to government to try and fix these things is nothing is big enough
+or strong enough that can be controlled by the people other than government to help wrest this
+away from capitalism. The natural state of things is for this to go further and further down this
+path. And so it takes a level of political uprising and frustration, crisis, if you will,
+to rejuvenate and to rebalance a system. This is why cycles happen.
+It would be easier if we could really just keep these things in mind and as a government to really
+kind of use capitalism, not let it get out of control. It doesn't work that way, unfortunately.
+Because we're human, exactly. And because we live in a natural system.
+But government has all kinds of problems. I think we can all agree with that. It's not
+efficient in a lot of ways. But it is the only real way to kind of help right some of these
+wrongs. Or if you don't think they're wrong and you don't believe in median outcomes,
+it's the only... That's at least politically the only avenue really to rest that control.
+Times where we go through these tend to be very tumultuous times. If you went and asked somebody
+during the 1960s how it felt, people felt like the world was coming apart at the seams.
+You look back now and you say, "Well, made some great changes. People was a little bit of a
+hiccup." But it really was, I mean, multiple assassinations, Vietnam, people were going to
+war. It was- The race protests.
+Race protests. The gender divide.
+You think it feels bad now. Everybody's like, "Oh my gosh, what's happening? It's because
+we're coming out of this artificially kind of peaceful time." So it feels like the rate of
+change feels really bad. But if you compare this to the '60s, this is nothing. I'll go one further
+than that. Go back to the 1930s. You think this is bad? Go tell the greatest generation of the 1940s
+that World War II was nothing compared to what we're about to go through.
+This is the type of thing we're going through. It will be very difficult. It will be a crisis,
+in a sense. We are entering this type of period now, and it will involve some forms of war and
+conflict. Some of that will be economic. Some of that will be political. Some of that will be
+actual war. And we're seeing that. You can't turn your head to what's happening in front of us.
+Those are a function of these same forces. People really like to separate them and think of them as
+idiosyncratic things. They're all tied into this reality. That said, if you look at what has
+revitalized and re-pushed against the entropy of the things that we've created here in the U.S.,
+and re-stabilized the U.S.'s role and the importance of freedom and justice and all
+the things that at least I believe in here, they've all come out of those periods.
+And without those crises, we would not have revitalized the system and allowed it to
+pursue. So these cycles are important. If we didn't have them, if we went another 40 years
+like this, I would fear massive structural problems. And again, healthy that they happen
+and important that they happen. The key is to not let the system totally fall apart in the meantime.
+And for the most part, we are all incentivized together to do that. And that tends towards a
+reality where that is not likely to happen. Doesn't mean it can't, to be clear. But imagine
+this as a time of revitalization, a burning of the underbrush, which is important for the long-term
+health and survival of the system. All right. So what's interesting is you have the forces for
+change that we've just been talking about, but also you have every player that benefits from the
+current power structure, like doing everything they can to keep the status quo going on here.
+And I'm just curious. I agree. We're talking about cycles. So we probably are going through
+the cycle. It's just the natural order of things. I think you could make the argument,
+at least economically, where you talked about how the creation of the Fed was to try to smooth out
+the business cycle, is that we have maybe had a longer than standard period of no forest fires or
+no burning of the underbrush. And so one might worry that this could be more prolonged and maybe
+the actual conflagration could be bigger than normal because we've delayed things for so much.
+You're kind of smiling and nodding a bit as I'm saying this. Do you feel like that's sort of the
+danger here? Yes. You're 100% coming along. This is the reason I brought up the Federal Reserve.
+Our system was built here in the United States to necessitated volatility and necessitated crisis.
+You needed some level of unanimity to pass laws and to change things that needed to be changed.
+By smoothing the business cycle and coming to the rescue with something that seemed like a
+golden goose that just kept laying the golden egg, that we wouldn't have inflation,
+but we could continue to solve the business cycle issue. By doing that, you remove crisis and that
+meant there was no change. If you look, there have been no constitutional changes. There have been no
+major law changes for quite some time until... And during these times, we start to see those changes
+happen again because crisis allows for those changes to happen. Again, with that analogy,
+if you don't clear the underbrush, things can get much worse for the system. You can start to see
+real entropy within a system without the necessary change that needs to happen. This is a big driver
+for why we have such political conflict on two sides. We haven't made changes and rebalanced
+things for some time. Crisis actually brings people together. I know that sounds counter
+intuitive, but crisis brings people together. You better believe people were pretty much on the same
+side during World War II here in the United States. You better believe that as things started to change
+in the 1970s and '80s, people started to come together. Crisis is ultimately something that
+changes things for the better, at least as the full populace tends to think.
+Is it fair to say that, one, you think our default assumption should be,
+we're going through this cycle. We're going to have the pains of transition here. That should
+be our default. We shouldn't be trying to pretend ourselves that it may not happen. We should plan
+for it and be pleasantly surprised if it doesn't happen maybe. But secondly, if we follow the
+script of the cycle, we will pull together around a crisis. So it sounds like you are predicting
+that at some point, something is going to break in a way that the current power structure can't
+contain the status quo. Through the pain of that crisis, that will be the rallying event that we
+all get on whatever new page we're going to enter the future following. Yeah, this is 100%. These
+are the forces that are at play. What we can do is point to the forces and see those pressures
+and understand that over time, that those pressures have to work through the system.
+Because those pressures are so extreme, we will be forced to deal with them and to resolve the
+bigger structural issues. So I agree with all of that. Now, the problem is path. Because what
+we're talking about here is not a one-year, two-year thing. This is a 10 to 15-year process.
+If you start to bet on that outcome, and you're looking at your investments and whatnot on a
+monthly or quarterly basis or annual basis, you can look back and say, "Is this even happening?
+I don't know that this is happening." You have to zoom out and think about it. And the path is not
+very, it can be a step function. These things can go one way. Take an example of a step function in
+markets as the late 1990s, the tech bubble. Things can go in a crazy, crazy way. And then rebalance
+very quickly in a year or two. These cycles when they come to markets and just broad path in
+general can be very smooth, as we were mentioning with that Sumo market analogy, and then break
+very violently and can lull people into a sense of, "Oh, this isn't really happening." And then
+all of a sudden, all the attention is on it all at once. And why does that happen? Why does that
+tend to be the case? That's almost always the case, by the way. And it's because there's a
+reflexivity to everything. People start to see something happening and they start to bet on the
+fact that that will be happening, which then creates a supply and demand imbalance. People
+are too far on one side of the cart or the boat. Things become, in terms of supply and demand,
+become imbalanced. And positioning, now we get into a bit more of the voting machine.
+The positioning of the market in any asset, not just equities, but bonds, gold, you name it,
+really is the biggest input to the voting machine. Because if everybody is long something,
+that means that at the end of the day, there are a lot more people who need to sell and there are a
+lot less people to buy. And that ultimately is what matters in the short term. The outcomes of
+things matter in the long run, but in the short term, it's just how many buyers are there versus
+how many sellers. So we tend to lead to more and more extreme outcomes. Knowledge, I like to say,
+is called dampening. There's this reflexive reality that if people see something coming
+in the short term, that dampens the direction of where things are going. And it can lead to,
+you need to almost get to a point where people begin to believe, okay, it's not happening again
+for it to start to happen again. And this is true for markets in the very short term and much more
+important, ultimately, liquidity and this positioning is ultimately probably the most
+important thing at the end of the day. And again, both of those are the biggest parts of a supply
+and demand calculation. All right. And is it fair to say there's that time honored expression that
+the bull market climbs a wall of worry and a bear market goes down a slope of hope where you almost
+need to have conventional perception be wrong for the market to then say, all right, look, hold my
+bear. I'm going to show why everybody's actually wrong. Exactly. And that's why the market wasn't
+ready for this inflationary bout really in 2021, in 2022, sorry. And so we got a 2022, when things
+weren't transitory, all of a sudden things went the secular, what I believe is the secular way
+of things. Then people adjust and said, oh, this is happening. So guess what? Now there was an
+adjustment, the market has to now push back against that positioning for some time. Now,
+when people start to say Goldilocks again and you start to hear soft landing, if these things sound
+familiar, let me know. There you go. It might be time to start saying, well, now the secular and
+the cyclical realities of positioning are starting to line up for another run. But you always have to
+think about both when you're thinking about shorter timeframes. You can't just think about
+the secular realities. Yes. If you got the last 40 years of monetary policy right, and you understood
+the broad cycle, that was probably the most important thing of all, because what did you do?
+You bought growth, you sold value, you bought every dip and prepared for the Fed put to come
+into things. You focused on China and emerging markets and things that really kind of grew at
+a faster rate. All the things that we talked about, you would have benefited from, but guess
+what? You would have gotten really hit in 2000, 2001, you would have lost 70% of your portfolio,
+you would have lost in 2008, you would have lost 50 to 70% of your portfolio, depending on what
+you were in. And so it doesn't mean in the short term that you just willingly just stay long the
+secular trend and don't think about things because it'll get you in really dangerous places in
+between. But the path- I'm sorry to interrupt, but I just know a lot of people that focus on a
+lot of the issues we've been talking about here back in 2006, seven, eight, and positioned for
+it back then, and then missed one of the best 10 years in the markets.
+Yeah, correct. Correct. And so it's important to be on top of that. In terms of these things,
+I think people tend to be early and that's part of the reason. Things take longer than you think
+because of reflexivity, because of the positioning. I think people knew about the- I remember in '06,
+we were talking about the housing bubble and how it was likely to crash any moment. It didn't crash
+until '08. I think the tech bubble, I mean, again, I was around for that. We were talking about that
+in '97, '98, it marked a double before it crashed. And things tend to go longer because of this
+reflexivity, because of everything that we talk about here. And it's not just the reflexivity of
+positioning. More people tend to be, again, positioning in the way of that wall of worry,
+but it's also the reflexivity of policy, of the Federal Reserve, of the Treasury,
+of policymakers. All of this reflexively acts against the worries of the world and tries to
+rebalance. Now, what I will argue is that you can control this stuff in the short term, but
+eventually this weighing machine will catch up. So it's important to manage with that broad mental
+model to really understand the bigger picture and to bet accordingly, but wait for the opportunities
+when people are offsides to that broad thesis to really push on it again and again and again in a
+secular way. All right. So I'm working up to, all right, we're at the beginning of a new year. What
+is your outlook for the market look like for this year, given both the high macro things that you
+look at, as well as just the unfolding developments on the ground. Before we get there real quickly,
+is there anything you want to talk about either with derivatives or anything else that, again,
+kind of makes this time different from previous times we've been through this cycle? We have
+a huge derivative exposure, which you can talk about, but we have markets that are now driven by
+algorithms and high-frequency trading and things that can make markets move
+faster or perhaps behave differently than they did under similar circumstances in the past.
+Yeah, this is a perfect lead-in as we get more and more micro here.
+Derivatives were created in the 1970s. People broadly don't understand why derivatives happen
+to be developed then and become structurally important. These concepts are much older. Some
+of them go back thousands of years, right? Again, derivatives are a form of insurance or a way,
+a contract between entities. They're not a magical thing. But why did they become so prominent and
+really get listed on exchange to become more used starting in the 1970s? Because of inflation.
+The reality is that derivatives, that one of the core principles of derivatives is that you don't
+have to outlay money in order to take the exposure, right? That's the whole idea behind it. Why would
+people not want to outlay the money to get exposure? Because the cost of money is really
+expensive. In the 1970s, the cost of money was very expensive. So people wanted exposure without
+laying out the money. They wanted to get their 16% in T-bill in 10 years, right? But they also
+wanted certain exposure at that time. And so this allowed a little bit of both. It was efficiency
+of capital, which is what really derivatives give you. The thing is they didn't really get used much
+until the '80s. And by then, the benefits were not understood and used enough and they weren't
+as necessary. But now they're a prominent part of the system. And that efficiency of capital
+derivatives really didn't matter that much up until a couple of years ago because you're getting
+0% on your money or close. Now in a market environment where you're getting 5.5% in T-bills,
+pretty important to be able to get that 5.5% and still get your exposure.
+And so a lot of things are coming to the surface here in the last couple of years that we've never
+seen before. We're starting to see a massive move, not just in the '70s, money moved from
+the stock market into the bond market, right? You had people switching to a higher interest rate,
+but they didn't have the ability to stack those returns. And what you're starting to see now is
+people say, "Well, I get 5.5% if I go into the bond market, but I could also get 5.5% and then
+that's good collateral. I have all these treasury bills. Then I can go stack some returns on top of
+that by using that for risk." And that's what structured products are. There has been a massive
+growth in structured product issuance from banks and things very similar to them in forms of ETFs
+and other things that allow for people to get the 5.5% and then stack another two, four, five,
+6% on top of it, depending on the amount of risk they want to take. And that wasn't very
+interesting when interest rates are, call it 1%, right? You might've been stacking 4% on 1%. You
+were making 5% in a structured product when the market had been returning basically since 2009,
+about 12% a year. People were like, "Why would I want those things?" But when the market becomes
+more volatile and more dangerous and the market all of a sudden for two years has returned nothing,
+right? You kind of look at these things that are now yielding, guess what, 10%, 9.5%, right?
+And they're non-correlated, not tied to market outcomes and they're relatively low leverage.
+And it's an incredible value proposition, right? So there's this very interesting phenomenon that
+during the 1970s, all this money moved out of the stock market into the bond market and really
+created more volatility for the stock market almost immediately, created a depression in
+multiples, multiple compression and all kinds of other things right away. But now we have actually
+a feedback loop that didn't exist, which is now all of this vol compression because there's a lot
+of these things that are stacking returns on top of that risk-free are vol compressing. They're
+selling some part of the distribution in some way to collect some yield to stack on top of in a low
+leveraged way. So now we have all of this vol compression. Banks are now laden with all these
+structured products and are long as dealers, all the implied volatility in the market, and they
+have to unload that on the market. So there's this vol supply that's happening, this implied
+like options and vol supplier are broadly being pushed onto the market in a massive wave because
+this is the whole stock market moving slowly into these things. This is leading to structured vol
+compression. And ironically, a lot of the forces when you compress volatility, there are natural
+mechanisms within the market that lead to a buyback of equities on a daily basis.
+And I can go into those. Those are called VONA and charm flows, but as vol compresses,
+as the implied vol goes away, the hedges of those tend to be short stock because the market is buying
+put, selling call broadly. I can get into more detail if you'd like, but at the end of the day,
+there's these structural forces that buy back the market on a daily basis when vol is compressed.
+And when risk is well controlled, there's also other funds like vol targeting funds that take
+more risk and go more risk on as well. All of these things lead to this market machine
+continuing to go into this buy the market, buy the market, climb the wall of worry,
+squeeze the shorts, et cetera, in almost a mechanical way as long as this vol supply exists.
+And ironically is very counterintuitive. That is a function of interest rates being higher.
+How do we know these things are happening? People are like, "Oh, that sounds great,
+but how do you actually know these things are happening? Can we tell just because vol is
+compressed in this environment?" There are actually other ways to tell.
+The most profitable trades in the last three years, and particularly in the last two,
+and also we saw this in 2017, which vol was very compressed in a similar fashion,
+not from structured products, but other things, was a trade called dispersion.
+What is dispersion? Dispersion means how is the performance of the constituents of an index
+relative to the index itself? And what we've continued to see is historic three standard
+deviation type outcomes for dispersion. And the last time we saw that was really 2017 when we saw
+a very similar thing where the indexes was where vol was being sold. The majority of the vol being
+sold in markets in these structured products is in the indexes, particularly the S&P 500.
+And that S&P 500 vol, when that's sold, what does that mean? That means dealers or entities that
+hold that vol are hedging it and pinning the movement and compressing the volatility of that
+index. Meanwhile, the actual constituents are moving in line with their historical averages.
+Their what we call idiosyncratic risk is very much in line with long-term averages and continues to
+be. So, what you see is this real dispersion between the volatility of the entities, the single
+list stocks and entities, which is more tied to broad liquidity and interest rates and all the
+other risks and the macro things we're talking about. But in the meantime, the middle is pinned.
+And that is what we call dispersion. And that is really what explains, and you begin to see again
+again when that vol is well supplied and pinning the index, whereas the rest of the market is
+moving. And so, that very important structural thing is very different than the 1970s and can
+help to extend these cycles a bit, can help to compress the volatility in the short term.
+But again, to my point before, it is ultimately like a sumo market. You are unnaturally almost
+compressing things through the mechanical measures, compressing volatility, while broad volatility is
+increasing on the ends. I call it a donut. Imagine an inner tube is inflating, inflating, but the
+middle is pulled down and tightened again with some force. At some point, you blow it up enough,
+the whole thing is going to pop. It doesn't matter that the index is pinned in the long run. But in
+the short term, it can cause a real headline number like the VIX to look really, really
+compressed and indexes to be really, really- Is it a dangerous thing in the long run here?
+That's what I'm sort of trying to take from all this, which is, hey, maybe pinning vol to a
+certain extent isn't the worst thing in the world. But if you let it run for too long, do you build
+up these forces that risk a rupture? Sounds like something else we were talking about earlier with
+fire in the underbrush, the reserve and smoothing cycles. Yes, this is the way of the world.
+If you continue to let pressures build and don't clear the underbrush, the reaction tends to be
+more violent and more dangerous. The more vol is compressed, it gives a green light to speculators
+and entities to take more risk. There's all kinds of risks that builds in the system that eventually
+creates more of a fire when the fire does come. All right. Let me ask this question just because
+we're beginning to run short on time. I know we have a hard stop. We've got to finish before here.
+Jim, first off, this is wonderful and I'd love to have you back on the program again to dive
+more deeply into any of these topics that you don't feel like we gave full shrift to in this
+conversation here. But when I think of things like what you're talking about here, which is
+basically artificially compressing volatility to make things look more stable than they truly are
+and allow speculation to flourish, there's some other things that we haven't talked about that
+we might not have a chance to give full attention to. But the magnitude of corporate buybacks that
+are happening now versus previous generations, very different. That's a lot of liquidity flowing
+into the system. We have all the fiscal monies that are still in the pipeline that you mentioned
+earlier. We have what Mike Green calls the giant mindless robot, which is we have these algorithms
+for so much of the passive flows that go into just a small number of stuff. I don't know what
+the current number is, but it's close to like 40 cents of every dollar is going into the magnificent
+seven. And so all these things conspire to push asset valuations up. And you can look at this from
+the scope of history of, all right, well, this is a period where you're pulling tomorrow's prosperity
+into today's asset prices. And are you therefore basically setting yourself up for a period of time
+at some point in the future where you have to value assets below their historic averages because
+you pulled everything into an earlier time? Yeah. So from 1968 to 1982, that 14-year period,
+which was the most recent period we have to draw the data from, thought markets went nowhere in
+nominal terms. But more important than that, they lost 70% of their value in real terms.
+And multiples went from a low 20 P/Es for the broad market to four and a half to give you a
+sense. Why is that? Like, why would anybody ever let that... Yeah, it's hard to imagine. Why would
+people allow the market to go to a four and a half P that seems like a no brainer? Because you could
+get 20% in 10-year bonds. And you have to understand the cost of capital matters. And at the
+end of the day, at some point, these valuations are a function of interest rates and interest rates
+are a function of inflation. So if we're going to see a secular normalization of interest rates,
+we don't even have to talk about the inflation or bigger structural inflation or potential out
+there. But the valuations are going to get brought back into line ultimately because there's just
+better options. There's better ways to get yield with less risk.
+And sorry, just to clarify one thing, in this secular future you see of higher inflation,
+you see higher interest rates following suit?
+They at some point have to. And the reason they have to is because if they don't,
+it creates two problems that make inflation worse. If you artificially suppressed interest rates,
+then people can go buy anything pinned down at a lower interest rate knowing that the price of
+that thing is going to inflate away. So you can't hold them apart. It will create a massive
+inflationary hyperinflation. On top of that, people pull forward broad demand in general,
+build inventories, do all kinds of things as has been well-documented. If inflation expectations
+go higher, it feeds upon itself and gets out of control. So there is no way for those two things
+actually to go in opposite directions. If the Federalists try, it would only create a massively
+bigger problem. Got it. All right. So wrapping things up in a criminally short period of time
+here, to the question of looking at 2020-2024, where you think markets are headed? Are there
+assets that you would favor in this market environment, ones you would avoid? What's
+your outlook here? Yeah. So with that context that we are in a secular period, I would call this
+almost year two or three of a much longer kind of 15-year type cycle, you're waiting for those
+opportunities when people get offsides on that secular view really to continue that secular
+trend. And as I alluded to earlier, when you start to hear soft landing and Goldilocks,
+that means stagflation is around the corner. And so I think this will be a year of broad
+stagflation. I think we are beginning to see recessionary pressures from the cyclical
+reaction function to the secular forces. The problem is you can, under these scenarios,
+yes, you can take CPI down to 3, maybe even 2% and have a big kind of mission accomplishment across
+the back. But the reality is that inflation will not only come back, but will come back much worse
+like it did in the 1970s, the second you stimulate cyclically again. And we're already starting to
+see signs from the bond market that they believe the Fed will need to pivot. I agree if we go into
+a recession, particularly in an election year, even if it's a mild recession, there's going to be some
+level of a pivot. There's also going to be a pivot from fiscal policy. There's going to be more
+fiscal coming. These things ultimately will drive cyclical now inflationary pressures,
+which will align with, again, that secular that's already there and expanding. And so ironically,
+these recessionary slowdown periods, when people get their eye off the inflationary picture is when
+the trade is the most optimal and the opportunity presents itself. So a lot of these trends,
+we saw it back in 2022, I think will continue now this year. They will start turning. I think you'll
+see the performance of quality and broad value over growth. Now, again, when I say value,
+people will come after me, not the crap value that is like things that need to borrow more money and
+that are going to go out of business, but businesses that have good discounted cash flows
+that are consumer focused, consumer staples, consumer discretionary stuff, even though it
+will look bad initially here as it pulls back. This is an opportunity to now again, structurally
+get into that stuff. Commodities, gold is a great opportunity. Volatility itself should begin to
+expand again in this year after reaching a nadir. Ironically, if interest rates come down in this
+period, that might allow for less structured product issuance, which could actually loosen
+a bit of this, what I call the dike boy, the boy with his finger in the dike, holding back the
+waters. Or the jack boot that's on the neck of volatility. Exactly. So I think a lot of those
+things that we started to see in 2022, which went away in 2023 and really worked the opposite way,
+could very much come and rear its head again. And actually an increasingly more veracity,
+I believe. It's an election year. And I think that's important to understand. The second we get
+a pullback here, which I personally, I believe will be coming sometime here in Q1. When that
+happens, the reaction function of both government during an election year, as well as the federal
+reserve will be quicker than most people expect and quicker than it would be in most cycles,
+which I think will lead to personally, probably some type of blow off top that comes after the
+initial pullback. It could be increasingly volatile to the upside before it ultimately
+becomes an expanse, a megaphone of types. That would be my guess. But again, at this point,
+you want to be favoring anything that's a line item in government. As you mentioned,
+times like this put more money into government's hands, whether that's defense industry, whether
+that is healthcare, whether that is energy, housing, things that ultimately government
+cares about and will be spending into. Those are some of the best places to be secularly in a year
+like this. Those will be places I would focus on outside of commodities and again, broad DCF,
+high quality names. Fantastic. Real quick, just on bonds, I'm intuiting from what you're saying,
+and correct me if I'm wrong here, you think they could actually do okay in the near term as the
+current trajectory continues. But once stagflation really starts to kick in,
+maybe we have the blow off top and everything, that's a time to start getting out of bonds
+and putting that into things that are going to do well from a reflation trade.
+Yeah. To be clear, duration is a dangerous game to play in this secular environment. You can
+get out of the bond short for periods. Again, you would have wanted to be here more recently
+when things get on one side of the boat, but you want to be looking for a steepener.
+This has been a very, very rare occurrence that you've seen steepening into a time when the Fed
+is starting to really lower maybe pivot on interest rates. My view is that after the
+initial pivot comes, that you'll ironically see not only a bottoming in longer term yields,
+but you'll start to see a real steepening of the curve, which hasn't happened for 40 years.
+And I think that something along those lines will be the sign that the Fed is starting to
+lose a little bit of control along the curve. And I think that is actually going to be the biggest
+risk to everything when things really start to get a little bit more dangerous.
+All right. That's the Bill Fleckenstein, the bond market starting to take the printed press out of
+the hands of the Fed. Jim, next time you're back on, let's dive more deeply into this risk here,
+because it sounds like a big concern of yours for the future, and we hardly had any time to
+talk about it. All right. Landing the plane here very quickly in the remaining few seconds we have.
+Very important question. For folks that have really enjoyed this conversation,
+maybe it's the first time they've been exposed to your work, Jim,
+where can they follow you in your work? Yeah. The name of the firm is CHI Volatility. You can
+go to chivolatility.com. We offer a family of hedge funds, primarily focused on some of the
+all these forces that we talk about in volatility markets particularly. You can also find me on
+Twitter or X @jam_croissant. That's a play on my name. I usually post a lot of things there,
+and we do a lot of media much like this. But happy to be back when we have time,
+Adam, and kind of dive in a bit more. Fantastic. This has been just great. So folks,
+to help encourage Jim to come back on the program, please vote your support for that by hitting the
+like button, then clicking on the red subscribe button below, as well as that little bell icon
+right next to it. Last question for you here in our last 30 seconds, Jim. We've been talking a
+lot about financial monetary investment issues here. Is there one non-financial, non-money
+related investment that you would encourage folks to consider adopting in their lives in 2020?
+Yeah. This may sound a little hokey, but if you couldn't tell, I'm a student of history and a
+student of broad philosophy, and I think too often we get focused on ourselves and our own financial
+outcome, and we don't think about the bigger picture. That's part of the bigger problem.
+So I would invest in your community. I'd invest in the people around you and try and educate and
+do things that ultimately help for the greater good. I think that's the most important thing of
+all. Very well said, and we'll leave it there because I know you got to go. Jim, this has just
+been a true joy. Thanks so much for coming back on. Really look forward to doing this again in
+the future. Everybody else, thanks so much for watching.

@@ -1,0 +1,627 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. By many calculations,
+the stock market has returned to rich valuations. Following one of the best November's in market
+history and now juiced by fresh optimism for rate cuts, now three of them in 2024, how valid are
+concerns that stocks are becoming increasingly overpriced and a pullback is warranted? To find
+out, we have the good fortune to talk today with Cameron Dawson, chief investment officer at New
+Edge Wealth. Cameron, thanks so much for joining us today. Thank you for having me. Well, hey, it's a
+pleasure to have you on the channel. This is the first time I've ever interviewed you so I'm so glad
+we could make this happen. I'm so glad you could be one of the new faces here, one of the
+first faces here on the new Thoughtful Money channel. So thank you for coming on for doing
+that, Cameron. A lot of questions here for you and as I sort of referenced in the intro there,
+we've had an interesting curveball this week with the surprisingly dovish guidance that the Fed
+offered this week and the market's response to that. Before we talk about that specifically,
+if I can just start with the more broad question I like to ask at the beginning of these
+conversations, what's your current assessment of the global economy and financial markets?
+Yeah, I think if we're starting with the economy, it's one of continued resilience.
+We go back to the beginning of 2023 and consensus estimates for GDP growth for the US were at just
+0.25%. We're now well over 2.5% for consensus estimates are getting even further up. We had
+Atlanta Fed GDP now just print today at 2.6%. So that's above trend. That's after an absolutely
+gangbusters quarter in the third quarter. And so what we're still seeing is, yes, there's signs of
+fraying. There are signs of things around the edges. You could point to different pieces of
+data to say there is pockets of weakness, but they're not big enough. They're not sharp enough,
+or they're not meaningful enough to derail the continued growth of the US economy. They're not
+enough to derail the employment market, which, of course, we know drives consumption. When people
+have jobs, they spend money. And so the end result is, is that we're continuing to chug along on
+growth. And I think the biggest question that is probably on all investors' minds and maybe
+incrementally less on the mind of the Fed, according to this week's Federal Reserve meeting,
+is that does that better growth come with the risk of renewed inflation? And we have been in this
+period over the last few months where growth has been a lot better, but we haven't had inflation.
+Is that because of productivity? Is that because of the adoption of exciting new technologies?
+Or are there other drivers and dynamics that maybe we shouldn't extrapolate what's happened over the
+last couple of months into the future? I think that will be a really key debate as we go into 2024,
+meaning that if you see a re-acceleration in inflation, the pricing of the Fed is going to be
+whip-sawed around just as it was in 2023 and 2022 for that matter. And then from the growth
+perspective, we continue to see signs that at least through the first half of the year,
+we're unlikely to have that recession. And we'll continue to assess the dynamics and see if it
+is the second half of 2024 risk, or maybe it's a 2025 risk. Now that's for the US. You asked about
+the global economy. And what we do see is more distinct weakness, certainly out of places like
+Europe and even in places like Canada as well, where you actually have a far more interest rate
+sensitive kind of economy, meaning that you have more floating rate debt, whether you're looking
+at mortgages or you're looking at bond markets that tend to be more about bank loans, which are
+floating rates. So meaning companies feel the pinch from higher rates in the way in Europe,
+a lot more than they do in the US. So there certainly are signs of things like slowdown
+in Germany and other pockets within Europe. And that likely means as well is that you have the
+potential for an easing cycle within those economies. You kind of have to have this offset.
+And I think that the one key thing to observe is that not all easing cycles are created equal.
+And there are some using cycles that we've had over the last 40 years that have been
+good easing cycles. You're easing because inflation is falling, at least that's what the
+Fed is trying to do now, or because there's some fears about growth, but really growth isn't that
+much of a concern. You have times like '95, '98, 2019, all times when easing was good. But then,
+of course, you have times like 2000 and 2008 and 2020, for that matter, where easing was
+bad. So if we get the easing, is it good easing and we hit new all-time highs in markets? Or do
+we get the easing and it's the bad easing and the Fed's cutting for kind of an uncomfortable reason?
+You know, that's probably a question more for 2025 as we're talking about the recession
+dynamics. But I think that, you know, we always have to keep in the back of our mind that be
+careful what you wish for kind of scenario. All right. Great, great kickoff to this. So
+I've had a couple of interviews since the Fed news came out. And a little bit of,
+you know, a little bit of either like, you know, Paul certainly projects a sense of being pleased
+with how things have been going. And he's projecting a sense of like, yeah, you know,
+it looks like we're winning the war, we're not going to declare victory just yet, but things
+are going along the course that we would like. Therefore, you know, we're much more likely to
+certainly cut next than hike again. I mean, he didn't say it, obviously, but I think the signal
+he was giving was, we're done with rate hikes. And of course, you know, with the Fed dot plot and
+their guidance, that it, you know, now the expectation is for three rate cuts in 2024,
+when it was only two a month or two ago. So on one hand, they're projecting a sense of confidence.
+I have heard sort of the other side of the story, which is like, hey, the economy is actually like
+doing okay here. And why are they going to cutting sooner than they've been projecting? In fact,
+just like two weeks ago, they were saying they weren't even thinking about talking about rate
+cuts. Does the Fed know something that we don't that they're not letting on about? Like, perhaps
+are they more worried than they're letting on? I'd love to get kind of your thoughts about that.
+But if we can in your answer, how surprised were you by this week? And does it change your outlook
+in any meaningful way? Yeah, I was surprised by the degree of dovishness by the Fed. You know,
+it's interesting because I had spoken to Neil Dutta, who's the chief economist over at RENMAC
+a few days before and then the day after. And I remember he said to me, you know, people shouldn't
+be surprised by big pivots by the Fed. They've done this all the time. Powell said he's not going
+to go 75 basis points. They're not considering it. And then lo and behold, he goes 75 basis points
+two weeks later, you know, back in 2022. So at the end of the day, we probably shouldn't be that
+surprised. But to your point, it's interesting. You go back to the December 1st speech he gave
+when he said we're not thinking about talking about rate hike or rate cuts. And in that,
+he said rates are restrictive and so economic growth is slowing. Now, it's a question of slowing
+from what? Yes, slowing from the third quarter where we had this huge well above double the
+potential growth rate or kind of the average growth rate kind of quarter. So, yeah,
+of course you would slow from that. But, you know, when we look at the data that he had going into
+it, you know, the Atlanta Fed GDP now was sitting at below one and a half percent. So maybe he's
+saying, yes, here's the evidence. You're slowing down. Well, as we mentioned earlier, that got
+revised higher to, you know, two point six percent today on the back of the stronger retail sales
+data and other components. So I think it's really hard to make the argument that they're cutting
+because they're seeing distinct weakness. The Fed has never been good about looking into the future
+and saying, oh, yes, you know, there's going to be this economic weakness that will come. They tend
+to take what has recently happened and extrapolate it. Now, of course, they did try to predict the
+future with the whole transitory business, which obviously didn't work out. But, you know, you've
+had Powell now effectively cast off all of the other assertions he was making back over the last
+couple of years. You know, the whole history warns against cutting too soon, evoking the memory of
+Arthur Burns from the 70s and stop go policy, saying that we must get rates to a restrictive
+policy level and keep them there, end quote, for some time. And that, you know, that you have to
+get in and keep rates in the higher for longer camp just threw that all out the window. And so,
+you know, obviously the first reaction by a lot of people is to go conspiracy. It's an election year.
+They want to they want to support the economy, getting pressure from Biden. Yeah. And that that
+could very well be true. I mean, you know, we go back to late 2018 and there was a lot of questions
+about, you know, in that December 2018, if if Trump was kind of pressuring Powell to do the
+pivot that he did, you after markets melted down on Christmas Eve of 2018. So, you know, I think
+that that that is likely a component of not wanting there to be a recession in a in an
+election year. And I think the other question would be is that, you know, would we have had
+would we have a recession if they didn't cut rates? Is the is the economy about to hit a
+refinancing cliff where you have now people actually feeling the pressure from higher rates?
+And is there risk that that growth would slow material materially and unemployment would go up
+materially if they didn't cut? I don't know if that's the case. You don't have a lot of evidence
+for for that kind of relationship yet, but clearly that's on the Fed's mind. So if there's anything,
+that's the thing that they know that we don't know is that if they didn't cut, we would have we would
+have a recession. And but, you know, at the end of the day, the equity market is kind of telling you
+that's not the case. Right. Earnings estimates aren't coming down. Equities are roaring, going
+back to very, very extended valuations with this idea that we can have our cake and eat it, too.
+We can have liquidity. We can have an easy Fed that helps boost valuations and we can have a
+strong economy that keeps earnings resilient. Okay, obviously, that's what the markets are
+hoping for. I think a lot of people, and I'll put myself in this camp, are still scratching
+their head saying, "What changed since the beginning of December?" From the we're not even
+thinking about talking about rate cuts to this guidance here. And one question I want to just
+sort of put into that is financial conditions have been easing. So as the Fed has been trying
+to kind of tamp down animal spirits, the markets have not been helping him. And so
+he's had this market that's been really just ready to discount everything the Fed has
+said and take it higher. And the whole year, Powell has said, "Nope, I'm not pivoting. I'm staying higher
+for longer." The market has said, "I don't believe you," and every time the markets had to move its
+benchmark. But still, it hasn't really mattered. Asset prices has powered higher. Up until
+this past week, I thought that that was probably pretty frustrating for Powell.
+But to a certain extent in this two-week period, he went from continuing to sort of
+tell the markets, "Nope, you're not going to get what you're looking for," to basically kind of saying,
+"Yeah, I'm going to give you what you want." And if the markets are doing fine, I mean if the
+economy is doing fine, I wonder why he doesn't take the opportunity to be tighter for longer. He's
+always said, "Hey, if we're going to err, let's err on the side of tightening too much because we know
+how to fix that. We know how to reverse that and do easing and whatnot. It gets harder if
+inflation gets away from us." So I'm just curious. Do you have any sense for what might have
+changed? So I think let's go back to the beginning of this year, which is there was a really
+peculiar interview that Powell did in, I believe it was February or end of January, early February,
+and Powell was asked about financial conditions, which had eased really materially coming out of
+the October low. Yields had fallen, equity valuations moved up substantially, credit spreads
+had narrowed quite a bit, and all in financial conditions were at easy levels that we hadn't
+seen since the start of 2022 when they were tightening policy. Actually, financial conditions
+were easier at the beginning of this year than they were at the beginning of 2022 when Powell
+was saying, "We need to get financial conditions tighter." And he had done all that hiking and
+tightening during 2022, but as you said, financial conditions were even easier, right? Yeah, exactly.
+And he responded in a peculiar way, which is he said, "Oh, no, financial conditions are much
+tighter today than they were back at the beginning of 2022." And everybody kind of looked around and
+said, "What are you looking at?" And what he was looking at was an extraordinarily narrow definition
+of financial conditions, which is just real interest rates, meaning that the financial
+conditions indices that we look at, and we know that the Fed looks at it as well, include equity
+valuations, credit spreads, level of interest rates in the short and long term, the dollar,
+and some have some other added components to them. And what that captures to your point is that when
+you have these broad financial conditions indices, it does capture the wealth effect.
+It captures the role that rising asset prices have in consumer spending. And what's funny is that
+that actual wealth effect is one of the express purposes of quantitative easing. When they first
+initiated QE, you go back to the original justification and assessment. One of the ideas
+was that you would push people out the risk curve. You'd get people to start investing again. That
+would then allow people to, and you do that by suppressing risk-free interest rates. As you get
+people to invest again, that boosts the wealth effect and that boosts consumption. One of the
+best analogies as to why QE would boost consumption in this really kind of roundabout
+way is from Mark Blythe. And he talks about, he's an economist, and he talks about this idea of that
+if you're trying to fill a glass of water, effectively through QE, what the Fed did is that
+they put the glass of water in the sink, but then they flooded the house and said, "Oh, hey, look,
+the glass of water is full," not mentioning that the rest of the house is flooded.
+I think that that narrow definition of financial conditions that Powell adopted being just real
+interest rates ignores that whole wealth effect. And we know that that contributed to the inflation
+we had in 2020, 2021, and started '22, where the wealth effect was so huge that you were seeing
+inflation in things like cars and houses kind of feeding on itself in this speculative and risk on
+fervor. I agree with you kind of where I scratch my head and go, what's the purpose and the goal
+that you accomplish here? Because we do know the biggest risk in them doing this. I think the most
+detrimental downside for them pivoting too soon is one where you have a repeat of Greenspan cutting
+in '98 and you have a huge speculative bull market like '99 and into 2000. And yeah, a lot of people
+made a lot of money, but also a lot of people lost a lot of money. There were people who were locked
+out of investing, got so burned by investing that they stayed out of it for a generation.
+Also remember that when you hit that new high in 2000, that ultimate high in 2000,
+it took you 13 years to make a new all-time high. So financial bubbles are horribly destabilizing
+for long-term returns and long-term investments. And I think if we were to say, what's the biggest
+risk that you would have is it's in two stages. You get a bubble because you get this speculative
+fervor that comes back. You get a melt up, valuations go to crazy, crazy levels. And then
+you get a crash on the other side. What that means is that you kind of have to be impartial
+in the beginning. You can't beat them, join them, but just be extraordinarily resilient or resistant
+to narratives because there'll be a lot of narratives that say, oh, of course we're going to
+trade at X times earnings because we're the best economy in the world and AI. And you'll have every
+story to tell you as to why it makes sense. But when you look out on a five-year plus rolling
+basis it could be pretty dangerous. That's not our base case, but I think we have to see that
+as a higher probability today than it was going into this Fed meeting earlier this week.
+Okay. That's really interesting. Okay. You mentioned several things I wanted to talk about,
+and you may recall from the intro to this, I talked about how markets had been already
+pretty richly valued and then they vaulted higher after the Fed meeting. So when you look at,
+you talked about what happened leading up to the 2000 market collapse and similar. In fact,
+when we look at the past recessions that folks watching this have lived through,
+most of them occurred after a pretty aggressive rate hike campaign by the central banks and then
+it plateaued for a bit and then really right just as the rate cuts started was when the economy
+started falling into recession and the Fed was cutting down clearly in rescue mode at that point
+and the markets in most cases had pretty substantial corrections as well. So from a simplistic
+standpoint, you can look at that pattern and say, "Oh my gosh, we seem to be perched right there
+on the edge of the cliff at this point and this is right where they start cutting and this is where
+everything falls off the cliff again." Who knows if that's going to happen? I don't know. We can
+say we're starting from a position where assets are richly valued by most metrics here. And I know
+that you have relatively recently talked about assets having moved very far very fast and so I'm
+curious to get your thoughts about that. Before we do though, you talked about the wealth effect that
+QE is supposed to generate. We have been in a tightening regime over the past year and a half
+or so since the beginning of 2022, but when you look at liquidity, when you look at measures of
+liquidity, it's been net positive in most cases. It declined through 2022 but sort of bottomed in
+October and hey, no big surprises. Liquidity started to recover, the market started to recover.
+It has largely been rising this year and so we're in QT but it's really maybe more like stealth
+QE and that may explain a lot of the market's activity this year. So you're sort of nodding a
+little bit and smiling as I'm saying this. I'd love to get your thoughts on this and does it
+almost make the Fed saying, "Yeah, we're probably going back to rate cuts next year sound like we're
+going to do QE on QE." I think a lot of people probably don't realize
+the liquidity story and have been thinking we're in tightening. Are we really in tightening or like
+I said, are we really in an easing regime that's masked as tightening? Liquidity is
+in the eye of the beholder. So there's so many different ways to define liquidity but we can do
+these broad ones where we look at things like Fed balance sheet, reverse repo reserves at the Fed
+and what you can see is that these kind of patchwork measures of liquidity declined
+really sharply all through 2022. They rose in '20 and 2021 of course during the Fed super stimulus.
+They contracted in 2022 and to the surprise of many including ourselves, they expanded in '23
+despite the Fed still doing QT, despite the Fed still raising interest rates. The dynamics around
+why that would happen does have some relationship not just to monetary policy but also to fiscal
+policy. There are arguments that as the treasury has funded itself with bills so really short-term
+debt instruments instead of bonds, coupon bonds on the longer term that this is actually added
+to liquidity and made it so that way that's found its way into the market and it's kept
+longer term interest rates from going maybe as high as they need to. There will be people who
+will argue that the treasury has to go back to more coupon issuance next year that they can't
+keep doing this bills business and the end result is that you could actually see liquidity drain
+next year and wouldn't that be an interesting paradox where we all thought that 24 would be
+the year the Fed's cutting rates. Of course liquidity is going to get better. I think a
+wildcard scenario would be one where because of treasury funding we're still running record
+peacetime deficits that are not in a recession. Record wartime deficits, you meant, right?
+Well, wartime level deficits in peacetime. In peacetime. Yes.
+Outside of a recession, we've never seen anything like it and that of course has to be funded. It'll
+be slightly less bad next year, but it still is near a record, meaning it's unprecedented
+and isn't it interesting that now you have stimulative fiscal policy and stimulative
+monetary policy at the same time as that you're still near 50-year lows in unemployment.
+That's a lot of stimulus and on a year-over-year basis, the fiscal impulse does slow down versus
+23 into 2024, but I think it is an interesting thought experiment and I think that there's
+a few people out there on the street who have great perspective on this of what does liquidity
+do next year because the thing that we can observe is that valuations are very correlated to liquidity
+and valuations mostly for growth stocks are very correlated to liquidity. They're less correlated
+to interest rates and that's how we look back. If you had asked me at the beginning of the year,
+will growth stocks re-rate by 45% this year while you see real interest rates go up to
+well over 2%? I'd say no. There's no way. It doesn't happen. That's not the relationship.
+The reality is it's not real interest rates. It's not interest rates. It is liquidity and so having
+a view on liquidity probably is the fulcrum to every single call that happens next year.
+It's kind of an unsatisfying state to be in that we live and die by this, but I think given the
+leverage in the system and it is a liquidity-driven market, I think we have to be very aware of it.
+I've only really half joked that I do several of these interviews a week and we talk about
+all sorts of different macro and technical indicators and all that stuff and I sometimes
+say, "Should we just throw it all away and just watch liquidity? Is that really the only thing
+that really matters here?" As you talked about, even if you decide to do that, it's tough because
+there's all sorts of different ways that different people measure it, but I'm curious saying that it
+should be the fulcrum of an outlook. What is your outlook for liquidity going forward from here?
+I think that I don't know. I'll be perfectly honest, I do not know. I don't know if the
+Treasury has the wiggle room to continue with the bill's issuance and if that can actually
+continue to add to liquidity. I think the Fed will continue to do QT, but that's been completely
+offset by reserves in other places. Maybe what we find is that as interest rates fall and people
+get reinvested and money comes out of money markets, that could have some dynamics on
+liquidity, but it's something that we're still working out a way to predict. It caught a lot of
+people flat-footed this year. Look, I think a lot of people will argue that it doesn't matter.
+At the end of the day, earnings estimates for gross stocks, mostly the Magnificent Seven,
+were up a lot. Gross stocks grew earnings by 160% this year. Liquidity be damned. You still have
+great earnings growth, but I think it's something that we can't ignore, mostly when you start the
+year at such a high valuation. We're trading at 19.6 times forward earnings. The only time that
+we've traded above this level, we briefly touched 20 times in July, but outside of that, the only
+times we've traded above that level was in 2020 and 2021 and then back during the tech bubble.
+2020 and 2021 were of course liquidity-driven markets. You also had earnings which were
+depressed in 2020 and they grew then 50% in '21. You put a big multiple on those earnings,
+but real interest rates were negative 1.5%, balance sheet growing $5 trillion,
+money supply growing 30%. It's a very different liquidity environment than it was back in those
+times. People make two arguments as to why you could get back up to those multiples.
+A, paradigm shift in technology and consumption or composition of the index and comparing to
+history just doesn't make sense anymore. That one's a little hard. It's a very this time is
+different kind of argument. Remember back in 2021, the Schiller PE is published online. You can pull
+it up. Robert Schiller puts out a note that says stocks aren't overvalued even though my Schiller
+PE is at the highest valuation since the tech bubble. Don't worry, stocks aren't overvalued
+in 2021 because interest rates are so low and saying, "Oh, well, it's the earnings yield and
+the spread over interest rates so the cyclically adjusted equity risk premium." Of course, that was
+incredible top ticking on valuations. They plunged over the course of 2022 as liquidity contracted.
+The fact that in order to get to your upside calls, and this could happen if we have that
+bubble. If we have that speculative melt-up bubble, you could see valuations completely
+disconnect from fundamentals. In that scenario, what you say is if you can't beat it, join it in
+the short run but realize that forward returns are going to be really ugly in a forward three to five
+year basis simply because valuations will have become so extended. You pull everything forward.
+You're just pulling everything forward. Yeah, exactly. I'd love to talk with you in a second
+about how you think folks can plan for that should that indeed happen or at least surf it as it's
+going on. Real quick, back to liquidity, just your thoughts on two other things. I'm curious if you
+think they'll get your sense of how material they may be. One is the reverse repo program
+has been contributing to liquidity and it's draining down at a pace where folks say the
+current trajectory should basically be exhausted by maybe the end of Q1 next year. So I'm curious
+if that program is no longer contributing to the liquidity situation if you think that makes a
+difference. The other one is we're coming up on the one year anniversary of the BTFP
+and unless Powell decides to change the rules and amend the program, in theory at least,
+the banks are going to have to basically repay those loans. Are either one of those two do you
+think material for next year? I'm not sure about the first one with reverse repo. I'm not an expert
+on it and it's something that I'm doing a lot of work on right now. So let's talk again.
+Okay, we'll punt on that one. Yeah, I was listening to Powell's comments yesterday
+about that kind of level of reserves and what it means for QT and how much they'll do and kind of
+that right level of whatever they're deciding. So I need to do some work on that one but we'll
+talk about the BTFP. Great and just so you know at any point in time going forward from here next
+year, year after, you've done your research on anything that you think is an important message
+to share with the audience. You're welcome back here anytime. Yeah, that stuff's hard though.
+So on BTFP, I do think I would put a higher likelihood that they extend it
+because what do they gain by letting it expire in March? I don't think that they really gain
+anything. They might gain another banking crisis. It's all
+going to depend on where the price of those assets is at that time. And they're still going to be
+underwater because a lot of these assets were bought in 2020 and 2021 when deposits were surging
+and yields on the 10-year were one percent and below. So even if the 10-year comes down,
+you're still going to be sitting on some pretty hefty assets or at losses much less than when
+the 10-year touched five percent. But I do think that the Fed will extend that. They don't need to
+introduce, make the choice to introduce uncertainty for regional banks and so I think that it's one of
+those things where it's a crisis policy tool that morphs into a permanent policy tool. Yeah,
+like what we've seen so many times. There's a quote, it might have been from Reagan,
+but it was something like, "There's nothing more permanent than a temporary government program."
+Yeah, and I think that there's some interesting arguments as to why the banks bought so much of
+that long-term debt and pressure because of different reserve requirements for the banks
+that they were getting pressured into allocating the balance sheet into the debt at the time when
+Treasury was issuing so much debt to fund all the COVID spending. And so there's this underground
+sort of below the surface idea that they were pushed to put this on their balance sheet.
+And so the Fed's not going to force them to kind of eat the spinach of recognizing and
+marking to market those bonds. Yeah, and that's a discussion for a different day, but like,
+I mean, the pickle or maybe in certain cases, the existential crisis that a lot of these banks found
+themselves in then was simply by following the Fed's script. So the Fed was keeping interest
+rates low. They had an expectation that would always be the game. They loaded up on, quote,
+unquote, safe assets. "Yep, I'm doing what I'm supposed to be doing," and then the Fed changed
+the game on them. So to your point, it doesn't necessarily want to penalize them for doing what
+they thought they should have been doing following the Fed's lead. I mean, that's such a good point
+of how many policy pivots where they've gone and done exactly what they said that they weren't
+going to do. So when all of us are going, "How could they change in two weeks?" They just always
+do. And what that should lead to, though, is that we shouldn't feign surprise if they change again.
+And I don't know if they'll change to a more hawkish tone in an election year in 2024,
+but you can draw a scenario where you have interest rate cuts in the US that happen to
+cause dollar weakness, more pronounced dollar weakness, which then causes you to have commodity
+rallies in energy and food commodities. You also have, because you're easing liquidity or kind of
+stoking animal spirits, you have continued tightness in the labor force. You have a return
+back to the lows in unemployment. You then get renewed wage pressure. And what I'm painting a
+picture is a story where in late '25 or '24, I'm sorry, you're talking about inflation not getting
+to 2% and getting sticky in that old Arthur Burns stuff. You have a window where inflation is likely
+going to continue to moderate in the very near term just because of dynamics, base effects,
+and used car prices, and some of the things in housing. But housing is a great example.
+Mortgage rates fall, housing inflation comes back, people rush into the housing market again,
+and maybe you see prices climb and rents start to reaccelerate. And so you can see how this
+becomes a bit of a challenge to claim victory too soon if you assume that you could actually see
+this restock inflation, maybe not immediately, but in later '24 into '25. All right. Well, look,
+real quick on the Fed, maybe expecting them to be inconsistent really should be our default,
+as you're saying. We just had Powell come out on Wednesday and say everything that he said,
+and then we just had this morning, we had the New York Fed President John Williams come out and he
+said, "We aren't really talking about rate cuts right now." So Powell having said in early December,
+we're not even going to think about rate cuts to saying, "Oh, yeah, no, of course,
+it's what we're talking about right now," to then have Williams come out 48 hours later and say,
+"Oh, we're not really talking about it." So there is a lot of inconsistency here. Maybe
+Williams was sent out there to be a bad cop to Powell's good cop and they're just trying to manage
+sentiment. I don't know, but it's an inconsistency. I don't know what they gained by that. What do
+they gain by having that confusion other than wanting to leave the door open in as many
+scenarios as possible? It's like they're Silk Sonic, right? Just leave the door open.
+I mean, Greenspan just used to like to confuse everybody so that nobody really had a clue,
+right? But they're more sort of contradictory statements. Maybe it's for the same purpose,
+but it's much more distracting, I think. I think the market appears to be believing
+Powell more than Williams, though. Oh, absolutely.
+We saw yields pop higher when Williams was speaking and trying to push back against Powell
+and then drifted lower through the rest of the day. So we'll see where they close today being
+Friday. We'll see where they close. But as of right now, I think the market puts more weight on
+Powell's word as they should because he's chosen. They've been emboldened, too, because like we
+talked about earlier, Powell has always said, "I'm going to be higher for longer. The market
+has doubted but had to shift. But assets still went up anyways." So the markets are just happy
+to believe anything that justifies their sentiment that prices should be higher tomorrow than they
+are today. And good to remember that a lot of the hawks are no longer on the board. Either
+they left because of the trading stuff or Bullard left to go to academia.
+There's a lot more doves today than there was a couple of years ago. And you can see that in
+the dot plot. There's still one lone hawk circling up there on the dot plot, that dot that just
+hasn't moved lower in projecting and cuts. But like I said, the balance is towards the doves.
+The balance is towards the ghouls of the world. Well, and when you look at the Fed's guidance
+that's given in the past and predictions it's made about where it expects interest rates to be or
+inflation to be, record's pretty terrible. So we shouldn't be putting a ton of weight on that too,
+but anyways. And the bond market's record is terrible as well. That is worth making a point
+because a lot of people worship at the altar of the all-seeing two-year. And yes, the two-year
+yield has sniffed out policy turns. It has been the thing that has driven the Fed, but the two-year
+is also wrong a lot. So the two-year, and even we can look at futures pricing at the beginning of
+2022, they had rates ending 23, I think around two-ish percent, ending 22 around 1%. Of course,
+that's not at all where they ended up and had to be repriced much, much higher. Of course,
+that led to some of the weaker markets in 22. But I think it's good to note that the bond market,
+just as the Fed is sensitive to incoming data and things change, and when the facts change,
+I change. And that's the bond market, that's the Fed and why they do things that are surprising.
+Well put. And I think my only last point on this is just sort of markets are going to market until
+they're beaten. It's painful enough that they start maybe thinking a little bit more rationally,
+but once the animal spirits get going, they just love to run until something more external
+tends to start to dampen the party for them. And watch that scenario. That scenario for
+equities is really interesting. I was thinking about early 2018 as an example of this when
+markets want to market, they run, they have a melt up. If you go back to the first couple months of
+2018, markets got really overvalued and they drifted higher and nothing was stopping them to
+just keep climbing and climbing. You kept going, you're overbought. What are you doing? You just
+kept going and going. And what happened is volatility got more and more and more suppressed.
+People shorting vol, it got coiled and coiled and coiled. Then all of a sudden, boom, we had
+volmageddon and we had really sharp one week period of weakness in the market that kind of
+set off a very weak trading throughout the rest of 2018.
+I'm not saying that that's the base case could happen, but I think that investors
+should be wary of complacency when it comes to positioning, when it comes to sentiment,
+and when it comes to valuations. And so, watch it really closely because it may just be a short
+period, but if you start seeing people get overextended, overconfident, it tends to work in
+the opposite direction. Opposite direction. I think it's important to note for folks that
+may not know this, but volatility has been very compressed of late. It's back to very low levels.
+Yeah, exactly. Yeah. So, history doesn't always repeat the same way, but it oftentimes does
+rhyme. So, all right. Well, I want to get to your market outlook and given the sense of current
+conditions, because things have moved very far, very fast, as you said, sort of what you're
+counseling people who manage money should be thinking of in this environment. Real quickly,
+before we do, one big topic, the lag effect, which is something I talk a lot about on this channel.
+The market seems to have reached a point of view, I think, where it's just said,
+"Look, it hasn't happened yet." And I think the Fed's done a great job of creating this wonderful
+soft land, just cotton soft landing that we're going to come down on. I don't think it's going
+to matter this time around. There are others who have said, "Are you kidding me? We've had one of
+the most aggressive increases in rates that we've ever seen." Those are still propagating through
+time for us. We've totally increased the cost of capital in this world. We've got this maturity
+wall of all these corporations that are going to rerate. We've got tons of consumers that are
+hanging on by their fingernails right now. How relevant an impact do you think the lag effect
+is going to have before the story is over? I think that we all are collectively underestimating
+the role that the great refinancing wave of 2020 and 2021, plus on the heels of a decade
+of quantitative easing of ever suppressing interest rates, how that has dampened and
+delayed the economies and financial markets incorporation of higher interest rates this
+tightening cycle. If we look at households and businesses, we can see on net that they are
+effectively less interest rate sensitive for the largest households and the largest businesses.
+The highest income cohorts are the most likely to have a fixed 30-year rate mortgage, but 90%
+of mortgages are still fixed rate, and the average effective rate of those mortgages is still below
+4%. Yes, if you're going out and getting a new mortgage, it's extremely expensive given mortgage
+rates are still above seven. However, the majority of households have not felt the pain from higher
+interest rates. You can compare that to prior to the great financial crisis and 35% of mortgages
+were floating rate. The Fed raises interest rates and 35% of homes are seeing their mortgage costs
+go up, which means that you had people get priced out of their existing homes. And that's why you
+had foreclosures. That's why you had for sales. You can tell a very similar story with corporations.
+You can look at commercial paper, which is short-term paper as a percentage of overall
+balance sheets to kind of just compare like commercial paper balances to the corporate ag,
+for example. And what you can see is that prior to the peaks in 2000 and in 2007,
+that usage of floating rate debt was extraordinarily high. So as the Fed cut interest
+rates or sorry, raised interest rates, people saw their debt servicing costs go up immediately.
+Of course, we all know we can look at companies who turned out their debt. A third of the actually
+was two thirds of all of the high yield debt that was issued in 2020 and 2021 was for refinancing.
+So you had this big, huge refinancing wave when interest rates were so low, which has made
+refinancing not happen at all pretty much over the last couple of years. I mean, that's why Morgan,
+Stanley and Goldman Sachs are having trouble in their investment banking earnings, right?
+People aren't doing debt refinancing in the same way as they would typically do.
+So what will happen is when you get into late 24 and really it hits in 2025,
+a lot of the debt that was refinanced in 2021 for higher yield borrowers, so lower quality borrowers
+does start to mature and you will have to roll it over and you will be rolling it over at higher
+interest rates. The question is, are those higher interest rates enough to truly cause
+a kind of economic slowdown? It's a good question. I guess we will see, but I would think that that's
+why small caps were trading so terribly, right? They're typically high yield borrowers. They do
+have more floating rate debt. They have more absolute debt and that's why they're rallying
+so much because effectively there's a sigh of relief that, "Hey, maybe higher for longer isn't
+happening." So I would say we shouldn't become complacent either on refinancing because if you
+look back, this is the one last point on this is that if you go back from the beginning of 1980
+at the peak of rates in the 1980s, I think the peak was 1982 or 82.
+The probability of you in a seven-year rolling period, and that's the average maturity of
+corporate debt is seven years for investment grade debt. The probability that if you issue debt
+in year one and then refinance in year seven, 90% of the time from 1982 and through 2023,
+90% of the time, you were able to refinance your debt at a lower rate, at the lower 10-year rate.
+For the first time, that seven-year rolling period, you're now in a period where rates are higher.
+It's Howard Mark C change. What does this mean for financial markets? For what thrived in that
+environment of ever falling rates and refinancing at lower and lower rates, does that thrive in an
+environment where now you actually refinance at higher rates? I think for the very moment today,
+the market, because it's trading so bold up on this idea of the Fed cutting and interest rates
+falling is saying, "Oh, it's not a problem now because interest rates are coming back down,"
+which makes you think that probably the biggest risk for 2024 is that long interest rates backup.
+I think that would catch the market the most by surprise.
+JP Morgan publishes their client treasury positioning index, and you can see that they
+are the most overweight long bonds that they've been in a very long time. That B of A fund manager
+survey has the most overweight to long bonds and the highest reading ever on record of people
+expecting lower interest rates, not higher interest rates. It's not saying it could happen,
+but it sure is consensus. If 2023 taught us anything, anything that's consensus likely goes
+in the other way. Exactly. When everyone's on one side of the boat, generally something else
+tends to happen. So in terms of candidates, I know you're not saying this is going to happen
+or is even likely to happen, but in terms of candidates that would drive interest rates back up,
+is the number one candidate inflation restoking? Yeah. I mean, inflation moving higher would
+certainly challenge the levels of where inflation breakevens are right now. They're really highly
+correlated to oil prices. You can see breakevens and oil is practically the same chart. So if oil
+prices rise, as I mentioned, the dollar falls because the Fed is supposedly cutting and oil
+prices rise into 2024. Then you have a scenario where breakevens, which is component of nominal
+real interest rates would be biased higher. Then you have treasury refunding, which we'll have to
+think about that quarterly refunding announcement. What does that supply demand dynamic mean for
+treasuries if they step up coupon issuance? And then growth remaining resilient could argue that
+the Fed's long-term neutral rate is in fact not 2%, but something higher. And if that's the case,
+then the long end of the yield curve is biased higher as well. So I think that after such
+bruising years of bond performance in 22 and 23, people are really eager to say now's the time for
+bonds to shine, bonds are back. And I'm not saying that I can tell you a story as to why bonds can be
+back, but I think that I can also see the risk that yields rise, bonds have another challenging
+year. And we can't be positioned obviously for both outcomes, but I think we have to be very
+reactive to the data. Technically the 10-year is still in an uptrend. It's oversold, it broke below
+its support of 4%, which was its 200-day moving average. But it could be a false break out. We
+don't have enough data to confirm it one way or another. And so we're watching this really closely
+because I think that's the wild card for next year compared to where consensus is. Consensus is so
+bulled up on bonds. All right. I've had several folks on this program who've been very bullish
+on bonds and Dave Rosenberg himself has said the theme for 2024 in his eyes is bonds have more fun.
+So definitely an argument to be made, but to your point, it's not a slam dunk. All right. So let's
+now get into your current market outlook as things stand today poised to heading into the new year.
+And from a positioning standpoint, are there assets that you think are particularly well
+suited for the type of road you see ahead? And perhaps are there some assets that you would
+really avoid given what you see? Yeah. One of our biggest themes for this year is one of
+selectivity. And I know that sounds very generic, but it comes from this notion that we think that
+we're still late cycle, which just means that very low unemployment, interest rates relatively high.
+Yes, the Fed might be extending the duration of this cycle because of the interest rate cuts.
+That's a different debate, but that eventually you'll see a pick up in unemployment. You'll see
+in, like I said, still not a call for the first half of 2024, but a late cycle nature to this
+economy, which just necessitates selectivity. It necessitates good balance sheets, good return on
+invested capital, good free cash flow generation. Right now, we're seeing a lot of junk rally
+because of that kind of retirement of the higher for longer risk. But if you see any
+doubt creep in whatsoever that the Fed's not going to deliver on the three rate cuts and
+bond market has six and a half priced in. So, if that doesn't happen, that's where you could see
+a lot of that junk give up a lot of its recent gains. Just like we saw the small cap rallies
+this year and speculative growth rallies this year, 45% rallies gave it all back up. And that
+really tells you that sort of late cycle nature of things. So, I'm not saying those pockets of
+the market can't do well. A lot of them very cheap coiled springs. They can have big runs.
+They're beta, like high beta. However, I think that being very disciplined around valuation
+and keeping them on a short leash, knowing you're there to effectively rent the position,
+not to own the position would probably be a prudent thing to do, which of course comes
+with all sorts of tax consequences. So, one of the things that we are doing though is we're
+looking, of course, outside of the magnificent seven for opportunities for areas that have been
+beaten up that have lower valuations. Selectivity is key because we've been doing this all year
+in our equity portfolios, but we're dipping a little bit lower, even lower into valuations
+where we bought on a regional bank recently. We had it back about three, four weeks ago
+and said, look, it's so bombed out. It has such low expectations. Yield curve is re-steepening for
+now and kind of started putting the pieces together. Not too much commercial real estate
+exposure and kind of going down the line and saying, yeah, a lot of regional banks don't
+want to touch them, but this one we're willing to invest in. And so, I think going through that
+process of selectivity is critical for us. We do that across asset classes, fixed income,
+for example, within credit markets, your spreads are very, very tight, which just means you're not
+being overly compensated for risk at this point, which means that we want exposure to credit.
+We do have a lot of exposure to credit, but we want to be very conscientious that if you do see
+any deterioration in data, that that credit is likely mispriced. It's not mispriced for the
+current rate of data being resilient, but if you do see weakness, that's where you would have a
+challenge. And the same within alternatives. When we think about alternatives, a lot of people
+saying private equity is completely dead. The average private equity is really challenged.
+It thrived in a world where interest rates were low. You could just do financial arbitrage,
+financial engineering, and it made a lot of people a lot of money. When we look at the opportunity
+today, what we see instead is that there are funds that are fantastic, that have never used a lot of
+leverage, are great operators, and are more agnostic to the interest rate environment.
+And if you think of all the disruption that could happen over the next two to four years in their
+investment period, we think that if you can be highly selective, and it typically for us,
+we focus on smaller funds, we don't like the big mega funds that have the law of large numbers,
+the opportunity set could actually be interesting. So it's chaos creates opportunity.
+And even in areas that we would typically avoid with this backdrop, we're saying where can we,
+with a very fine tooth comb, find places where we can invest with confidence that we're investing
+alongside some pretty darn good operators. Okay, great. And have some of those interesting
+private equity opportunities you're looking at, have they been sort of
+harnessed with the rest of the sector? So they're sort of trading at a discount in your eye?
+Yeah, I mean, it's all brand new funds. That was the other thing is not wanting to put money to
+work at valuations that were set back in 2020 or 2021. And what we're seeing is that some of the
+funds are having trouble, not ones that we're investing in, but a lot of in general is that
+you see capital raising has slowed quite a bit as people pull back from the space. And I think that
+what you're starting to see now is valuations for new deals finally start to make a lot more sense.
+There's been a huge spread between the bid and the ask, meaning that sellers want to sell at
+valuations that they saw in 2020 and 2021. Buyers want to buy at valuations at today's level and
+today's interest rates. And the longer you stay in this environment, the more you're going to start
+getting this for sales and you're going to start getting people saying, okay, I have to take action.
+And that's where being ready with liquidity to step in these moments can be kind of blank and
+you miss them. So it's a lot of valuation discipline. It's a lot of making sure that
+leverage is very, very controlled and that the return is not dependent on leverage,
+not dependent on what the Fed does. It's actually things that are idiosyncratic and
+kind of own your own destiny. All right, great. Last question on this. You mentioned commodities
+a couple of times, probably likely to benefit from the expected path of the Fed from here over time.
+What's your take on them for next year? Yeah, I think a lot of it depends on the dollar.
+The dollar being such an important driver of commodities over longer periods of time,
+we see it diverge at different moments, but a much weaker dollar likely does set the stage for
+higher oil prices, possibly higher ag prices. You talk about gold a little bit differently,
+which we can. The gold story in being a psychological commodity, like some of the crypto
+as well, is if you're painting a story where you have a lot of issuance of treasuries, which gets
+people concerned about dollar debasement, whether it's true or not, it's the emotion and the fear of
+it that can drive the price of psychological commodities. At the same time as you have Fed
+cutting interest rates and adding liquidity, where you get real interest rates falling,
+which are typically good for gold and other psychological commodities, you can paint a
+picture as to how they could do well in that environment of more abundant liquidity,
+lower interest rates and a weaker dollar. Of course, a lot of other things are components
+and drivers of that, but that's something I think for people to keep in mind. Then on the oil side
+of things, you just have people so bombed out in the sector after it being so weak, flows have been
+aggressive out of energy sector. A lot of people giving up on the space generalist, giving up on
+the space. Seems like a pretty low bar to jump over, but you still have excess supply effectively
+in oil. It's a question of could Saudi actually pull a 2014? I remember it was Thanksgiving day
+on 2014 and they announced instead of cutting oil production because prices were too low, they
+increased production, trying to smoke out the frack drillers. Of course, it didn't work. It
+quite gloriously blew up in their face, but don't rule that out as a potential thing that could
+drive oil prices much lower before they would continue higher. All right. Thank you so much,
+Cameron. There are some big questions that I didn't get to that I would love to ask you the
+next time we have you on the program. Housing, big one you touched on a little bit, but I'd love to
+get your more detailed thoughts on that and something else just as a little bit of a preview,
+but when we talk about the wealth effect, you increase financial assets and then people
+who benefit from that want to spend more. We increasingly have this economy where the percentage
+of households that own the vast majority of financial assets is an increasingly small percent,
+so we sort of have this world, at least from the data I look at, is that kind of the bottom 90%
+seems to be getting sort of increasingly squeezed by our current policies here,
+whether that's intentional or unintentional. We don't need to get in there right now,
+but I would love to at some point in the future get your thoughts about sort of the trajectory
+that we are pursuing right now. What are the social implications of that? Maybe it's not as
+dire as some are making it out to be, or maybe it is. I don't know, and I'm not asking you to tip
+your hat here yet. I just want to let you know I would love to get your thoughts on that in a
+future discussion. Two last questions for you here as we wrap up. The first very important one, which
+is for people who have really enjoyed this conversation, maybe this is the first time they're
+getting to know you. If they'd like to follow you and your work, where should they go? You can find
+me on X at Cameron Dawson, and then I'm also on LinkedIn where I share things as well, and that
+if you just Google or search Cameron Dawson, you should see me pop right up. Okay, and when I edit
+this, Cameron, I will put up the URL to your X handle there and also your name so that people
+know exactly what to Google. Folks, I'll put them in the description too so you can have one click
+access to that if you want. All right, the next question I'm going to get to in just a second,
+but it's going to be what is a non-financial investment that you would encourage folks to
+invest in? Real quick before we do that, just a little bit of housekeeping. Folks, if you've
+enjoyed having Cameron come on this program, would like to see her come back on in the future,
+please vote your support for that by hitting the like button, then clicking on the red subscribe
+button below, as well as that little bell icon right next to it, and a reminder that while this
+channel is still so new, the growth in our subscribers really does help us catch the YouTube
+algorithm's attention, so please do hit that subscription. It's totally free. Also, I just want
+to remind folks, if you want to get my notes to these interviews, my detailed summaries of what I
+took away from them, including this one with Cameron, just go to my substack and if you subscribe
+there, become a premium subscriber, you'll get all my notes. To go there, just go to AdamTaggart.Substack.com.
+All right, Cameron, so in wrapping up here, giving you the last word, what's a non-financial
+investment that you think would be wise for folks to consider right now? Read more books. I think
+that it's very easy to get caught in the day-to-day of reading articles and short form content,
+but the ability to read something that didn't take two hours to write, but maybe took two years
+to write, and the thought process behind that, the ability to read history so that you have context,
+things outside of what you're focusing and looking at on a day-to-day, I think that spending time
+reading books is the best thing that you can do for your broader mindset,
+your perspective, and I think your career life, joy, happiness, all of the above.
+All right, wonderful answer. Totally validating coming from somebody sitting in front of a
+bookshelf, so you definitely practice what you're preaching here. Cameron, a similar comment was
+raised the other day by Axel Merck, who brought up a really good point, which I think you're making
+here, which is to write a book, you have to have a framework. You have to have a way to think about
+something, and that's what the book is basically imparting to the reader, and there's a lot of value
+in seeing the world through alternative frameworks and determining which ones you think are maybe
+closer to reality or not, and oftentimes, when we're just reading an article that took somebody
+two hours to write versus two years, or even worse, we're just skimming the headlines or we're
+just consuming on the worst of social media, we're not getting that. We're not being exposed
+to frameworks, and so the book gives you the opportunity to do that. So anyways, great point.
+I really appreciate you sharing that here. I love the answers we're getting to this new question.
+Cameron, it has just been an absolute joy. Thank you so much for coming on. Like I said,
+doors open to you to come back on anytime in the future, but I hope at some point
+in relatively early 2024, we can have you back on and maybe get into some of those other topics I
+mentioned, but also just give us an update on where you see things between here and there,
+depending upon what's happened. I would be beyond honored. Thank you so much for having me.
+Alright, thanks so much. Everybody else, thanks so much for watching.

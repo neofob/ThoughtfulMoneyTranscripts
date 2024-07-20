@@ -1,0 +1,555 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. It's a tough time to be
+an investor. There are cross currents galore in the macro data, the financial headlines, policy
+decision making, and market technicals. After the easy decade that followed the great financial
+crisis where markets dependably churned higher year after year and you could make money just
+going along pretty much any stock or ETF and "buying the dips" along the way, suddenly it's
+taking a lot more hard work to earn a good return. What are the keys to investing success in today's
+more uncertain environment? Well, for guidance, we're fortunate to talk with Andy Konstan,
+founder of the macro economic research firm Damped Spring. His work there builds on his
+earlier tenure at elite firms like Salomon Brothers, Bridgewater, and Brevin Howard. Andy,
+thanks so much for joining us today. Pleasure, Adam. Looking forward to the conversations.
+Great. Same here. Well, thank you so much for coming on the program. This is the first time
+that I've had the pleasure of interviewing you, so thank you. Looking forward to this as well.
+I got a lot of questions here largely based on a lot of your recent work, Andy. Real quick though,
+before we get to those, let me just start with a general question I like to ask at the beginning
+of all these discussions. What's your current assessment of the global economy and financial
+markets? Yeah, sure. Let's start with the economy. I think it's
+important to recognize the various differences in the global economy. It's not a global economy that
+is in sync across the regions, and that has a lot to do, I think, with the reaction during and after
+COVID in each of the various countries along with their regular differences in dynamics, but in
+particular the response to COVID and subsequently, which put the U.S. recovering more robustly,
+quicker, more inflationary. Then as you go east, Europe was less inflationary and less stimulative,
+but also stimulative, so they recovered relatively quickly. Then when you get out to Asia,
+China and Japan were notably absent in terms of their fiscal response and their monetary response
+to COVID, and they have lagged. I think we're well past the supply disruption portion of COVID.
+That was transitory, was going to be transitory. The Ukraine war put a bit more oomph into that
+action, particularly for Europe, but we're long past that. The things going on in the Red Sea
+are once again potentially supply disruption related and could cause inflation to bounce
+on the supply side. But what hasn't been yet resolved is where inflation will settle, and
+now that the supply side transitory phase is over, now we're into where will we land.
+I've been describing three different islands, recession island, soft landing island,
+and higher for longer island, and for almost 18 months now. Well, it's even longer than that,
+probably 20 months now, and I've always been a resider on higher for longer island because
+I didn't see the potential weakening economic growth that many on recession island found.
+But what I have been surprised about and been wrong lately in particular in the last two to
+three months is the market sense that in the United States at least, we will successfully
+execute a soft landing, which in my way of thinking is limited to no job loss and inflation
+returning to target. And the data is heading in those directions. So I get why markets are
+pricing that type of soft landing occurring. I'm just still very uncertain whether it will
+actually occur. And betting on a soft landing at this stage in markets seems to be a bad risk
+return bet. And is that because you think, how much of that is because you think markets may be
+wrong, that it might not be a soft landing overall, and how much of that is due to current levels of
+market valuation where they're just quite elevated? Well, I mean, I think about the levels is the
+consensus. That's where investors have placed their chips and buyers and sellers have met.
+And so the buyers have decided that there's a soft landing and the sellers have said,
+well, maybe not, but at this level, we're not going to bet on that. And so I think it's mostly
+about market pricing. I don't think there's any additional certainty just because we're,
+I like to think of this in the metaphors, closer to the runway, whether we're going to slam hard
+into that runway, land and taxi to the gate, or have to touch and run and go off the other end of
+the runway for another trip around. And so I'm just not sure where we are in that phase. And
+maybe that's my failure, but I know where the market is. And so to me, it's a matter of making
+a risk reward bet on what the outcomes could be. And if I lose 500 basis points by saying
+over cash, by saying a soft landing isn't going to occur and assets make 10% this year,
+bonds, stocks, gold, a portfolio of assets make 10% this year, and I make 5% on my one-year bill,
+I'm okay with that because the downside is quite a bit more.
+Right. Right. And the downside in the one-year bill is zero. You get to sleep really well at
+night. All right. So great entry. Let me ask you a couple of questions about your framework
+that I want to actually get into inflation a bit. When you talk about these islands,
+recession island, South Landing Island and higher for longer island,
+is the recession island the hard landing island?
+Yes. Yes. That's when the economy either, when real growth goes to well below trend
+and unemployment rises. Okay. So just help me understand on your higher for longer island
+that lag effects don't eventually get us to recession island.
+Yeah. So, I mean, I think that's the trick, right? You have to think about what is going
+to cause inflation, what the cycles of the economy are likely to be and economies go
+through cycles. And this economy here is going to be a slightly different cycle than ones in the
+past, but it's going to have cycles. And so the question is, we've come from a period of very high
+real growth and very high inflation driven by strong demand from government passing on money to
+the economy through spending and which was monetized by the Fed and supply chain disruptions.
+And so normally, if inflation never had that supply disruption, the question is,
+would we be in a classic cycle where then in an expansionary inflationary environment?
+And the things that would result in the next cycle of a inflationary expansionary cycle are high cost
+of long-term debt, which makes individual next real projects more expensive and levering up.
+And that levering up causes eventually people expecting higher real growth than actually occurs,
+which causes these projects to fail and the marginal new levered up player to start cutting,
+which causes a reduction in demand, which causes a reduction in somebody else's income,
+which causes firings, and that's how an inflationary expansionary cycle turns into a
+deflationary recession. And so if it wasn't for the supply chain disruption, who knows where we'd
+be, but that would be a normal cycle coming from an inflationary expansionary experience.
+And what determines the depth of each of those things at some level is monetary and fiscal
+responses. And so we can succeed to have a normalization to normal growth and normal
+inflation without a deflationary recession, but it's just very rare and requires a significant
+amount of good fortune, and that includes global influences and well-tuned monetary and fiscal
+policy. And to me, though, given the size of the economy and the amount of dislocation that's
+occurred over this last three to five years, three to four years, it's just a very hard thing for
+these policymakers to get right. And so to the extent that they overdo spending and under do
+tightening, you end up with a higher for longer environment. At some point, they recognize that
+they have been unsuccessful in causing this inflationary expansion to slow and they take
+additional steps. And that's really been the story of the last 18 months. The Fed has continued to
+raise rates, but unfortunately, fiscal has continued to pump money. And so the effects of
+the tightening have been felt less than they otherwise would have if fiscal had been a bit
+more austere. And so they haven't gotten it right yet, and they've gotten it right wrong on the
+stronger real growth side than anybody certainly that was living on recession island expected.
+But ultimately, if they have a, and this is a question, if the policymakers, which particularly
+in this cycle includes fiscal policymakers, have an objective to bring this inflationary high NGDP
+economy back into trend NGDP, there's more work to be done. And it may not be the Fed,
+it may have to be on fiscal, and fiscal may not have any interest in doing that,
+which would mean that we'd last longer in a higher for longer environment, certainly then markets are
+priced. Okay. So I think if I'm understanding this correctly, then that your higher for longer
+scenario is sort of something I've been flagging for a while here, which is we've had at least
+right up until the last Fed meeting, the Fed really working hard to jam on the monetary breaks
+on the economy. All right, we're going to tighten, we're going to hike rates, we want to slow things
+down. But you've had the fiscal side jamming on the economic accelerator at the same time,
+right? So you're kind of burning the engine to a certain extent, but that's what's been
+keeping things going stronger for longer, we'll say, than the recession island folks thought.
+So it sounds like that's sort of your higher for longer scenario is when that's still going on.
+And I guess I want to maybe trundle into the policy side of things, which is
+presumably that being at odds like that can't last forever. And maybe the Fed is blinking here,
+which a lot of people were surprised by Powell's last press conference. But I guess the
+question is, I want to ask how long can you continue to have those sort of monetary and
+fiscal forces be at odds? But maybe the better question is just what do you see happening going
+forward policy-wise, both on the monetary side and the fiscal side?
+Right. So I think what we now know about the Fed is that they are thinking about a lot of things.
+And let me enumerate the things. Firstly, the most important thing that they have said from
+the get-go is that their preferred tool for monetary policy is the short-term interest rate.
+And so they've described QT, which is another lever that they have currently pulled,
+as operating in the background and largely priced in to when it was announced back in early 2022.
+And so we have the particular lever that they are focused on is the short-term interest rate.
+And they've made it very clear, though the market seems to have
+woken up to this idea when Waller spoke in early December, they have made it clear for
+15 months prior when they wrote their first SEP that described the path of the economy
+that they expected, the slowing of inflation, the falling of the increase in unemployment,
+and the slowing of real GDP, and that that would lead to a rate cut in 2024 and further cuts in
+2025. And it all came crystal clear to markets when Waller spoke, but it had been reiterated
+prior to that by Powell and by each SEP, each dot plot. And that is that for a given level of
+monetary policy, let's say they have a restrictive agenda, for that restrictive rate, they have a
+rate, it's some premium to their completely theoretical R-star, and they have a rate and
+they'd like to keep it at that rate and stay restrictive for as long as they view the need
+to be restrictive. And then when inflation comes down, in order to stay similarly restrictive,
+real interest rates, you have to cut the nominal rate. And that's been in the SEP from the get-go.
+And last June, it was at 100 basis points of cuts in 2024. In September, it was at 50 basis points
+of cuts in 2024. And now it's at 75 basis points of cuts in 2024. And it's all just the same Taylor
+rule that as inflation falls, you cut nominal rates to maintain the same level of restrictive
+policy. But the market is reacting in many different ways to that. There have been periods
+of time leading up to the banking crisis in which cuts for 2024 went to hikes in the balance of 2023
+and then no cuts in 2024. And to a point today when, well, not today, but soon after the Fed
+meeting in which 165 basis points of cuts were priced into 2024, which is significantly more
+cuts than the Fed, who's basically kept it fairly within 25 basis points of where they are right
+this minute for the whole year for 2024. And the market has said that the Fed is behind the curve,
+ahead of the curve, behind the curve. And so markets have fluctuated on that news
+while the macro economy has just been doing basically the same thing.
+Growth, jobs, all the real sort of hard data things related to the growth have been pretty good.
+And inflation has come down rapidly, driven, I think, mostly by supply side, but potentially
+also the short term interest rate hikes have caused some demand side contraction.
+Okay, so going forward policy wise, I'm interpreting this, so correct me in any way,
+but it sort of sounds like you're taking the Fed more or less at their word. You don't think that
+they're being terribly contradictory from the script that they've laid out kind of from the
+start of this thing. How about the fiscal side? Yeah, the fiscal side's in gridlock.
+So the fiscal side, most of the traditional
+fiscal impulses have to have that can cause some sort of market and economic reaction
+has to occur when you have a unified house, senate, and presidency, and we just don't have that.
+So no surprise, this gridlock has resulted in fiscal being fairly neutral
+in terms of, and unlikely to be able to be used as a lever by the administration to have an effect
+on the economy. They have two other tools, and one of the tools is something I've been spending
+a lot of time explaining to people over the last couple of years, but recently for high effect is
+what their choice is, how they spend the checking account that they have, which is called the TGA,
+and how they issue the debt they need to pay back the Fed and finance the economy,
+and those things actually have some sort of lever to the real economy and to financial assets,
+and so I think that's where you've seen most of the moves that have come in markets in 2023
+were associated with that lever being pulled, and essentially because the Fed has said that
+quantitative tightening is just going to occur by allowing their balance sheet to run off to mature
+in the background, essentially that lever, the effectiveness of quantitative tightening,
+has been entirely handed to the fiscal side, to the treasury, and they've used it for a variety
+of good and I'm a believer probably less cynical than most. I think they've basically done what
+they should have done, but it's had meaningful impact on markets. Okay, and that's because it's
+basically provided incremental liquidity that has found its way into markets and propped up the
+markets more strongly than most expected heading into 2023? So the treasury general account
+spending, which happened from the beginning of the end of 2022 to the middle of the summer
+before it was rebuilt, was due to the debt ceiling, and what it did is it allowed people
+to... It gave the spending that had already been legislated to the real economy, which they could
+have used to buy financial assets, and they would have had to buy some financial assets, but for the
+debt ceiling, the government didn't issue any. So because they were not sopping up some of that
+liquidity with issuance of bills, notes, and bonds, that left the spending to be stimulative to both
+the economy and financial assets, and I think you saw that in both of those things in the first
+half of the year leading into a pretty robust GDP print in Q3. And then starting in July, they said,
+"We're going to issue a ton of bonds and stocks and bonds and bills and notes for the balance of
+the year to rebuild our checking account," and so that resulted in not only did they have to issue
+to rebuild their checking account, but they also had to issue to pay back the Fed and they had to
+issue to fund the deficit. And that put a significant pressure on assets in late July through
+Halloween. And at that point, the market had been pushed down quite a bit, and the treasury decided
+to delay in increasing coupon bond issuance on Halloween, and that was the bottom. The market's
+been up ever since. Okay, so we've been pulling these levers on the fiscal side that seemed to
+have been driving the action more of late versus the monetary ones. There are a couple of other
+programs out there that are also affecting liquidity. I know you've written about them
+in your most recent report, and I've had people on this channel sort of talk about them, and I'm
+hoping maybe you can just sort of help demystify a little bit about this for people. So there's
+the reverse repo program that has been getting drained, and as it is drained, that is seen as
+an easing or a stimulative factor, but that thing runs out at some point in time. There's also
+the bank rescue program that was put into place almost a year ago, the BFTP, and that is coming up
+for technically, I guess, expiration, although it's debatable what's going to happen.
+Will the Fed continue to extend it? Who knows? I'd love to get your thoughts on that.
+I've had some people in this program that say, "Hey, those two things are kind of timed around
+the same time," basically. If your finger to the wind looking at how the reverse repo program is
+decreasing, and some have said that's kind of been masking the impact of QT, and that once those
+things stop, are amended, diminished, whatever, then we're going to really feel the bite of QT
+much more than we felt so far today. I don't know if you agree with all those assessments,
+but I wonder if you can just sort of demystify the soup of all these other levers that are being
+pulled that are driving the action too. Sure, I'll try. My most recent damp spring
+report was entitled The Evolution of the Fed Balance Sheet, and that's really, we're talking
+about three, really four, and possibly five items on the Fed Balance Sheet that are moving around
+quite a bit and need to be understood. To do that, you also have to understand
+two other important, three really, other important entities that exist. One is banks who take bank
+deposits from people who can spend that money on financial assets or consumption, who also can
+create money out of thin air by lending it to people for those things. Money market mutual funds
+who have taken on a significant amount of cash in the last, because of the sizable government
+spending, who need to invest in something that pays cash-like returns. And then investors
+themselves, investors who are interested in owning risky assets, either long-term treasury bonds or
+corporate bonds or equities, and their willingness and ability to lever up their investments or
+de-lever their investments. Those are the players in this game, and every one of them has an impact.
+Let's just start with what's actually happening to the RRP. The RRP is a program that the Fed has on
+its balance sheet that allows money market mutual funds to... Banks are allowed to, but they don't
+use it for a reason that's not worth going into. Money market mutual funds are the lion's share of
+the money that's invested in the RRP. And that money provides overnight interest to the money
+market mutual fund, which is very attractive to them. It's not a T-bill that matures in seven days
+or 364 days or somewhere in between. It's ready money in case somebody wants to make a withdrawal.
+So they've placed some money with the Fed and they get the SOFR interest rate for that.
+And so why does the Fed have that program? Well, the reason why they have that program is
+the money market mutual funds have all this cash. And if they didn't have this program
+to give the money to the Fed, they would chase other short-term interest bearing investments
+like T-bills and private sector repo and drive interest rates lower because they would have this
+demand, which would result in interest rates, market interest rates being below the Fed's target.
+So the RRP program allows the Fed to keep interest rates in their target range.
+And so that's why the program exists. Because there was this excess money and the Fed wanted
+to manage monetary policy, it had to offer this program. Now we're going to step into the shoes
+of the money market mutual fund investor who has three principal investments. They have cash from
+their investor. They can go to the RRP, which we just talked about. They can provide private
+sector repo, which allows investors to lever up, or they can buy T-bills. But T-bills have a longer
+maturity. And so they have to consider, are T-bills a good deal today or not a good deal
+today? And that's a complicated question. If you look at where interest rates are,
+there's 160, 150 basis points of cuts priced into 2024. That would, to me, say is a T-bill a good
+deal? Well, I don't know. It's yielding based on that 150 basis points of cuts in one year.
+So they're constantly comparing the overnight rates they get in repo, both RRP and private
+sector, and bills. But we do know that for the last six months, the Fed, the Treasury has been
+issuing $1.9 trillion of bills, and that's cheapened bills up enough so that money market
+mutual funds say, "Yeah, I'll take my bills." And so they do. And you can see that by the extending
+of duration of their average maturity of investments. And you can see that by the decline
+in the RRP, because what the money market mutual fund is doing is saying, "I'll take my
+money back from this program and invest in bills." So sorry, the decrease then in the RRP is really a
+market-driven event versus a Fed intention-driven event, where it's just the money market fund
+saying, "I think I got a better use for that money than Park can get in the RRP." Right.
+Most of it... So there's two things that are happening at the same time. One is that the
+government had been trying to rebuild the Treasury general account from 40 billion where,
+well, it was very close to zero during the debt ceiling, to what is now in the 700s. And so that
+created a drain on the private sector. So there's a drain on the private sector from that.
+And there's a drain because $60 billion of Fed runoff happens every month. So
+that combination of things of 60 billion times, call it five months, and 750 billion of TGA,
+created a drain on the private sector of about $1.3 trillion, $1.4 trillion.
+And so that's what's happened. So now the question is, who does it come from? Why did
+it come from the RRP instead of from what are the only other alternative for that
+drain? Bank reserves. Bank reserves have been stable. And that's where the market forces comes
+in. The RRP investor only has three choices, bills, private sector repo, and the RRP.
+Depositors who have bank reserves offsetting them, banks themselves who could buy assets,
+could buy any asset at all. They could buy stocks, they could buy loans, they can buy mortgages,
+they can buy long-term treasuries, they can buy anything they want. And so they haven't really
+changed their portfolio allocation meaningfully. What has happened is we had to drain the system
+of $1.3 trillion, and it came out of the RRP. And so that's all that's happened. Now, does that mean
+that there's been a liquidity injection or contraction? The money in the money market
+mutual fund, those investors, they don't know the difference. They don't know. They have their money
+in the money market mutual fund. They're just getting their money market return every year.
+They don't care where it's invested, so they're not changing. And so the question is,
+so bank reserves haven't really changed very much. Does that mean that, and the depositors,
+they're just depositors, bank balance sheets haven't grown at all. So it doesn't seem like
+there's been a contraction or expansion of risk-taking that's associated with this whole
+year's worth of action. So to me, that net liquidity argument that many, I'm sure, on your
+program have described depends entirely on ultimately what bank reserves do. They've been
+relatively stable and certainly wouldn't account for any change in markets. But more importantly,
+bank reserves do not provide banks with any additional ability to lever up,
+to print money, to create money, or cause them to contract because we no longer live in a world in
+which bank reserves are required. Fractional banking was ended, fractional reserve banking
+was ended around COVID. So I think that whole idea of liquidity like that is less important nowadays.
+Let me just clarify two things. One, so it sounds like you're saying the draining of the RRP,
+it's not really a net contributor to liquidity, it's almost more just sort of like an asset swap.
+Cash is going from this bucket at the RRP over to this bucket over here in T-bills.
+Just to clarify for the audience, when you say that fractional reserve requirements for banks
+were ended in COVID, they were ended meaning banks didn't need to hold any reserves at all,
+their requirements were completely removed. Is that correct?
+Yeah, zero. There is no reserve requirement in the US banking system. What is required
+is that the only way you can... Adam, if you send a check from Wells Fargo to me and you have an
+account at Wells Fargo and I deposit it at Chase, my deposit grows, your deposit shrinks, and bank
+reserves are transferred between Wells Fargo and Chase. So bank reserves are needed, they literally
+provide the way that banks settle the checks that their account holders write.
+So don't get me wrong, bank reserves are needed, but they aren't part of the thing that determines
+whether a bank can offer a new loan or be forced to redeem an old loan.
+Got it. Got it. Okay.
+The question is, and this is the big thing that I wrote this about, this evolving Fed balance sheet,
+which is I said that part of the drain on both... So RRP plus bank reserves is being drained by
+TGA plus QT. TGA is now full, so there's no need for that drain. So now the only thing that drains
+RRP and bank reserves is QT. And whether RRP gets drained or bank reserves get drained is subject to
+bills market forces. So that's the picture that I'm trying to paint for you. Because the TGA is
+no longer being drawn, RRP isn't going to fall as rapidly. And so extrapolating to say three months
+from now is just not doing the hard work one needs to do. And that the drain is not occurring
+that rapidly anymore because the TGA has been built. But the market forces of T-bill issuance
+and the value of a T-bill relative to the RRP rate could result in shifts as they both fall,
+because of QT, shifts from one to the other. And that'll depend on market forces. And so
+that's the picture. And over the weekend, well, firstly with the Fed minutes on last Wednesday,
+and then over the weekend with Lori Logan's speech, the idea of slowing QT
+was surfaced. And markets took off on Monday on that news.
+>> So the trial balloon has been floated. >> Right. And I saw one of the houses,
+I think it was Bank of America, say that we read this thing as a signal that QT will be over by
+June. And so July, there'll be no more QT at all. And I think that's the most extreme view that I've
+read, that they really want to end QT, take the balance sheet down, what's that, four more months,
+five more months, and reduce the pace starting early. That's like a $200 billion decline in,
+further decline in their balance sheet. That's the most aggressive interpretation of this thing.
+And I've laid out in my work a number of alternative interpretations.
+But I think the most important thing that was described in Lori Logan's
+conversation speech is, number one, she is concerned that the fall in long-term interest
+rates from 5% to 4% is a significant easing of monetary policy and is taking away some of the
+monetary tightness that she thinks the markets, the economy needs for inflation to be brought
+down. She said that in one part. And then she described concern about the RRP reaching zero
+as a, what I read it as, as a financial stability concern that somehow when the RRP reaches zero,
+and we'll get to the BTFP in a moment too, because that's as you said on the calendar, that there'll
+be some sort of frictions that could cause central bankers to decide to stop QT. And this is the big
+tagline that that speech had in it that I think markets have completely ignored, which is her
+desire to slow the pace of QT so that it can achieve its goal. And so her, the tagline is
+slower for longer. And so the question that begs is, what is the direct? We're all market
+observers. When should the QT end? And the Fed's been pretty clear that they think that when
+some combination of RRP plus reserves is around 11% of GDP, they should begin to taper.
+And that's the only thing they have in print. Governor Waller said that about a year ago.
+And they've reiterated that statement time and time again. And that's a statement that would
+say that there's a trillion dollars more of balance sheet reduction to do before they are
+complete, as opposed to Bank America's idea of 200 billion. What Lori Logan is saying is to get
+to a trillion and not stress the system so that something breaks. Let's just go a little slower.
+Let's do it slow. Yeah. And that would get us to what, like 6 trillion on the Fed balance sheet?
+In terms of assets, 6, in terms of bank reserves, around 2.8 trillion.
+Okay. RRP is at zero by then. Yeah. But it sounds like the goal is not really to get down to
+pre-pandemic levels on the balance sheet, that they're kind of saying, "Ah, 50% is good enough.
+50% of the increase is good enough." Right. And you can think about the Fed's balance
+sheet on that side, but I think you have to think about what it is in terms of bank reserves,
+because for them to bring their balance sheet down, they'd have to take bank reserves out of
+the system. And so, remember what I said bank reserves are important for, not for banks to
+determine how much leverage they have. That's being handled by many other things in stress
+tests and in the Basel III framework. But what is important is this grease that flows through the
+system all the time. Basic functioning, it sounds like. Basic functioning. And so, you have 6,500
+banks in the United States, 30 of them are the big ones, but they need reserves. So, you can't take
+the balance sheet down to 3 trillion, because that would literally mean no reserves. Because the only
+way to take the balance sheet down is that's an asset, the liability is bank reserves.
+Yeah. It's the RRP and bank reserves. Once the RRP is zero, it's all coming out of bank reserves.
+Right. Unless the government wants to run a smaller checking account, which they have
+statutory reasons why they can't. So, the principal relation, then that's why people
+are looking not at the asset side of the balance sheet, but at the reserves, the liability side,
+and the bank reserves. And so, they've got a number that's a trillion away. And so,
+they want to make sure they get it. And so, I read Lori Logan's thing as
+financial stability related. And so, that begs the question, what's going to break?
+And maybe this is the transition to the BTFP.
+Oh, sure. I think that's-
+That was put in place when the system started to break. Yeah.
+Right. And so, the BTFP was a program in which, not dissimilar from the discount window, which
+has been a century maybe, I don't know, long program for the Fed, in which troubled banks
+who need bank reserves can lend physical assets, bonds and stocks and loans to the Fed.
+And the Fed will give them bank reserves for it against the collateral they pledge. And
+that's all BTFP is too. It just happens to have some...
+It credits the collateral in a way that they get more dollars for every piece of collateral,
+more reserves for every piece of collateral they offer. That's a small thing. That's a haircut
+thing. It's not as important as most think. But what is important is, during the time,
+deposit flight was occurring at many of these troubled banks because people wanted their money,
+bank runs. And so, $100 billion of deposits went from the troubled banks to the banks that weren't
+troubled. And remember that Greece, with it, were the bank reserves. And so, these banks no longer
+had bank reserves. And so, they couldn't operate without bank reserves, and this allowed them to
+do it. And so, it's going to end. It's scheduled to end on March 11th. And Vice Chair Barr,
+who's responsible for this program, said he intends to end it. And Governor Williams yesterday
+said, "It looks like it's going to end." And so, we have this March 11th date. And at that point,
+all these banks that have $140 billion... By the way, there's been a technical thing,
+which is the program was designed poorly, and now banks, with no problems at all,
+are using the program because it can be arbitraged. And I won't go into the details
+of that. But basically, it just means that some banks that aren't necessarily struggling are
+using it to get kind of free money through this arbitrage. Yeah, not only free. Money that pays
+50 basis points to them for nothing. They literally pay the Fed and receive from the Fed
+doing nothing and make 50 basis points. So, that's a bad thing. So, that's a good reason to end the
+program. The bad reason to end the program is these troubled banks that borrowed 100 billion
+dollars in the first month of the banking crisis. And so, what do they stand? And I'm sorry. Let me
+ask you a question that you can address in your answer, which is, a big reason these banks were
+troubled is they were sitting on collateral that they had amassed, basically following the Fed
+script, which was that interest rates are going to be low forever. And they were buying what they
+thought was safe collateral, these many cases, sovereign bonds, treasuries, and all of a sudden,
+the Fed changed the game on them. And that was back in March of last year. And if I'm remembering
+correctly, bond yields are higher today than they were back then. So, if they have to start taking
+this collateral back from the Fed, it's more impaired than it was when they were in trouble
+in the first place. So, tell me, how does ending this program not instantly put these banks back
+into critical condition? Yeah. So, firstly, let me address the -- if you were a bank manager back
+then and you are blaming the Fed, you should be fired. It's not your job. The Fed doesn't manage
+your bank. You manage your bank. Right. And you should have interest rate hedges and all that.
+Do whatever you want. You can do whatever you want. If you want to bet that the Fed's going to
+keep interest rates low for longer, have added, but don't blame the Fed when they don't. The
+consequences are yours, you as the bank manager. That's true. And I don't want to get into a big
+debate about this because I'm not a banking system expert. But if you look at the Fed's actions
+since GFC, it was always, "We're going to step in and keep things low." So, it's somewhat
+understandable that these guys just said, "Look, this is the world the Fed has created for us."
+And they're accepting the consequences. But let's get back to them, which is you've got $100 billion
+of collateral that's probably -- well, I would say it's probably not changed much in market value,
+though interest rates are modestly higher. They were quite a bit higher in October. But
+modestly higher. The bonds have gotten one year shorter. And so, some of them are accreting toward
+par. And so, what's going to happen? Well, I guess the first thing that I should probably point out
+that will probably make any answer completely moot is any time between now and March 10th,
+the day before the program ends, anybody who's using the program can extend for a year.
+So, there's no crisis coming.
+Got it. So, everybody can roll over the insurance for another 365 days.
+Yeah, there is no event. So, I think that's an important thing.
+Right. At least no event for the next year.
+Next year. Right. What I think will happen is they'll end the program because right now,
+it's offering an arbitrage and they don't want it to grow anymore. But the troubled banks have
+another year. So, there isn't a crisis coming from that. Now, that brings us to QT. And it brings us
+to the RRP and how you would project the RRP. And so, as I said, the only draw on reserves and RRP
+at this stage, because the TGA is fully built, is QT. So, if you include the mortgages,
+which you actually have to do, there's approximately 80 billion of drain per month
+on the combined RRP plus bank reserves. So, now the question is, is that going to all come from
+the RRP? Is it going to come even 150% of that from the RRP? And that all comes down to market
+forces. The market forces that have been driving the preference of RRP investors to fund the
+drain has been T-Bill issuance. It is an interesting time. We're going to get a quarterly
+refunding announcement that is going to tell us how much the Fed, the Treasury plans on borrowing
+in Q2 and what its composition is. And that'll be a very important bit of data. But I would say that,
+I'm not going to go into that here. I think it has tremendous alpha and really should be studied by
+your viewers, but I just can't, I don't know yet what I'm going to actually say when I think of
+that. But what I do think is that one has to look at the seasonal financial needs of the US
+government and recognize that the second quarter is when large tax receipts are made and the
+government runs its smallest quarterly deficit. So, quarterly deficit will be small. What does
+that mean for issuance overall? And what does it mean for bills issuance? Well, if you were to take
+last quarter's coupon issuance and assume it's fixed, there'll be no bill issuance,
+no new bill issuance whatsoever in all of Q2, zero. There've been times when there's been
+negative bill issuance of three, 400 billion. Even if you just assume it's zero, there's not
+going to be any supply for the RRP to buy. And so it's unlikely that the RRP falls much at all,
+because the market forces pressing bills yields up won't be there. So I think it's very likely that
+you won't see the RRP getting to zero until well into the second half of the year. And thus,
+if we're still a long way from the RRP reaching zero, we're still a long way from any sort of
+taper. And that's what I would say is my overall synthesis, which is Lori Logan thinks financial
+conditions are too easy, which would bode for maintaining QT. She's concerned about financial
+stability issues in the frictions as we reach zero, which is a reasonable thing to be worried about,
+but wants it to go on for its full path of a trillion dollars and is watching.
+And I think they'll have another discussion in January and discussions in March,
+and ultimately they'll see the RRP's evolution and come to a decision around taper. But if they
+do nothing for 15 months, QT's done anyway, because by then you'll have reached the
+trillion dollars. So it's not like a super pressing issue.
+Okay. All right. Well, that maybe hopefully helps some viewers here breathe a little bit easier,
+who've been hearing some of these predictions of Armageddon when some of this stuff happens.
+So first off, Andy, thank you for demystifying all that. It's been great. My brain has been
+stretched. I've been kind of hanging by my fingernails as part of this discussion,
+but I followed everything you said and it was great. So I think our viewers are really going
+to appreciate the clarity here. I could talk with you about these issues for much, much longer,
+but timewise, I got to start landing the plane here. So I want to get to the so what part of
+this. So given that outlet, and if there's anything you want to sort of say about your
+general market outlook for the rest of the year, please, please elaborate. But what positioning,
+what type of assets seem appropriate for this type of environment? What ones might you think are
+ill-suited? How does this sort of translate into a positioning strategy?
+Right. So I think right now, asset prices broadly measured by things like bond term premium
+are unattractive, relative to cash. It's not like they're awful. They're just unattractive relative
+to cash. So they don't have a great risk reward. And so right now I have 50% of my beta portfolio
+allocated to cash and the rest allocated to a broad selection of assets. And in my alpha
+portfolio, I have short bonds, short stocks, and that's really about it. And I'm using about,
+call it 40%, 40 to 50% of my risk budget short assets. So I'm not taking a big bet right now.
+I do think that assets are by and large unattractive relative to cash. And
+when the Fed meets and the Treasury announced its quarterly refunding announcement,
+I'll see what they do. And my trigger will be if the Fed walks back some of the financial conditions
+QT related easing that we've seen, QT pausing related easing we've seen, continues to validate
+the slow cuts that are in the SEP and data supports them doing that, meaning data doesn't
+crater in the near term. And we got a decent inflation number for the first time in about
+14 months. That was a little warmer than it had been. If data doesn't crater, I expect them to do
+that. And then I'm going to watch the QRA and see how much issuance the Treasury needs to do
+and what its composition is. And when I see both of those things, I'll either
+flip to flat given assuming asset prices are around here or go a little bit more short.
+OK. So basically, we've got a couple of important milestones coming up that are going to help
+influence your choices here. But I didn't hear you say, oh, if this happens, I'm going to get
+a lot more excited about risk assets and think about long. It still sounds like your choices
+right now, you're thinking based upon what you're expecting are either flat or more short.
+Yeah, I think so. I mean, I do have lots of things that would make me confident in going long an
+asset. Like if I were confident that inflation was going to remain high and growth was going
+to remain high, my preferred position would be long stocks and short bonds. If I thought that
+inflation was going to undershoot and be low and the economy was going to weaken and real GDP
+growth was going to be low, I would be long bonds and short stocks. But right now, I'm not confident
+of either. So the question is, should I be long everything or long cash? And where I come out
+right now is long cash. And it's a subtle point. All right. Well, look, this has been a
+great discussion. Andy, I'll be following your work, but I want to offer that when
+you get that information, if it does cause you to take a strongly felt position, please let me know
+or please feel free to come back on the program. But I definitely want to get the word out to these
+viewers one way or the other about what you decide to do there. All right. I know I'm going to get a
+lot of grief for wrapping things up here, but I got to be respectful of your time. Lots of questions
+I didn't get to. Hopefully, we can get to them next time. I do want to mention, you said a lot
+of what your decision is going to be based upon your assessment of the outlook for
+inflation and growth. Just a quick commercial folks just recently recorded an interview with
+Lakshman Achuthan and he gave his forecast for both. So that might be a nice video to
+piggyback on top of this one once you're done watching this one. As we wrap things up here,
+I've got two more questions to ask you. The second one is going to be that what's a non-monetary
+investment you'd recommend that folks consider. The first one, very important for folks that have
+really enjoyed this discussion, Andy, and maybe this was their first time getting exposed to you
+in your work. Where can they go to follow you from here? Yeah, so I'm @dampspring on Twitter
+and I'm taking a short sabbatical on that on Twitter till February, mostly because I want
+to conserve the alpha that I have in this very interesting period we're faced with.
+But you can also join me at dampspring.com, which is my website, and you see the work I've done,
+which I have an exhaustive archive of prior work. All right, and actually let me ask you real quick
+about another venture that you're involved with. I think it's called Two Gray Beards,
+and I'm happy to say that working on my -- Very nice, very nice. Thank you. But in there,
+you talk about how -- this really struck me. You said, "Retail investors,"
+so average investors, regular people who have amassed some wealth, you said sort of the high
+six to high seven figures are "the most underserved category when it comes to working with
+financial advisors," that they get the highest relative fees and the worst timely advice. Can
+you just take a minute or two to talk about why that's the case, why that's important to you,
+because the work you're doing at Two Gray Beards, I think, is to help address that issue. And then
+maybe one other question to tack onto that, and I'm sorry to force this all in right at the end
+here. I'll be quick. I can go on. Nick Giovanni and I created -- who's an ex-Solomon colleague
+of mine created this service called Two Gray Beards in which we provide 20 minutes a week
+of videos explaining what we think is important for you to know about financial markets so that
+you can have a better conversation with your financial advisor. And we think -- And it goes
+back to my father passed recently, and I was working with my mother about how to manage her
+finances. And she's paying multiple tens of thousands of dollars to financial advisors,
+who, by the way, I think her financial advisor does a pretty darn good job. But in general,
+people with a million to $20 million of wealth are paying $10,000 to $200,000 a year in fees.
+And what I'm seeing broadly is there's a, let's sell them some of our high margin product,
+alternatives, for instance. And otherwise, let's keep them in some form of either 60/40 or
+age targeting funds. And that's tired. That's 40 years that that has worked.
+It's just unclear to me that that's the way to go forward in the environment that we're now in.
+And so I think that for a modest fee for us to produce these videos, and for 20 minutes a week,
+you can end up, you do it for three months or a year, you can have a much better
+conversation with your financial advisor when you do. Because what it mostly looks like to me is
+that you, unless you're extremely active, you are spending time investing in your business,
+investing in your life, doing the things you love. And then you're having once a quarter or once
+every semi-annual period, or even once a year, conversation with your financial advisor.
+Or you're making a hard call when you say, and one in which you've got fear or whatever,
+when you have no background having the call, but you're calling to say, why am I losing money?
+Right. And none of those are good things. None of those, you're just completely at a
+disadvantage. And I don't even think you can necessarily evaluate a financial advisor with
+the understanding of markets that you have to know what good is. So what we're trying to do is
+help you have better conversations with your financial advisor. So I love this in just full
+transparency. So what do we do here at Thoughtful Money is we have a couple of financial advisors
+that I think are much more like-minded with you, Andy, in the sense that they look at a lot of
+the same factors that you do and take them into account. And so I interview, I have them on this
+channel weekly. And the main reason to do that is just to model for people with a good professional
+financial advisor who takes this type of material into account, how they think, how they react,
+how they interpret. And it's not necessarily to work with these people, although a lot of
+people choose to do so, it's to show them what a good advisor looks like and how they think so that
+they can use that when searching for one on their own. What I love about what you're doing is you're
+even saying, "Look, if you're going to stay with the current advisor you have right now,
+this information will be like a catalyst to help you get a lot more out of it than you currently
+are." And I just think that's a great service to be providing to people.
+Right. That's the mission.
+All right. Well, look, in wrapping up here, right before we get to that very last question,
+Andy, just a couple of quick housekeeping things, folks. One, if you've enjoyed this conversation
+with Andy, we'd like to see him come back on the program again. Please vote your support for that
+by hitting the like button, then clicking on the red subscribe button below, as well as that little
+bell icon right next to it. And just a reminder that I am publishing my Adam's notes, which are my
+quick notes, detailed summaries of the interviews that I do on this channel. Those are offered at my
+sub stack, adamtagert.substack.com. All right, Andy, in wrapping up here, last question for
+you. We've talked an awful lot about money. What's something that is not money related,
+but still a worthwhile investment that you think people should be adopting in their lives?
+So I was going to say a general thing, which is the most important thing you can do is optimize
+your productivity asset, meaning get good at something and earn on it. But I'm going to make
+it even more narrow and it's going to sound like a gray beard. Read more books. All right. That's
+great. Well said. And that builds off of some of the things that folks have said earlier, but
+read more books, get exposed to additional frameworks. One person who was making a similar
+comment, Andy said that when you're reading an article, and most people just skim the headlines,
+which is the worst thing to do. But when you're reading an article, you're kind of getting like
+somebody's opinion, like something that just motivated them that day. When you're reading a
+book, you're reading a framework that somebody had to put together and work for a long period of time
+to crystallize for you. So you're getting a way of seeing the world. And that's a lot more valuable
+than just what somebody dashes off in a morning in a fit of rage or inspiration. So you're nodding
+as I'm saying all this. Yeah. All right. Well, very well said. Andy, this has been wonderful.
+Reminder, folks, if you've got some stamina left, check out the interview with Lachman
+Chuth and I'll put it up right here. But Andy, I can't thank you enough. Thank you so much for
+coming on. Everybody else, thanks so much for watching.

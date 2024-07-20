@@ -1,0 +1,1282 @@
+Welcome to Thoughtful Money.
+I'm its founder and your host, Adam Taggart.
+Rumors are suddenly flying fast and furious that the Federal Reserve will soon be ending
+its campaign of quantitative tightening, aka QT.
+This is on top of the three rate cuts it recently guided the market to expect in 2024.
+Is the end of QT indeed imminent?
+And if so, what will the implications be?
+To discuss that, as well as the other major macro trends expected to impact markets most
+in 2024, we're fortunate to sit down with analyst Jim Bianco, president of Bianco Research
+and proud creator of a new ETF, the Bianco Research Total Return Index.
+Jim, thanks so much for joining us today.
+Well, thanks for having me.
+Hey, always a pleasure.
+Congratulations on the new ETF.
+We'll talk about that in a few minutes here.
+Lots of questions for you.
+Like I said, I want to get into the whole, is QT really ending in the near future in
+a moment?
+Because everybody's abuzz with that right now.
+But before we do, let me just kick this off with a general question I'd like to ask you
+at the start.
+What's your current assessment of the global economy and financial markets?
+So I think as we sit here and talk, the economy is actually OK.
+It's probably growing a trend, if not slightly above trend.
+That's where it was in 2023.
+There's a problem with that statement, though.
+Because if you're growing a trend or above trend, that's going to give you a lot of demand,
+and that could be a push on inflation.
+So the inflation rates come down from 9% to 3.4, using CPI year-over-year basis.
+And a lot of people are using this phrase that we're in the last mile, we're on our
+way down to two.
+I'm thinking we might have already seen the last mile, or very, very close to seeing the
+last mile.
+Inflation rate actually bottomed at 3.0% back in June, seven months ago.
+Now it's 3.4.
+If the global economy stays relatively OK, I don't want to say boom, but not a soft landing
+or not a hard landing, that'll put a little bit upward pressure on inflation, and that
+should keep inflation sticky, and that should maybe frustrate this idea that the Fed's going
+to cut rates a lot of times, interest rates are going to come down more than people think.
+Then on top of that, if you throw in some of the exogenous problems that we're seeing,
+say with Red Sea shipping, possibly a turn in the housing market north, yes, a turn in
+the housing market north by some of the data, you could definitely see a frustration that
+the Fed may not wind up cutting rates five or six times.
+So I'm a bit optimistic, and I understand that that's kind of an outlier opinion.
+Bank of America, the day we're recording, put out their global fund manager survey.
+59% of their fund managers expect a recession in the next 12 months.
+I just participated in the Roundtable Prime at Double Line's offices in Los Angeles last
+week.
+Majority of the people there were very worried about the economy as well, too.
+I was less so worried about the economy and more so worried about inflation.
+Okay, so taking away from that, it sounds like you are guardedly bullish.
+Is that a fair term to use for you?
+Guardedly bullish on equities, you mean, or on the economy?
+I guess I'd say the economy, it sounds like you're guardedly bullish on, I guess we'll
+get to markets in a moment.
+Obviously what will depend on, part of your answer is going to depend on what happens
+with inflation.
+You'd kind of like you're keeping an eye on it.
+But right now it sounds like you're kind of guardedly bullish about the system.
+Feel free to correct that in any way.
+No, no, I am guardedly bullish.
+I am guardedly bullish on it because I think what's changed about the economy post-pandemic,
+one of the things I've argued is that every so often we have these major events, the financial
+crisis, the lockdown restart, and I use those words because that's really what the event
+was of the global economy, that it either speeds up or changes trends.
+I think it's changed some of the trends.
+We know about the remote work trend.
+But one of the things that it also seems has changed is this attitude about spending.
+2010 to 2020, coming out of the financial crisis, equity markets went up, home prices
+went up.
+To keep the example simple, you got your brokerage statement, you looked at it and you said,
+"Wow, I got more savings because my portfolio went up.
+What are you going to do about it?
+I'm going to feel better about my financial position because I've got more savings."
+Today you look and either get a check in the mail from the government or you look at your
+portfolio and it goes up as the S&P pushes all-time highs or Zillow tells you your home
+went up and you go, "Oh, look, we've got more savings because that went up.
+What are you going to do about it?
+I'm going to go to the Bahamas.
+I'm going to buy a new car.
+I'm going to do something with that money."
+That's what's changed.
+That's why I think that inflation is a little stickier than we've seen in prior instances.
+That's why whenever I bring this up, people always say to me, "Yeah, but when the stock
+market boomed from 2010 to 2020, it didn't produce inflation."
+Yeah, because we weren't in a spending mentality.
+Today we are in a spending mentality because if you look at the last six quarters or so
+of the economy, spending has been one of the things that has really surprised everybody.
+Their economists would argue, "Oh, that's the excess savings from the pandemic.
+All the mailed money and everything else that we stuffed everybody's bank account full of,
+they're spending that down."
+That's true.
+That is some of that.
+But I also think that there's a comfort level about your job and your situation.
+People are not afraid to strike.
+We saw that with Hollywood.
+We saw that with UAW.
+They're not afraid to quit their jobs.
+We've seen the quit rates be very high.
+We've invented terms like quiet quitting if you're unhappy at your job or labor hoarding
+if you're an employer and you're looking to try and not get rid of your decent employees
+before you let them all go and you can always get them back, but now you can't necessarily
+get them back.
+People start with this attitude that, "I have this weekly paycheck.
+What happens if my job goes south and my boss fires me?
+Fine.
+I'll find another one, so we're still going to the Bahamas."
+That seems to be, I think, the attitude that's come out of 2020.
+Maybe it's PTSD from the lockdown restart or something else, but there's definitely
+a propensity to want to spend a little bit more and a comfort level that the employment
+situation is much more favorable for employees over employers.
+That's why you've been seeing all these strikes over the last six months or so.
+Can I poke at that a little bit?
+Sure.
+Poke at it a lot.
+Well, my main question is a lot of what you're talking about, to steal a word from the Fed,
+is that transitory?
+Is that part of the whole revenge opening up from COVID?
+We were locked down and, "Hey, I find I've got more bargaining power with my employer
+right now and I'm still flush from all the forbearance programs and stimulus and all
+that stuff," because I can point to a lot of things right now that show that the direction
+of trend looks like a lot of that, for the consumer at least, is not as strong today
+as say it was a year ago.
+Let me just mention a couple of things.
+We've definitely been labor hoarding, no doubt there, but I think it was the stat that came
+out two weeks ago or so that like 40% of businesses are saying that they, business managers saying
+that they expect to do layoffs later this year.
+If you look at the quits rate that's been coming down, the gains in wages that we've
+seen recently, they're beginning to moderate.
+It seems like the pendulum is perhaps beginning to swing back towards the employer.
+It's not all the way over there yet, but it seems like we've seen peak employee bargaining
+power and it's now beginning to head the other direction.
+The savings rate has gone down an awful lot.
+I'm sure Rosenberg talked about that in the round table you guys were on.
+We've seen revolving credit spike and spike at a time where APRs are at record highs,
+so people aren't happily spending on those credit cards.
+They're probably spending more because they have to.
+Even though we had a "good year" in the markets in 2023, on a two-year basis, the markets
+are pretty flat and I just saw this updated stat the other week, which is 10% of financial
+assets in the US are owned by, sorry, 93% of financial assets in the US are owned by
+the top 10% of households.
+Not a lot of people are looking at their statements and saying, "Oh, stocks went up this week.
+I feel wealthier.
+I'm going to go spend it."
+Because almost all those stocks are owned by only 10% of households, who do do a lot
+of spending, but still.
+And then the housing market, I don't know if folks are feeling like flush about their
+houses because the housing market's kind of been frozen.
+Yeah, it hasn't gone down that much nationally yet, but there's definitely more worry, I
+think, in the market than there was a year or two ago when prices were still jumping
+double digits year over year.
+So I just feel like I can point to a lot of cracks in there that say, it's just not as
+confident as it was a year plus ago.
+Feel free to push back.
+Yeah.
+So a couple of things on that, let's start with the labor market.
+If you look at the data in the labor market, initial claims is still around 200,000, slightly
+above it.
+If you look at the last 50 years, that is usually associated with boom when you see
+the claims numbers being that low.
+Payrolls are still continuing to crank out about 200-ish thousand jobs a month on a three
+month average.
+A three month average was coming down, but bottomed in the last six months or so.
+We only need, if you believe economists, about 75 to 100,000 jobs a month in order to capture
+population trends and graduation trends in the economy.
+So we're producing a lot more jobs than we have, and that's why the unemployment rate
+is still under 4% as we sit here right now.
+The quits rate is coming down, but even the current November is the last quits rate number.
+It is lower than it was a year ago or 18 months ago, but it is higher than any number seen
+pre-pandemic.
+So we are just in a whole new realm of quits that we ever experienced before.
+So I think that there is this comfort about jobs in the market.
+Let me be more specific, non-professional lower end jobs is really where they're viewed
+as being almost like commodities, like get this job, quit this job, go get another job.
+That's where you're seeing the labor hoarding going on.
+We're not labor hoarding partners at law firms, we're labor hoarding people that work the
+stock at big box retailers.
+That's who the labor hoarding is because once you get somebody who's been promoted a few
+times and is very good at what they do and very responsible, you don't want to let them
+go.
+That's what the labor hoarding is because you're afraid of what you're going to get
+in return where that is a very different attitude.
+A couple of the other things that you mentioned on housing, yeah, the housing market is frozen,
+but it's frozen in a unique kind of way.
+If you look at say the Redfin data or the Zillow data, the average home price is not
+really coming down that much, but sales are.
+What seems to be happening is people call a broker and they say, "I want X for my house."
+The broker says mortgage rates are up, so that means that monthly payments are more.
+You should consider lowering your price to compensate for higher mortgages.
+These people are saying, "Nope, I want X."
+If nobody shows up to look at it, that's fine, but I'm standing on my price.
+That's why sales are going down because we're not giving those prices.
+Why aren't we giving on those prices?
+I think it's because we're not feeling stressed or impatient that we have to sell, that something
+has changed in my life or that there's something and I need this money.
+I need to get out of this liability of this home.
+Let me just poke at that for one sec.
+Could be the case.
+Could the other case be I'm going to be in a worse situation if I sell.
+If I don't get the price I want, mortgage rates are so high, I'm going to have to buy
+like a worse place with a higher mortgage.
+I don't want to do that.
+Yes, that could very well be the case, which gets back to the original thing.
+I want my price.
+I'm not forced to acquiesce to higher interest rates by lowering my price.
+Now, the people that are lowering their price for that are new home builders.
+Actually, new homes is a percentage of all homes sell.
+I think it's at a record high or very close to record high, something like a third of
+all homes sold in America now are new homes because the builders, they're in the business
+of moving inventory anyway.
+Got to cut that price, get this thing off the books so we could start the next project.
+Those homes are moving too.
+I guess what I would say about the housing market is that if you would have told us if
+we were sitting here 18 months ago and said mortgage rates are going to 80%, what's housing
+going to look like?
+We would have said a hell of a lot worse than it actually is.
+I would totally agree with it.
+I also want to emphasize what I said in the beginning here.
+When I say people are feeling comfortable in their spending and they're not being stressed,
+there is one thing that is stressing them and that's inflation.
+That is a big thing that is a big problem, but it is because the economy is showing that
+trend to above trend growth that we keep spending to keep the inflation rate sticky.
+Look, there's two things about inflation that can be happening at the same time.
+One, there was a big transitory element of savings, of inflation, excuse me, because
+of the pandemic.
+That's why we went to 9%.
+Yeah, that's the cost push.
+That's the supply chain shortages.
+Yep.
+Right, right.
+All right.
+That happened and it's receded, but once that's receded, I think what we're finding is we'll
+no longer in like a one and a half, 2% inflation world, we're in a three to 4% inflation world
+once that thing has receded.
+Now, why does that matter?
+If I was to now turn to markets a little bit, because that's where I think it matters.
+If I said to you that the inflation rate's three to 4% and the economy can still churn
+out two and a half percent or so, let's just round that off and call that five to 6% nominal
+growth.
+The midpoint of that is five and a half.
+That's what I've been advocating about where I think the interest rates are ultimately
+going to go somewhere in 24, the 10 year yield goes above its 5.03% peak in October of last
+year to around five and a half.
+Because that 3% inflation rate, two and a half percent growth rate continues, that's
+your five and a half percent nominal rate.
+So I know a lot of people are more equity oriented and they're not into this macro stuff.
+So 2% inflation, 3% inflation, who cares?
+Well, it's the difference between say 375 and 4% on the 10 year note and say 525 to
+550 on the 10 year note.
+That's where it matters.
+And that's where I think the concern is when I say that there's going to be this trend
+growth or above trend growth and it keeps inflation sticky, it's going to keep interest
+rates up there.
+And that's why I've been still bearish on bonds and I know it hasn't worked since October
+or November 1st, but I still believe that the 40 year bull market and bonds ended in
+August of 2020.
+We're in a multi-year bear market in bonds, we can talk more about that later.
+There can be two or three year periods in there where you can have a big rally in bonds,
+but it is because the inflation story is turned and the economy is not quite as weak, more
+like the seventies where we just have a higher nominal growth, not as high as the seventies.
+We're not going to have 12% nominal growth like we had in the seventies, 10 of which
+was inflation, but we're just going to have a higher nominal growth than we did the previous
+decade.
+Okay.
+So thank you.
+And I do want to go more into your outlook on a multi-year bear market for bonds ahead
+of us and higher interest rates, but especially given your outlook on interest rates, I want
+to go back to my question of, is this sort of relative confidence that you're talking
+about in the consumer, well, just in the system, I guess, is it transitory?
+And where I'm going with this is there's the lag effect, right?
+There'd been a lot of debate on whether the lag effect is really going to manifest here,
+or if there are things that have happened this time around that have made the lag effect
+less relevant.
+But especially if interest rates continue to go up, even at current rates, we have this
+concern about a maturity wall coming up for a lot of US corporations as the debt on the
+balance sheet matures and they've got to refinance at these higher rates, right?
+And that could, if it does happen, that if rates don't come down in time, that really
+could injure the labor hoarding that you're talking about, right?
+Where they're like, we were holding on to these people for as long as we could, but
+Jesus, now that we got to rerate, we got to start bringing prices down or costs down and
+we got to start chopping off limbs.
+And secondly, on households, you have that as well, where I mentioned earlier the record
+amounts of revolving debt that households are taking on, but also to your point about
+inflation.
+Even if inflation remains elevated, it's a squeeze on these households.
+How long can they spend more than they were spending before and save less?
+Doesn't that have a terminal date on it as well?
+Yeah.
+So to the first part of your question, yeah.
+Could this be transitory?
+Of course it could be.
+And what would be, in my mind, the sign that it would be transitory?
+It would be some indication that remote work is ending because that's the ultimate indication
+of employee power.
+I don't want to come to the office five days a week.
+I'll come three, but I'm not going to come five.
+So I'm going to say work from home on Mondays and Fridays.
+If we could push back on that and get people back into the office five days a week, that
+would be a sign that it was a little bit more transitory.
+Go back and look at this past Sunday's 60 Minutes.
+They did a whole segment about the evolving nature of the office market, the office tower
+in big cities, converting them to residents, and about how they talk to some of the biggest
+commercial real estate owners in Manhattan, and they're just acknowledging they are not
+coming back.
+They are not coming back five days a week.
+And so companies don't need as much space, and there's 90 million square feet of vacant
+offices in Manhattan, and that's not going to change, and they're trying to repurpose
+these buildings to the point where they're even trying to reimagine what a city is.
+And cities will reimagine themselves.
+So if you saw that trend break and people started heading back to the office, but it's
+been three years, and even the real estate guys are giving up on the idea that we're
+going back to the office.
+But if that does happen, that would be the signal.
+The other thing to keep in mind too about rising interest rates, you'd mentioned a statistic
+that 90 plus percent of all assets are owned by the top 10% in income.
+Now a lot of those assets that they own are fixed income assets.
+And so what they're doing is they're getting interest income.
+And what you're finding is among the top 10, as you are finding with companies, as interest
+rates have gone up, their financial position has improved.
+It's getting better.
+Yeah, it's a stimulus to the top of the pyramid.
+Yeah.
+Right.
+Because they're getting more in interest income.
+Warren Buffett has $120 billion of cash.
+Berkshire is going to get $8 billion more of revenue this year than two years ago, simply
+because his cash went from zero interest rate to 5%.
+For free and no risk.
+Yeah, exactly.
+Right.
+Microsoft is the same way.
+Their positions are improving.
+Now that I've said that, when interest rates go up and the markets recover, the top 10%
+feel better because they're getting more interest income and they're seeing at least they've
+recovered their 22 losses.
+Now let's turn to the depressing part of this equation.
+That number you gave me comes from the survey of consumer finances by the Federal Reserve.
+They look at the liability side.
+The bottom 50% of the country has 56% of the debt.
+Right.
+The rich people have all the assets and the poor people have all the debt.
+I'm sorry, but that's the way it is.
+No other than Jay Powell understands this.
+This was his mantra in 2022 of why we have to get inflation down.
+Because these people that live paycheck to paycheck are not only seeing inflation move
+up faster than their paycheck so their relative purchasing loses, it's keeping interest rates
+up.
+They're having to pay higher financing costs or consumer loans or credit card balances
+or whatever they have and we have to get inflation down.
+That was the mantra that we were saying in 2022 was the joke was be a patriot, lose money
+with dignity in the stock market to kill demand so that inflation could come down.
+Well, that's out the door now.
+We're done with that now.
+We want the Fed to cut rates.
+We want everything to go up, but we haven't, I don't think, quite solved that inflation
+problem and that's going to affect the bottom 50%.
+That's what you see in the president's approval rating.
+Why everybody's so angry and his approval rating is down and they keep citing inflation
+as being the biggest reason that they're angry is because it's those bottom 50% that are
+seeing it.
+You and me and everybody else, we just grouse about it, but we have the ability to pay those
+higher prices.
+Okay.
+So great point and I really want to dig into this.
+First off though, I just say, I don't think it's the bottom 50%.
+I think it's the bottom 80 plus percent.
+When you look at the wealth distribution, it really is, you're either in the top echelon
+or you're hurting with the vast majority of the rest of society.
+Back of the intro, I talked about is QT ending and this past 48 hours, we've seen a lot of
+buzz.
+Nick Timrose, the Fed mouthpiece, and then JP Morgan issued a note very similar saying
+that for all these reasons, it's highly likely that the Fed is going to implement the first
+rate cut by April if not sooner.
+And who knows?
+We can debate that or anybody can debate that.
+But my point is, your point, they haven't really put the wooden stake in the heart of
+inflation and confirmed that the undead corpse is truly done.
+Is this a little surprisingly premature to be pivoting to not just rate cuts, but also
+ending QT this quickly?
+Well, I understand why they're trying to end QT and they're getting a little bit concerned
+about what's about to come.
+So let me try and step us through this here real quick.
+When the Fed was doing QE, quantitative easing, there was too much money in the system and
+they were afraid that that was going to keep interest rates forever at zero.
+So they instituted a plan to sop up that extra money, which is known as the New York Fed's
+reverse repo facility.
+If you've got extra money in this system, you can then go place it at the New York Fed
+and they will pay you an interest rate, which is tied to the funds rate, 20 basis points
+below the top end of the funds rate.
+So they're currently paying you around 5.3% on that money right now.
+And sorry, just to underscore for folks, the reverse repo program is a form of tightening.
+Yes, it is a form of tightening because, and who does it by the way, is usually your money
+market fund does it.
+Like earlier this year or within the last year, something like 40% of all money market
+fund assets were at the New York Fed in this reverse repo facility.
+But when a money market fund takes their money and says, we're not going to buy a T-bill
+or commercial paper or something, we're going to place it at the Fed and the Fed's going
+to pay us an interest rate, which passes along to you and it's one of the safest instruments
+in the world.
+So there's nothing to be concerned about that they're doing it.
+What they're doing effectively is by taking money and putting it at the Fed, you're removing
+it from the financial system.
+You're taking liquidity out of the financial system and you're parking it at the Fed.
+That money still exists.
+It just exists outside the financial system at the Fed.
+The Fed's kind of separate of the financial system.
+Well, as we've gotten into this period now where the Fed has stopped raising rates and
+the Fed is now talking about lowering rates, money market funds are looking at ... Remember,
+money market funds have to advertise on yield and they're saying, look, I give 5.3% with
+the Fed every day.
+It's a one day overnight loan and I just renew it every day is what I wind up doing.
+But at some point, the Fed's going to start cutting rates and that number is going to
+come down.
+Maybe what I should do is buy a six month or nine month treasury bill that's yielding
+somewhere near that, somewhere around 5.2, 5.3.
+So when the Fed starts cutting rates, I still have that high rate locked in for many more
+months and my average yield stays up and attracts money to my fund because that's how you do
+it for money market funds, you advertise on having a higher yield than your competitors.
+So money has been coming out of the New York Fed system and it's been going into longterm
+treasury bills.
+That means that money is reentering the financial system.
+That is a form of liquidity coming back into the system and it's also allowed the Treasury
+to do something else.
+Back in November, when we had the quarterly refunding announcement, this is the refunding
+announcement that we get from the Treasury that says how many notes in bonds and how
+many bills are they going to issue in the upcoming quarter, Janet Yellen, the Treasury
+Secretary, surprised us by saying we're going to issue less 10 year notes and 30 year bonds
+and five year notes and we're going to issue more treasury bills.
+And the bond market loved it, oh, less supply for bonds and they took off and rallied and
+those rates plummeted and the bill market was fine with it because all this money was
+leaving the Fed's reverse repo facility coming back into the system and was sopping up all
+these extra bills.
+Well, now we're at the point where almost all that money that was in the Fed's reverse
+repo facility has now reentered.
+There's not that much left.
+There used to be 2.2 trillion in that system.
+It's down to about 600 billion right now.
+I don't think it has to go all the way to zero.
+I think there will always be some residual in there.
+But at the rate it's going, it's probably a month or two away from being out and that's
+going to be a problem.
+So the Treasury is going to have to look and say, look, we can't keep issuing bills at
+this rate because we don't have this excess money coming in to buy them.
+We might have to shift out and issue more notes and bonds, which is why the bond market
+yield, the 10-year yield stopped going down around 4% over the last month.
+It's had some brief interludes below 4%, but it waffles around that.
+So this is the concern is that when the reverse repo facility is done, all we're going to
+be left with then is the Fed doing QE, pulling liquidity out of the system, pulling liquidity
+out of the system and this is the concern that the plumbing of the financial system
+has.
+We're going to have a liquidity problem.
+The Fed understands this and it seems like even last week I thought they weren't going
+to do anything about it, but it seems like they're going to start tapering the QT.
+It's 95 billion a month that they reduce their balance sheet.
+Maybe they go to 85, then 75, then 65 every month or some version of that on their way
+to zero because they don't want to be sucking out so much liquidity.
+What do we know about liquidity?
+The financial system works on these overnight loans and that you can get these overnight
+loans at the prevailing market rate that instead of forcing banks and brokers and hedge funds
+to have to sell securities to meet obligations like more margins and performance loans for
+derivatives and stuff, they could pledge these securities and get a loan at prevailing market
+rates to do it, but if all of a sudden there's not enough liquidity and these loans become
+much higher interest rates than market rates, that could create a lot of problems because
+the plumbing of the financial system runs on a highly levered basis and if you wind
+up having them to pay huge premiums, you could wind up with a lot of problems in the financial
+system.
+The Fed is worried about that, so they're going to try and not be as big a drain on
+the financial system.
+Hopefully, I explained that and this is why I think that the QT program is going to start
+to probably get reduced and we're probably going to see more bills, but the last thing
+I will say to you about this program, I explained it.
+Maybe you still followed me on my explanation and I could tell you that the people that
+are deep up to their elbows in this stuff will tell you that it is so complicated, no
+one really understands it and that one of the reasons why the Fed might be willing to
+back off on QT is they are afraid that if we wait, if we're not serious about this,
+that some unintended consequence will come on and wreak havoc in the financial market
+like the repo crisis of September 2019 when these overnight loans went to 9% and had the
+potential to cause a lot of problems.
+So one of the reasons why they're paving the way to do this is precisely because it is
+very complicated and it is not straightforward to really understand it.
+Okay, thank you for doing all that and let me just condense this for a second because
+I think you've connected some dots that I think people have wanted connected for a while.
+So the reverse repo program, as we mentioned a few minutes ago, is tightening.
+But when you unwind the reverse repo program, as has been going on of late, that is a form
+of easing or it's injecting liquidity into the system.
+And so what that has done is it has really cushioned, maybe some could even argue negated
+the impact of QT and a lot of the bite from the rate hikes.
+So what's been interesting is we've been sold that we've been in this era of tightening,
+but a lot of the things that we would have expected to see reflected in the markets and
+the economy we haven't.
+And it's because this flood out of the reverse repo program has been basically been offsetting
+the tightening and the hiking.
+So I think that's hopefully an important light bulb to turn off in people's brains.
+That's exactly right.
+And if you get that, you're way ahead of the game by most people.
+Yes.
+Okay.
+And the next part is that it's almost done, we're almost out of money.
+That flow of funds from the reverse repo program is almost done.
+When it's done, then we really start to feel the bite of QT in full.
+It's no longer being cushioned.
+We feel it in full.
+And you're saying, well, that could end up creating a liquidity crisis, which is something
+that the Fed lays awake at night about because their job is to keep the banking system operating
+and the liquidity crisis is one of the things that threatens it to seize up.
+So this now goes back to December when Powell got up there and kind of surprised everybody
+by being a lot more dovish than they expected.
+And one of the questions that was asked at the time was, does he really believe what
+he's telling us, which is, hey, we can't start cutting rates when we get to 2% because of
+momentum and whatnot, we'll end up going lower than we want to on inflation.
+We got to start cutting before we get there.
+We think now is the time to start cutting.
+It's the whole gentle landing, soft landing story, but other people were like, is that
+really the case or is he worried about something that he's not telling us about?
+And I think what you're saying is that might have been the case and this might have been
+the thing that he was really worried about.
+So what's interesting, and to your point about how complicated it is, I lie awake worrying
+a lot about that, which is a lot of our systems are so complicated, I know that the people
+running them know that they fully don't understand them and you do worry that if we let something
+get out of control, maybe it becomes something that none of us can contain at the end of
+the day.
+Maybe that's his worry.
+But let me ask you this.
+So Powell has said for the past two years, when asked about his commitment to hire for
+longer was he said, yeah, I don't really mind if I tighten too much because I've got the
+tools to fix that.
+If we start falling into recession or there's something going to some crisis, something
+quote unquote starts breaking, I've got the monetary duct tape to come in and fix that
+with programs like the BFTP and I can change interest rates on a dime and I know how to
+do that stuff.
+It's inflation running away from us.
+That is the bigger fear of ours and I don't want to be Arthur Burns and we're going to
+make sure we kill inflation.
+So he all of a sudden seems to be like pivoting on that, right?
+Like, well, now I'm a little bit worried about this liquidity crisis, so maybe I'll let inflation
+run a little hot now, right?
+Right.
+And that's exactly it because you're right, December 1st, Powell said it was premature
+to talk about easing and then December 14th, which was his press conference, they came
+out with the new dot chart and he explained that now we're going to cut rates three times
+to which everybody said, what happened between December 1st and December 14th?
+And if you go back and you look at the data, nothing, nothing happened except you practically
+did a 180 in two weeks off of like no data.
+And so a lot of people are looking at this liquidity thing as being a potential concern.
+By the way, a quick word about that and this is where I really have my criticism with the
+Fed.
+There's nothing wrong with having complicated systems in life that we don't fully understand,
+but we do our best, but we come into it knowing that it's beyond us.
+The most successful generals in the world know that when they put together a battle
+plan and that only works until they meet the enemy and then it becomes a complicated, chaotic
+system that they have to adapt to.
+The problem I have with the Fed and some of the other monetary authorities is, oh, no,
+no, we know it to the fourth decimal place and we have these knobs and levers that we
+could turn and pull and we could, what inflation rate do you want?
+I could just turn this knob over here and give it to your, or what liquidity level do
+you want?
+I'll just turn that knob over there.
+We need this conceit that they know how to handle this stuff to a degree of precision
+that they can't.
+If they would just attack it like the generals do and say, here's my plan, but as soon as
+it meets the enemy, we'll see if it still holds up and we might have to just throw it
+out and go with something different, we'd be much better off because we would approach
+this with a bigger respect than a conceit that we've got it all figured out and that
+there's no problems here with it.
+I think that as the Fed is probably trying to communicate that it doesn't have that conceit,
+but at the same time, they're trying to say that they have that conceit and that's why
+we're all kind of left with a head scratcher.
+Why did he change and should we be concerned and stuff?
+We shouldn't necessarily be concerned about this liquidity thing if we approached it in
+the right fashion, but if we approach it in the fashion of that the Fed has this magic
+knob, which is a QT, tapering QT, problem fixed, you could ignore it, move on.
+Let's talk about AI stocks.
+You could ignore this.
+That's when you get into trouble.
+Well, and you tell me, what's their track record of surgical precision?
+Terrible.
+And I would actually use another word, but we were a family show.
+Okay.
+Yeah.
+And it's ridiculous for them to project and pretend it and it's ridiculous of any of us
+to give them any credibility about it just looking at their track record.
+Right.
+Right.
+Well, let me ask you this then.
+I'm trying to remember what you said about inflation.
+I know that you think there's a chance it could go higher from here.
+Going back to your very beginning, I kind of got the vibe that you thought inflation
+might go a bit higher here, but you're not super worried about it, but are you worried
+at all that this potentially premature pivot could get inflation back to uncomfortable
+levels?
+Yes.
+And not only that, but the whole idea that we're going to pivot, we're going to cut rates
+and we're going to back off at QT and that is going to stimulate the economy is premised
+on this idea that we are in the last mile to 2% on inflation and it is no longer going
+to be a problem.
+And as Paul said, as you pointed out, we could get started on getting rates back down and
+getting rid of QT now because we're going to go to two.
+Well, what if we don't?
+What if we bottom out here and like I said, three to four, I'm not talking about eight
+to 10 Zimbabwe levels of inflation, but three to four.
+If we wind up doing that, it frustrates this whole plan that they have of trying to rein
+in interest rates, rein in liquidity.
+Because one of the problems is if they start backing off the QT because they're afraid
+of taking liquidity out and the market concludes, wait a minute, you're just trying to foster
+more inflation by doing that, it winds up backfiring on them.
+It's kind of analogous to another thing that's going on.
+As of Friday, the market had priced in seven rate cuts.
+Now there's only eight meetings a year and the January meeting that's got like a 4% chance
+they're going to cut rates.
+So that must mean that every meeting this year, the market expects to cut rates in an
+election year.
+And people say, yes, because it's an election year.
+And yes, Paul remembers all the mean tweets and he doesn't want that guy back.
+So he's going to cut rates to try and help the other guy become president.
+That's the cynical argument.
+But I've always said, yeah, hold on a minute.
+He could cut rates to help the other guy.
+But if he cuts rates and we have inflation, it blows up in his face and he makes it worse.
+Instead of making it worse for Biden to get reelected, not better for Biden to get reelected
+by lowering rates if you do it in the face of sticky inflation.
+So really it comes down to, the whole thing comes down to this inflation argument and
+whether or not inflation will give them the maneuverability to be able to back off on
+the QT and to cut rates as much as they would like to.
+Okay.
+So many questions packed into this.
+One is, is the market just smoking crack here?
+Is there a scenario where the Fed could cut seven times in 2024 other than, oh my God,
+we've broken something, the economy is falling into a recessionary vortex and we got to get
+rates down like ASAP?
+I can't imagine any other scenario than that where the Fed could really justify this.
+And I think if it tried to do what you just said, which is, oh, we'll just do 25 basis
+points for the next seven Fed me things, inflation is going to go crazy.
+Right.
+Right.
+Well, to answer your question, first of all, is the market, the market always smokes crack,
+I guess to stick with your mountain, because if you look at the history of whatever the
+market price is in, it's always wrong.
+It's never, it never comes to pass.
+So Deutsche Bank did this study about a month or two ago where they looked at the narrative
+in the market and the pricing in the market and they announced that what we're seeing
+now is the seventh pivot towards lower rates in the last two years.
+The first six didn't work.
+The Fed kept raising rates.
+Well, maybe the seventh time is the charm, but that's the point is that the market constantly
+gets this stuff wrong.
+To your other point, you're right, what would cause them to cut rates aggressively?
+The same thing that caused them to cut rates aggressively in 2020 and 2008, those were
+election years too.
+A perception that the world was falling apart either because of the lockdowns of COVID or
+the financial crisis in 2008.
+They were as aggressive as they ever have been in their history because they were forced
+to because things were going bad in those election years.
+So there is this argument, and I'm a subscriber to it, that that seven rate cuts or six rate
+cuts or whatever you think is priced in is kind of an expected number.
+What that means is that there's probably a 75% chance the Fed cuts three times and there's
+a 25% chance the Fed cuts 10 or 12 times.
+That's your bad recession and when you do an expected number of those, you come up with
+six or seven.
+The weighted number is six or seven, yeah.
+Right.
+But we're not going to get six or seven.
+We're either going to get two or three or we're going to get 10.
+But the midpoint is what we're looking at thinking that that's what's going to come.
+So there could be some of that going on, which is why the market does a lot of that weighted
+average stuff, which is why it looks wrong all the time because it might actually, if
+you actually dissected it, be a little bit more right that that 70% or 60% chance did
+happen.
+It's just that the other 40% was in that weighted average that made it look like it was too
+aggressive.
+It may be, although I've not really heard that many people come on the airwaves and
+say, "Oh yeah, I'm expecting 12 rate cuts this year because I think we're going to fall
+into a massive crisis."
+So if there's a percentage of the market that is planning for that, they're being pretty
+silent about it, at least on the airwaves.
+You wait until we get a bad number.
+Look, we just beat on CPI.
+We just beat on payrolls.
+We still have 200,000 on claims.
+One of those numbers comes in shockingly weak.
+You'll hear that.
+I guess so.
+Although I want to say I have a number of the people that come, I get slammed all the
+time for being bears on parade on this channel and I'm not, it's just the people I bring
+on are data driven and they report how they feel given the market environment, but none
+of them to my knowledge has said, "I expect 10 this year," but who knows?
+We'll see.
+But let me get to the other part of this, which is, all right, well, let's say it plays
+out as the Fed says.
+Sorry, they cut three times this year, I think, and I don't want to put words in your mouth,
+but I think that still worries you from the inflation side.
+Even that alone could create an Arthur Burns uptick in inflation.
+It does, unless my scenario on inflation is wrong and we are really, truly on the path
+to 2%, and then otherwise I do worry that you will create those animal spirits.
+You will give the stock market a reason to go up.
+You will give the 10% that own 90% of the assets and do the vast majority of spending
+too because they're the people with the money.
+Reasons to book that trip or spend that money and to push prices higher.
+You've got other things out there too that are really worrisome.
+Let me give you one that is just coming into focus in the last 10 days or so as we're starting
+to talk, which I've been focusing a lot on and this is what's happening in the Red Sea.
+I'll just sum it up real simple.
+The Red Sea shipping lane is one of the most trafficked shipping lanes in the world.
+About 12% of all shipping traffic goes through the Suez Canal into the Mediterranean.
+About 30% of containers that have all the finished goods that we get from Asia go through
+the Suez Canal and the Red Sea.
+And a lot of oil does too.
+Yeah, and a lot of oil does.
+Currently the Houthis are attacking cargo ships.
+The cargo ships are being reverted around the Horn of Africa and that's adding 3,300
+miles in 10 extra days to the travel.
+Oil tankers were still allowed through.
+They weren't attacking oil tankers, but even them, they're starting to divert around too.
+We live in a just in time world is what we live in.
+And the example I gave is I might be somebody that needs semiconductors from Taiwan to put
+into a navigation system to send to a dashboard assembler, to send to a car manufacturer so
+they could finish the car to send to the dealer who could send it to a customer.
+And maybe that car's a truck and their customer needs that truck to make deliveries of his
+product.
+And once that daisy chain starts getting mucked up at the beginning, I don't get my chips.
+I can't make my navigation systems.
+You can't finish the dashboard.
+They can't finish the car.
+It can't get delivered.
+The customer can't get it.
+If he needs it for deliveries for himself, he can't make his deliveries.
+The whole system becomes really messed up.
+Is it as messed up as it was in 2020?
+Probably not because then-
+But it's echoes.
+Yeah.
+Right.
+Right.
+Because we also had a demand thing too.
+We had the revenge spending, we were mailing people money at the same time we had that
+going on.
+And so that could produce goods inflation because we're starting to see the price to
+ship a container go up because of the lengthening demand.
+But what's basically happening is most container ships, they run like a circuit, right?
+They go back and forth six times a year between Asia and say Europe.
+But now that they got to go around Africa, they can only go back and forth four or five
+times.
+Now we need extra ships to accomplish the same thing.
+And that's putting a tightness back into the market, which is why the price to ship a container
+is going up.
+And the reason we're paying extra prices to ship containers instead of cutting back on
+production is because people want that stuff.
+They're willing to spend to get that stuff.
+So that's another concern that I see as far as this Red Sea thing goes.
+And if you do the same thing with oil tankers, it's the same thing that happens too with
+oil tankers.
+They take a longer trip.
+You need more oil tankers to accomplish the same thing because they take a longer trip.
+The difference with oil tankers is there is an abundance of extra container ships.
+There isn't much of an abundance of extra oil tankers in the world.
+And we could hit it for crude.
+We could hit a limit.
+Or crew.
+People to actually run them.
+Or crew.
+Yes.
+Or crew.
+Yes.
+Then we could actually hit a limit.
+We want this much crude oil.
+Well, yeah, when I used to go through the Suez, I could turn my tanker around and get back
+to the Persian Gulf to refill, to bring that oil back the other way.
+Last thought for you.
+This is a Europe problem because it's Asia to Europe.
+35% of the goods that come to American East Coast ports, New York, Charleston, Savannah,
+come through Europe.
+So that's a third of them.
+The other two thirds come through the Panama Canal and there's a low water level on the
+Panama Canal and it's only running at around two thirds or three quarters of its capacity
+as well too.
+The supply chain is being stressed again.
+I don't think it's being stressed to the extent that it was in 2020.
+So we're not going to have as big a problem as we were in 2020.
+But if I'm looking at sticky inflation and I'm looking at a world where the Fed is going
+to do some backing off of QT and cutting rates and stimulate and telling everybody keep buying,
+and now it's a little bit harder to get those products, you're going to see higher prices
+across the board and you're going to see the bond market, I think, react poorly to that.
+All right.
+The timing isn't good as the Fed is maybe going back towards easing and these issues
+are ones that are cost push inflationary that the Fed can't do anything about.
+It's not a monetary issue.
+No amount of stimulus is going to get more shipping containers through the Red Sea right
+now.
+But stimulus can keep demand so that people would say what's available and how much do
+I have to pay to get it, which is paying more for the same thing, which shows up in the
+CPI and the PC report is higher inflation.
+Right.
+Exactly.
+I mean, my point is they can't.
+Yeah.
+So, I mean, it's coming at a bad time.
+It's something the Fed can't control.
+And the levers they normally pull will only potentially be inflation additionally inflationary
+here.
+All right.
+Look, I got so many other questions we haven't gotten to.
+I might do a speed round or one or two of them.
+But real quick, let's get to the meat of the issue.
+So given your outlook here, which basically says, if I got this right, you know, economy
+looking like it's going to kind of chug along for the foreseeable future.
+We got these inflation concerns you've talked about.
+The cost of debt is probably going to, I think you see it going up from here, not crazy high,
+but higher than probably the market expects on average right now.
+I think you said 10 year back to five and a half or so.
+Yep.
+And with these other sort of burgeoning risks that we talked about here, you know, they
+could dial up, they could dial down.
+We don't know for sure.
+How are you thinking that, you know, investors should be considering navigating this in 2024?
+Like what basically what's your market outlook and what assets do you think are well suited
+for this environment?
+Which ones might not be?
+So I'll start with the fixed income market and I'll make a shameless plug that this is
+exactly what I'm doing with my discretionary index, the Bianco Research Total Return Index.
+And there is an ETF that tracks at WTBN run by Wisdom Tree.
+So what I'm explaining to you is exactly how I've got it set up.
+I think that interest rates could go up.
+I think one of the lines that people like to use is that, you know, the Fed raises rates
+and rates go up until something breaks.
+And over the last two years, I've been on with you over the last two years, was it the
+25% correction in the stock market?
+Was it the big sell off in the bond market?
+Was it the banking crisis of last March?
+All of those at one point look like, yeah, that could have been the thing that broke.
+But here's we sit in January of 24 and we're like, no, that really wasn't.
+So one of the arguments I'm coming with is while rates are up and it is a drag on housing,
+it isn't catastrophic for housing, it is a drag on borrowers, it isn't catastrophic on
+borrowers that the economy can handle these higher rates.
+I think the mistake we've made is we got so used to zero between 2010 and 2020 in the
+QE period that we anchored ourselves to that.
+We look at these rates and we go, man, these rates look punishingly high.
+And I was like, but if you compare them to pre-2009, they're not unusual rates and the
+economy was just fine in the pre-2009 era.
+You know, it was able to handle those level of rates.
+So I think rates are going to go higher.
+What does that mean for equities?
+Equities is an interesting case because throughout all of 2023 until end of October, they struggled
+except for the Magnificent Seven.
+The end of October of 2023, the S&P was up 7% for the year.
+But if you took the seven Magnificent Seven stocks out, the S&P 493 was down on the year
+at the end of … It was negative around Halloween, as was mid-cap stocks, as was small cap stocks.
+But the earnings numbers were okay.
+The economy was okay.
+We had 4.9% growth in the third quarter GDP.
+That's a booming number.
+What caused the stock market to struggle so much other than the seven AI stocks?
+The competition of rates.
+Dr. Jeremy Siegel wrote an update to his book, Stocks for the Long Run.
+In it, he says, what's the long-term potential for the stock market?
+It's 8%.
+If you bought stocks and you did the Buffett thing, let's check where they are in 10 years.
+You should reasonably expect an 8% return.
+Well, 2019, if you were expecting an 8% return, your alternative was a zero in the money market
+fund.
+We coined the phrase T now, there was no alternative.
+But in 2024, your alternative is 5.3% or 5.2% in the money market.
+That's two thirds to three quarters of what you would expect for the stock market.
+That's why a trillion and a half dollars went into money market funds correctly, rationally,
+because it's giving you most of what the market would offer you without as much market risk.
+If rates go up, yeah, you might get good earnings reports.
+You might get good GDP reports.
+You might get indications that the labor market's holding together, but the stock market's going
+to be bothered by the competition.
+I'm getting most of what you're going to give me in the stock market without the risk.
+I'm fine where I'm at right now.
+I don't need to extend out that much further like I did in 2019.
+I didn't want to get zero, but now that I could get five and you're telling me eight
+is the ... Remember, the stock market return, it has been zero over the last two years,
+down 22, up 23.
+I think what people are looking at is that competition for higher rates.
+From my perspective, I don't think credit is going to have a problem, which is why I'd
+be neutrally weighted on credit.
+I think stocks are going to struggle, and I use that word carefully, struggle.
+I don't think it's going to be a terrible market, but if you're expecting a levitation
+of the entire index complex to go up, I don't think it can if I'm right and rates go higher.
+I think structured products like mortgages and stuff like that, they suffer because of
+the uncertainty and the higher volatility that we've seen in the marketplace as well
+too, that they wind up suffering there.
+The yield curve will probably stay roughly where it is right now.
+I don't think it's going to un-invert.
+I'm more speaking the 10-year, three-month curve, which is still around minus 130 basis
+points, that historically, when does the curve un-invert?
+When the Fed panics that the economy is going down and they cut rates like crazy and short
+rates plummet through long rates.
+That's usually how you un-invert the curve.
+I just don't see them ready to panic just yet with the economy.
+Sum it up, that's how I've got my index structured.
+Those are my thoughts.
+Another shameless plug, there is a website, biancoadvisors.com, that explains our index
+and explains our thinking out there too as well.
+That's how I would be structured for expecting higher rates, expecting it to be a struggle
+because I think that the inflation rate is going to stay sticky.
+Now, if I'm wrong on the inflation rate, I'm going to have to adjust all that other stuff.
+Right now, I don't think I am.
+Now that I look at what's happening in the Red Sea, I've got even more support for this
+idea that we're going to see stickier inflation.
+Okay.
+When I edit this, Jim, I'll put up the link to your ticker.
+I'll put up the link to biancoadvisors.com so folks know exactly where to go.
+Folks, the links will be in the description too.
+All right.
+I took notes here.
+Maybe I took them poorly because you're not that optimistic on bonds because you expect
+yields to go higher.
+You're not that optimistic on stocks because you expect them to struggle.
+What is in the ETF right now?
+Are you taking short positions or what are you long against?
+I assume there's some inflation protection in there.
+Maybe like T-bills because those are going to be high.
+Like what's in there?
+Let me back up and say that there is one benefit that the bond market has right now.
+It's best summarized by my friend Jim Grant who runs the newsletter Grant's Interest Rate
+Observer when he says it's nice to have an interest rate to observe again.
+We had the big sell-off in the bond market and the huge total return loss is because
+we had no yield.
+You had no cushion.
+Now you have a 4.7% cushion in the bond market.
+That's the average yield of say the broad investment grade indexes around 4.7%.
+That yield should cushion you to a positive total return for the year in all of the indexes.
+The bond market, yeah, I think that the price could go down if you manage that price properly.
+Our index is a long only index.
+We're always in the market.
+We're underweight certain things like duration, like shorter maturities in order to protect
+ourselves from falling bond prices or higher yields.
+We're underweight mortgages because of the higher volatility.
+We're equal weighted in corporates relative to a benchmark.
+We're just doing it relative to a benchmark because we still want to grab that 4% yield.
+We want to protect that 4% yield and then maybe later this year, look for an opportunity
+to get some capital gains by buying something where the price goes up to augment that 4.7%
+yield as well.
+We're not short or anything else and you're right.
+We do have a 20% weighting in our index in short tips.
+What I mean by short tips is zero to five-year maturity tips, not shorting tips.
+Because they're not as sensitive to the interest rates movements, but if the inflation rate
+goes up, a tip security, so everybody knows, pays you two things.
+It pays you a real rate of around 1.6% and it pays you the inflation rate.
+If the inflation rate stays at around three, we will get that 3% or 3.5% inflation rate
+if we're right plus another 1.6% on top of that.
+Plus the real rate.
+That's what we are invested in right now and it's all premised on this idea about inflation.
+Now, if the inflation story falls apart for whatever reason, again, I don't think it will,
+we will adjust it accordingly.
+The last thing I'll mention is in fixed income land, it's a little bit different from equity
+land.
+In equities, when you ever say, "Look, I'm structured long only to beat an index," people
+correctly roll their eyes and go, "95% of managers can't beat the S&P," and that's historically
+been true.
+It's been very difficult to beat the S&P.
+It's always at the top of the heap, which is why index funds are so popular.
+But in fixed income land, if you look at some of the broad fixed income indices like the
+Bloomberg aggregate or the JP Morgan broad investment grade or the ICE domestic master,
+these are just the big broad S&P versions in the bond market, typically among active
+managers and people that run discretionary indexes like us, that those indices fall in
+about the 50th percentile, somewhere in the middle.
+Being able to outperform in fixed income land is a little bit easier because the index isn't
+this tower of power.
+There's a lot of reasons why, but the biggest one in equities, your magnificent seven, are
+your biggest winners.
+They're usually overvalued stocks and you have to be in them all the way, otherwise
+you fall behind the index.
+In fixed income land, your all-stars in equities are your biggest weightings.
+In fixed income land, your biggest weightings are your problem children, your overlevered
+companies, your overlevered countries like Italy or Japan, and that they're one slip
+on the banana peel away from disaster.
+And you see it, you avoid it, and since they're such big weightings, you can beat the index
+in fixed income land.
+And that's why the index falls in the 50th percentile in fixed income land where it falls
+in the 95th percentile in equity land.
+So it's a very different game in the bond market than it is in the stock market.
+When trying to measure yourself against an index.
+All right.
+Very helpful.
+Very interesting too.
+All right.
+Well, in wrapping up here, there's so many great topics I wanted to get into with you.
+So obviously we're going to have to be back on again soon.
+If we can, can we just do lightning round on a couple of them?
+Yes.
+I'll keep it to two word or three word answers.
+All right.
+I feel bad because some of these require like an interview in and of themselves.
+All right.
+You've got some concerns about inflation.
+So first let me just ask about gold.
+Any thoughts on gold right now in the environment you see ahead?
+Should be doing better, but it is suffering under the weight of all of the degenerate
+gamblers piling into Bitcoin ETFs and avoiding gold.
+That would be my short answer.
+It is at an all time high.
+It is at an all time high, but I think it should be doing a lot better than that.
+So I've had some people of late on this program say they think that this is going to be gold's
+breakout year.
+Finally, right.
+Starting from a very high level, lots of great sort of fundamental reasons behind it.
+The dollar has been strong, maybe we'll go into a weakening phase and that this could
+be the year that it really kind of cracks above longterm resistance and goes off to
+the races.
+What kind of probability do you give that high, low or medium?
+Medium and the only reason I give it medium is look, I want to be a gold bug, but I remember
+2020 and 2021.
+You shut down the economy, you unemployed 14 million people, you produced 9% inflation.
+You produced a giant deficit.
+People were worried about the collapse of the financial system and you couldn't get
+gold to go if you electrocuted it at that point.
+And so I look at that with profound disappointment and go, man, if that couldn't get it to $2,500
+or $3,000, maybe there are some things that can get it to go to $2,500 or $3,000 right
+now.
+Look, I'm not necessarily bearish on gold, but to have that spectacular breakout year,
+I just don't see it.
+And the last thing I'll say real quick about gold, one of the problems with gold is that
+was the traditional way you get your money out of the financial system.
+You're worried about the financial system.
+What do you do?
+You buy gold.
+It's the closest thing you could do.
+But what we've done over the last decade or maybe generation is we've sucked gold into
+the financial system.
+We put ETFs on it, futures, options, derivatives, gold miner shares.
+You're shoved around.
+Yeah.
+Right.
+So what gold becomes is another fiat currency.
+So if you think that gold is going to really break out and go, that means the dollar's
+going to go down.
+You accomplish the same thing by buying the euro or the yen because they're going to go
+up for the same reason that gold is going to go up because the dollar is going down.
+That's the problem is that it's kind of become part of the system.
+When it's a lure used to be, it wasn't part of the system.
+Bitcoin's got the same problem with the ETF.
+They're going down that same road.
+That's where I'm going.
+Just real quick though, just to underscore, gold was the anti-financial solution and you're
+saying it's become much more financialized, right?
+Right.
+Exactly.
+It's become part of the problem, not part of the solution.
+Okay.
+So Spot Bitcoin ETF just got approved.
+How material an event is that?
+What implications, if any, do you expect that to have for the Bitcoin and crypto world in
+general?
+Very material.
+It was one of the more hyped ETFs that we've ever seen.
+So much so that they started a fee cutting war on these ETFs before they even started
+trading.
+I mean, that's how hyped it was.
+Some of these ETFs got down to a zero fee.
+Longer term, I think that this is the textbook definition of buy the news and sell the rumor.
+So it's going to struggle from here.
+Longer term, what I fear is the same thing with gold.
+What did I like about ... I'm a bull on cryptocurrencies long-term.
+Why?
+Because I think that they're building an alternative financial system.
+It's not there, but they're working on it.
+And I've got hope and promise that they're going to find a better alternative financial
+system, especially for people in Latin America, Asia, and Africa that have lousy financial
+systems, have terrible currencies, have no way to store their net worth.
+Or unbanked.
+Yeah.
+Or unbanked.
+That's the word I was looking for as well.
+But what I'm afraid of with the ETF is by roping you into the system, all of a sudden
+all that innovation and all that push to try and create an alternative financial position
+is just going to go by the wayside and everybody's going to want to just put their money in red
+or black and just speculate on whether number go up or number go down and lose the plot
+of what they're trying to do.
+I hope I'm wrong on that, but I just see them so mesmerized by this ETF and it's just consuming
+all of their energy.
+I'm like, "Aren't you guys supposed to be building the next financial system instead
+of just doing your technical analysis, speculating on when Bitcoin's going to get to 60,000 or
+not get to 60,000?"
+Like I said, we're losing the plot.
+That's what I fear and I hope I'm wrong on that, but right now I think that we're probably
+going to have a sell the news type of period and then some indigestion, and then we'll
+see if my fears are overstated and that they actually are getting back to developing that
+new financial system of which Bitcoin would be the cornerstone of it.
+And then I could go back to being that long-term bull again.
+All right.
+I'm going to ask a very naive question about this.
+Do these ETFs, do they own underlying Bitcoin and is it just all the net asset value of
+Bitcoin holdings or is this like paper Bitcoin, where just like GLD has a lot of gold futures
+in there, so it's not fully allocated to ounces of gold?
+So there was a series in 2017 of Bitcoin futures that the ETFs own the futures contracts that
+trade on the CME on Bitcoin.
+And so that's a Bitto is the big one there.
+That's a separate product.
+This one, they own the actual coins themselves.
+One of the reasons why Coinbase's stock has gone ballistic is they're going to make a
+ton of money being the custodian for half of these Bitcoin ETFs.
+Somebody's got to buy these Bitcoins and somebody's got to store them in an electronic wallet
+in a safe way.
+And Coinbase is very well suited for that.
+And that's why their stock was up like 300% last year.
+Okay.
+So new capital going into these ETFs means that end of the day, somebody's buying additional
+Bitcoin.
+Right.
+Exactly.
+Okay.
+All right.
+Again, we could have an interview on every one of these things.
+All right.
+I'm wrapping it up here.
+I just want to flag because you're a great guy to have these conversations with and I
+really value your macro outlook on many things other than just the economy.
+And we've had many private discussions, including a pretty lengthy one right before we turn
+the camera here on some of these issues.
+So I really hope at some point to get you back and talk about things like you're there
+in Chicago, where I think that's where the Democratic Convention is going to be this
+year.
+So we're in a presidential election cycle.
+As much as this isn't a political channel, we're aware that there are implications to
+what goes on in politics.
+So we'd love to get your thoughts on how the presidential race may impact macro and markets
+this year.
+A big thing I want to talk about with you is you and I are very, I think, both very
+conscious of the wealth gap that's in this country that has been accelerating and the
+trajectory does not seem to be getting any better.
+In fact, it continues to seem like we're increasingly bifurcating and just sort of socially, what
+are the long term implications of that?
+Is there any optimism that we can avoid getting to a breaking point socially?
+We're just so many of those people.
+Like I said, it's a story of the 80%, really probably like 90% versus everybody else.
+How worried are you about that trajectory and what might emerge from it?
+We were talking earlier about immigration.
+In fact, our broken/non-existent immigration policy right now and just a lot of the sort
+of economic and social challenges that that creates.
+So hopefully at some point, Jim, we can get you back on and really delve into those.
+So just two real quick things.
+I am an optimist about the country because I believe what Winston Churchill said about
+Americans holds true that America could be counted on to do the right thing after it's
+exhausted all other options.
+And we seem to be in the process of trying to exhaust all of the other options and then
+all we'll be left with is do the right thing.
+But right now we're in the bad part of that.
+And the second one about the provocative thing is, I'll just throw this out for people just
+to kind of ponder.
+The Democrat convention is in Chicago this year, in July.
+The governor of Illinois, J.B.
+Pescuir, was on some of the Sunday morning talk shows begging, begging was his word,
+the governor of Texas to stop the immigrant flow buses that are dropping off immigrants
+in Chicago and all the other northern cities, but especially Chicago because it's below
+zero and all this other stuff.
+There is a story out there that those buses aren't going to stop coming to Chicago because
+they want to make sure that there is as many homeless immigrants as possible on the streets
+of Chicago for the convention this summer.
+And so we'll have to see if that's indeed what seems to be happening.
+But here we are in January and I hear the governor of Illinois begging the governor
+of Texas to stop the buses and the governor of Texas has a very good answer.
+You know, the governor of Illinois said, why don't you give us thirty six hours notice?
+And his answer was, as soon as I get thirty six hours notice that they're going to walk
+over the border into Texas, I'll give you thirty six hours notice as well.
+So you want to be a sanctuary state?
+This is part of being a sanctuary state.
+This is a big issue.
+And the last thing I'll say real, real fast.
+The night before we're recording was the Iowa caucus in the polls of people going into the
+caucuses among Republicans far and away.
+The number one issue in the country is immigration.
+That is number one by a long way.
+Number two is a distant second to it.
+So this is going to be a big, big issue as we go through twenty, twenty four.
+All right.
+And it's one that I do want to talk more about on this channel.
+It is a sensitive issue.
+I think it's hard to do without inflaming emotions kind of on all sides.
+But it is a real issue and it's one that we're going to just need to be able to have an adult
+discussion around.
+So folks watching, don't be surprised if I begin to bring in some people or ask the opinions
+of folks like like Jim, because it's not going to go away by not talking about it.
+And and it's it's already, as Jim said, it's I guess at least for Republican voters, number
+one issue for them.
+So it's something that's going to impact the future of the governance of this country.
+So anyways.
+All right, Jim.
+Well, look, a couple of wrap up questions.
+First one, where can folks follow you and your work?
+They've enjoyed this discussion.
+They want more.
+Jim Bianco, where should they go?
+Research site is Bianco Research dot com.
+ETF site is Bianco Advisors dot com.
+I'm active on Twitter and LinkedIn and YouTube.
+You can find me at Bianco Research on Twitter at Bianco Research on YouTube and under my
+name, Jim Bianco on LinkedIn.
+Quick word about about Twitter, like probably you too, Adam.
+I got a lot of scam accounts that use my name and likeness.
+So make sure you find the one with the blue checkmark and three hundred and seventy thousand
+followers.
+I only say that so you get to the right one.
+If you're following me and it's got if you follow me and it's got thirty eight followers,
+you're not following me.
+All right.
+I'll put the handle on the screen.
+So folks know the right one.
+I'll also put the links in the description so folks can one click their way there if
+they want to.
+And just a reminder, both for Jim and me, if you ever get contacted by Jim or me over
+social media and we're soliciting something from you, it is definitely not us.
+That is definitely a scammer, right?
+I'm never going to DM you and tell you to send me money.
+I'll tell you in a public way about my ETF, but I'm not going to tell you to send me money.
+Put your hand out there publicly about the ETF.
+Got it.
+All right.
+So I'm getting to the very last question to you, Jim, which is going to be, look, we've
+just spent the hour talking all about money.
+What's one non money related investment you would encourage folks to adopt in their lives?
+All right.
+Well, just in wrapping up here, the Thoughtful Money Conference date has been written in
+stone now.
+That's going to be Saturday, March 16th.
+More details on how to register for that, get the early bird price and all that stuff
+coming up.
+Get tuned, hopefully should have that for you in less than a week.
+Reminder that if you are a premium subscriber to my sub stack, adamtagert.substack.com,
+not only do you get a bunch of content for free during the week about everything that's
+going on here at Thoughtful Money, but amongst the other benefits, your premium subscription
+will serve as a discount card to the conference.
+So no matter what discounts we're offering as we get up to the final full price for the
+conference, you'll get an even lower price because you'll get an additional discount
+tacked on by being a premium sub stack subscriber.
+All right.
+And if you have enjoyed this conversation with Jim, even half as much as I have, and
+it's been amazing as usual, Jim, and would like Jim to come back on and hopefully tackle
+some of those other big issues I talked about, please let them know by hitting the like button,
+then clicking on the red subscribe button below, as well as that little bell icon right
+next to it.
+All right, Jim, we're at you for the last question here.
+What's a non monetary investment you would encourage people to consider adopting?
+Better health.
+And I would say, look, find something you like to do physically.
+Dance, run, hike, jog, bike, ski, golf, tennis, fill in the blank, and don't be afraid to
+spend some money to do it.
+Because if you get yourself in better health, that is probably going to be the best returns
+you will ever find in any investment you have.
+Great point.
+Something, a drum I beat on this channel a lot.
+And I love that about your point about don't be afraid to spend money because the ROI is
+really about the best you'll find.
+And you'll really notice that return the older you get when you're looking around at your
+peers who didn't invest in themselves and say, oh my God, I'm so glad I took this seriously.
+But what I find too is a lot of people will oftentimes have the intent, like, yeah, I'm
+ready to do this, but they don't necessarily have the experience base or knowledge base.
+And so they just try a couple of things.
+And then after a while, the initial motivation peters out and you're right back to where
+you were.
+Whereas if you hire a good coach or you go to a gym with a good coach or you hire a nutritionist
+to help actually put together a real plan for you, that stuff becomes a lot more sustainable
+long term.
+And those people can really get you over that early failure hump that so many people fall
+into.
+And also do something you want to do, you know, sometimes what happens with people is
+they take up, oh, I'll take up running, you know, because that seems like a good way to
+get into shape without spending much time.
+And then you just find out it's just not for you and that's fine.
+There's a bunch of other things you can do besides that.
+And you find whatever it is, you know, like I said, maybe it's dancing or anything that
+you just get out and move.
+And once you find something you like and you want to do, it's not that hard to do it.
+Great point.
+Yeah.
+Do what you like.
+Do what works for you.
+All right.
+Well, look, thanks so much, Jim.
+It's been wonderful.
+Good luck on the ETF.
+Love to have you back in the program again soon.
+Like I said, folks, if you've still got some stamina left, I talked with Andy Konstan.
+That was the video right before this one.
+And if you really want to understand like the mechanics of how the reverse repo program
+works or the BFTP, the bank funding term program that the Fed put in place to stem the banking
+crisis last year that is now coming up for expiry and there's a lot of debate whether
+that's going to be a big thing or a nothing burger.
+Andy goes deep into that.
+So again, if you've got some stamina, I'll put up a link to that video right here.
+Thanks so much, Jim.

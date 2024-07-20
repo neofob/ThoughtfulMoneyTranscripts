@@ -1,0 +1,760 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. We're all
+aware of how the pandemic threw the economy and financial markets into unprecedented disarray.
+And for the past two years, investors have eagerly awaited them to return back to a state of normalcy.
+But has normal changed versus the pre-COVID days? How much of the old playbook no longer
+works well, if at all, in today's world? For answers, we're fortunate to speak today with
+market veteran Kevin Muir, founder and editor of The Macro Tourist, the highly acclaimed
+newsletter that currently ranks as the number 12th largest financial substack in the world.
+Kevin, thanks so much for joining us today. Well, thanks for having me on. It's a real pleasure.
+Hey, it is a real pleasure, Kevin. Been a huge fan of your work for many, many years.
+It's wonderful to finally meet you in person. Thank you for making the time here in the
+holiday season to come on the channel. Lots to talk about with you.
+If we can, can we just jump off at the high level question I like to start these discussions with?
+What's your current assessment of the global economy and financial markets?
+Well, I think you framed it really well, Adam, when you talked about how COVID has changed the
+world. And I kind of continually am amazed at how everyone's expecting this cycle to look like all
+the other cycles. And I have a buddy, Dario Perkins, from TS Lombard. And he's been saying
+them for a while. He says, I don't know why we're expecting this business cycle to look like other
+business cycles. Because if you think about it, we sent everybody home, told them that where this
+pandemic has hit, everyone go home. Then we mailed everyone checks. Then we went and reopened half
+the economy, then the other half. Then we did another inflation stimulus act or inflation
+reduction act, but it's in essence an infrastructure bill. This cycle is so much
+different than all the previous other cycles. And I think a lot of the playbooks that we used to use
+in terms of like yield curve or the soft indicators versus the hard indicators,
+all those things kind of need to be rethought. And that's what I think a lot of the investors
+are struggling with. And I think that's what we should chat about today.
+Okay. Great. I really want to dig into that. We've talked a lot about the unprecedented
+deformations that COVID wreaked on the economy and on the markets. So we've talked about that
+a lot on this channel. I'd love to get your thoughts, your specific thoughts on that as
+we get into this in terms of what specifically has changed that we have to pay the most attention to
+and what you think it's likely to bring in the future. I know some of this is a little bit of
+a crapshoot because you're in some ways trying to predict what something that's never been in the
+state before is going to do. So it's going to keep things interesting. But look, it's been quite a
+year in 2023. We went into this year, kind of like you said, everybody kind of looking at old
+playbooks saying, "Oh, okay. Well, look, obviously a recession is going to happen early this year."
+And 2023 was really the year of the recession that wasn't. And here we are at the end of the year.
+And everybody's kind of on the no landing plane at this point in time. Markets are -- I want to
+say they're in melt up. If they're not in melt up, they're on their way to melt up status. Nobody
+seems real worried at this point about a recession. Powell certainly isn't. He basically just gave
+everybody the green light that, "Hey, not saying mission accomplished just yet, but I can see the
+light at the end of the tunnel here." So obviously things outperformed everybody's expectations.
+Why? What do you think is responsible for this huge surprise to the upside?
+Fiscal, fiscal, fiscal. And I think that people have missed this the whole way along.
+They've underestimated the power of fiscal. And if we think back to 2008, when we had the great
+financial crisis, we tried to fix everything with monetary stimulus. We lowered rates to zero,
+and then that didn't work. We did QE. And then when that didn't work, we tried operation twist.
+And then we tried operation QE number two and number three. And that was one of the slowest
+recoveries on record. Then fast forward to 2020. Well, this time we learn our lesson and we say,
+"Well, monetary stimulus doesn't work as well as we think it does. Let's try some fiscal."
+And not only did we try fiscal, we did way, way too much. And it's crazy how much we've done.
+Especially, I'm a Canadian, but America, when you look at the amount of fiscal as a percentage of
+GDP versus the rest of the world, they did way more. You guys did absolutely, I think it's 24%
+of GDP in terms of fiscal stimulus. The next closest was 18%. I think we were 16% of GDP.
+So, not only did we have the kind of the monetary stimulus that everyone has always been afraid of
+and talking about, but we've had this unprecedented shift in terms of the amount of money that the
+government has spent and has put into people's pockets. And the one kind of message that I want
+to make sure that people leave with today is the fact that we have continually and we still are
+underestimating the power of that fiscal. And everyone's saying, "Well, all the money's
+been mailed out. All the savings are finished." But there's still a lot of money in terms of the
+Inflation Reduction Act, which is basically an infrastructure act that still hasn't been spent.
+If you think about the government, if there's one thing we know is that they're slow.
+So, when they allocate money to go out and spend to build chip fabs or whatever it is in Texas,
+that doesn't get done right away. And when you go look at the state level,
+you'll see that that sort of infrastructure spend is just starting to hit now.
+And that's why I think that people that have continually believed that this
+kind of tightening would stop the economy have been mistaken in that they've kind of continually
+underestimated the power of fiscal. Okay. And we've talked about this on this
+channel before, where it's funny, I'm going to go through a quick evolution of ways in which I've
+talked about this as I've talked to different guests, but I used to position it as the Fed was
+putting its foot on the monetary brakes on the economy. And then on the fiscal side, we were
+jamming the accelerator and actually had the Fed and the banks that were putting on the brakes and
+the fiscal side jamming the accelerator. And it seems to date that the accelerator has been
+winning out, right? That's correct, yep.
+Yep. And first, let me ask you a question that I've asked a lot of people in the past. I haven't
+asked it for a while, so I'm curious to hear your thoughts. If you consider all the excessive
+stimulus that we shoved into the system during COVID as the proverbial pig within the Python,
+what's your best finger to the wind guess of how much pig is still left in the Python? And maybe
+in your answer too, there are still some programs out there that seem like they're even still like
+feeding the Python pork chops. He's not on the starvation tie yet. So how much has left to pass
+through that? Are we past halfway? Are we on the dregs or is this bigger than folks are expecting?
+So I think that you need to think about the stimulus in different ways. And there's no
+doubt that the consumer portion of it has almost gone. And so when you see those sorts of analysis,
+I think that the Fed, one of the Fed kind of regions had this analysis about when the consumer
+savings were going to be depleted and stuff. I believe that the kind of that extra sugar high
+that we got by mailing people money and putting it into their checks is almost gone. And all the
+forbearance programs and all that stuff. Right. And I think that's, we're almost through that.
+And that is what the market has been concerned about when they've been thinking about the
+recession that was imminent and was going to come and hit at any point. But at the same time,
+as I mentioned, those stimulus programs are the Inflation Reduction Act, which is really
+an infrastructure program that's designed to kind of bring manufacturing back to the states.
+That's just started. We have barely felt that. And we are going to go and we are going to be
+surprised at how many jobs continue to be created. We're going to be surprised
+at the amount of capex that is going to occur in the US in strange places that we're not expecting.
+And so I would argue that the nature of the stimulus has changed, but it's still got a long
+way to go. Okay. So one of the questions that folks have asked around that is, how long can this
+fiscal winning out over the monetary efforts? And now it sounds like the monetary efforts might
+start easing a bit. So maybe they actually have won the game, won the battle. But basically,
+the big question is sort of like, hey, so will this just continue through the election?
+Whether it was all to do with rescuing the economy or whether there was some sort of
+additional agenda of trying to keep everything goosed through the November 2024 elections,
+is your expectation that we're still going to see a rising tide of fiscal spending
+through the end of this coming year? Or do you see it maybe ending sooner?
+No, 100%. We're going to see continued rise. There's the reason that there's the
+kind of time-honored election cycle when it comes to stock markets and economy,
+because presidents and parties spend based upon that cycle. And this will be no different. And so
+the real question is, is the economy the same as the market? And that might be something that
+will be different. Just because the economy is doing better over the next year doesn't
+necessarily mean the stock market is going to do better. And I think that too often people
+kind of confuse them and think that they're one and the same. Whereas I think that very much,
+I'm confident that the economy will continue to do well, but I'm not as sure about the stock market.
+Okay. And obviously, I'm going to get to your market outlook in a bit. This topic of fiscal
+spending. What you kind of worry about here is like the bear has gotten the taste of meat.
+You know, right? Like when he's tasted it, he doesn't want to eat anything else, right?
+Yeah, that's right.
+Of course, politicians love nothing to do but spend. And honestly, in a pinch and hard times,
+consumers want, they're not going to turn away handouts. In fact, they're going to demand them
+because they're just trying to put food on the table and you did it before. So the press
+has been set, right? So are we in a new era when we're sort of talking about new forms of normal?
+Are we in a new era of just kind of ever fiscal spending from here? And what does that look like
+in the long run? My mind says that has a bad ending.
+I do believe that the world changed and COVID. If we step back and we think about from 1982,
+when Volcker beat back inflation with high monetary interest rates, every single recession
+that we've experienced, we fixed it by going and lowering interest rates. And if you go look
+through the period of all the different interest rates, every single time, we had to lower it to a
+new low. And then on the subsequent rise, interest rates didn't get as high before the economy rolled
+over. So during that whole period, we were relying solely on private sector credit creation to affect
+the business cycle. And eventually what happened was that we stacked so much private sector debt
+on it that we hit the great financial crisis. We lowered rates to zero and it didn't work.
+So then we tried all these extraordinary measures of monetary stimulus, though still in essence
+didn't work. And what happened in 2020 was they said, "Okay, this is no longer working. We have
+to think about other ways that you can create money." And so we talked about the fact that
+lowering rates encourages banks to lend credit creation, that's private credit creation.
+And this time they decided they were going to do government, they were going to spend the money
+into existence. And I'll tell you one thing that over the years, I'll tell you a little bit of my
+MMT story. At first when I heard MMT, I was like, "That sounds like the stupidest thing I've ever
+imagined." I would hear things and I would hear them saying, talking about spending money into
+existence and all this stuff. So I went and I actually decided, "Okay, if I'm going to be able
+to argue this, I should be able to go and figure out where they're wrong." And if you think about
+MMT, not as a prescription in terms of what should be done, but as a description of how the economy
+works, they were actually, a lot of their theories are just spot on correct. And what they argued was
+that the Federal Reserve, sorry, not the Federal Reserve, the government can spend money into
+existence up until the point where real resources are constrained. And then from there on, you get
+inflation. And if we think to the problem of the great financial crisis, we had a situation where
+private sector was not spending. And what did the government do? Instead of actually stepping in and
+spending when there was lack of private demand, they actually did the same thing. They cut back.
+And we had a situation where Obama, even though everyone talks about him in the spent through
+president, if you look at his discretionary budget, it declined like three out of the four
+years after the great financial crisis. So we have a situation where the government previously
+did pro-cyclical cuts in spending at a time when they actually, the economy needed the opposite.
+Now, the pushback to MMT has always been, "Well, once people start spending and they realize that
+they can spend this, they're not going to stop." And that's kind of the argument you're just making.
+And I am sympathetic to this. And I've always said that once that like MMT, you can rail about it,
+you can spit on the ground every time it's mentioned. But if that's the way the economy
+is headed and that's our way our society is headed, why are you sitting there arguing with the market
+about it? Like just take advantage of it. Say that this is where we're headed and this is what we're
+going to do. So therefore I need to change my portfolio. So I'm a big believer in trade the
+market that you have, not the market you want. And so I look at it and I say, "Okay, if you look at
+the median voter," and that's something Marco Papic, one of my buddies from Clocktower talks
+about all the time. And I think it's a great way of thinking about the political landscape or in
+what the person does. If you think about the median voter, the median voter in 2008, when we
+had the great financial crisis was all about balancing budgets. They were like, "Okay, we need
+to balance the budget. We need to get our spending under control." Think about 2020. Like 2020, it was
+like, "No, no, we should spend." And even 2021, 2022, think about the Republicans. They were like,
+"Oh, we're going to shut down the economy to balance budgets." And then when it came to it,
+they didn't want it. So I completely agree with you that the bear has tasted the taste of meat
+and he's not going back to eating blueberries. We're in a new era where we're going to have
+continued fiscal spending. And yes, it'll go up and down in waves as we get cyclical moves. We'll
+have a recession. And this time, instead of trying to fix it with monetary, we'll also, again, use
+fiscal. And instead of arguing about that and deciding which one is better or which one is
+proper or which one is moral, just say, "This is the way it's going to be. And I need to adjust my
+portfolio." And what that means is that we are going to have a series of inflation, higher sets
+of inflation for some time to come. I used to argue that 2% was a ceiling that we would get
+in terms of every time we popped up to 2%, it went back down in terms of inflation. I think that 2%
+is going to be the floor that we bounce off of. So I could see a situation where for the next decade,
+we average 3%, 4% really easily. Okay. I want to get to the Fed in just a second.
+Okay. So first off, I'm sure there's already a little bit of a rage fest going on in the comments
+of, "Oh my God, this guy's pro MMT." I don't think you are. What I hear you're saying is you
+understand a good amount of the logic behind it, but right or wrong, you just think it is going to
+be more of the playbook that the central planners play by going forward. And so rather than fight it
+and get steamrolled as an individual investor, play the markets that you have ahead of you.
+And I'm going to jump to a punchline here that maybe we'll talk a little bit more detail about
+in a bit, but I believe that you are a proponent of owning gold. And I believe that's probably
+because you expect there to be inflationary repercussions from this new, more MMT driven
+playbook. Is that an accurate statement? Yes, over the long run, I believe that is
+one reason to own gold. Another reason I think to own gold, which I actually think is even almost
+a better argument, is the fact that once Russia went and took over or invaded Ukraine, the world
+changed in terms of when the Western and led by America confiscated those FX reserves.
+We weaponized the financial system against... That's correct. And if you're sitting there
+and just put yourself into China's shoes for a second, you're sitting there with how many
+trillion dollars of US reserves. As a percentage of those reserves, you have a tiny, tiny amount
+of gold. It's tiny. Yes, they are one of the biggest holders of gold, but as a percentage
+of the reserves they have, it's very small. So if they were to just go and get their reserves
+up to the same level that a lot of the other countries are at, it would require just gobs
+and gobs of buying in gold. And that's what I think we're seeing. And if we look at this past
+year, what did we have? We had rising US interest rates. For a long time, the US dollar was rising,
+and yet gold hit an all-time high. Yeah, it hung in there.
+Sorry to interrupt it, but real interest rates were the highest they'd been in a long time,
+which tend to be kryptonite for gold. That's right. And so I've been arguing
+for a while now that when you, again, throw away the old playbook, the old playbook about gold
+being tied to interest rates or real interest rates and US dollar, it's not as important as
+just what the central banks are doing. And the central banks, if I was sitting there and I was
+running the People's Bank of China, I would just be buying it every single day. And it would just
+be almost imprudent not to be. And so ultimately, I think that you don't even need that kind of
+increased inflation for gold still to work. That's just gravy, is what you're saying.
+Yeah, I really do. And listen, do I think that when the dollar finally goes down
+and the interest rates get lowered and real rates go lower, that that won't help the gold? Of course
+it will. That'll be kind of an extra little boost. But that's not the real driving force of this bull
+market. The real driving force of this bull market is the Bank of China buying gold because they have
+to. OK, so it's much more a geopolitical factor where it's sort of national sovereignty priority.
+So when you said China's got a long way to go to catch up to other countries,
+are you measuring that as a ratio of gold holdings to US Treasury holdings?
+That's correct. I can't remember the numbers off the top of my head, but I think a lot of
+like Russia, I believe, was 30 or 40% gold. And there's no way China is going to get to
+that level. But there's lots of countries that have 5 to 10% of their reserves in the form of
+gold. And if China were to do that, it would suck up every single gold ounce that we mine around.
+OK. And that's, I guess, the punch line I was looking for. But guesstimating here,
+is it a 10x increase from where they are right now? A 100x increase? What's the size of what
+that catch up would need to be? I think they're going to try to buy everything they can without
+sending the prices to the moon. I just think they'll just be constantly on the bid. And I
+think that's what we've seen. It doesn't matter what the rates are doing. It doesn't matter what
+the US dollar is doing. It just keeps driving higher and higher and higher. And that's what
+I think it's going to continue to happen. OK. Well, then let's look from here then. So,
+we've got gold. I don't know whether you ascribe to this or not, but it's sort of made this like
+decade-long cup and handle with the triple top and all that. And if you look at it, I was just
+looking at a chart of it this morning, it's like poised right there to break out. And you look at
+the landscape that we have right now, which is the Fed basically just told everybody, "Hey,
+we're going to start winding this down sooner than later." So, everybody's now thinking pivot
+sooner. Everybody's thinking, "Oh, maybe QE again at some point." Hard not to see that. I know you're
+saying that's not the primary driving force behind gold right now, but hard not to see that adding
+additional wind behind gold sales, breaking it out of that handle. And then maybe there's some
+real momentum chasing that goes on from there. What do you think? Oh, I've been saying for a
+while that I think we're going to have $1,000 up weak in gold. And I know that sounds ridiculous,
+but if you think about it, it's not as crazy as it sounds. It's a small market when you
+look at the other big markets out there. And it wouldn't take much. I could see one day we get up,
+it's up 300 bucks. Then the next day it's up 200 and then another 400, 200. It really wouldn't
+surprise me if all of a sudden out of nowhere, the thing just takes off like that. So, I'm open to
+those sorts of moves and I almost expect them eventually before this bull market is over in gold.
+All right. And sorry, I didn't mean for us to fall down the gold hole, but this came up at
+an opportune time. So, you may not have an answer to this, but I remember hearing stories from guys
+like Ron Paul, who during the Volcker era met with Volcker and Volcker would be saying like,
+"Right, where's my daily gold report?" And the central bankers were using gold as a mirroring.
+They were concerned about its ability to mirror inflation as they were monkeying around with
+stuff. And so, they had a vested interest in trying to keep it contained and long-term precious
+metals investors. It's hard not to be a long-term investor and get really frustrated by good
+conditions where the precious metals don't perform the way that you want them to or they get monkey
+hammered at predictable times or whatnot. So, I think there's a general sense, true or not,
+is that it's a pretty manipulated asset to begin with. But in this new world order,
+do the central planners care as much about keeping gold contained or could they-
+No, they don't care. The federal reserve doesn't care what gold does. They care what inflation
+does. They care about what bonds do, but they don't care what gold does. Sure, at the margin,
+they're going to watch it and stuff, but they're not going to change policy because gold's going up.
+They understand that gold is a different sort of asset. And for the reasons that I just mentioned,
+it could go up on its own even if inflation is very well behaved and there is proper monetary
+policy. We could just have a situation where China wants more. And if that is the case,
+then we could have gold going up and doubling over the course of a year. And it doesn't mean
+that the Fed is too loose. It could just mean that China wants them.
+Okay. Well, at the risk of starting another fight in the comment section,
+I don't want to go deep into this, but just since we're on the topic of monetary inflation hedges
+per se, I know you're saying that's not the exact main reason to own gold here,
+but thoughts on Bitcoin and/or any other cryptocurrency that you think-
+I am the worst. Listen, Adam, you don't want to ask me my Bitcoin because I am an idiot.
+I literally got told Bitcoin at $5 of this kid beside me, I was trading and he was a computer
+guy, he told me Bitcoin at $5. He explained it all to me. I told him that was the stupidest thing I'd
+ever heard. Don't mention it again. He then came back to me a month later and said, "You know that
+thing you told me is the stupidest thing ever. It's now $50." I was at least smart enough to
+realize that if it goes to $50, it could go to $500 or maybe $5,000 I thought on some flukey
+chance. So, I actually started way back when Bitcoin was $50 or $100, I started mining it.
+I had an interlisted R machine. We did all these sorts of fun things with it. And then it kind of
+collapsed and it went quiet and people forget that it went quiet for a few years. And I was always
+kind of a skeptic and I thought, "Okay, well, that's it. It's never going to go again." And
+I've just completely missed it. So, I am not the right guy to talk to. I am a little bit of a
+skeptic. At the end of the day, I think that it's an asset that the government can control and shut
+off more easily than people believe. The one thing about gold is if you own gold and you physically
+own it in your possession, it is nobody's liability. Now, you might say that about Bitcoin.
+You'll be like, "No, it's up there. It's nobody's liability." Well, it's still you have a liability
+that the network needs to exist. Just take us for a second and imagine we have a situation where
+China invades Taiwan. I don't think this is going to happen. Well, let's just say it happens.
+We have a situation where China invades Taiwan and all of a sudden they shut off the internet,
+the pipe between the US and China. Now, all of a sudden we have the fork of the Bitcoin
+and we have miners in China, miners in the US and they can't go back and forth. I still think that
+there's more of a kind of a liability to the network than people think.
+More counterparty risk?
+Yeah. Well, it's not counterparty risk so much as it's kind of technology risk, but ultimately
+at the end of the day, I believe the government controls that technology more than we think.
+I think there's what, seven big routers in the whole world that all the internet traffic goes
+through. I'm sure the government can do stuff against it. Now, listen, people a lot smarter
+than me have come up with lots of reasons why I'm wrong and I have no interest in debating them.
+I'm just an old fart that doesn't like it and I'm going to stick with my gold and I have no hair and
+what hair I have is gray, so that probably just says it all. Although it didn't stop Mike Novogratz
+from doing it, did it? He has no hair just like me and he's a little more progressive than I am.
+And it sounds like he's probably sitting on a greater pile of crypto wealth at this point.
+That's right.
+But the last question on this, which is the geopolitical reasons for central banks,
+particularly ones like China, to load up on gold. I don't get the sense that you feel that
+that same dynamic is pushing those same players to, for some reason, favor or get into Bitcoin/crypto.
+I'd be surprised if the Bank of China was buying crypto. And I could be wrong. Listen,
+you know what? I think that people need to remember that one of the things about a trader
+is that you need to make sure that you understand that you're going to be wrong all the time.
+I saw Anthony Bourdain has a tattoo on his arm that says an ancient group. I am certain of
+nothing. I think Anthony Bourdain would have been a great trader and I'm the same way. I am certain
+of nothing. So do I believe that Bank of China is going to be buying crypto? No, but anything
+can happen and maybe I'll be proven wrong. Okay. Wouldn't shock you, but not part of your
+thesis. And that's really all I wanted to clarify. Okay. Well, look, I just mentioned the Fed's recent
+move, potentially adding, certainly adding wind sales to the markets, but maybe adding special
+wind to the sales of assets like gold. I'm curious, lots of ink being spilled about this
+right now. A lot of people calling it the Fed pivot. Obviously the market has taken the football
+and just running with it. Do you see it as a pivot? Oh yes, for sure it was a pivot.
+Like let's step back and think about September 20th. It wasn't that long ago. At that point,
+the Fed was raising 12 and a half bips a meeting, meaning that they were definitely on a schedule
+of one hike every second meeting. And if you think about their evolution of tightening,
+it started off with, I think the first one was 25, then they did a 50, then they did some 75s,
+and then they went down to 50, then they went and did some 25s. And as they got closer and closer
+to their target, they reduced the pace of tightening. And I think that Powell talks
+about it. He was feeling around trying to figure out the point where they were sufficiently
+restrictive. And as they got closer, they slowed down the pace of tightening. So September 20th,
+the market was thinking that they had stopped and they came out and they actually very clearly said,
+"No, we're still not there. We think we're close, but we're not there." And if you think about back
+then, I'm just looking at my notes here, I think September 20th, the US 30 year was 442. Then a
+month later was five and a half. The market was caught off guard about how clockish the Fed was
+still at that point. So what we did was we had a huge tightening of financial conditions from
+September 20th all the way to the end of October. And at that point, the Fed, we hit this level
+where we kind of hit the pain point for the Fed. And they came out and they said,
+there was in essence, they said, "The tightening of financial conditions has done the work for us.
+We don't need to tighten anymore. So we're going to pivot." So that was the first pivot they did.
+They said, "Looks like we've hit sufficiently restrictive. And we've hit that because we've
+had this tightening of financial conditions." Can I ask a question about that?
+Yeah, sure. The answer is you keep going on here. That surprised a lot of people because there's a
+lot of financial conditions indexes that have been rising all year. I'm sorry, loosening all year.
+Most of them at that point, from that kind of September 20th till October 30th period,
+were tightening. Because we had a huge crush in the long end of the bond market. The bond market
+just went no bid. And let's think back to that period. Everyone's forgetting about it now, but
+there was all sorts of talk about term premium. People that don't really even understood what
+the word was were lecturing folks about how the Treasury wasn't going to be able to fund the US
+government because the bonds were going to go no bid. The term premium wasn't wide enough and all
+this stuff. And Adam, listen, you can go back and look. I've written for Bloomberg for a couple of
+years now. And I wrote pieces a couple of years ago about how the bond market was a disaster
+waiting to happen. And at that time I got told I didn't understand the bond market. Lots of people
+have predicted a bond bear market and lots of people have gotten crushed. And I think back to
+the pushback that I got when I was bearish of bonds a couple of years ago. Well, in October,
+I got bullish of bonds. I said, "Listen, this thing's gone a long way. We're now at a point
+where the term premium is actually positive. We have just sentiment off the charts bearish."
+And it was kind of just ironic how when I got a little bit bullish at 5%, I got told that I didn't
+understand the problems with the US government. And that we are not like the bonds, we're going
+to head to 6%, 7%, 8%. And here we are what the thing's gone from 5% down to four in the space
+of a month. And that was largely a function of the Powell pivot. So that was the first pivot.
+But what was really interesting was that as financial conditions loosened,
+we had a situation where they pivot, all of a sudden financial conditions loosen,
+we get to the point where we're actually looser than we were when they first worried about it.
+And most people at that point, and me included, expected the Federal Reserve to say, "Hey, wait,
+you know what guys? We've eased enough. We're going to be on hold. Everything is fine.
+They didn't want to goose it anymore." They would push back on the easing of the financial
+conditions is what most people expected a couple of weeks ago. And then-
+I would put myself in that camp.
+Yeah, I was too. But then very quickly, there was a couple of instances where Powell was given a
+chance to push back on that and he didn't take it. And at that point, I was like, "Oh, wow,
+look at this. Here it is. They just served him up this softball and he didn't take it." And he did
+not push back on the easing of financial conditions. So I would argue that the recent Fed
+move when actually at the FOMC meeting shouldn't have been as much a surprise as it was.
+But ultimately, too many people fell for this idea that Powell is not going to be the next
+Arthur Burns. He's going to be the next Volcker. And I'm going to give you my theory. And here you
+go. You were talking about conspiracy theories and stuff like that. I will gladly jump into this
+conspiracy theory. And I truly believe that Trump is scaring the establishment. And
+that although I don't think it's as overt as Powell saying, "I don't want Trump to get elected,
+so therefore I'm going to ease." At the margin, he has changed the equation of the risk-reward
+in terms of how will Powell seize the market. So everyone said to me, "But Powell doesn't want
+to be the next Arthur Burns." And I said, "No, you're framing it wrong. If you go back and look
+over history, for the past hundred years, no president that has had a recession during the
+election year has won." I think the last one was Calvin Coolidge in 1924. So when you're thinking
+about Powell, he can go and raise rates and push the economy into recession to get inflation down
+from 3% down to 2%, like all you guys think he's going to do. That's one option. And the other
+option is he says, "You know what? We're pretty close. I don't want to be the one pushing the
+economy into the recession. I'm going to ease up." And I truly believe that when he looked at the
+kind of risk-reward, he's willing to accept the chance of a little more inflation
+for the possibility of maybe averting a recession.
+Okay. So averting a recession, I can believe that, but you mentioned Trump earlier,
+is his desire to avert the recession and take on a little bit more inflation risk.
+To your point, because he wants things to remain rosy enough that the current
+administration gets reelected and keeps trying to-
+So I don't think it's the current administration. I don't think that he cares if it's Biden or if it
+was, let's say, Nikki Haley. And I think that if Nikki Haley was the GOP nominee, then he wouldn't
+have been as easy as he currently is. I think that Trump, and listen, I am not making any sort
+of political opinion about what should be done. I'm more interested in what will be done. And I'm
+just trying to read the tea leaves as I see them. And I do believe that Powell and a lot of the
+political establishment don't want Trump to win. They view him as a risk to the government.
+And Trump said, "I get reelected. I'm booting Powell from office." So Powell already kind of
+knows his job's at risk there. So, and again, yes, folks, this is a completely nonpartisan
+conversation we're having here. Just trying to understand the mechanics of what may happen.
+So help me understand, how does recession equal Trump versus recession equal Nikki Haley?
+Well, Nikki Haley, what I was saying is right now, Trump is the leading contender.
+Right. So what I'm saying is you'd have to assume for now that he's going to win the nominee.
+So he's going to be the Republican nominee and therefore a recession, as I mentioned,
+there hasn't been a president that's presided over a recession and has won since 1924. So we assume
+that Trump wins the GOP nominee and then we have a recession. Everyone's like get Biden out of there,
+his economy stinks. And all of a sudden Trump's the kind of next president.
+Right. So again, and I'm just trying to understand the mechanics that Powell
+has to help engineer this. So as long as Trump's the front runner, we go into recession. History
+shows that Trump should win, Biden's out. And so I get that. Now, if Trump started losing in the
+polls and you had somebody else on the Republican ticket start gaining a comfortable lead on him,
+do you think Powell might change? I think at the margin, Powell would change. And I don't
+think it's as overt as everyone thinks it is. Like he's sitting around in Machiavelli and thinking it
+out. I just think when he's thinking about the risk reward of the different choices, he's like,
+oh, geez, you know, like I could go and I could be really tough on the economy right now and I
+could push us into a recession to try to get that last hundred basis points out of inflation.
+And then I'll be the guy instead of instead of being Arthur Burns,
+I'm going to be the guy that handed Trump the victory. Right. And that's how he's thinking
+about it. So at the at the margin, he's always kind of trying to weigh pluses and minuses.
+And so if you're asking like if Nikki Haley all of a sudden wins, then yes, I think at the margin,
+Powell will become, you know, slightly more hawkish. It won't be like all of a sudden,
+like we were pricing six and now we're going to do zero because Nikki Haley is there.
+It's just at the margin when they're trying to decide the balance of risks that that equation
+will change. OK, all right, well, look, there's been a lot of I want to ask your opinion here.
+Adam, can I talk before we talk about the Fed? One last thing about I think another part that
+people miss is that they don't that too often they're talking about inflation kind of in a
+rear view, like looking at it in the rear view. And so they're thinking about right now they're
+saying inflation is whatever it was, three and 30 or whatever it is, instead of thinking about what
+inflation is going forward. And if you think about John Williams, who's the New York Fed president,
+he spoke about this. He said really what you need to be doing is looking when you're setting policy,
+you set policy based upon what future inflation is expected to be. So if we look at the one year
+inflation swap, meaning the rate that the market thinks the next year, the rate of inflation over
+the kind of forward one year, it actually had declined from two sixty five down to two percent.
+So when Powell went and in essence in this last meeting and not only did he not push back against
+the easing of financial conditions, he seemed to endorse rate cuts in the next year.
+What he was in essence doing was looking at what inflation has done and looking at the real rate.
+So if you look at the one year kind of treasury rate, you'll see that it's kind of fallen from
+five and a half down to four ninety three. So it's declined almost sixty basis points. And so
+everyone says, look at look at how much he's eased financial conditions. But in some ways,
+in their mind, inflation is that I'm sorry, their policy rate is just as restrictive today as it was
+three months ago, because the real rate, meaning the rate above future inflation, is the same.
+See what I'm saying that the it's if you're thinking about forward inflation,
+if you're setting policy based upon forward inflation, as inflation falls,
+as the expectation of inflation falls, you can lower the nominal rate without actually loosening
+policy. Right. And that is and that is what they believe, whether whether you believe it or not,
+doesn't really matter, because don't forget, it doesn't matter what we think is right.
+It matters what we think, understanding what they believe. And so to some extent, they don't view
+this last kind of easing and putting those cuts in as as easy as we think it is, as a policy,
+as big a policy shift as the markets are taking. OK, that's true. I, Kevin, I mean, we could talk
+for five hours on this. This is wonderful. I'm going to I'm going to jettison the question I
+was going to ask you on the Fed because we got enough of that out of there. But you're opening
+a really other interesting door and we're we're getting a little tight on time. So I want to make
+sure we get enough of your market outlook in here. So it sounds like you think that market
+participants are their inflation, their future inflation expectations are coming down. Right.
+That should be good for bonds. Right. Yes. And, you know, especially if Powell continues
+to cut rates and if we ever, ever go back to QE, that should be really good for bonds, too.
+So we're at a moment in time where. This year, equities have gone from richly priced to very
+richly priced to becoming even more so as you and I speak here, basically, when you look at stocks
+relative to bonds, the equity risk premium, it's kind of at one of its worst levels versus bonds
+in like decades. Right. Yeah. So are you expecting bonds to do very well next year? And if so.
+Well, let's talk about bonds first and then we'll talk about your stocks outlook.
+Well, the trouble about the bond market is that it's gone so fast and that when we were talking,
+you know, it was it was five percent on the 30 or five and a quarter on the 30 year,
+we're now down to four. And it's moving so fast that it's difficult. And that's part of the reason
+that stocks have rallied so hard is because the bond market has rallied so hard that they've been
+kind of tied at the hip. But if I kind of think about step back and take a bigger picture, look
+at things and I think about the NASDAQ 100 and I think about it back in March of 2020, when everyone
+was convinced the world was going to end and that the stock market was never going to go up again.
+I think that the NASDAQ 100 had an earnings yield of five and a half percent. And meanwhile,
+the 30 year was one and a half or one or something like that. So the difference
+between locking in your money and giving it to the government versus going out and buying stocks
+was huge. Now, fast forward to kind of in October, especially when rates went back up to five percent,
+the earnings yield on the NASDAQ I think was four and a half. And so when I think about the kind of
+changes that will occur in a lot of financial committees coming the new year, they're going to
+start to look at their makeup of their portfolios and say, "Hey, you know what? We're long stocks.
+It's been a great run, but relative to bonds, we can now lock in some great levels." And I think
+Howard Marks from Oaktree was talking about this, how you go out, you start buying a little bit of
+high yield, you can all of a sudden hit your 8% return by buying a fixed income security as
+opposed to a stock. Stocks over the long run are expected to perform 8% to 12%, but stocks are
+stories and bonds are contracts. And a lot of these bonds now all of a sudden, we have a
+situation where you can actually lock in yields and lock in funding. And I think there's going
+to be a shift. And I think that that's going to be something that the market misses as well,
+is that the big long-term money, I'm talking about like the Calpers and the Yales and all
+those kinds of things, they're going to look at this and they're going to rejigger their portfolio
+from owning stuff full of equities, and they're going to start at the margin buying bonds.
+So I ultimately am not a huge bond fan, but I do think that relative to stocks,
+they're attractive. So a couple of questions on this. One is, how material will the capital flows
+be out of stocks and the bonds? Enough to actually challenge stock market valuations?
+Yes, for sure. I think at the margin, we're going to start to see more selling in stocks,
+and we're going to see more buying in bonds. And I think we're going to be surprised at the
+performance between those two changes. The equity risk premium, as you mentioned, is at levels that
+dictate that that's the smart, prudent thing to do. Right now, stocks are running and everyone's
+all excited about it, but the kind of the longer term, more patient money that thinks about things
+in the bigger picture will be doing this trade, selling the stocks when they're expensive.
+Okay. So I had a bond analyst, Alf Pecatiello on the program not that long ago. He also runs
+a pretty successful substack, but Alf makes a very similar predictions that the bond whales who have
+been on a relative basis buying a lot less in recent years are now going to move in for a lot
+of the reasons that you just talked about. One additional reason he mentioned, and I just found
+this chart here I want to pull up, I just want to get your thoughts on it, was the correlation
+that stocks and bonds have. His analysis shows that at a high enough level of inflation,
+bonds and stocks no longer become inversely correlated. So we've been in this high inflation
+period where bonds weren't giving you the counterbalance that you wanted them.
+And now that inflation is coming down and expected to come down further in the future,
+these guys are saying, "Hey, I can lock in those tasty returns, but I can also now finally get that
+negative correlation to diversify the way that I want to." So it's another reason for these whales
+to be buying into this market. Do you agree with that? Well, no. So I'm in a slightly different
+camp. And part of the reason that I'm hesitant to get too bullish on bonds is that ultimately,
+I am a believer that we are going to have more inflation. And I am a believer that this economy
+will likely be run hotter. And everyone's all excited about the fact that Federal Reserve
+has just pivoted dovishly. But if you think about it as a long-term bond investor, it's actually the
+worst thing that could happen to you. Everyone thinks that they want the Fed to loosen rates to
+be bond positive. Yes, you want that over the short run. Over the long run, the Fed has just
+told you that they're willing to accept more inflation. They're willing to risk more inflation.
+And as a long bond investor, assuming no default, that is actually what is your ultimate enemy.
+And so, you know, over the long, long run, I believe that we're going to get more inflation
+and therefore bonds are not a great investment. So when I'm talking about the shift, I'm expecting
+more of a change, a shift kind of into corporate bonds, more things of that nature. And I suspect
+the government bonds, especially the long end, will be surprisingly weak going forward. And I
+think that they're not the greatest investment. But I do find it interesting that you're bringing
+up the stock bond correlation, because when I think about the biggest challenges facing investors
+kind of going forward, I think that that flipping of the stock bond correlation is the number one
+most kind of difficult thing for them to deal with. And so what do I mean by that?
+So if you think about most... Sorry, them being the Fed, them being who?
+No, investors. That is the most difficult thing for, you know, like we can talk about the Fed.
+The Fed doesn't really control the long end. They control the short end. But if we think about
+investors and kind of what the last 40 years, we've had just this great environment where
+bonds have been negatively correlated to stocks. Okay. And they've also been in a huge secular
+bull market up until 2020. It was just the greatest of all worlds because rates went from
+18% in 1982 down to zero, basically. 40-year uninterrupted tailwind.
+Yeah. And not only that, the fact that the bonds and stocks were negatively correlated was so
+important because in essence, that meant that you could lever up your portfolio because at a time
+when your stocks, your volatile asset was doing badly, you could count on your non-volatile asset,
+the bonds, to perform better. So, you know, Ray Dalio became the richest hedge fund manager of
+all time by taking advantage of that and instituting risk parity. So, when we have
+this situation where in the last couple of years that that kind of correlation has broke down and
+not only has it broke down, it's actually flipped. That was why we had a situation where the 60/40
+had two of the worst years that they've ever had because the bonds and the stocks were going down
+at the same time. And one of my lines that I've always used Adam, as I've always said,
+"Be careful about bonds. Everyone expects them to be a ballast in your portfolio.
+I think they're going to turn into the anchor." And ultimately, I do believe that that is still
+going to continue. And so, especially the long end. So, when I say bonds, like back to the equity
+risk premium, I'm thinking more you replace it with like five-year corporate bonds and things
+of that nature, as opposed to going out and buying long dated bonds. Because ultimately, I think this
+move is most likely done on the long end, although I could see a situation where the Fed lowers rates,
+but I could see the Fed lowering rates, yet the long bond actually rising in yield as investors
+become increasingly uncertain that the Fed is committed to their 2% target as much as-
+Their inflation target. Okay. So, just to be fair to Alf, his outlook is tailwind for bonds for 2024,
+but then he expects there to be secularly higher inflation going forward. So, it's sort of a
+shorter term outlook and then you want to get out of it. I'm curious where you're saying is,
+do you even expect much more of a continued downtrend here or do you think people are going
+to start worrying about inflation sooner than most people? Oh, I think we're almost at the end
+of the bond bull market that we've experienced in terms of this correction. We were in a bond
+bear market and we've had this correction at the Fed pivot and especially at the long end,
+I think the long end is going to struggle from here. Let's just stop and think about what happens
+when the Fed goes and actually eases. Usually the Fed eases and what happens is the bond market
+steepens, the yield curve steepens, meaning that the long end and the short end, the difference
+between the two rises. And usually the short end goes down, but- Yeah. So, if we get a situation
+where the Fed, you have to ask yourself, what do you think is going to be the new lower limit of
+the Federal Reserve rate? Where is the Fed going to stop? And if you believe that we are back into
+the environment of the post GFC, pre-COVID era, where interest rates are going to zero at the front
+end and we're going to be stuck with very little growth, then for sure you should go out and buy
+bonds. But if you believe like I do that the fiscal stimulus will continue and that even
+when we get a situation where all of a sudden the economy does bad, we will see more spending
+and I think we'll see increased inflation going forward. I could see a situation where the Fed
+really, the new kind of lower level is 2%. So, if you go to 2% and you think about the fact that in
+a normal yield curve at that point when they're the kind of the most easing, you get 250 basis
+points between twos and tens, that means tens should be 4.5%. And so, I suspect that from here
+you're going to be kind of the long end will be a wash. You'll be hard pressed to kind of do more
+than earn your coupon I think from here. Okay. Let me just bring up this one chart for a second
+just to get your reaction to it. This is the chart that shows the federal funds rate prior to each
+recession that we've had over the past 30 plus years. The recession has been preceded by a pretty
+aggressive run-up in rates. Then we plateau for a little bit and then rates plummet as the Fed
+basically is chasing the economy down saying, "Oh gosh, I over tightened. I got a stimulant here."
+What I hear you sort of saying is this time might be different because of this new normal we're in.
+Is that true? Well, but you're talking about this new normal. I wouldn't say it's a new normal. I
+would say it's the shift from monetary, Lynn Alden came up with this, the shift from monetary
+dominance to fiscal dominance. I believe that that's what you're going to experience is that
+it's changed the playbook. Remember when I mentioned how the peaks were always lower?
+Can you put the chart up again? Oh yeah, absolutely. Sorry about that.
+Sorry. I didn't mean that. I want to show something here because I think
+it illustrates what I say. If you look in 1987, that peak was 12 and then we lowered rates to three.
+And then on a subsequent rise up, we went to six and a half, seven and then we lowered rates to one.
+Then we went up and we went to five, blah, blah, blah. And so each time now, think back, we forget
+now, but there was lots of people saying when we would hit 2%, they were saying the economy was
+going to roll over. Yeah. I interviewed a lot of them.
+Oh yeah. There was tons like Goldman Sachs, a lot of people. And the thing that going back,
+what did they miss? They missed the fact that there's fiscal. So if you could tell me that
+tomorrow we're going to get a government that is going to try to balance the budget,
+it's going to stop spending and it's going to reign in everything, then I would tell you,
+I would completely change all my outlooks. I would say, in that environment, we're going to
+see a situation where we very well could go back to the lows and we go back to 0% and we have a
+return to that old thing. But I don't believe that's going to happen. As your great analogy
+about the bear tasting meat, I think that we're going to be surprised at how much politicians
+find excuses to go and to keep spending. And ultimately, I think it was Bill Fleckenstein
+that came up with this. He says the governments are going to keep spending until the bond market
+takes away the keys. Right. Yeah. That's a great line. And I think that he's probably on something.
+I'm just hesitant to go and get too bullish on bonds or to get too bearish on the economy,
+because ultimately the government steps in and spends. The one lesson we should be taking from
+the COVID example is the fact is that the government can go and can fill an economic
+hole way better than anyone imagined. And that's kind of the real lesson. Right. If the government
+spends, they can affect the economy. Now we can argue about whether over the long run that's
+going to cause pain or whether that's going to cause the economy to be as efficient as it should
+be. And I have no desire to debate that because I don't know, but I don't even think it matters
+because the reality is that we're not trading over the low. We're not putting on our portfolios
+for the next 30 years and forgetting about them. We're putting it on for the next three, five years.
+And over that period, I contend that I think that the government will continue to spend.
+Okay. Well, so in wrapping this up here, I want to get to your kind of market outlook and you can
+put whatever term you want on the next three years, the next 12 months, whatever you feel
+comfortable with next three months. But what do you think is more likely to happen? This is not
+a guarantee. This is just your best assessment. And what assets are you looking at right now as
+good ones to consider for that type of environment?
+So we haven't talked a lot about the Mag-7, but the reality is that everyone's expected a
+recession. And just to go show you how difficult this game is that we all play is that if you go
+back to the beginning of 2023 and everyone was expecting higher rates and the overwhelming
+consensus was that that was going to hurt long duration assets like tech stocks. And I was the
+first one to agree with that. And I thought that that was the case as well. And what's happened is
+the Mag-7 is just taken off. And for a variety of reasons, they borrowed long, they have all
+sorts of cash at the short end. We had an AI kind of alpha extra, an extra alpha boost from the AI
+kind of bull market. But increasingly we have a situation where those seven stocks have dominated
+like the zeitgeist and everyone's bought them so hard that a lot of the other stuff is cheap.
+It is really cheap. You go look at small caps, small caps versus large cap are one of the
+cheapest forward PE kind of differences that we've seen in years. You go look at foreign assets like
+other countries. Now, a lot of this has changed ever since the Powell pivot because a lot of
+these things have just run up. And the reason they've run up so hard is because there was so
+much crowding in those names, meaning that everyone was long the Mag-7 and they were
+underweight/short everything else. And when I look at the kind of investing horizon and think about
+it, I really think there's continuing to be opportunities in those other names and those
+other kind of asset classes, like whether it be value, whether it be small cap, whether it be
+foreign stocks. I think that a lot of those things were held back by Powell keeping his foot on the
+throat of the economy. And at the very least, even if he didn't do it, there was always worry
+that he would. And I suspect as that changes, the nature of what works within the market will vary
+tremendously. And I just want to leave you with something here in terms of the Nasdaq. The Nasdaq
+was up 55%, the S&P this year, the S&P is up 26%, but the S&P equal weight up 13.5%. It's not that
+good. It really isn't. The Mag-7. The Mag-7 is up 110. And one of the things that everyone always
+talks about, I find retail investors always think that institutional investors are so much smarter
+and they have so many more options and they're at such an advantage. And I always tell them,
+no, in essence, you guys are the ones at the advantage. First of all, you can get in and out
+really quickly. You don't move markets like a big institutional investor takes days, weeks,
+sometimes months to buy and sell stock. But most importantly, they don't have the ability to sit
+through career risk underperformance. So, an institutional investor can't have the Mag-7 going
+up 108% and not participate. And a retail investor can just say, "Hey, wait, these are good stocks,
+but at this point, that makes no sense to chase those." I don't have to do it. And so I really
+think that retail investors should think long and hard about taking advantage of the kind of
+career risk chasing that institutional investors must do. One of the perfect examples of this,
+Adam, is that over the long run, there's been all sorts of studies about how equal weight
+outperforms market cap weight over time. You can go look at it. I think AQR has written about it.
+The other research shop has written about it. There's tons of studies out there that over time,
+equal weight wins over market cap weight. And the reason that not everyone invests in it,
+first of all, if your Calpers are one of those big guys, you can't invest in it because the liquidity
+of you trying to buy an equal amount of Apple and an equal amount of the 500 stock makes it
+so it just doesn't work. But even more important than that is you can't take the one, two, three,
+five years of underperformance that we're experiencing.
+But you also, I think, get the punishment or reversion of the mean, where you have to chase
+into it because it was up 100% this year. You have to own it. Given the fact that it had an outlying
+year, the odds of it having an underperforming year are not bad given reversion of the mean.
+Right. Because if you think about the equal weight right now, what is the equal weight going to do?
+They're going to be selling at the end of the year or whenever rebalances, they're going to be
+selling their mag seven. Right. Because they owned it at equal weight. It was all equal weight and
+they've all doubled. Now they got to put everything else equal weight. So they're going to be selling
+their mag seven and they're going to be buying the stocks that underperformed and were actually down.
+And so long and short of it is that as a retail investor, you should really go look at taking
+advantage of kind of those constraints that professional investors are under.
+And so when I'm thinking about it, we have a situation where this is extreme,
+meaning that those seven stocks have been done so well versus the rest of the market.
+And one of the problems I have whenever someone asks me about the market, I'm like,
+well, I'm pretty bearish those seven stocks. I don't see how they're going to have difficulty
+growing into that. You just have to go back and look at the nifty 50 in the 1970s. A lot of those
+companies ended up being absolutely terrific companies that did everything from a fundamental
+perspective that the bulls thought they would do. But in terms of investments, they were terrible
+investments. They went nowhere and they just kind of dripped for the next decade. And I kind of
+expect that's what's going to happen with these nifty 50s. And so when I'm thinking about what I'm
+looking at kind of going forward, never before have I felt so strongly that you should look at
+not being in the market cap, big name stocks. And you should really think about when you're
+kind of benchmarked to the S&P 500, you should be really aware of what you own and how much risk
+you're taking in those seven names. Wow. Okay. That's a bold statement,
+declarative statement. Never before. Never before. What do you mean?
+I thought you said never before. Have you been sort of this concerned about the differential
+between the market? So I'll tell you the only time I've ever been this worried about it was
+I'm a Canadian and we had a situation in Canada where Bell Nortel was our biggest stock and Bell
+owned a big chunk of Nortel and our index actually became 45% of the TSC 300. And it was terrible for
+active managers because think about it from a fiduciary point of view, they actually couldn't
+own 45%. Like it made absolutely no sense. So as this stock was rallying so hard, everyone
+was underperforming. And it just, these things, I would be shocked if we have a situation where
+the mag seven is able to continue this level of outperformance. And I really suspect that as we
+kind of go through year end and a lot of these finance committees meet and think about their
+portfolio and they look at it, they're going to be trimming this thing. And so I suspect that it'll
+be for sale for a long time. And not only that, Adam, one of the things is they've actually no
+longer are the leaders. Think about this rally of the last little while. What did you want to own?
+Like the mag seven, sure they're up, but they're not up as much as the rest of it.
+And so you buy the stuff that's the new leader. And I just,
+I don't think the mag seven is going to be the leader like it was last year.
+All right. Well, you're in good company too. A few weeks back, I interviewed Fred Hickey
+of the high tech strategy. He says he's about as bearish on the mag seven as he's been in over much
+of his career. So it's good company to be in. Well, look, this has been fantastic. And I love
+this point about that. The advantage of the equal weight index is being an advantage for the small
+guy. The whole mission of this channel, Kevin, is to help the small guy gain whatever rights they
+can against the power brokers who have had a lot of the advantage on wall street and have slanted
+the playing field to their advantage. So whenever we can find an opportunity here, it's awesome to
+be able to highlight that for folks. So thank you for doing that. Just from my notes, I heard,
+Hey, look at small caps, look at emerging markets, look at corporate bonds, at least for the short
+term, looking at five year duration issue. So you like gold, you encourage people to look at equal
+weight indices, and you're cautious about the mag seven. Two last questions for you. First one,
+very important for folks that have really enjoyed this conversation, Kevin, maybe this is the first
+time they've gotten exposure to your work or seen you live. Where can they go to follow you
+in your work? They go to the macrotourist.com. And if you want to see some of the old pieces,
+just send me an email, kevin@themacrotourist.com, and I'm happy to send you off some of the recent
+pieces. All right. That's very kind of you and very courageous of you to share your email address
+there. And when I edit this, Kevin, I will put those up on the screen so folks know exactly where
+to go. Folks, I'll have links in the description too. So you can just have one click access if you
+want to. All right. The second question I'm going to ask you right after I do just a little bit of
+housekeeping, so you can think about it, Kevin, is we've just spent the past hour plus talking
+all about ways in which we hopefully can improve our financial wealth prospects from here.
+What's an investment that you would encourage somebody to consider adopting in their life
+that's not financially related? I've been asking this question of late and getting some really
+interesting answers. Would love to hear your thoughts. As you think about that, two things.
+Folks, if you've really enjoyed having Kevin come on the program half as much as I have,
+this has been a joy for me and would like to encourage him to come back on again hopefully
+at some point early in 2024 to kind of give us an audible call on how he sees things. Let us know
+by hitting the like button and clicking on the red subscribe button below as well as that little bell
+icon right next to it. And just a reminder, just as Kevin has his sub stack, which you should totally
+go out and check. And I think if they go to macro tourist.com Kevin, they can find their way to your
+sub stack from there. That's correct. Yep. Okay, great. I have my new sub stack that's out there.
+It's adamtagert.substack.com. I provide a lot of free information on everything that's going on
+in this new thoughtful money movement. But I have also resumed my Adam's notes, which are my cliff
+notes for my key takeaways from these interviews, including this one with Kevin. And so if you want
+to get those Adam's notes, go to the sub stack, subscribe for the premium service. You'll get it
+as part of the premium benefits. And just a quick reminder, it's very inexpensive right now. It's
+like eight bucks a month. That price is going up at the end of the month. And so if you're thinking
+about becoming premium, do so quickly because you can get grandfathered in at that low price. And as
+long as you remain subscribed going forward, you will keep that low price. So anyways,
+one of the folks know about that. Kevin, we're here at the end with this final question here.
+What's a non-financial, non-money related investment you think folks would be wise to
+consider? Yeah, I got two answers. I'm going to go with the cheesy one first.
+Life is short. Make sure you spend time with the family. Make sure you spend time with the kids.
+Kind of make sure you're not spending too much time staring at the screens and you're giving
+people your attention. You'll turn around. Next thing you'll know, I'm 53 years old. My kids are
+moving out of the house and I'm happy for all the time I got to spend with them. But there's lots of
+there's lots of times that I wish I had kind of been more aware, more present, spending time not
+worrying about what the next tick in the S&P was going to be and spending time like learning and
+listening to them. That's the cheesy answer. The other one is that we all know we have to keep
+learning. One of the things that I think that as traders/investors is you need to keep expanding
+your tools. I think that especially the young people that are coming up and trying to figure
+out how they get into this industry, work on your programming, work on your Python, work on your R,
+work on learning a computer language. You don't need to be the next Bill Gates or whoever that's
+programming really fancy stuff. But these increasingly are becoming the tools upon which
+we all use and that's going to really differentiate your ability to understand and find kind of
+anomalies, find and understand the markets better. So anyways, work on your programming, R and Python.
+Wow, those are both great. So for the second one, really kind of learn the fundamental language that
+the future of business and the skills required to succeed, learn what that fundamental language is.
+I got to say on the other one about spending time, life is short. You're putting a dagger in my heart
+for two reasons. One, my youngest is a senior in high school this year. So we're staring at the
+empty nest coming up. So I lament that fear of yours all the time. It's been a really busy year
+for me. I've been running in startup mode forever, but recently just started helpful money even more.
+So I'm even more like heads down what I'm doing. And it just kills me when end of the day, I stand
+up and I finally done the last email or whatever, and then she's already off to bed or whatever. And
+I feel like one more day. And tied to that, as you and I were talking before we put the camera on,
+as folks know, I think most folks know my father passed away this past weekend. And yes, it's a
+reminder that life is short and we always never get as much time as we want. And I will say,
+I'll probably have already talked about this in the weekly market recap with Lance, but
+my dad was, he was an older guy, he's 89. He was a man of few words and there was a lot left unsaid.
+And I always thought that he could see the end of his life coming. I thought that maybe he'll be in
+a place where we can have some of those conversations, but this all just happened so
+quickly that he was fine one week and then he was gone the next. So just never happened. And so just
+don't assume you're going to get that chance, make the time now as you're saying. Well, Adam,
+and I'll just say this, I'm sure everyone's listening and will share my sentiments when
+I say we're sorry for your loss. You're super kind. Thank you, Kevin. Anyways,
+just makes me like even more after this wonderful hour that we've spent together.
+Thanks so much, Kevin. Like I said, I really hope to be able to get you back on this program.
+Whenever you want to come back, this platform's here for you. Everybody else, if you are still
+hungry for additional content after watching this one, I just finished. Kevin mentioned that he has
+written in the past for Bloomberg. I just recorded an interview with Simon White from Bloomberg.
+A great analyst like Kevin had never met him before. Really enjoyed that conversation.
+I'll put up a link to that right here if you're hungry for more. But other than that, Kevin,
+it's been a pleasure. Everybody else, thanks so much for watching. Thanks, everyone.
