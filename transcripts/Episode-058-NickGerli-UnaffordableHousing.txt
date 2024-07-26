@@ -1,0 +1,539 @@
+Welcome to Thoughtful Money. I'm its
+average home price in America remains just about as unaffordable as it's ever been. In fact, a recent report from real estate data provider
+Adam, no relation to yours truly, examined the median home price last year for roughly 575 US counties, and found that home prices in 99% of those
+areas are beyond the reach of the average income earner. And to add insult to injury, 30 year fixed mortgage rates just rose back above 7%. So
+what lies ahead for home prices in 2024? To find out, we welcome housing analyst Nick Jerley, founder of ReVenture Consulting and the creator of the
+new ReVenture app back to the program. Nick, it's great to see you. Thanks so much for coming on.
+Great to be back with you here, Adam.
+Hey, it's always a pleasure to talk with you, Nick. I know we're fresh off some recent travel you just made. Thanks so much for rushing from your trip
+home to come record here with me. Lots of questions. Look, I get probably more than any other topic these days. People are sending me questions about
+where is the real estate market heading? So glad you could come on. You're one of the smarter analysts that I talk with that really dives into the data
+around the space. You produce a number of phenomenal charts. Hopefully we'll walk through some of those in this conversation. Just to kick things off
+there very generally, what's your current assessment of the US housing market?
+Current assessment of the US housing market is that we're still in the biggest bubble of all time. Home prices adjusted for income and inflation remain
+even higher than the 2006 bubble and are about anywhere from 30 to 40% overvalued from their long term norms. Now at the same time that we're in this
+big housing bubble, we're seeing a collapse in buyer demand due to the lack of affordability you just mentioned. So mortgage applications to buy a
+house, they have crashed down now to the lowest level since 1995. Mortgage applications to buy a house are now at their lowest level in 30 years, down
+even from where they were a year ago with multiple leading indicators of home buyer demand saying that the spring 2024 housing market is setting up to be a
+ghost town with very little buyer activity. However, despite that crash in buyer demand, sellers on the US housing market are still refusing to
+acknowledge this reality and are still listing their prices high. So we have a bit of a standoff going on here between the buyers and the sellers, one
+that I believe is eventually going to end in the buyers winning and prices going down.
+Alright, so the housing market has been in a deep freeze ever since interest rates really started taking off and mortgage rates went up along with them.
+It looked like it was thawing a little bit. Mortgage rates are coming down a bit at the end of December and we started to hear all the folks in the media
+who are housing bulls begin to emerge saying, "Okay, this is it. We're going to get those lower rates we were waiting for." As I said in the intro,
+rates are now back above 7%, so it is refreezing again. A question I have for you around this is, the big question I have is what's going to thaw it?
+Is it going to be rates coming down? Is it going to be prices coming down? Is it going to be some combination of the two? Is it going to be something
+else? But before we get to that question, all eyes have been on the Federal Reserve, as they so often have been, and when Jerome Powell kind of told
+the markets what they were desperately waiting to hear in December that, "Hey, we're done hiking. We're likely going to start cutting pretty soon,"
+and it's been guiding the market to three cuts in 2024. Let's say for a second that he does that. Let's say that the Fed delivers three rate cuts in
+2024. My worry is that's not going to be riding to the rescue far enough in time enough for the market. You bring mortgage rates down, let's say from
+above seven to maybe in the mid to high fives. Is that enough to solve this housing market unaffordability issue? Because even at that rate, those
+mortgage rates are still close to double where they were two, three years ago.
+Yeah, it's a great question, Adam, and I think it begs the point that many of your viewers need to understand is that this housing market, the problem is
+not mortgage rates. I know that sounds kind of crazy for some people to understand because we were at 3% or 4% mortgage rates, now we're at 7%. How is
+the problem not mortgage rates? Well, the problem is prices. The prices are what is at historically high and elevated levels, and it's those ridiculous
+prices, like when a home buyer goes on Zillow and tries to buy a three or two-bedroom starter home, they're having to pay over $650,000. Home buyers
+don't want to do that, even if the mortgage rate goes down to six or five and a half. So regardless of their financing terms, they're just bulking at the
+ticker price. Exactly. The sticker price is causing so many home buyers in this market to just stop looking. I mean, when I look at the early indicators
+of buyer demand, not only mortgage applications, but indicators like Redfin's home buyer demand index or Google searches for homes for sale, all of
+those are in the tank right now. And the reason is because of how high prices are. I'm going to actually share my screen right now and show you a graph
+here. Can you see this graph, Adam? Yeah, see it? Great. This is the 130-year average of inflation-adjusted home prices in America, going back all the
+way to 1890. And what you can see here is that we are still in a massive bubble on prices. Inflation-adjusted price index, this is data from Robert
+Shiller, as well as the Bureau of Labor Statistics, is 80% above the long-term average. You can see from 1890 all the way to about the late 1990s, home
+prices didn't even grow. Adjusted for inflation, then we had bubble number one, there was the big crash, now we're in bubble number two. So what this
+graph really cements is that the problem is prices in this market. And until we see prices drop and/or a massive increase in wages and inflation, we are
+not going to see the home buyers come back into the market. Hey, can you pull that chart back up for a second? I'm really glad you brought that.
+I just got interviewed twice over the past two days by Todd Sachs, who owns a realtor agency and he's sort of a unique bird where he works in the
+industry and his job is to sell homes, but he's got his own YouTube channel where he talks a lot about a lot of the issues we're talking about here,
+Nick. He's a very honest guy, and in many cases is telling people now is not a good time to buy a house for all the reasons we're talking about. It's hard to
+find a realtor who's willing to say that publicly. So anyways, I've been talking a lot about real estate in the past 48 hours, and I gave sort of my origin
+story on his channel in terms of how I got on the pathway to end up creating thoughtful money. And a big part of that origin was when I went to buy a home
+when my wife and I had just had our first child, and this was back in the early 2000s, and we went to go look for the cheapest home that wasn't a complete
+teardown in Menlo Park, California, and prices were so out of control even back then that it basically just pushed me out of the market and I decided not to
+compete. And a big reason why I made that decision was because I went online trying to figure out what I was missing. What was I missing that was making
+paying these elevated prices rational? And trying to answer that question, I realized, "Oh, no, they're not rational. We're in this asset price bubble for
+housing." And the chart that you had just shown, and this one is a variation of that, when you were in 2005, 2006, you could see that exponential rise in
+home prices versus the historical mean. And for somebody who was data driven, it was like, "Oh, yeah, well, here's the data. We're so far deviated from
+historical norms that of course this is a bubble and of course we should wait." Now, at the time, media was telling everybody that it's this new paradigm and
+housing never goes down and you better get in before you're priced out. And just waiting a couple of years, it was amazing. In talking back to the previous
+chart you had, you just add a few more years onto that chart, 2008, 2009, 2010, you can see the plummet right there. But I'll tell you, back at 2007, the start of
+2007, nobody could imagine what happened over the next couple of years. Just like I suspect a lot of people who are caught up in the bullish narrative of
+housing are looking at the current greater height we're at right now and can't imagine that going back down even to say they're at 2012 levels.
+Yeah, that's a great point, Adam. I think one thing that happens in the bubble period, which we're still in right now, is all types of narratives are spun about
+why the new normal is normal. People are going to say, "Oh, the old rules don't apply." But very clearly, the housing market for over 100 years operated on a
+pretty specific rule, and that was home prices follow the rate of inflation. And that rule broke down starting in the late 1990s, resulted in a bubble and a
+crash, it's broken down again, the correction has started in many markets, but we still have a long way to go before we're going to see buyers come back into the
+market. The home buyer pessimism in America is so bad right now. According to Fannie Mae, 84% of Americans say it's a bad time to buy a house. 84%. And so what
+that means, everyone, is that if you're someone who's struggling out there to understand why things are so expensive, like you're not alone, most people are in the
+same boat, and we're going to see these really low levels of mortgage applications and buyer demand until prices get more affordable, until mortgage rates come
+down, and until wages grow. Ultimately, we're going to need to see a combination of all three of those factors to really bring buyers back into the market. But one of the
+really interesting components are the differences occurring across America right now. In some ways, it's almost kind of useless to talk about the housing market from a
+national perspective, because we have almost two or three different housing markets occurring in America right now, depending on where you go. In states like Florida and
+Texas, there is undoubtedly a downturn occurring right now in states like Florida and Texas. Meanwhile, in a state like New York or Illinois, prices are still going up and
+inventory is down 50% from normal levels, there's no homes for sale. So depending on what state you're in, and what neighborhood you're in, you could be experiencing a
+completely different housing market than someone else. And that's a really important thing to understand as well.
+Well, absolutely. And of course, they say location is everything in real estate. Maybe at some point, we can pull up some of your charts to really get a sense of
+kind of the dynamics on different parts of the country and what's driving them. But let me ask you sort of a national question, which is that nationally, it looks like
+prices are maybe come down just a tiny bit, at least on the inflation adjusted chart, the K Shiller inflation adjusted chart, you just showed that but we're pretty much
+still hovering near all time highs. Why have prices not come down yet? What is preventing them from coming down on average, because we've now had these higher
+mortgage rates for well over a year, and they're supposed to be traditionally a seesaw relationship between mortgage rates and home prices, just like there is with a bond.
+The more expensive the financing is to get the property, well, then the price has to adjust downwards as a result of that, all other things being equal. Somehow that hasn't
+happened this time. I would say probably the most common narrative we hear to it is we just have an inventory shortage problem. And of course, the transaction freeze
+probably doesn't help that to a certain extent. But over time, we know that there are transactions that are still happening every day, and there's still people that die
+and their homes need to be sold in an estate sale or people get divorced or people lose their jobs or whatever. So what has prevented prices from coming down yet?
+Yeah, it's a great question, Adam. And the simple answer is that sellers and owners on the US housing market are very disconnected from reality. Even to start 2024, the asking price for
+homes was up over 5% year over year, according to Redfin in the face of this massive collapse in buyer demand. And so there's this just purely bubble like component, where the owners of real estate,
+the owners of homes are not accepting or wanting to accept the new reality of the market, where home buyer demand is down by 30 or 40% from what it was during the pandemic, and that houses are sitting on the market longer.
+So there's that one reality. The other is that we do actually do have a shortage of supply and inventory in certain markets, particularly in California, particularly in New York,
+particularly in Illinois, there are very few homes for sale. Lots of homeowners and mortgage holders feel locked in with their low three to 4% mortgage rates not wanting to sell.
+And so, for those reasons, inventory and supply is still low, which really kind of zooms out to, you know, answer the question more broadly, our price is going to go down and what causes prices to go down.
+It's a combination of how desperate are buyers versus how desperate are sellers. Clearly, the buyers aren't desperate at all, the buyers are gone. But the sellers still are not feeling the desperation in many markets.
+The sellers still feel like owning a house is a good idea, I'm in no rush to sell, I don't have financial distress, so I don't need to cut the price.
+I could list my house high and have it sit on the market and that's just, I don't really care because I don't need to sell it.
+But that mentality will change as more distress comes for existing homeowners in America.
+That's the piece that I think a lot of the traditional housing analysts are missing, is the fact that we're starting to see distress build among the existing homeowner population incrementally and we're starting to see more instances of forced selling to start 2024.
+And I believe as we see more and more of that throughout the year, that would be what ultimately unlocks real price declines.
+So we've seen the buyers drop out, the buyer demand is way down, but the second phase of that is we have to see more distress among sellers and I'm not even talking lots of distress, I'm not even talking mid-2000s level mortgage defaults.
+I'm just saying almost getting back to a normal level of mortgage defaults and foreclosures, that type of activity would trigger distress selling, forced selling and cost prices, in my opinion, in certain markets to go down pretty fast.
+All right, let me put a hypothesis out there and you talk about mortgage defaults. We are seeing a rise in auto default, auto loan defaults and in credit card debt defaults, so maybe this thing is sort of building its way up to mortgage defaults, we'll see.
+But my theory is that, to your point, it's not going to take a lot of distress. In other words, I don't even as a home seller necessarily need to feel distress myself.
+I just need to start losing confidence that the solidarity that I and my fellow homeowners currently are exhibiting by not selling under pressure, I just have to worry that that's starting to erode.
+So in other words, I've talked, I think, with you in the past that I think that there's a first mover advantage here to a seller, which is if you start thinking, "You know what? Fed's not going to ride to the rescue in time and for whatever reason, I think prices may actually start falling."
+There's a big first mover advantage to be one of the first to reduce your price by a little bit and sell it and get out because you don't have to give up that much from current market valuations, and you preserve the vast majority of your equity, where if you wait too long, and the market starts cascading downwards, you might be one of the people who held on too long, and you've lost 20, 30 plus percent of your current equity, and for a lot of boomers, the majority of their retirement is locked up in their home equity.
+So once some of those first movers start fleeing, start deciding, "I'm going to break from the herd and start selling," I think that might be all you need because even if I personally am not experiencing distress, if I've been waiting to sell, and I start seeing other people bolting, I'm like, "I don't want to be the guy that gets stuck holding the bag here. I get to put my property on too," and then you get this -- the trickle very quickly becomes a flood. That's sort of my hypothesis.
+I totally agree with you, Adam. And I'm actually, ultimately, as you're talking about this, I'm thinking about the cities where home prices are already going down in America, like in Austin, Texas, where prices in Austin are already down 17% from peak in just a year and a half, right? And in certain cities and neighborhoods, this is already happening. Prices are already going down by a lot. And it's happening exactly, as you say, is that on the margin, more of these trades happen at a lower price, and then all of a sudden, people wake up in the local housing market.
+And all of a sudden, they say, "Hey, this is a new reality. Time to get the program." But I actually want to show you another chart here. And this is a chart showing the foreclosure rate, historically, going back to 2002. Now, this is the foreclosure rate in Miami. You know, I have this data for all the different metros and states. It comes from Fannie Mae. But what I want to point you to is, first of all, the foreclosure rate went up to 13%, 14% of all mortgages in Miami in the last downturn in 2009.
+Crazy. But what I want to point you to is 2006, 2007. The foreclosure rate was less than 1% in 2007. In the first quarter, there were many people right at this point, which was the peak of the bubble, who were saying no big deal. This isn't a problem, right? Prices aren't going to go down that much. Fast forward a couple years, the foreclosure rates 13%. And, you know, we could look at other markets that were similar to this, like Las Vegas, you can see the foreclosure
+rate went from 0.7%, all the way up to over 10%. You know, there's many examples in this last downturn of housing markets that got hit really, really hard. You know, another one would be Los Angeles, the foreclosure rate didn't go up as high, but it went from 0.2% to 4%. And so you see it today, it's 0%. The foreclosure rate in Los Angeles today is 0%. You know, it's a little higher than zero, it's just rounded down. But you say to yourself, like, this is not going to last, right? You know, this is it's not
+foreclosures aren't going to stay this low. And when they start to go up, they tend to go up pretty fast. And to be clear, I'm not saying we're going to see a repeat of the late 2000s mortgage crash and foreclosure bubble. I don't think we are going to see that repeat itself. However, it's very realistic to assume that we are going to see more mortgage defaults and foreclosures, and probably more than people expect over the next two years, as distressed homeowners, people with mortgages, people with credit cards, and auto loan debt.
+That they can't pay, we're gonna see more and more of them basically be forced to convert their house equity into cash equity. And whether that comes through a foreclosure, or they're just forced to sell their house on the open market one way or the other, I think it's a good bet that we're going to see more for selling more new listings, more inventory at a time when the buyers are just totally checked out on the market.
+Right. And then they go from I'm not buying now to like, oh, maybe I do want to buy, but prices are coming down. So I'm just going to keep waiting to see how low they can go. So it's sort of like the seller's nightmare. They know buyers are out there, but the buyers aren't pouncing because the knife is still falling. One more question about things that might be keeping the market elevated. Because transactions are so low, there is a cohort, maybe multiple cohorts of buyers that are still buying in
+this market. I've talked a lot on the program of late about the wealth disparity in this country. And there are a lot of, well, percentage wise, smaller percentage of the country, but there are a lot of active home buyers right now, who are people who are relatively
+price insensitive. I mean, these are residential retail buyers that are still oftentimes putting down all cash offers on properties, just because they're in the top 5% of society. I live out here in California. I know some realtors, and they're basically telling me that that's what's driving the transactions that they're being able to affect right now, is basically just sort of like old money, people who just have a lot of money and
+they're not blinking an eye when they decide they want to buy a new property. So you've got that cohort, but then of course, you also have the institutional buyers that have been buying. I think last time we talked, you mentioned that they were kind of pulling out of the market right now that the deals were no longer penciling out for them. But of course, they have been buyers up until relatively recently. Could those two cohorts basically be still keeping the dream alive right now because
+there's so little inventory? It's pretty easy for those deep pocketed players to buy what's on the market right now?
+Maybe. I think certainly in parts of California, that's definitely driving the market. However, interestingly, when I zoom out, and I just say, what are the strongest housing markets in America right now? Where are the prices going up the most? It's not cities or states where you would expect to see many wealthy or investor buyers. Actually, prices are going up the most right now in Illinois, upstate New York, and Connecticut, which are actually
+some of the markets with the fewest investors purchasing. And so to me, that speaks to actually like the main bottleneck is not demand. It's not people buying. It's the lack of listings in certain markets and the lack of forced selling. That's the main bottleneck. The demand is way, way down across all segments, whether you're a cash buyer, whether you're an investor buyer, whether you're a regular buyer with the mortgage, the bottleneck in certain cities and states.
+Is that the listings in the inventory from sellers?
+Okay. All right. So here's one more question about what I just sort of wrestle with is why are prices not coming down? Not only are prices just unaffordable, in general, they've risen to a level of widespread unaffordability. Not only is the financing now very expensive on a relative basis to get, but the costs of homeownership have gone up
+dramatically in just the past couple of years. So there's been wage inflation in a lot of different areas, but certainly paying contractors and stuff like that, labor to build. We certainly had huge increases in input costs like lumber and whatnot. I think a lot of that's come down, but the labor has still become a lot more expensive, and that has not come down. But also we've seen associated costs of homeownership, like
+insurance, skyrocket in many parts of the country. I've heard horror stories from a lot of my viewers here that they've seen high double digit increases. Some people have seen two, three X increases in their insurance policies. Other people, even like myself, have had their insurance provider just leave the state.
+So you have that, the cost of maintenance has gone up dramatically. I just read an article that said that a growing number of people are just foregoing maintenance on their properties now because they can't afford it. They're getting too pinched. So all of that should have the knock on effect of just bringing home prices down. If the cost of just having the home itself has become more expensive, the price and theory should offset.
+So how come we're not seeing that yet?
+Yeah, first of all, I think that's a great point, Adam. It's not just the mortgage rates and the prices. It's the fact that in a state like Florida, the property insurance costs have gone up 50% in the last four years. Or like you're saying, in California, insurers are dropping out left and right, especially in Northern California, getting homeowners insurance is getting very expensive. And you're right, theoretically, that should drag down the market in two different ways. Number one is reduced demand. Number two is increased supply.
+And once again, we see the demand destruction is there. The buyer demand is way down in California, home sales are literally at the lowest level of all time, according to the California Association of Realtors, but we have yet to see those higher costs cause a wave in selling.
+And again, that's the piece. You would think at a certain point, the homeowners insurance costs go up enough. You know, as more homeowners maybe are forced to refinance at a higher mortgage rate, or their property taxes go up, you would think some of them will be forced to sell. And I think that is going to happen at a certain point. But unfortunately, the housing market operates with a lag. And it takes people maybe a couple years of those higher costs to say, Hey, I don't want to do it. I'm going to sell. But I think your point is a good one.
+At some at some juncture, as these costs for homeowners rise, it should cause more of them to sell and say, Hey, this isn't worth it.
+Yeah, interesting. So you talk about the lag effect there of these costs in the housing market, you know, it seems to me that the housing market is, is subject right now to kind of multiple different lag effects. Right? It's the lag effect of the higher mortgage rates, which we've talked about. It's the lag effect of the increase in these other associated costs.
+Maybe those arrive at certain different times, but it seems like they may now be arriving quite close to one another when they when they finally get fully expressed. Then, of course, there's the potential lag effects on just the overall general economy. We'll talk about this in a little bit. But, you know, if we start, the economy really starts slowing, and the layoffs that we're tracking that are already going at a faster clip this year than they were for all of 2023.
+You know, if that really becomes a big issue, if the employment domino begins to topple, because that's been the real bulwark against recession, that could change things pretty dramatically in the housing market, because obviously, if people start losing their incomes, you know, you may have a lot more distressed selling going on.
+I will say, though, like, I'm surprised looking at those default charts, those foreclosure charts that you just showed, I'm amazed that they're still as low as they are, given some of the things that we've just talked about.
+Yeah, um, you know, I guess I am, too, although knowing what the US government did over the last three or four years, I'm not as surprised. I mean, the government pulled out every trick in the book to try to stop that wave of foreclosures. They banned foreclosures for almost two years.
+Well, I was gonna say, I guess to get to zero, you have a ban. Right, right. They banned foreclosures for two years. And then even after they undid the ban, they instituted all other types of things that kick the can down the road, even right now on FHA mortgages for the next, I think it's nine months, they have like an automatic conversion to a longer loan maturity with a lower payment, like there's still things they're doing, the government to prevent this from happening.
+There's some potential imminent VA loan mortgage defaults and foreclosures that the government is also kicking the can down the road on. And so what I think people have to understand is that there was a historic level of government intervention in the housing market during the pandemic.
+And while that intervention is over, the effects of it are still lingering, which is why those foreclosure rates are lower than you would think they would be at this point.
+However, by and large, most of those interventions are over. And we're seeing more mortgage defaults, we're seeing more credit card defaults, we're seeing more auto default. So it's logical in conjunction with higher insurance and property taxes to expect at some point,
+the dam might burst, and we're going to see more listings and for sales on the market.
+Alright, so as we're kind of thinking of how this dam might burst, where are the pressure points that are most likely to be the ones to break most?
+Let me ask you this, who do you think is feeling the pressure most right now?
+Just hopeful sellers, right? Somebody who might otherwise be thinking of listing their home soon but saying, hey, look, you know, buyers are on strike, so I'm just going to wait it out, right?
+Is it amateur investors? So sort of like mom and pop landlords, maybe somebody who bought a few short term rentals, or bought a few properties to turn into short term rentals for an Airbnb or whatnot, and we know that the economics of that business have been deteriorating.
+Or is it the professional investors who, you know, the institutions that came in and put real big money into play here? Because as we mentioned earlier, it sounds like most of those guys have sort of stopped buying right now.
+And I believe you had sent me some data before we started filming here that, you know, indicated in some markets that, you know, these investors have flipped from net buyers to net sellers, like they're beginning to exit some of their positions.
+Yeah, great question, Adam. I would say it's all of those segments are feeling the pressure first. So if I were to just kind of recategorize it, for me, number one, lower income homeowners are definitely feeling the pressure to sell, even though the foreclosure rates haven't gone up.
+Number two, professional investors are starting to be net sellers. Number three, Airbnb investors are also starting to sell. And then number four, I actually think the amateur investors who have maybe one to five properties,
+they're actually, I think, holding on a little longer than the other segments, but I think they're starting to break as well. And to illustrate this point, I actually just want to show you another map here.
+And this is a map here of the Dallas, Texas metro area. And we're looking at how much inventory has gone up or down from long term averages for different zip codes.
+And in red, these are areas where inventory has exploded. And in blue, these are areas where inventory has dropped. And what's amazing is that in Dallas and many other cities in America, you have a tale of two housing markets, even five miles away.
+We're here south of Dallas. If you take a look, the inventory has exploded now to double the long term average, while here north of Dallas in a more wealthy suburb, inventory is still 46% below the long term average.
+And I can tell you what is driving these differences are income levels and investor activity. If we switch the map here to median household income, what do you notice?
+It's the inverse. The lower income areas here in Dallas, they're the ones where the inventory has spiked. So to be clear, there is no inventory shortage anymore in these zip codes.
+In fact, it's quite the opposite. Inventory in these areas in red has exploded, while it is still historically low in these wealthier suburbs to the north.
+And this is a trend that's very consistent across most housing markets in America. It's not just Dallas, it's Atlanta, it's Tampa, it's many parts of California like in Los Angeles, lower income investor driven areas, the downturn is happening as we speak.
+Whereas wealthier suburbs with less investors and wealthier homeowners, they're still holding strong, prices are still going up, inventory is still very, very low. So it's a very bifurcated housing market right now.
+So it sounds like what you're saying is the corrections actually underway in part of the market, but if we're still just looking at averages and whatnot, we're missing the whole story because those more resilient markets or more affluent markets or whatever are holding up the averages for now.
+That's correct. That's correct. And I would also say, so it's the more affluent markets that are holding up the averages and then also in general, it's the Northeast and Midwest. So let me just share my screen one more time here so I can show your viewers this.
+And as you're doing that, Nick, I just want to give a strong plug here. You're using your ReVenture app to pull up all this data. So later on in the discussion, I'll give you a chance to just dial folks through the app and really tell them all the cool bells and whistles that it has.
+But this awesome data that we're looking at is coming from the app that Nick himself created.
+Yeah, this is a web application called ReVenture app and anyone can use it. But really what we're looking at now is still that same metric. How much is inventory higher or lower than normal?
+Right. And what do you see? Texas inventory is higher. Florida inventory is higher. Utah inventory is higher. Idaho inventory is higher. But yet in Illinois, inventory is down 47% from the long term norms.
+And it's actually it's getting worse. The inventory situation in Illinois is getting worse. Whereas if you go to Texas, more and more inventory is starting to hit the market.
+And so again, the housing market is also bifurcated in this way. The Northeast, super low inventory price is still going up. Same with many parts of the Midwest. Whereas the pandemic boom areas like Florida, Texas, Utah, Idaho, there's now more inventory than normal.
+There's people selling, the prices are dropping. And so that's the other really regional component to understand in this downturn.
+All right. And when I was talking to folks like notable real estate analyst Ivy Zelman, two years ago, Nick, you were saying the same thing, but Ivy tracks real estate development quite closely.
+And she was saying, look, there are all these projects, developers aren't idiots. You had these inventory shortages in really popular places in what she called mostly the smile states,
+which were mostly the states you just dialed through there. And for years, we're building like crazy. And the warning was, hey, if this market starts cooling,
+right as all those projects that are in the pipeline start hitting the market, you're going to have a flood of inventory right at the wrong time. Could that be a material factor to why those states are seeing this?
+One hundred percent, Adam, I'm glad you brought that up, because if we just go back to this map and we're looking at the inventory differential,
+if we compare this to how many building permits are pulled, you can see it's a high correlation.
+The more building permits there are, which is what we're looking at right now over the last 12 months. Yeah, that's driving the inventory differentials.
+And so I think that's a great point as well. It's not only the investors selling. It's not only kind of just like the maybe the normal correction from the pandemic.
+It's also there's still a huge amount of home building permits in the pipeline in a lot of those pandemic boomtowns that are hitting the market at kind of exactly the wrong time
+with the kind of the inbound movement going down significantly to states like Texas and Florida.
+Okay. Well, let me ask you this. We've kind of been talking about the negative aspects of the housing market right now. Are there any buyers markets right now?
+Like, are there any places where legitimately from a value standpoint, it makes pretty good sense to be buying in those regions right now?
+Or is this sort of a national, like the tide's going to go out and time is on your side here?
+Yeah, great question, Adam. So there are actually states and metros and neighborhoods where home prices are fairly valued or even undervalued compared to their long term historical norms.
+And, you know, just by state, we could see here it's not very many that are undervalued, but you can see actually North Dakota home prices are 3 percent undervalued.
+In Louisiana, home prices are 6 percent undervalued. In a state like Illinois, they're only about 2 percent overvalued.
+And so, you know, the bluer the state or kind of the more translucent, the more fairly valued it is, probably the better time it is to buy.
+Whereas the states in red have prices that are heavily overvalued compared to their long term norms.
+Like here in Georgia, home prices are 30 percent overvalued, typical home price today of three hundred eighteen thousand, fair home value of two hundred fifty thousand based on the historical relationship of home prices to income.
+And so, yeah, there are some states as well as some metros and some zip codes where I think prices are close to fairly valued and might not drop by too much.
+But you've got to be really careful if you're in some of those pandemic boom areas because you could be catching a falling knife over the next one to two years if you buy into those markets.
+Got it. All right. So first off, in determining whether something's fairly valued or not, I'm guessing you put together some sort of algorithm based upon long term equations about what determines home price affordability.
+I imagine a big if not the biggest factor in there is local incomes and what's correct.
+Any other material inputs that are worth noting? Yeah. In terms of that statistic, median household income is the main input.
+We also have some derivative calculations based off rent. Rent is another thing that could influence what the fair value is in a market.
+But historically, income has been the main driver of where home prices go over the long term.
+So if prices go up way above the growth in income, historically, we know that's not a sustainable situation.
+So one of two things needs to happen. Either prices go down or incomes go up or some combination thereof occurs.
+And actually, there's something really interesting, if you just don't mind, Adam, there's something really interesting that occurred back in the 1950s in America.
+And looking at this graph, we're looking at the historical relationship of home prices to income over time.
+And you could see the bubble today. Home prices versus income are at their highest level almost of all time, which is the signal of a bubble.
+4.5x home price to income ratio. Long term average is 3.3. We're going to get back to 3.3 at some point.
+The question is, how do we get back to 3.3? Is it primarily through prices crashing like what happened back in the last bubble?
+Or is it through incomes going up? As you can see here in 1954, the home value to income ratio was 4.9 and that tumbled all the way down to 2.5 by 1974.
+But home prices actually didn't go down. They basically stagnated for 15 years from 1950 all the way to 1970.
+Home prices didn't really grow while incomes grew significantly, which made the housing market more affordable.
+You can get home for your money. Yeah. Exactly. And actually what occurred here in the 50s and 60s, do a video on that.
+The income growth in America during this period was unbelievable. 6%, 7%, 8%, 9% income growth a year.
+And home prices didn't go up for about 10 to 15 years, which made the housing market more affordable.
+And so very clearly, the situation we're in today, it's not sustainable. It's not historically supported.
+There's only been two other times in history where we've seen it and that ratio collapsed down.
+In '06, it was through collapsing prices. In the 1950s and 60s, it was through surging incomes.
+And so if someone is like a real estate investor or a home buyer really trying to understand the market,
+you might want to make your own determination of what you think is more likely.
+Do you think we're on the precipice of a decade of surging incomes in America?
+Or do you think more realistically, prices will just need to correct and we'll see some level of income growth?
+You can make an argument one way or the other on that.
+All right. That's super fascinating. Okay. So to the graph you just showed, which had the percent of over or under affordability,
+how granular does that get in the ReVenture app? If I'm looking to buy a house, how much can I zero that in?
+Can I get it to Citi? Can I actually get it to the neighborhood or at least zip code?
+Yeah, exactly. So this data is available at the zip code level.
+So you could see this data at the zip code level to see how over or undervalued home prices are in every zip code in America, pretty much.
+We're zooming in on the Bay Area here in San Francisco. And you can actually see there's actually, believe it or not,
+I know some viewers are going to laugh here. Some parts of San Francisco are actually shown as undervalued at this point,
+because home prices have actually gone down so much over the last several years that this market is starting to look more attractive to buy,
+which I know for some people is going to sound crazy because downtown San Francisco is a mess.
+But the reason that is, is if you actually look in some of these areas in San Francisco,
+the home prices now are like not even much higher than they were in '07, right, on a nominal basis.
+But the median incomes have grown significantly.
+And so that's why certain markets, predominantly downtown areas in America, like New York, kind of looks similar to this as well.
+You know, certain downtown areas are starting to look undervalued here in blue.
+Manhattan looks similar. And to be clear, this is not saying it's cheap. This is not saying it's affordable.
+This is simply saying that these markets are undervalued compared to how they've historically traded relative to income.
+And so if I had to make a prediction, I would say the first areas to bottom in this housing downturn are going to be those more urban locales
+that got hit during the pandemic. Those will be the first areas to bottom and the first areas to recover.
+Whereas the last areas to bottom are going to be, let's just call it like the wealthy suburb north of Dallas that boomed during the pandemic.
+Got it. So do me a favor, give me a city or two that you're going to be tracking that's currently right now correcting.
+But when it bottoms, you're going to say, "Okay, this is the canary for the upward."
+That's right. Great question. So I'm going to be looking actually at like Manhattan and urban San Francisco.
+I'm going to be looking to see if eventually the prices there start going up. If the prices there start going up, that'll be a signal.
+There's a shift in the market. I'm also going to be looking at Austin, Texas. Home prices in Austin are down almost 20% from peak.
+Austin was kind of the prototype boom town during the pandemic. Prices in Austin are still going down.
+They're still projected to go down on ReVenture app. But if like Austin were to start feeling a recovery at some point,
+that to me would be a signal for a shift in the market. But I still think we have a long ways to go because the affordability metrics,
+even in Austin, just don't make sense. Prices have gone down 18%, but mortgage rates have gone from three and a half to seven.
+So the monthly payment really hasn't improved. And so I think we still have some wood to chop there.
+But if I had to look at some leading indicators, it would be some of those areas for when there's a shift.
+That's a great point. And it really underscores the difference between price and value. You can look at the price and say,
+"Hey, it's gone down 20%. Why not buy?" And the answer could be because the value still isn't there, given the totality of the purchase.
+All right. Well, look, as we start wrapping up here, there were two topics that came up in my discussions there with Todd Sachs.
+And I'd just love to get your feedback on them, Nick. One is some stats that I read recently, just about the age of the US housing fleet.
+That I think it was the median age of a home in America is 40 years. That's not very young. The houses themselves are depreciating wooden boxes.
+And as I talked about earlier, increasingly, a lot of homeowners are putting less and less into maintenance because they just can't afford to.
+It's getting too expensive for them, which means the homes deteriorate even faster or age even faster. It was like 40% of all homes are older than me.
+I'm in my early 50s. And what's interesting is you can think, "Well, that's bad. Homes are getting older. And as they age, the quality of the house is lower."
+But you then marry that to trends in craftsmanship. So as we really got into the several housing development booms we had starting post millennium,
+developers scrambled to build as many houses as quickly and as cheaply as they could. And we've all heard the nightmare stories about Chinese drywall
+and overuse of particle board and inferior materials and things like that. And also just the quality of the general craftsmanship has gone down
+as we've hired less skilled workers to just try to bang out as many homes as possible. And a lot of the people that built the homes from 50 plus years ago,
+they've died off or retired, and we've lost some of that skill set. And if you go into a home that's like 100 years old, you can still see the quality
+that you oftentimes don't see in these newly fabricated homes. So I'm just curious if you've got thoughts on -- we keep talking about price,
+but we don't really ever talk about the condition of the housing fleet.
+Yeah, it's a great question, Adam. I have several thoughts in my head that actually spring up. One is that when I was just actually in upstate New York over the weekend,
+that's where I grew up. And the housing stock there in the Hudson Valley is very old. And I actually went to an open house just for fun, a house that was built in 1870.
+And walking around that house, I mean, it's so obvious. It had like the original flooring. And it's so obvious how well built that house was.
+Like you're walking around in the open house, and you know that you're not hearing yourself downstairs, right?
+Whereas if I were to tour some new build house here in Nashville, where I live now, if you cough, you're going to hear it like three rooms down, right?
+The walls are going to vibrate, yeah.
+Yeah. And so I think where you went with that is interesting. I don't know if the age of the housing stock is as much of a problem as the deteriorating quality of the new builds.
+And it's another thing that has me just a little more bearish on some of those pandemic boomtown areas.
+Because I'm saying to myself, like, they're just throwing up in Texas and in Utah and Florida and Tennessee,
+they're just throwing up these kind of poorly built, in many cases, homes that I'm like, what's the intrinsic value?
+Like, what's like the intrinsic value? It's like that thing is going to need major repairs probably in the next five to 10 years.
+And someone's not going to want to stay in it for that long.
+Whereas if you have a house built in 1870 or 1950 that's beautiful and it's well built, someone's going to want to stay in it.
+And so that's a more qualitative aspect to think about.
+The other thing I'm thinking about from your question is also like what you're really buying when you buy a house is you're buying the land, right?
+Like that's the actual asset is the land. Because as you correctly said, the structure is depreciating asset.
+You're gonna have to put money into it. The land is what appreciates.
+So when you buy real estate, and if you want to buy something with value that's going to grow in the long run,
+you got to focus on what's the intrinsic value of the land where I'm buying, right?
+Is the land replaceable or is it unique?
+And if the land is unique, it's going to have a better chance of appreciating into the long term.
+So that's the other thing I think people should think about is the land.
+You're not just buying the house, you're buying the land and that's the main driver of the investment.
+Right. So let's think about these boomtowns, right? I mean, the land that developers have rushed to build on in the past couple years was oftentimes just sort of scrub land that was out there, right?
+It's not like anybody's going to put an office park there if you decide you don't want it anymore and you're going to sell it to somebody.
+Like there's not a lot of tremendous option value for that land except another homeowner that wants to buy the home that you're living in, right?
+In a lot of cases, this was land that wasn't even farmland or being productively used. It was just good to some of these western towns.
+I mean, in Texas, they can keep building forever because there's a lot of scrub land there.
+You can keep building forever and the one thing I lived in Austin and I lived in Dallas and the one thing that amazed me is how they just also build new epicenters.
+In Austin, they built this area called the Domain 15 miles north, which just became the new epicenter and then less people went downtown and they just keep building out and building out.
+Yeah, so it does cause me the question, what are you actually buying in some of those markets when the builder can just tomorrow next door buy a piece of land from a farmer and throw up the same community?
+I think there's less intrinsic value there. I think, and this is kind of controversial to say because of the mainstream, but I think there's more intrinsic value in California, in New York, I think, as far as those housing markets go as well as Massachusetts than there is in Texas and Tennessee.
+Of course, the shift during the pandemic was away from those markets, but I don't actually think the fundamentals have changed that much.
+If you buy a place in LA or San Francisco, there's no building, you can't build new homes there and if eventually those cities kind of get their ducks in a row, hopefully, in terms of governance, those areas could continue to go up over the long term.
+Of course, they're super expensive, so that's what you got away, but I think more and more I've been thinking about the housing market from an intrinsic value standpoint as well in my analysis.
+All right. Well, I sense that this may be a topic we pick up in your future appearances on this channel. I don't hear other people talking about it and I think it's a really important part of the long-term buying decision.
+All right, so the other issue was you and I, we track employment really closely and I know you track it because of its criticality to home prices.
+I just heard something talking with this guy, Todd Sachs, that I hadn't heard before and I'm curious if you had heard something similar in your travels, where he runs an agency.
+So he talks to realtors and builders all the time and he said he's starting to get calls from contractors who are looking for extra work.
+So it's funny because out in California where I am, first because of the fires which damaged so many homes and then because of the whole pandemic buying spree,
+until recently I think contractors had the best job security of any profession out here. They were just booked out years in advance, but to hear that contractors, that the work is starting to dry up for them to me is a really interesting
+potential leading indicator of where things are going economically because obviously people stop planning the remodel, they stop doing work if they start getting concerned about their own household finances.
+Are you hearing anything similar? I am actually. I'm curious, where is he based? He's based out of Maryland. Because of his show and I think some of his operations, he does talk to people kind of all over the country,
+but let's assume that these are contractors from sort of the mid Atlantic region. So I think you bring up a great point about this being a pivot in the economic cycle.
+On this graph, this is showing the number of single family units actively under construction.
+And so what you can see is we had the peak of the construction boom was in May 2022. 831,000 single family units actively under construction in America.
+That has since gone down and someone actually stabilized a little bit around 680,000. So yes, there's this definite correction. And this was probably a good proxy for how busy contractors are right, less homes actively under construction.
+But what's interesting is kind of how this figure correlates to economic cycles. Like you can see back, this figure previously peaked in February of six, about two years, I guess, one year before the recession officially started about two years before Lehman Brothers.
+You could see back in the 1970s, late 70s, it peaked in 1978. Again, about two years before the first recession, three years before the double dip recession. And so this metric of how busy contractors are building homes does seem to be a leading indicator of the economic cycle.
+And so that will be an interesting one to watch over the next year. We're seeing it already go down. Does that mean sometime in 2024, we'll see a shoe drop on the economy?
+Super interesting. All right, last question on this and then we'll wrap it up. I gave you a list of people who I asked who's feeling the pressure most. We down through a bunch of players there. How about just realtors and other people whose profession depends on the transactions being consummated in the housing market?
+Because of this housing freeze, I got to imagine that there are a lot of people who used to make a pretty good living off of housing transactions have got to be kind of scraping by at this point.
+Yeah, it's a great point, Adam. So I think existing home sales are around 3.8 million on an annualized basis. There's 1.5 million realtors. So right now, the average realtor is selling like 2.4 houses in a year, which I think corresponds to maybe 30 or 40 grand in income.
+How does it compare to say like two or three years ago? Yeah, it's much lower. I'm just going to see if I have the graph for it here. But it's much, much lower. This is a record low in terms of sales per realtor.
+So we're actually, yeah, we're at 2.3, 2.4. The long term average is four sales per realtor per year. Now we're at 2.4. So we're literally down 35%, 40% on sales volume per realtor. And ultimately, that's bad news for them. And what this is causing is lots of realtors quitting.
+So I think the NAR just came out with a report saying the realtor membership is down two to 3% from peak, which is not that much yet. But they acknowledge there's a lagging indicator and the NAR is actually projecting that the number of realtors is going to decline for the next two years.
+That's their current projection. And so to answer your question, yes, realtors and mortgage brokers, they're feeling the pain right now. And I think we're just now starting to see the results of that pain, which are mass quitting among realtors kind of going back to other professions and things like that.
+Yeah, interesting, just because we saw such a huge flight from other professions for folks becoming realtors. Now it seems like that's happening in reverse. Interesting, the NAR is projecting declines, because the NAR, kind of by their very nature, they're about as sort of perennially optimistic in their projections about housing as they can be.
+So the fact that they're predicting a downturn really says something. And by the way, if we've got realtors, mortgage brokers, etc, who are watching this video, if you've got personal experience that validates or contradicts this, please let us know in the comment section below.
+We'd be super interested to hear what you have to say. All right, well, Nick, thanks again so much for coming to the program. It's always great to talk to you and to leverage your extreme dedication to tracking housing.
+You showed us the ReVenture app in action. So that might have been the best way to explain it for folks. But is there anything else about it you want to mention to the audience and tell them where they can go get it?
+I appreciate that, Adam. So yeah, it's www.reventure.app. And you go to the website and just type in your city or type in your zip code, and you will immediately get taken to housing market data for your area. So you can better understand the trends in the market. And in particular, we have free data on home values, as well as inventory levels for every zip code in America, so you can track the trends in the market.
+And if you're someone who wants more granular insight, you can sign up to be a premium member and get statistics like overvaluation rate, as well as the inventory deficit or surplus. And so yeah, head to www.reventure.app to track the housing market data for yourself.
+All right, great. And when I edit this, Nick, I will put up the link there so that folks know exactly where to go. Folks will also put the link down in the description below. And Nick, it's so fun to just see you walk through it in real time the way that you are, because I remember talking to you when you were still in development of it, and it's wonderful to see it out in the wild and doing so great. So anyways, kudos to you for that.
+For folks that have really enjoyed this discussion, and beyond getting the app, would like to follow you and your work, where should they go?
+Sure, the best way to follow me is the ReVenture Consulting YouTube channel. I post a couple videos a week on there tracking the housing market and economy on the ReVenture Consulting YouTube channel.
+Great. Folks, highly recommend that. I'm sure a lot of the viewers here have seen your stuff, but folks, if you haven't, definitely go to the next channel there. All right, Nick, I've got one last question for you. I've recently started asking this of our guests.
+We've been talking about housing, and we're taking a financial and economic look at this whole discussion, talking about prices, value, etc.
+If we could just step back away for a second from the money side of things, what's one non-money related investment that you would encourage folks to consider adopting in their lives?
+It's a great question, Adam. I mean, just from my own personal experience, I always invested in myself. When I left my old career five years ago, I didn't totally know what I was going to do, but I was never shy to take financial chances.
+I think maybe the biggest investment I ever made in myself was draining my savings account the first year after I quit my old job, and that was a pretty big financial investment. And then ever since then, obviously building the YouTube channel and building the app, and so I was never scared to put money on the line to kind of pursue the things I wanted to pursue.
+And in my opinion, that's the ultimate way in the long run to make wealth and make real money is to actually invest in yourself and spend money on yourself in your own career.
+So I think that is totally true. I would also say it correlates just as well with your happiness as well. And I give you a lot of credit and kudos because I followed a similar path as you just much later in my life.
+And I feel that starting Thoughtful Money, this last and hopefully final iteration of my career path, as I look back, I feel like every professional career transition I had, the universe was kind of telling me, I could hear whisper in my ear, "Just go out and do it on your own."
+And I just never was able to really muster the courage. It always just felt too extreme of a leap. I'm probably no surprise to folks because I run a financial channel. I'm fairly risk averse.
+And so I always ended up ending up with a partner or an employer. And it was only at this last stage where I said to the universe, "All right, I'm going to meet you head on here. I'm going to take your advice and do it."
+And obviously couldn't agree more with what you just said there, Nick. Now, obviously, we're not encouraging people to take blind leaps without having done the homework and aligning the chances of success in your favor.
+But at the end of the day, for all types of life success, whether it's business success or whether it's just the happiness of being able to be the captain of your own destiny, betting on yourself, I 100% agree is one of the best investments you can make.
+Yeah, just to add on to that, when I said draining your savings account, obviously, don't do that. Just willy nilly. But I think when you're called to do something, you really feel it like you're saying, got the whisper in your ear, and you're called to do something.
+Sometimes you just got to step up and do it. And that requires a financial investment in yourself.
+All right. Well, it's been wonderful to see the success that you've been having. And I suspect we're still in the early innings of your career here. So anyways, thanks so much for coming on, buddy. Look forward to having you back on the program again later in the year as you start seeing things develop.
+Anytime you're seeing something that's got your attention where you really want to amplify the message of what you're sending out on your own channel, doors open here, come back on anytime.
+Right. Sounds great, Adam. Thanks for having me on. All right. Well, now's the time in the program where we bring in the lead partners from New Harbor Financial. They're one of the endorsed financial advisory firms by Thoughtful Money.
+I'm joined this week, as usual, by John Lodra and Mike Preston. Mike, why don't we start with you? What takeaways did you take from Nick's chart? I'm sure you guys have a lot of people calling you at New Harbor, helping you help them wrestle through decisions about whether to buy or whether to sell housing.
+I think you actually said the other week that this was one of the top topics you were getting. So what did you take away from Nick's commentary?
+Hi, Adam. Thanks. Yeah, I mean, Nick started off by saying that he thought the housing market was 30 to 40% overvalued. In fact, he said it was the biggest bubble of all time.
+We've got to agree it is the biggest bubble of all time. After all, we're living through the everything bubble. And it's frustrating to continue to talk about after all these years.
+I think we've all underestimated just how large this bubble has been. Nick talked about how the government pulled out all stops, particularly past COVID.
+They banned foreclosures. They threw money into the system, over $7 trillion in the last few years. And that's only icing on the cake after 10 years of quantitative easing.
+So the markets haven't been allowed to be markets for quite a long time, and that includes the housing market.
+So absolutely, it's the largest bubble we've ever seen. And the hard part has been predicting when it turns and the inflection points are the most dangerous times of all.
+But trying to call that top has been incredibly hard and incredibly frustrating.
+And we've got a lot of clients, a lot of prospects that we talk to that or just people that want to chat with us because we talk to all kinds of people.
+And a few of them become clients and we're very grateful for that. But a lot of people that we talk to, we're just chatting, chatting to them about their psychology, about their frustrations, that kind of thing.
+And there's a lot of frustration in the topic of when to buy a house. A lot of people feel locked out.
+I believe even you've talked about that topic yourself personally in recent years. So it feels really frustrating and it goes on year after year after year after year.
+But I personally don't think the market's going to drop until the stock market drops. They're one in the same.
+You know, this is the everything bubble and maybe even the stock market will drop first and the housing market will follow.
+Or maybe it'll be the other way around. Normally it's the stock market first.
+But Nick talked about some signs that he thinks leads him to believe that we're starting to see a turn.
+He showed that foreclosure rate that was down near zero percent. I forget what it was. Maybe it was Los Angeles County. It was zero.
+And some of the other ones were less than one percent, but they just started to hook up. We're just starting to see them hook up.
+And so maybe that's an early sign of something. Maybe it isn't. You know, the problem is prices.
+As he said, the problem is prices and buyers have started. Buyers have gotten discouraged. They've stopped looking.
+But sellers refuse to drop their prices. They're disconnected from reality. But what he did talk about here, a few things that have changed early 2024.
+There's more first for selling early 2024. That's the hookup that I just mentioned.
+And foreclosures and buyers are just completely discouraged and they're dropping out at the same time. There's four different groups.
+I think he mentioned that are feeling some some pressure to sell professional investors, Airbnb owners,
+amateur investors and individuals in the lower income brackets are getting squeezed more than the wealthy people.
+So these things are for the first time in a long time starting to be signs, at least in Nick's view, that a turn may be close.
+So just two more things I'd like to say, then I'll pause. On the stock market, I strongly believe, like I said, that this is that the housing market won't drop until the stock market drops.
+We're seeing a blow off top in the stock market. We're seeing all kinds of signs.
+Nvidia is one of them just reported tonight, looks to be printing close to an all time high in the aftermarket.
+It is the poster child of the bubble. Used to be Tesla. Tesla rolled over a year or two ago and we just kind of kept rolling through the fabulous seven.
+And now it's the fabulous four or five. And it's all of the rage, the AI stocks. This stock market, I believe, is very close.
+You know, maybe within months or a couple of quarters of putting at a top, we did recently make an all time high in the S&P above 5000.
+It seems to me that maybe we're going to get a little bit more of a blow off top, maybe even even goes vertical over a short period of months.
+One thing that leads me to believe that is the lack of FOMO or fear of missing out.
+There's not the same frustration there in the stock market and people that we're talking to as the frustration.
+I think that they're feeling in the housing market. So maybe the market, the stock market has to have one more vertical move and then it rolls over and crashes.
+All bubbles end in crashes. This one, I don't think is going to be an exception. Nobody can time it.
+But when it happens, housing prices will come down, too. And since Nick says that 30 to 40 percent overvalued.
+You know, that's that means we're going to see a drop. We're going to see a drop. 20, 30, 40 percent.
+If you think about it, we had a bubble or a blow off top bubble in the housing market of 20 percent in one year, the year after COVID.
+And all blow off finales end up getting reversed. So and usually a short order.
+So I wouldn't I'd expect a 20 percent drop in housing, 30 percent drop in housing based on everything we just said.
+And it should coincide with or maybe be right after the stock market drop.
+And last thing I'd say is that I learned something new from Nick here.
+I learned a few new things, but I really honed in on what he said about focus on the land.
+The intrinsic value of property is the land, kind of like the dividend in a stock.
+If you look at the dividend model for valuing stocks, the real value is in the net present value of all the future cash flows.
+And thinking about land that way makes sense. So I think that some people, even if you're frustrated, can can buy in certain markets.
+Timing is really hard, particularly now, but you could buy in certain markets if you focus on the uniqueness of the land.
+And if you buy small, you obviously avoid the big luxury houses that people are that wealthy people are buying.
+So with that, I'll take a pause. Thanks. Great points, Mike.
+You know, one thing that that that you commented on that I just think was I want to make sure people take away from what Nick was saying when you talk about foreclosures is history shows when we fall into a housing correction.
+It's one of those things that that happens quite quickly, at least in terms of the explosion and the foreclosure rate.
+So a lot of times people think, oh, I'm going to see warning signs before things get really bad, and I'll be able to take action as a result.
+Maybe, but maybe not. And the foreclosures start spiking really extremely as Nick showed. So I would say, keep your eyes on the foreclosure rate, folks, because if you start seeing it spike up,
+that is probably a good indicator that lower prices lie ahead. Same thing with unemployment. It's one of those things that just doesn't move very much at all until it does.
+So when we fall into recession, you go from having historically very little employment to just over a couple of quarters, it can skyrocket.
+So again, just be prepared that if we do get into a down cycle shift here, it's one of those things that you're not necessarily going to see coming from a mile away.
+It might be something that everything looks fine one day, and then the next month or so it's a totally different world.
+All right, John, anything you'd like to add to what Mike's takeaways were?
+Yeah, thank you, Adam. That was a great talk by Nick. Really appreciate his comments and what a cool web application he's developed there.
+I'd like to do some playing around with that myself. We spend a lot of time talking to our clients about all aspects of their financial lives.
+And for most clients and prospective clients, their residence, the place they call home is one of the most important things to them.
+And rightfully, they view it as more than a big, costly thing. It's a place that creates a sense of safety perhaps, memories, a place maybe they raise families.
+So it's a really important part and it's a very emotional part for our clients.
+So what's going on in the housing market really hits home, excuse the pun, and Nick made the point that he thinks the issue of the housing market right now is not about mortgage rates but about prices and the stuckedness, if I can use that word, between buyers and sellers.
+And the point I would like to make is what got us here absolutely had to do with interest rates, even though it's maybe not the factor now.
+And I'd like to just share a chart here to kind of illuminate that. This is right off of the Federal Reserve website.
+And basically, and I'll make this a little bigger here, this shows back to the '70s, the 30-year mortgage interest rate and the median sales price of houses.
+Basically, in the wake of the great financial crisis, the Fed through QE and all the novel things they unleashed there dramatically lowered interest rates like had never been done before.
+And of course, one of the main drivers of 30-year Treasury bonds or 30-year Treasury rates are what happens to Treasury bonds, government bonds across the world, especially the U.S. Treasury bond.
+And bear in mind, this is all through QE where the interest rate was absolutely artificially pushed down by the Fed, printing money and using that to buy bonds in the open market.
+Bear in mind, there's parts in this episode here where something like $20 or $30 trillion of global sovereign debt was yielding negative interest rates.
+So absolutely, that had an effect on lowering the price of a home by lowering the cost of a mortgage. And look at what we got.
+We got a massive run-up in prices. Mike just alluded to the spike in the wake of COVID. Look what happened to interest rates in the wake of COVID here.
+And look what happened to prices. So here we are on this metric, and this is through the end of last year, I believe, average price above 400 grand.
+A 20% drop would bring us back down. That's a layup in our opinion. Who knows if we'll get back down to prices proceeding where the bubble of the housing bubble is here.
+But absolutely, interest rates played a dramatic role in bidding the prices up for all assets, including homes.
+One thing I wanted to kind of comment, Nick talked about and he showed the data to show that it's a very local phenomenon, what's going on with housing, not just different states, but even neighborhoods within five miles of each other.
+And he pointed to typically lower income, inner city type of neighborhoods showing the most pronounced weakness.
+And there's a tragic human story to that, of course, perhaps the segment of our population that's been left out from this massive inflation in assets at the hands of monetary policies.
+But it also speaks to most crises usually happen from the periphery.
+I think if you look at the housing crisis in '08, '09, likewise, it happened first among low income folks who were able to buy homes, maybe with no dock mortgages and things like that.
+So I think it does speak to possible contagion that flows through, especially if we get an economic slowdown that starts to press the hand of some owners that have the luxury of not being for sellers but may become for sellers.
+So we're in a big bubble of massive sorts, not just the stock market, but also the housing market, and it's going to take some time to unfold, and they always do, but the timing is imprecise.
+So John, let me ask you about that then. So for a lot of Americans, I don't know how representative this is of your clientele at New Harbor, but for a lot of Americans, they consider their home to be one of, if not the largest component of their net worth.
+And I imagine it's got to be challenging to listen to a conversation like Nick and I just had, and if you're really counting on your current home equity, like let's say you're a senior and you're really planning on tapping that home equity either through a sale or reverse mortgage or whatever,
+if refi has ever come back into the, home equity loans ever come back into the picture. I can imagine you get to start being a little bit nervous. Oh my gosh, like for all the reasons you just mentioned, if home price is correct really materially here,
+it's going to really impact my net worth. Can you just talk to that for a moment? Are you having conversations with people about that? How do you take someone's home equity into their net worth calculation with the current concerns you have about nosebleed valuations today?
+We talk about it all the time, Adam, and it's a really tricky situation because understandably, many folks don't want to sell a house that perhaps has a very low cost mortgage attached to it.
+Even the idea of downsizing, this idea of downsizing, it's almost hard to do because even more modest homes are very richly priced, so the idea of downsizing is not the slam dunk that it perhaps was in a more normal housing market.
+It is a real point of stickiness for our clients. We always try to emphasize, obviously, a house is not just an asset that you can kind of flip. There are real emotions tied to it. There's memories, I can think of my childhood in a small ranch with my four siblings.
+It was a small house, we were cramped, but it was a place that I found safety in. I remember a whole lot of love there. For some people, a house can be a source of pain, painful memories. I realize that too.
+But it's not just as simple as a financial decision. There are so many emotions tied into it, and just it's unfortunate that the backdrop here has made it such an agonizing financial decision because it's not a clear cut thing.
+We try to emphasize in those conversations, certainly one's life situation and life path might allow for a sale or not. Maybe someone needs to be near an aging parent, for example. They might want to sell, but they can't because they need to be near someone.
+There's things like that that complicate the decision. But in these times, we think emphasizing the flexibility is really important. The idea, for example, of selling and renting for some time. We're big fans of that.
+Under the idea that by renting, even though rents may be pretty steep, you don't need to rent forever, hopefully, but it builds in this optionality aspect that there's value in flexibility and being able to not only pick your time when to repurchase, but also your location.
+For many people looking to make a move like this, especially in these markets, make a housing sale or purchase decision every couple of years. Maybe in the heydays of the rising housing market, that could be done because there's always going to be some ability to sell your house for more than you bought it.
+But those days we think are behind us. It is a very common thing that we talk to clients about. I've got young sons in their 20s. One of them was probably closer to the idea of hey, I want to start to think about someday buying something.
+We have those conversations at home, and my comments to them, as we as a firm, is just be patient. We have no doubt that there will be some reconciliation of what is otherwise a very bubble-like market. We can't say exactly how far things will drop, but we have very strong confidence they will, and there will be an increase in affordability. There has to be.
+Okay. Well, thanks for sharing all that, and the point I'm hoping to get across to folks here is I think when people think about their relationship with their financial advisor, that it's around financial assets, and okay, if I want to talk about how much to put in my retirement fund or whatever,
+I'll give my financial advisor a call, but they don't necessarily think about, hey, these issues I'm wrestling with about my house. Should I buy it? Should I sell it? Should I go rent? Legacy issues about how I might want to pass it on to my kids. It's part of my estate or whatnot.
+All these things, financial advisors, they're your financial quarterback. This is a big part of your financial life, and this area is fair territory for the type of counsel you go to your financial advisor for. You're nodding as I'm saying all this, John.
+Absolutely, Adam. We talk about all kinds of stuff. Had a conversation today with some dear clients of ours about the possibility of a new business venture, and we talked about the pros and cons of different business structures, different softer aspects about what it means to have a business partnership.
+It's one thing to have legal documents, but making sure that the partners are aligned from an expectations standpoint right up front is really important. We talk about all kinds of stuff because ultimately they have dramatic influences on their overall financial health and security.
+All right, great. Mike, I think it looked like you had something to add.
+No, I was just going to chime in because it seemed like John was on mute. I was just going to say we have those conversations all the time. The conversations are very personal. I think we've got a unique perspective on the 360-degree view of their financial life.
+I've got to say sometimes it gets emotional and psychological as well. They're often one and the same, and I think we're uniquely experienced in that, and we're happy to help.
+All right, great. Well, look, as we wrap up here, folks, John and Mike, anything about what's going on in the market this week you think is relevant to share with folks? I know, Mike, I think it was you who said earlier that on the day we're talking here after hours,
+Nvidia pleased the markets and the after markets with their earnings report and the stock has jumped back up near its all-time highs. So the melt up that's being driven by the magnificent seven or the magnificent four or five at this point seems like it still lives
+for at least another week, and who knows how much longer. So are we still in the middle of a melt up here? Because there had been some skepticism going into this week. Nvidia got sold off a fair amount in the 48 hours before they gave their earnings call.
+It almost looks like the market is kind of looking for a reason to take a pause, but it saw something today that got the FOMO restoked. Is that caution we saw earlier this week maybe a sign that the market is maybe beginning to realize that things have gotten a little too crazy?
+Things have gotten really crazy lately. There's been some, some certain stocks out there that have gone absolutely vertical. Nvidia is one of them, but there's some, some other related stocks that have gone even more vertical like Smart Microcomputer, SMCI went vertical.
+It's been crashing the last couple of days, but bouncing at the after hours. Nvidia reported after hours and it looks to be printing right near an all-time high.
+So the S&P 500 is, it was since early last week, it's been trying to pull back. It's only been down about 2%. Some of the growth stocks have pulled back more, but there really hasn't been any sell signals.
+And we'd be the first to say, as we have been for years, that this market is by all measures, hideously overvalued. And it has been for a long time. This is the massive bubble we're living through.
+Nobody knows when it's going to end. I've got no doubt that even if we go higher from here, we're going to trade a lot lower than where we are today, perhaps 50% or more below where we are today, even if we go higher.
+And as we sit today, we're at 5,000 on the S&P. In fact, it wouldn't surprise me to see us retest the COVID lows. And that was in the low 2000. However, nobody can predict it. And we also can't predict just how high this market's going to go.
+So the market pulled back a couple percent, in a very measured manner. The growth stocks pulled back more. We had Palo Alto Networks, Crater, 30%. I think it was 30% today. It was the biggest drop in the firm's history.
+And that's because they guided weak on sales, even though the earnings blew the numbers out the window, the earnings were very strong.
+So yeah, there's been pockets of weakness. And so the market pulled back, but then Nvidia comes out and it's popped after hours.
+And so we could very well see some follow through because this market is only 1%, 2% off its all time high on the S&P.
+I wouldn't be surprised to see us go a little bit more vertical here. As I said before, we haven't had this FOMO.
+And it's hard for me to believe at this point that we're not going to see that come back to put maybe a cherry on top or to dot the I and across the T.
+I wouldn't be trading based on those beliefs or what I just said, because I think this is a crash prone market.
+But I do think that we're close to whatever is going to define this top. I think it's within months.
+I think it could be before the election. It's risky to predict that, but that's what the tea leaves tell us.
+And cycles tell us and history tells us that all bubbles burst. This one will, too.
+All right. And I just want to pull up a photo here in just a quick second.
+But what you're underscoring, and certainly by talking about Palo Alto networks there, is the more extremely stretched markets get,
+the more swift and rapid and violent the mean reversion is or the correction is.
+And so when stocks get heavily overbid, they can lose 30% of their value in one day.
+Just like you said, Palo Alto networks did. And because the market is so increasingly concentrated here,
+we've been worrying about this for a long while now that most of the market performance has been driven by a very small number of stocks,
+mostly these magnificent seven we're talking about. And we're kind of laughing that that's getting winnowed down to an even smaller magnificent number.
+It raises the spectrum. Well, what happens if those few stocks disappoint? You're not just going to have a violent reaction in those stocks themselves.
+You're going to have a violent reaction across the entire market because of how over-owned those stocks are across all the different ETFs
+and other instruments that are out there. So I just want to pull up this meme from Twitter that I posted the other day,
+which shows the global stock markets basically being held up by Nvidia earnings, and this is an elephant for those that are listening on the podcast.
+He's basically doing a handstand on a beach ball. So you can see that the huge mass of the elephant is supported by the small beach ball.
+But then you see beneath the beach ball, these two ants are holding up the beach ball itself, and that's labeled "AI demand."
+And it's just a great representation about how the entire market here is basically hinging on just a couple of stocks on the hype of those couple of
+stocks. And so if the hype begins to fade, or if those stocks begin to stumble in terms of their guidance, it takes potentially everything down with it.
+So you guys have both been nodding on this, but John, I'll let you comment and then we'll wrap things up.
+Yeah, very much. Nvidia and stocks like that resemble things like Cisco in the tech internet bubble of 2000.
+That stock dropped 90% in a year or something like that, and this is a company that still today is a growing company.
+Revenues have grown consistently more or less over the whole time, yet the stock is still substantially below where it was at the peak in 2000.
+So great companies can be bad investments if they're overpriced.
+And one thing we've talked a lot about how narrow this market has been over the last year or plus in these very mega cap tech stops.
+But please understand that doesn't mean the rest of the market is undervalued or even fairly value.
+You look across the whole range of price to sales metrics across the range of the market.
+And even in the lower rungs of the market, we're still very overvalued relative to that cohort's long term history.
+So it's not just a narrow overvaluation. It's a broad overvaluation.
+And when these things start to falter, typically the repricing reverberates through the market, and that's what we expect will ultimately happen.
+All right. Great reminder. Just because you mentioned price to sales, I'm going to mention this really briefly, which we talked about before we turned the camera on.
+We were reflecting back at the dot com bubble and Scott McNeely's famous tirade to his own investors about why are you guys willing to pay 10 times sales for my company Sun Microsystems?
+He said, basically, that means that for the next 10 years, I have to give you every dollar of revenue that I earn for you to get a return on your investment.
+I can't have any costs as a company. You just have to get 100 percent of the gross revenues.
+Obviously that's not going to happen. It can't possibly happen. You look at a company like Nvidia, it's right now trading at 40 times sales.
+So whatever is better than perfect fantasy, that seems to be what at least the highest flyers are priced at.
+But you're saying, John, look, it's not just the sins of a few companies, even the S&P 497, which are getting left in the dust by the Magnificent Seven, even they are still richly valued.
+Well, look, gentlemen, thanks so much. I'm going to give you the last word, Mike. Before I do, though, just some quick housekeeping for folks.
+One, if you'd like to see Nick Jerley come back on the program again soon, I also have some other housing analysts that you haven't heard from yet that I've got on the tarmac as well.
+So if you'd like to have more housing commentary on Thoughtful Money, please vote your support for that by hitting the like button, then clicking on the red subscribe button below,
+as well as that little bell icon right next to it. Remember that we are getting closer and closer to the wonderful Spring Thoughtful Money conference on Saturday, March 16th.
+By the time this video airs, our lowest early bird price will be expiring, I think, within less than a week.
+So if you're excited about the conference, and by the way, if you can't watch live on Saturday the 16th, we know that life intervenes, especially on the weekends.
+Don't worry, because everybody who signs up for the conference is going to get set replay videos of the event within 24 hours or less of its end.
+And that'll be all the presentations as well as all the live Q&A sessions.
+So anyways, if you want to lock in that low early bird price discount before it expires, please go do that now.
+And a reminder that if you're also a premium subscriber to our sub stack, you get an additional $50 off the price of the conference.
+And as I like to remind folks, it only costs 15 bucks a month to sign up for the sub stack.
+I'm totally happy if you want to game the system and just sign up for a month, pay 15 bucks, save $50, pocket the $35 for yourself, I want you to get the lowest price.
+And as we wrap up here, as I talked a lot about with Nick, and then very much here with Mike and John,
+these are super challenging markets for regular people to figure out, especially if you have a real life family work you got to go to and focus on that.
+So that's why I highly recommend that most people work under the guidance of a good professional financial advisor.
+Again, not just for the stocks and bonds side of their lives, but also for the decisions around your housing.
+It's a massive life decision that a lot of people feel very underprepared for.
+So if you've got a good financial advisor who's being your quarterback through all that,
+and they understand and take into account all the issues that we talked about here with the experts on financial money, great, continue to work with them.
+But if you don't have one, or you'd like in a second opinion from one who does, maybe even John and Mike and their team there at New Harbor,
+we'll just go fill out the short form at ThoughtfulMoney.com, set up a free consultation with these guys.
+It doesn't cost you anything, there's no commitment to work with them. It's just a free public service where they'll sit down,
+they'll learn your personal financial situation, they'll give you their best attempts at what their recommendations are for what they think you should do.
+You can take that advice, you can do it yourself. If you're a big DIY person, you can bring it to your existing financial advisor and say,
+"Hey, let's sit down and talk about doing this." Or if you like the guys, you can continue talking with them.
+But anyways, they just do it as a free public service to help as many people as possible, positioned as prudently as possible for today,
+for what may be coming tomorrow. Okay, Mike, as promised, I'll let you have the last word here.
+Yeah, as I said before, I think the markets might get crazier over the next couple of months. They may even flare higher here. Don't take the bait.
+Don't be one of the ones that jumps in with FOMO. If you have too many stocks, and to us that would be over about 30%, 40% max, I'd say 30% stocks.
+If you've got too many, sell down. Sell down those stocks. Treasury bills are still earning over 5% out to basically almost a year.
+Six-month Treasury bills are 5-2 or 5-3. So it's a pretty good return, completely risk-free. Enjoy the summer. Take a look in the fall.
+Don't jump into the market. And if you have too much, reduce. Also, gold is still sitting right around $2,000.
+$2,000 looks like $20 an ounce here. We think when it breaks the range of the upside, which has been frustratingly slow,
+putting us to sleep, that when it does break that, we're going to go higher. When it breaks $2,100, it should go up towards $2,500, maybe by the end of the year.
+So if you don't have gold, get up to 10% of your portfolio in gold. Sell down your stocks. Sit in T-bills. Talk to us. We're happy to have a chat.
+Guide you through it. Help you handle the emotional part of it, too. So thanks, Adam, and I appreciate the opportunity to talk.
+All right, gents, thanks for hanging with me for yet another week. I look forward to seeing you guys next week and making sense of whatever
+happens between now and then. For folks, everybody else, thanks so much for watching.
+See you soon, Adam. Thanks.
+Bye for now, Adam.

@@ -1,0 +1,602 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. Inflation's been called
+the invisible tax. Economist John Maynard Keynes wrote that through it, "Governments can
+confiscate secretly and unobserved an important part of the wealth of their citizens in a process
+that engages all the hidden forces of economic law on the side of destruction and does it in a manner
+which not one man in a million is able to diagnose." Which is why it's very important to know what's
+happening with inflation and where it's headed, but should we rely on governments reported numbers
+as distorted as they are by fudge factors like hedonics and substitution and possible manipulation
+for political optics? No, says today's guest, Oliver Rust, co-founder of Trueflation, a new
+blockchain-based real-time inflation calculation service that uses over 10 million data points to
+yield a more accurate measurement that represents what households actually experience. We'll find
+out what he thinks the true inflation rate is and where he sees it heading next. Oliver, thanks so
+much for joining us today. Thanks a lot for having me on. I appreciate that and just so folks know you
+were staying up late on the other side of the planet to have this conversation. I really appreciate
+you doing that. Oliver, I've been looking forward to having you on for a good while. I've mentioned
+Trueflation a number of times on this program, as do people in the comments section pretty
+frequently. I think it was first put on my radar by Danielle DiMartino Booth who's a big fan of your
+work. I've got a number of questions here for you. Real quick before we dive in, I just want to let folks
+know this video is launching on releasing on a Thursday. Folks, if you are interested in attending
+the Thoughtful Money Online Conference on Saturday, March 16th, just a reminder that the
+early bird price discount that's the lowest price we're offering expires at midnight on Friday, so I
+just want to make sure folks are real clear on that. If you want to lock in that discount, maybe
+just pause this video, go register now to make sure you get that lowest price. I want you to get that
+lowest price. To do that, just go to ThoughtfulMoney.com/Conference and a reminder that if
+you're a premium subscriber to our sub stack you get an additional $50 off of the conference
+with the savings code that's been emailed to all of the premium subscribers there. If you're not
+already a premium subscriber you can scramble and sign up for that over at our sub stack. I'll put
+the link to it here, adamtaggett.substack.com and I don't mind if you game the system. It only
+costs 15 bucks a month. You can sign up just for a month, pay the $15, save the larger $50,
+pocket the $35. I'm happy if you do that. I want you to get the lowest price.
+Alright, Oliver, lots of questions here for you all zeroed in on inflation. Before we start
+though if I can just ask you a more general question, what's your current assessment of the
+global economy?
+Yeah, look I think the US obviously unexpectedly posted some really strong economic growth in
+quarter four. I think Europe struggled a bit and is starting to see some light at the end of the
+tunnel to a certain degree. I think you've got situations in Asia Pacific that aren't as rosy
+and it's predominantly driven by the Chinese economy and the Japanese economy. The bright
+light, the bright star so to speak that's shining from an economic standpoint is definitely the US.
+Alright, definitely the US. Now some folks are wondering if the
+economy is chugging along so strongly in the US and we're seeing things like wage growth that
+continue to contribute to inflation and the Fed is now talking about rate cuts this year. Could
+we see some sort of resurgence of inflation here in the US as a result of all that? We'll get to
+that in just a minute. Before we do though, let's just explain for folks, let folks
+understand why you founded trueflation in the first place. As I said in the intro, I believe
+that you believe it is a more accurate measurement of inflation. What prompted you to say, "Hey, the
+world needs a better measurement"? Yeah, so I think we were looking at an inflation
+measurement as a whole and we were looking through trying to create inflationary protected products,
+so if people were going to create inflationary protected products, what sort of
+inflationary measurement was out there? Our viewpoint is that our objective is to launch a
+measurement tool that is the most comprehensive inflation measurement tool out there. We're not
+here to replace or find an alternative measurement for inflation as for the BLS or for
+that matter the PCE price index or other forms of prices like the producers price index and
+so forth, but our objective is to provide the most comprehensive inflation measurement and in part,
+we believe that the systems that are being used today to report inflation have been set up
+a long time ago. In fact, the CPI measure was set up pre-First World War and it hasn't really
+evolved in the way it's done today and so for that purpose, whether it's the number of items it's
+tracking, it tracks about 80,000 items, the method it uses, it uses a price check and it uses a
+survey-based approach and they all got inherent issues and our viewpoint is we wanted to create a
+more updated measurement so we want to make sure it's updated daily rather than monthly.
+We wanted to have a much more volumetric data set so you're talking about in the intro about having
+more than 10 million items. We're now up to about more than 14 million items that we track on a
+daily basis and we also don't want to rely on one data source so we rely on a minimum of three data
+sources before we release an index out there. Today we're operating with more than 40 different
+data partners to be able to produce this measurement tool for the market.
+All right, great. So when you say at least three data sources, if you're saying
+someone's buying a box of Cheerios, you get three different prices from three different sources for
+a box of Cheerios and I guess average it? Yeah, so especially in the food category in
+particular, we use a data aggregator which is Nielsen. We have another data aggregator
+called Decca which looks after loyalty card data. We also have data directly from retailers like
+Amazon, Walmart, and so forth. So if you're looking at that volume of data that we're dealing with,
+we have multiple different price points as you say for a box of Cheerios and that gives us a
+pretty good understanding of how price is moving and not only how price is moving, it's also
+how factors like discounting or promotions are affecting consumer switching behavior because
+consumers, we've noticed very clearly consumers have substituted products of higher price points
+into lower price points products and whether they've forgiven on the volume that they're
+purchasing or they're just substituting it for a lower price point product, both of those situations
+are happening and that's causing a different variation. So we need to make sure that we track
+multiple different price points to be able to have the most accurate measurement in the marketplace.
+Okay, interesting. And I'm just trying to understand how your service differs from the
+official government data like the BLS. So is yours, and I don't mean this in any negative way,
+but is it simply a brute force approach that says we're just looking at what people are paying
+for all these different products using all these different sources and that's just the number
+versus the government numbers, like I said, they have things like hedonics that try to say,
+"Well, because the TV got cheaper, it's actually a better value and we're going to massage the
+numbers this way to compensate for it," and what they do is substitution. There's sort of
+estimations that go on in there that aren't necessarily true compared to what people are
+paying at the counter. Is yours much more just a reflection of like, "Hey, this is just what we're
+seeing people pay across this much bigger universe"? Yeah, that's correct. We want to reflect
+what consumers are experiencing from their price points and how it's affecting themselves
+across a multitude of categories. And given the volume of data that we deal with,
+we don't need to add additional calculations in the system like a substitution calculation
+or hedonics calculation for quality adjustments. We don't need to have that factor because we're
+seeing how consumers are spending on individual products because of the volume of data that we're
+dealing with. If you take, for example, the BLS, they have an 80,000 price point they check out.
+They have a 6,000 survey for household rent information and all that gives us that 80,000
+price point. How much that 80,000 items that they're checking are in food, are in apparel,
+are in electronics. We're not 100% sure how many price points they're checking in each of those
+scenarios, but you get an idea and say in food, even if it is 50,000 items, we're dealing,
+in food alone, we're dealing with 8 million items of price points. That volume allows us to create
+a much more comprehensive measurement of how consumers are adapting to the price changes
+in the marketplace. All right. How has your calculated number compared to CPI? Have they
+been largely in agreement? Have they been wildly different? Do they align at certain times and
+diverge at others? Yeah. Interesting question. Let me say that first of all, our objective
+to inflation is not to replace the BLS. Our objective is to provide an alternative view
+of how inflation is moving in the marketplace. That alternative view is, as we discussed,
+there's a combination of looking at these 14 million different data points, 40 different
+data sources and being updated daily. Now, in turn, a lot of our customers are saying, "Okay,
+well, how do I use this?" One of the applications is, how do I use this to forecast what the BLS is
+doing? In that, we are seeing our trend line, if you compare directly with our late data with the
+BLS, we're seeing that we have different numbers. In the earlier part of the year, we were earlier
+part of the inflationary rise back in 2020, we were probably ahead of the curve. In other words,
+we were reporting a higher number than the BLS, and now we're reporting a lower number than the
+BLS. I think if you look at how do we compare then the individual categories to the BLS,
+it's in part because the BLS is lagging the true inflation data in certain categories to
+quite an extent. In the smaller lagged categories like food and apparel, where the frequency of
+purchases is a lot higher, the BLS is having a lower lag compared to where true inflation is.
+If it's in the longer purchase intervals, let's say like housing, which is the most extreme,
+we have a seven-month lag. We tend to look at it and say, "Well, the data that true inflation is
+reporting is potentially a leading indicator of where the BLS goes." What we tend to do is,
+for those customers who want to compare exactly how our data is translating back to the BLS,
+we then take all our data sets and we align it back into the BLS categories and apply
+their weighting onto our data that is categorized according to the BLS categories. We get a pretty
+dang good correlation with what the BLS is. In fact, you'll probably see Danielle Martini-Booth,
+she had a correlation of 0.97%, so it's pretty much spot on if we start comparing the two data
+sets. That's only after we have merged our data back into the BLS data and their weighting factors.
+If you look at a straight comparison of our data versus theirs, yes, we are generally higher than
+they were and now we're becoming lower than they are. Okay, and it sounds like that difference that
+you see is maybe more a time shift where you're saying that they have more lagging data in there,
+so when you guys diverge, they generally catch up to you over time? That's correct. We tend to see
+it catching up or when it stabilizes, I'd say more of an equilibrium coming into play, but yes,
+there is a delay in the data sets they have and that's in particular being driven by the housing
+category. That's the one category that causes a lot of discrepancies and that's in part because
+the BLS decides to take a rented data survey, household consumer survey, to determine what
+people are paying for their rent and then apply that same survey result onto the people that own
+their property. I think we look at that owned part considerably differently, where we look at
+property values, we look at mortgages, outstanding mortgages, we look at the interest rates people
+are paying on those mortgages and that changes literally how much people need to spend. I think
+that's a pretty different way of looking at this because not everyone owns their mortgage,
+not everyone is paying a five percent mortgage, some people are paying two percent interest on
+their mortgage, some people don't have a mortgage left on their properties and you can't
+attribute that same phenomenon to everybody. Yeah, a couple questions that I should have asked
+earlier. In your 14 million items, factors that you're gathering data on, I imagine
+goods, good information on goods, probably pretty easy to get a hold of. I assume you also are
+measuring services as well, price of services? That's correct. Okay. In at least the government
+data here, and housing's kind of a big part of this, but it's services where the inflation still
+seems to be quote unquote sticky. Are you guys seeing the same thing or as you said, your
+true inflation rate is lower, maybe services inflation actually is lower and it's just because
+the VLS is looking at lagging indicators it hasn't cut up yet? No, but it is right. Yes, our number is
+lower but the cause of the stickiness of inflation is the services element. That is partly, as you
+pointed out earlier, is driven by the tight labor market. Whether that's wage inflation, whether
+that's unemployment rate, I'm of the opinion that the reason why the unemployment rate is so low
+is more driven by people needing to find two jobs rather than one. That combined with
+wages increasing, in part because unionized labors renegotiating their contracts
+is fueling an increase in those numbers. I think the services element in particular,
+if you look at healthcare, you look at other services that are involved around household care,
+you look at household securities, you look at operational aspects, you look at food services,
+these elements are seeing a significant increase and even yesterday you saw Domino's Pizzas,
+yesterday before, Domino's Pizzas announced they're increasing their prices at the stores
+as well and we're going to see more and more of these activities coming out because the cost of
+labor is increasing. Okay, so I guess first off, where are we on inflation? What is true
+inflation's latest reading?
+As of today, it is on the 28th of February, it is at 1.87%. It is beneath that 2%
+target. We have seen inflation numbers drop in the month of January and quite considerably
+due to the post festive blues, so to speak, of November and December and the holiday season
+where retailers, in particular retailers, have been looking to reduce the inventory levels so
+that an increased number of promotional activities, discounting and so forth has been very prevalent.
+That's also followed through in the retail sales numbers that were released in January by
+the Census Department and so we're seeing those trends coming through in our data but now we're
+starting to see prices creep up again because those discounting elements are coming out and
+prices are increasing again and that's certainly what we had forecasted and what we're expecting
+given historical trends and historical behaviors and in the marketplace that we're living in and
+the conditions that we're in, in other words, high labor costs driving services up and the price of
+goods and retailers as they reduce their inventory levels and they get rid of the
+old stock and they put in the new stock and especially in apparel but also in food and other
+categories, that number is going to be slowly coming up and that's what we're seeing.
+Maybe you've already just answered this but let me see if I can jump to the punchline here on
+inflation which is 1.87, I think is what you said. So that's below the Fed's objective. So
+if we were using true inflation as the meter, the Fed could say, "Hey, mission accomplished, right?
+We're done." And while there are a lot of people warning that inflation
+might prove stickier to tame and again if the Fed pivots too soon and inflation isn't fully
+out of the system and there's all this deficit spending going on and there are these continued
+wage renegotiations by the unions and whatnot, there are people out there saying, "Hey,
+maybe the inflation fight's not over and we got to be really vigilant." There are other people who
+come on this channel and say, "Look, we still haven't felt the full force of all the lag effects
+from all the rate hikes that have gone on and the quantitative tightening and those are going
+to hit at some point in time and we've got this massive debt overhang and all the corporate
+companies are going to be hitting the maturity walls really kind of starting now." And so some
+people are saying, "Hey, look, don't worry about inflation. Deflation is the bigger problem going
+forward." And looking at a one handle on inflation, somebody might say, "Yeah, it's getting pretty low
+and it wouldn't take very much to tip that into deflation if there was other recessionary forces
+hitting." So the big question I'm leading up to here is what do you think at true
+inflation we should be more worried about going forward? Sticky inflation or actually the economy
+slowing too much? So let me start off by saying I think the economy has grown faster than anyone
+expected in quarter four. It came in, everyone's expecting the two percent, it came in at three
+percent. There's revisions that are going to come through with that number but it is a lot stronger
+than we anticipated. You look at the retail sales numbers for January, it's a lot
+lower than people expected. Yeah, they were a big disappointment. Yeah, exactly. I think it
+was 0.8% down on the previous month and the market was only expecting it to be like 0.2%
+down. And I think a lot of this is to do with the historical trend behaviors that we've seen
+in the January sales. The January blues have always been pretty significant post the holiday
+season. Now I think we are of the belief that the economy is strong at the moment, a lot stronger
+than we all have thought at. Is it going to decline further as a result of the interest rates?
+I don't know, I'll take that one as time goes by. But we're of the opinion that inflation is
+not over yet. We think that inflation remains sticky and in fact there is a worrying concern
+if I look at our dates and try and project it forward, is I think the Fed is in a very tough
+spot right now. In a sense that I think they have come out and clearly said, okay, we've hit the
+terminal rate, we're now going to look at coming down. When do we start the cuts? And everyone's
+questioning, when is the next rate cut? Is it going to be in the March meeting? Is it
+going to be in May? Is it going to be in June? When is the next cuts? And I think our concern
+with that is, well, the economy is growing strong, so the Fed is in a situation where it's saying,
+we can cut it when we feel we're ready to cut it to boost economic development. And given the
+economic strength of the US economy at the moment, they're in that situation that they probably want
+to be in, which says, we can cut it when we are ready to cut it and when we need to cut it.
+I think that the flip side of this is what's concerning us, is that if you tend to cut the
+interest rates too fast, so do they do 50 basis points? Do they do 75 basis points? Or are they
+going to stick to 25 basis points? It could have a reverse effect on the increase in pricing. We're
+already starting to see prices creep up again. And if you reduce that, especially on the net effect
+that it has on housing with mortgage rates coming down, and then repurchasing as the supply in the
+housing market remains tight, that will fuel then prices to increase again. And given the fact that
+in the BLS numbers, the housing or shelter accounts are nearly 40% of the total expenditure,
+it is quite a significant concern if that drops too fast, because then the 30-year fix or 15-year
+fix is going to come down considerably. And so that is a worry for us. And if you're in the Fed's
+point of view, if you're in the Fed's position there, they can't increase interest rates at
+the moment, or even if they had to, and if they did, I don't know how they do it. So they're in
+a position they're quite in a quandary at the moment, because we're of the opinion that interest
+rates, that inflation, sorry, is going to be increasing over time before it starts to really
+have a systemic effect on this. And the other factor to consider here is also the impact of
+onshoring, looking at the energy, the innovation rates of the innovative green energy resources
+being invested onshore, import tariffs causing people to develop more onshore in the US,
+which is increasing cost basis. And that naturally is going to over a period of time,
+is going to have an impact on prices that we as consumers pay for. And that's the bigger concern
+that's sitting on a systemic level for the long term fight on inflation. So we don't believe
+inflation is over. And we think it's gonna remain sticky before it really starts to come down.
+Okay, and just in that last point there, because of reshoring, it's basically just a secular
+increase in the labor input costs to more goods. We benefited from cheap foreign labor,
+we're now taking some material percentage of that back home where you have to pay more in salaries
+and benefits and all that type of stuff. So just stuff's going to get more expensive going forward
+just because of that alone. Yeah, 100%, right? You think of the impact that China had on
+deflation or in the world that we lived in the last 20 years, they've had a huge impact on
+deflationary prices. And I think the state of the US, the state of the China economy,
+the relations between the US and China and the import duties of existing and onshore requirements,
+it's having a reverse effect of that. Okay, so there's a lot of people watching who are
+saying, "Dang, I was hoping the beatings were going to light up a little bit," but you're
+basically saying, "No, not quite. They're going to continue for some period of time. Maybe not at 9%
+like we saw a year and a half ago, but we're not entering into a comfort zone around inflation."
+Okay, so let me just ask you this. How historically important in the inflation story
+was the post-pandemic response era, where we had massive cost push inflation by supply chains
+breaking all over the world, and we had massive stimulus stimulating demand. On a scale of one to
+10, how impactful was that to the inflation that we experienced? And going forward,
+how long will we continue to experience the shock waves from that?
+Look, I think it's pretty unprecedented what we've gone through in the last four years.
+I think if you look at just inflation alone, we saw 2020, 2021, early 2022, we saw very much
+it being a supply-driven inflationary market. As you said, supply constraints in the Ukraine war
+didn't help that either. A lot of supply constraints fueled the rise of inflation.
+Then the sort of revenge spending came in with influx of expenditure for consumers.
+But that was fueled by trillions in direct relief.
+100%. And now that's sort of being normalized a bit. Now with wage inflation increasing,
+right? So wages are going up. The worry I have is that revenge spending that's fueled by the
+release that you mentioned. When does that start to impact, if any, on delinquency rates?
+And so if you look at credit card delinquency rates, they're slowly creeping up again,
+they're above the averages, and they're below where we were in the noughties, in the 2000s.
+But they are significantly higher than they have been throughout the whole 10s. And I think that's
+starting to be something that one needs to keep an eye out and see how that progresses over time
+because the interest rates or the APRs that people are paying on those credit card loans, which have
+now exceeded over a trillion dollars, should be of a concern, especially the delinquency rates
+increasing. Alright, well let me add on to that then. So you talked about revenge spending,
+which was, "Hey, I've been cooped up and I've still got some money in my pocket from the
+stimulus. I'm going to go out and have a good time." Now there's this, have you heard of this term
+doom spending? Which is people are, because of the increase in cost of living, and for most people,
+wages have not caught up with the inflation rate that we've seen. I hold a stab on this,
+it's 64% or 68% of Americans, I can't remember exactly which, are saying that, "Hey, my wages
+have not kept up with the cost of inflation." And so people are beginning to feel, an increasing
+number of people are beginning to feel a lot of financial stress and beginning to feel like maybe
+they're hanging on by their fingernails and about to let go. And so there's this term doom spending
+where they're like, "Well, if the future's not going to be fun, I may as well treat myself to
+something today, before I have to go into that bleaker future." So if you think that inflation
+is not fully tamed and is going to be sticky for a while, and have some secular wins behind it,
+like the higher labor from reshoring, like you talked about, how concerned are you that
+more and more, a greater percentage of the populace is not going to be able to keep up and
+is going to be increasingly falling into more dire economic times? You talked about delinquency rates
+going up, you kind of referenced it in the context of revenge spending, but you add doom spending
+into that where it's kind of like the last hurrah. You've got to imagine what follows the last hurrah
+is increased delinquencies. Yeah, so if you look at the aggregated inflation impact
+back from 2020 to today, it's roughly around a 24% increase. That's what we're talking about.
+And that's a significant volume impact on consumers expenditure. And I 100% agree with you,
+if you look at the impact of wage increases over that period of time, you're nowhere near that. So
+wages have not kept up with it. And the US consumers have become worse off. There's no
+question around this. I think in the last year or so, I think it's since the summer of last year,
+we are starting to see wages outstrip inflation. And so there is some relief coming into this
+equation. But I am extremely worried about how this continues on about the doomsday spending
+and how consumers are looking for some sort of gratification expenditure amongst all the
+depressing news. But on the flip side of it, though, is the stock markets are pretty active
+and they're doing very well. Bitcoin, if you look at the crypto world, the Bitcoin is down to the
+up an all time high. S&P is again growing as it was versus a year ago, start of the year well.
+And they have mixed reactions. But overall, I am concerned about how this affects the consumers
+with the increase in inflation. And as much as inflation is under control, yes, we're saying it's
+a 2%, whether it's a 3%, whether it's 2%. I'm less concerned about what the physical number is.
+It is still on top of a very high number that was around 9% last year. So if we think that
+number, the prices are coming down, they're not. It's still an increase happening every year.
+And we are not seeing wages recovering that increase in prices that the consumers have
+experienced. And hence why one of the things that we're looking at very closely is things
+like delinquency rates and the delinquency rates and credit cards are up now to 3.2%. It has been
+a constant increase all the way since the middle of 2021. The delinquency rates have
+been increasing quarter on quarter on quarter. And that is a concern for us.
+Okay, so a couple of things. It worries me that you're worried only because this is
+something I worry an awful lot about and I talk about a lot on this channel, which is
+sort of the plight of the average person, certainly the working and middle class.
+So you mentioned there, hey, the stock market's up though and so is Bitcoin.
+True. And that does have some wealth effect that may help the situation a little bit. But as I
+mentioned an awful lot, financial assets are not evenly distributed across society. They are highly
+concentrated in the top 10% of households. So the stock market going up in some ways kind of makes
+the situation worse because it makes the average person just say, "Well, I'm just getting screwed
+even more. The rich people are getting rescued because they own those assets and I'm just stuck
+with the higher cost of living and wages that aren't keeping up and I'm just getting the shaft
+here." And I don't know about you, but I don't know too many average people who if I'd gone to
+at January 1st, 2020 and said, "Hey, your cost of living is going to go up by 24% in the next four
+years," I don't know many that would have said, "Oh, that's fine." I think most would have said,
+"That'd be game over. I'm living paycheck to paycheck as it is." So that's a massive injury
+that the household balance sheet has taken or the household income statement has taken.
+And honestly, I don't know how many of those people are going to make it
+long term on this because we had all these things that were keeping them afloat, the stimulus, the
+forbearances on many different things that are now all getting pulled apart. And to your part,
+if inflation actually keeps grinding higher from here, albeit at a slower rate, it's not riding
+these people's rescue. So where I'm going with all this is in the States, we have an election
+coming up in November. Given where you see inflation, we all remember back to the Clinton
+campaign, it's the economy stupid. Right now, immigration is a big topic. I think it's
+currently the topic in the number one slot in the polls, but I wonder if that's not going to get
+supplanted by the economy as we get closer to the election because generally people tend to vote
+by how their wallet's feeling when they actually enter the election booth. How big of a factor do
+you think this pension cost of living is going to play in November? I think it's going to be a
+significant factor. I think if you look at, you're 100% right, all the subsidies that the government
+has been spending on will slowly be reduced over time, so that subsidies is going to come off.
+I think you've got additional impacts, the student loans, which I think are over a trillion dollars,
+that needs to get repaid and repayment cycles on that. And that's going to put additional
+pinch on the consumers, let alone the consequential impacts of inflation and the fact that wages
+haven't kept up with that. When I look at the marketplace, I look at the unemployment rate,
+I love the belief that as much as I see Levi's and other companies announcing that they can reduce
+their headcounts, I think those that are reducing those headcounts are, as you say, more of the top
+end of the marketplace rather than the working class that's driving this economy, that has driven
+this economy over the decades in the history. And so my concern here is, I think people are
+taking double jobs just to pay off their bills. And this is going to be an increasing impact on
+a topic for the election. I think the Biden administration is going to continue on saying,
+we've grown economic growth, the stock market's up, it's all gangbusters. And of course, the
+Republicans are going to come into play and say, look, there's a lot more factors at play here
+that's making it tougher for you and we need to rebuild the US economy again. So I think it's
+going to be a big factor as it comes closer and closer to November, but I think I'm more worried
+about what happens now and then and seeing how do we help the consumers deal with these
+increase in pricings and the consequential impacts it has. Okay, I want to just get your
+thoughts on this. I'm not saying this is going to happen. I will say there's possibility of
+this happening, but I'm not saying it's going to happen. We've seen layoffs happen all
+through 2023 at almost twice the rate in 2022. We've seen layoffs really pick up here at the
+beginning of 2024. And I mentioned this corporate debt maturity wall that companies are finally
+hitting, where their debt has to get refinanced and it's generally getting refinanced at a rate
+that's like 2X of the debt they've currently had on their books. So if they're not an AI-driven
+wonder company, most companies are having to go into cost cutting mode. So let's say that
+layoffs continue from here and let's say they actually start really jumping up.
+If we start having sort of recession entry-level job losses, again, not predicting they're
+going to happen, but just if we did, what impact, if any, would that have to your inflation outlook?
+Considerably. I think it would have a huge impact on wages overall. It would have a huge impact on
+abilities for people to repay their loans from an individual perspective, let alone from a corporate
+and from a government perspective. So net-net, it would have a significant impact. And if you look
+at trajectories in the past, if inflation for inflation to be structurally under control,
+unemployment needs to raise and it hasn't risen yet. So the inroads that the monetary policy has
+had an impact on, I think has probably gone as far as it can do, maybe a bit further, but the
+underlying structural impact needs to be addressed. And I think the unemployment were to
+increase, I think that have a massive impact, consequential impact on inflation. Would you
+expect to see inflation perhaps go negative just given that we're already below the two percent
+bound right now? Were that to happen or do you think for structural reasons it would still stay
+positive? Yeah, I think in the in a direct short term, I think we will see with we're opposite
+belief that inflation is going to stay positive. I think if you look at more the mid to long term
+with the impact of AI and the automation elements, it's coming to play. I think then you probably
+might see it getting very close to zero percent in our numbers, but a lot of that has a lot to
+do with also the inventory levels and promotions and discounts and pricing levels and a whole bunch
+of factors are coming to play. But I also am worried about the geopolitical risks, which
+mean that prices probably won't come down as fast as we'd like, especially given the current
+conflicts in the Middle East, around the Red Sea, with Israel. How does that impact on the prices
+of oil? And oil prices have been starting to go up a bit again. Every increase of oil price is 50%
+that is reflected on the increase of oil, of petrol or gas at the gas tanks. So there is direct
+correlations and it's not a lag effect. It's pretty rapid impact on the prices of petrol
+or gas. So net-net, short term, I'm of the belief that we're not going to get into a deflation
+environment, but I think medium to long term there is a possibility, but the geopolitical aspect of
+it also needs to come under control. Got it. What I'm getting from you is right now, if there's
+something that keeps you up at night, it's higher inflation, not lower inflation, but that could
+change for many of the reasons we're talking about. All right, I'm getting up to a big question, but
+real quick before I get there, I'm just curious if you have anything to say on housing. So I know
+you said earlier that it sounds like your measurement of home price or housing's
+contribution to the true inflation number is weaker than what the BLS is currently showing.
+I guess the question I want to ask you is, is there hope on the horizon for aspiring home buyers
+or not? And one of the questions that I don't necessarily expect to have the answer to,
+but we've had this tremendous increase in the cost of home ownership, meaning it's a lot more
+expensive to finance a home now because mortgage rates have gone up so much, but also all the
+associated costs with home ownership have gone up. Maintenance is a lot more expensive now.
+Contractors are a lot more expensive. Input costs are a lot more expensive,
+but a lot of people have been scratching their heads saying, "Wow, the cost of a house has gone
+up," but average prices haven't gone down in the country. Yes, there are some markets that have
+started to cool off and whatnot, but normally there's a seesaw relationship between cost of
+ownership and prices. We've seen cost of ownership go up, but we haven't seen prices adjust for that.
+So are you seeing something different in your tools or no?
+No, I think the biggest concern we've got on the housing market, and I'm generally talking about
+the housing market, not necessarily our metric, but we're seeing it through the metrics that we're
+reporting, is the supply. If you look at new supply coming onto the market versus existing
+supply that's in the market, the number of new supply coming to the market of new properties is
+not significant. It is increasing, there is more supply coming on, but it's not at a significant
+volume that's going to bring pricing down. I think the second element is on an existing supply in the
+marketplace. People are not moving because they don't want to buy. Normally in the past,
+we have seen people move from A to B for work purposes, for educational purposes, whatever,
+and people have switched out their current mortgage and the current brand of solar and
+purchase a new property. People don't want to do that, exactly as you mentioned, because
+a higher cost not only is the cost of the property more expensive, but for the same price I'm buying
+today, I'm basically getting one less room. One less room is equivalent to what you're getting
+today. If you look at that and you say, "Okay, I've got to pay a higher property tax, I've got
+a high maintenance cost and there's no availability and why should I move?" The movement of labour,
+the lack of movement of labour, the lack of supply in the marketplace, I think we will start to see
+some prices hold relatively stable, but I think it's going to go up again. That's the worry I
+have. I mentioned right earlier, as soon as the interest rates come down, therefore the mortgage
+rates are going to come down, people might shift then and the cost of new housing is going to go up
+again and that's the biggest concern that we've got. So you're maybe making current homeowners
+feel better but dashing the hopes of aspiring buyers. I'll point out the irony in this world
+where, for whatever reason, cost of ownership goes up, price doesn't come down like it should,
+cost of ownership goes down in the future like you think it might happen if mortgage rates go down,
+prices go up. No matter what happens, it's only bullish for home prices.
+Yeah, I know what you mean. I think that's what keeps me awake. This is the stuff that
+I find worrying and I think you're right in saying it's going to be topics
+that the electorate is going to vote with and vote on. Alright, I didn't mean to get here,
+but I'm going to get here just because we go here, just because we talked about it.
+One can make the argument that we are kind of bifurcating as an economy where
+the existing rich continue to do better and everybody else just gets squeezed more and more
+here. Housing is a great example. We're at record levels of unaffordability in homes. I saw some
+staff that I think it said in a survey of close to 600 counties in the US and in 99% of them,
+the median price of a house there was unaffordable to the average income earner.
+And so we're entering this world where basically like, hey, if you want the American dream,
+you got to kind of already be born wealthy or you're kind of out of luck. The brass ring has
+moved far enough from you at this point that if you don't have some advantage, you're probably
+not going to get it. As you continue to look at rising inflation and whatnot, I'm
+kind of picking up the vibe that you have sort of a similar concern about that, but am I being
+too dire here or is that where the puck is headed at current status quo trajectories?
+No, I think your home said right and I think the biggest concern I've got in that is I look at this
+on a very macro picture. The Pew research put out an article or some work out, they put out some
+fantastic work around the erosion of the middle class and if you look at the last 40 years,
+we have really seen erosion of the middle class. I think it's dropped from like 62%
+of the US economy down to now something like 55. I think it's 55% of the US economy or the
+US population is now considered middle class and that gap of the erosion of the middle class,
+I can guarantee is not going upwards, it's going the other way. You could argue that potentially
+maybe because as you already pointed out, it could be immigration policies, it could be a whole bunch
+of factors, but if the middle class is declining and the wealthier are getting wealthier,
+what has been the working horse of the US economy since the Second World War has been the working
+class population and if that's eroding, I don't know what that means for the longer term. So,
+there needs to be an equilibrium here, there needs to be a rebalancing and for me, those are the big
+macro pictures and onshore I think could help on that, but that would mean that in the short term,
+there will be, well, short this term, there will be an impact on pricing, but it certainly will
+bring jobs back to the US and bring innovation back to the US which I think is important
+because innovation is what fuels growth and we need that innovation.
+Okay, and I agree with that. I actually am a fan of onshoring knowing that it will be increasing
+cost structure but hopefully it'll also be increasing wages for those people at the same
+time. I don't have time to get into this but one resource that you should be aware
+of if you're not already, are the charts that Chris Hamilton produces at Economica and if that
+name doesn't, if it's not familiar to you Oliver, I'm sure you'll notice the charts, you recognize
+the charts if you see them, but Chris tracks an awful lot of things. He's a chartist but
+demographics is one that he spends a lot of time charting and I had him on the program not that
+long ago and he basically showed the projections for US population and they're pretty frightening
+from a national demographic standpoint, but the really key one there is that the cohort
+that drives economic growth, 25 to 54 year olds, on an absolute level, that cohort is
+already in population decline. So adding the wealth gap and inequality element
+to it just makes it even worse, but for a guy in your job who's trying to predict where inflation's
+going, it's hard to actually get sustainable inflation unless you're just
+killing the currency with bad monetary policy, which we're going to talk about in a second.
+It's hard to get that sort of sustained secular inflation if your percentage of workers, of
+able-bodied active workers is in a secular decline. But anyways, a different story for a different day.
+Last big question I want to ask you and I just tipped my cards there. So we've been talking
+about inflation in the course of this conversation as things becoming more
+expensive, household budgets getting pinched. Let's talk about it in the context of just loss
+of purchasing power. So what is your outlook on the purchasing power of the dollar
+and I guess any other fiat currencies, if you want to mention them as well, but
+I think the big issue for folks are not only having a challenge saving, given the increase
+in cost of living rising faster than their wages, whatever they have left over, if they have anything
+left over, the purchasing power of that is getting less and less and less.
+Yeah, I do think though that there is a sort of a bit of a bright light at the
+end of the tunnel on this topic. I think that is twofold. One is wage increases need to
+continue going up and that has to increase. I think the days of us offshoring
+work to bring deflationary market conditions to the US with the economic growth of China,
+they're over. They can still contribute a bit I think, but this notion of bringing onshoring
+will help. Yes, I think there'll be a price pinch to the consumers that we spoke about earlier in
+the short term, but I think in the long term we're going to see wages increase and that also
+comes with increased innovation rates and education levels. So I'm of the conviction
+that in the long term we're going to have to adapt and evolve and innovate and
+recapture the lead of that as we go forward in more of a medium to longer term outlook.
+Okay, and I can see that argument sort of resulting in more robust economic
+growth and maybe some pessimists are looking at right now. I'm just curious about your thoughts
+about the purchasing power of the currency going forward. So people might make more of the dollars
+and maybe they're getting devalued but you're making more and it's equilibrating.
+I will say we have a lot of people watching this program who are worried about the future
+purchasing power of the dollar, so I want to get a sense for if you are as well and if you are then
+the follow-up question is what strategies, if any, do you think are worth considering to preserve
+purchasing power going forward? Short answer is yes. I am worried about it and I think
+it's about a diversification that is required. The question really is on the U.S. dollar
+is what is the impact of the U.S. on the global scale? And yes, the U.S. currency
+as such is actually probably still and I think in a short to medium term it will still be the
+biggest currency in the market, in the world economy and if you think about the number of
+hundred dollar bills that are outside the U.S. in circulation, it's quite a considerable
+number. I don't have the exact stats on that but I think it's right. I've had Brent Johnson on here
+and he's talked about the dollar milkshake theory, so this audience is familiar with the euro dollar
+market and all that stuff. I am concerned about it but I do have faith that
+we need to diversify in the short term but I think in the long term I think I got faith that
+things will rebalance and we'll see a strength coming back but I don't think it's gonna go away.
+I just think the U.S. economy and the U.S. dollar is too strong in the world that we live in.
+Okay and just because I know folks are going to ask in the comments, are there any particular
+assets or strategies, some would say own gold, some would say own land, some would say own
+Bitcoin, some would say own stocks. They tend to do really well in periods of inflation.
+So any particular commentary on that? I mean you're not a market analyst, a financial
+market analyst more as you are a inflation analyst, so I don't want to push you out of
+your comfort zone but if you have anything to say, I know folks would be interested.
+Okay, I've been very caged in my response to the last question for that exact reason.
+I know other people will know more than I do
+on this topic and I'll probably defer to them but for me personally, I've been looking much
+more into the real world assets, the crypto world to diversify. Yes, it's more volatile but I think
+it gives us an ability to invest in different things than what we have in the past. Everyone
+is invested in equities, everyone's invested in bonds. I think the bond market has been a good
+market to have in the past going forward, less so potentially. As I said, I'm not the expert in this
+but I've been diversifying investments considerably and I've been focused very much on the crypto
+world and real world assets and trying to find ways to find new areas to fuel growth and innovation
+is coming from that world at the moment and this is where I think innovation is really needed to
+fuel growth, whether it's the EV battery markets for EV cars, whether it's solar energy, whatever
+else it is. If we don't, the US economy needs to find that edge, that innovating gain that will
+fuel a new set of economy and it's about investing in that. I think right now the crypto world
+has been leading the way in that a bit and so I've gone down that route, whether it's the right way
+or not, I don't know but the price points of Bitcoin right now are nearly an all-time high and
+there's still more optimism to see how the markets in the crypto world evolve over the time period.
+Okay, all right. Thank you. Two last questions for you. First one, very important. For folks
+that have really enjoyed this discussion, would like to follow you and your work and Trueflation,
+where should they go? Yeah, so obviously, first of all, look at our website trueflation.com.
+You can also look us up on Telegram, on Twitter, it's all @trueflation. For me personally, reach
+out. I'm on Twitter, I'm on LinkedIn or you can just reach out to me at oliver@trueflation.com
+but feel free to look at our website. There's a lot of materials there and if there's any
+questions you have that you want to talk about, please do reach out. All right, fantastic. Thank
+you and Oliver, when I edit this, I will put up the links to those resources on the screen. Folks,
+I'll also put links in the description below the video too if you just want one click access to
+those. All right, so in about 60 seconds, I'm going to ask you the second question, Oliver,
+which is, "Hey, we've been talking about sort of money related topics, all conversation. I'd love
+to get a sense for one non-money related investment you would encourage folks to adopt in their lives."
+Real quick before I do, I just have a little bit of housekeeping to do so you can think of your
+answer in the interim there, Oliver. Folks, well, first off, if you've enjoyed this conversation
+with Oliver, would like to see him come back on in the future when he may see a trend change or
+anything going on in the inflation rate that he thinks is worthy of us knowing about, please vote
+your support for that by hitting the like button, then clicking on the red subscribe button below,
+as well as that little bell icon right next to it. I also just want to deliver another reminder that
+if you're watching this the day it goes out on Thursday, you have only until tomorrow night,
+Friday night, midnight, to lock in the lowest early bird price for the upcoming Thoughtful
+Money online conference on Saturday, March 16th. As a reminder, if you can't watch it live, and a
+lot of people can't just because of life and weekends sometimes can be tough, don't worry.
+Everybody who signs up for it is going to get replay videos of all the presentations, as well
+as all the live Q&A sessions within 24 hours of the event's end. Again, just a reminder, if you
+are a premium subscriber to our sub stack, you'll get an additional $50 off the conference by using
+the discount code that's been sent to all the premium subscribers. Also, just a note too,
+just locked in Danielle Park as another speaker for the conference and folks, you may remember
+her, just had her on for the first time a couple weeks ago. Folks really loved her commentary and
+so I wanted to pull her into the conference. So now we've got both Danielle's. We've got Danielle
+Park and Danielle at the Martina booth. We've cornered the markets on Danielle's for the
+conference. And then just a reminder, as I say every week with the financial advisors on this
+channel, your number one goal as an investor here is to be managing your wealth to basically meet
+or exceed the rate of inflation. That really should be your primary objective for wealth
+building and investing. That's the time-honored way to basically build and preserve your wealth
+over time is just to make sure that you're putting together a strategy that doesn't get beaten by the
+inflation demon. If you've got a good professional financial advisor who understands that, gets all
+the issues that Oliver and I have talked about, as well as all the other folks that come on this
+channel every week, great, stick with them. But if you don't have a good financial quarterback who's
+doing that for you, or you'd like in a second opinion from one who does, then feel free to
+schedule a free consultation with one of the advisors that Thoughtful Money endorses. To do
+that, just fill out the short form at ThoughtfulMoney.com. These consultations are totally free.
+There's no commitment to work with these advisors and these are the same advisors you see with me on
+this channel week after week after week. It's just a free public service they offer to help as many
+people as possible positioned as prudently as possible not to have their wealth eaten up by
+inflation. All right, Oliver, thanks for your patience there. We're at that final question here.
+What non-money related investment we do encourage folks to consider?
+It's an interesting question. For me, it's all been around learning and constant learning and
+understanding different people's point of views and different cultures. I think that gives people,
+it gives me certainly a new perspective on things. There's always a different viewpoint,
+there's a different angle and I think we as consumers and individuals are quick to jump
+to a conclusion. I think it's important to have a perspective, an alternative perspective
+on life, on viewpoints and on cultures and how that changes everything and so I just encourage
+everyone to be on the mindset of willingness of continuing to learn. It's a great answer.
+I would echo that not just on the continuing to learn but the continuing to seek out alternative
+points of view because it's so easy in today's digital media world to create our own echo
+chambers of sources that we just like hearing because they agree with our inherent biases,
+getting exposure to other ways of thinking, other points of view, other cultures like you said,
+other lenses through which to see the world. Super helpful in making sure that we are making
+truly informed decisions and not just again like reaffirming our own biases and I say that as a guy
+with my own media channel here. I highly encourage people to watch and consume
+other media from other different sources particularly those that have a different
+point of view and I try to chart as impartial a course as I can but highly recommend that people,
+again, I try to pick a pretty independent moderate course. I would encourage people to
+go find something on the more conservative side and go find something more on the progressive
+side and see if there's other bits out there that enrich your ability to see the larger
+picture. So anyways, Andrew, I appreciate that. I appreciate you saying that as a man who is
+up past midnight over in Asia right now having stayed up to do this, so you're walking your talk.
+Yeah, thanks a lot. I love it. I think it's wielding and it's impactful on oneself as
+well as on others just to learn something new and look at something through, as you said,
+through a different lens but it's an experience. I live for those experiences and so the more and
+more I can be challenged, I love it. So that's also what gets me into this economic data aspect
+with inflation measurement because everyone's got a point of view and it's great to hear those.
+No matter where they live. Yeah, exactly. This has been wonderful. Thank you so much. Like I said,
+love to have you back on the program whenever your models there are telling you there's something
+important that we all need to know. Everybody else, thanks so much for watching. Thanks a lot.
+Bye.

@@ -1,0 +1,638 @@
+Welcome to Thoughtful Money. I'm
+its founder and your host, Adam Taggart. After decades of moving towards increased globalization,
+the aftermath of the supply chain vulnerabilities revealed by the COVID pandemic, as well as the
+geopolitical fallout from Russia's invasion of Ukraine, they're pushing the world order into a
+more fragmented state. If trade globalization has indeed peaked, what does that mean for the future
+of the major world economies and for asset prices? To address, we're fortunate to be joined today by
+Bob Elliott, former investment committee member at Bridgewater Associates and now CEO and CIO of the
+investment company Unlimited. Bob, thanks so much for joining us today. Thanks for having me. Looking
+forward to it. Hey, it's a real pleasure. Well, look, lots of talk about -- I've seen some of your recent
+comments about post-peak globalization and really wanted to dig in that topic with you. Looking
+forward to doing that today. Before we get to that specific topic, I just want to kick this off with
+the usual question I asked my guests. What's your current assessment of the global economy and
+financial markets? So in general, we're experiencing a pretty different macroeconomic cycle than most
+people have experienced over the course of their lifetime. Whereas we've had a number of sort of
+bubble bust cycles and with them V-shaped recoveries, this cycle is a lot different because
+unlike the previous ones fueled by asset prices or by credit, the cycle that's going on today is an
+income-oriented cycle. It's driven by nominal wage growth, which is strong enough to support nominal
+spending growth, which is then driving continued expansion in the economy. And that sort of nominal
+income growth-driven cycle can be very persistent. There aren't a lot of unsustainable flows related
+to it the way that there typically is in a big credit boom or in a big asset price boom. And so
+the result has been that the cycle, particularly in the United States, has been longer and stronger
+than many people had expected. And as a function of that, what we've seen over and over again over
+the course of the last couple of years is that asset markets sort of keep pricing in an expectation
+of a swift shift to easing and economic weakness, particularly in the short rate and the bond
+markets. But what has functionally occurred is the economy today basically looks about as strong as
+it has over the course of the last couple of years. And that continuously surprises to the upside
+relative to how folks are trading in the market. That story is particularly true in the US where
+growth is the strongest and some of the inflation pressures are the highest. But it's also true in
+many other developed economies where we haven't quite gotten the significant deceleration which
+many folks had expected. And central banks also keep disappointing in other areas like
+the UK or Europe in terms of the pace in which they'll deliver the types of easing that is
+expected. Okay, so a question about that. So we've had, relatively recently, what, three of the top
+five global economies slip into a technical recession. So can you balance that strength
+with the fact that we're seeing slowdowns in those countries? And to be specific, I think it's what
+Germany, UK, and Japan are now all in technical recessions, right? Well, I think when you think
+about is a country in a recession or not, whether real GDP growth is positive or negative doesn't
+matter. When you're thinking about an economy, what you want to think about is how are economic
+conditions expanding relative to the underlying potential of the economy? And so if you look at
+an economy like Europe, the potential growth of the European economy is already zero. It's
+essentially zero or maybe even a little weaker. Productivity growth has been zero for many years.
+The labor force there is contracting. And so zero growth in Europe is actually a totally fine
+outcome given their overall demographics. And as a simple example, if you go look at the
+unemployment rate in Europe, it is actually at secular lows. So while talking about recession
+in Europe makes a lot of headlines, it's not a particularly relevant thing to be thinking about
+or focusing on because the economy is growing about as well as it can given the underlying
+potential of it. And the same is basically true in the UK. Japan's a little softer and is a bit
+of an outlier across the developed world. But the basic picture that you have these economies that
+are mostly fine against expectations that we're going to have a sharp deceleration,
+that's the basic picture. And Europe and the UK, they've been growing basically at zero for two
+years. Okay. And so you're saying this time, it's less asset price and credit expansion driven,
+and it's more nominal wage growth driven. I just had a sheet that had all these stats on it that
+I just literally tossed in the basket right before we sat down here. I wish I had held onto it.
+Wages have been growing nominally in the US. I know less well other countries right now.
+But they haven't been for all that long. This has been sort of a response to the
+huge spike we saw in inflation. And the return to positive nominal growth in wages, if I'm
+remembering correctly, came after like, I don't know, I want to say like 25 or more consecutive
+months of negative, certainly negative real wage growth. And I'm not sure if there was much
+positive nominal wage growth in that time period as well. You can correct me if you know better.
+But if you ask people since inflation wave hit, I think it's something like 67% of respondents say,
+my wages have not kept up with the pace of inflation. So I guess my question is,
+how do we sort of square that where we had wages really at a disadvantage? Yeah, now they're
+beginning to recover a bit. But again, since inflation is coming down, and we're starting
+to see things like quits come down, and most of the most of the job growth is in part time jobs,
+which doesn't come with a lot of benefits and stuff otherwise. How short lived might this
+spike in real nominal wage growth that we've seen? How sustainable is this, I guess is what
+I'm saying? Well, I think it's the improvement in real wage growth that we've seen over the
+course of the last year or two is very sustainable. And that's the beautiful thing about wage growth,
+which is one person's spending is another person's income, which then turns into another person's
+spending. And it doesn't have the trail of liabilities that exists with credit. And it
+doesn't have the balance sheet risks that exist with an asset bubble typically fueled by borrowing
+in order to inflate an asset bubble. And so nominal wage growth in the US has been quite strong.
+It peaked at 6%, 7%, 8%, depending on how you want to measure it. For instance, the Atlanta Fed
+wage tracker peaked in that level. Like any inflationary cycle, the initial response
+to the rise in prices was a lag until you got the point where wages started to outpace
+inflation. But part of what happened there was the fiscal expansion and the transfer payments allowed
+people to de-save for a period of time in order to keep their spending going during the period
+in which the wages adjusted. And at this point, wages have grown over the course of the last
+couple of years, roughly in line with prices, and now are starting to outpace price growth as wage
+growth remains kind of sticky at sort of 4% or 5%, depending on how you measure it. And price growth
+is kind of at 3%, let's say. And that's a pretty good scenario overall for households to continue
+their spending. The main question is, what's the effect on companies? Because by its nature,
+the fact that real wage growth is positive, the flip side of that, of course, is that company
+profitability takes a drag. And so that's kind of the trade-off as long as nominal GDP continues to
+grow at a fine pace, which it is at this point. The top line will matter more for those companies
+than the margins in terms of generating continued profitability. But that's really the tension point
+now. The tension points to the businesses, not to the households. Households haven't been in this
+good of shape in a long time. Okay. And I'm sorry, I keep pulling into questions that I wanted to get
+in after we went into the peak globalization part of the discussion, but you keep getting these
+really relevant points. So help our viewers understand that because we have a lot of experts
+on this program and they have all sorts of different opinions. I would say if I had to sort of
+create a consensus, I would say that a lot of them are kind of concerned actually about consumer
+households. And yes, it's good that wage growth has picked up and that is helping. Like I said,
+though, a lot of households still feel like it's got a ways to go before they really feel like
+they've healed from this cost of living shock that they took on. But we've seen things like
+tremendous growth in, or let's say, rapid growth in household debt, especially revolving credit
+that's happening at a time where that credit is charging record rates. We're seeing an explosion
+of participation in payment schemes like buy now pay later and whatnot. A lot of people take these
+signs as signs that the consumer household is increasingly starting to struggle. And we just
+saw the retail sales numbers for January just came out. And I think it was the biggest year
+over year decline that we've seen in retail sales since the early part of 2020 when we were shutting
+down the global economy. That's just one month. That's not necessarily a trend yet. But people
+can certainly look at some of these data points and say, "I don't know. It seems to me like the
+consumer is really beginning to get weak." And when you look at consumer sentiment, yeah, it's
+improving, but it's improving off of pretty low levels. When you say the consumer household is
+strong, what particular metrics are you looking at? Well, I think it's important in this sort of
+circumstance to make sure that you're looking at a holistic picture of what's going on rather
+than trying to pick particular pieces of information. There's always, in any macroeconomic
+environment, there's always a lot of cross-cutting information. In the past, if you go over the past
+20 years, it's been valuable to try and pick out the things that look like they're leading
+because there is that self-reinforcing dynamic. But in an environment where the post-COVID
+environment has created a lot of noise across a lot of different things, plus an elevated
+inflationary environment, means that you can get distracted by certain things when you're trying
+to pick out pieces rather than look at the whole. Just responsive to the couple of things that you
+brought up, consumer credit has risen as a percent of disposable income. It remains at roughly the
+same levels as it was pre-COVID. Consumer credit, of course, has expanded in nominal terms because
+consumer credit is predominantly revolving credit card debt. That credit card debt, the vast
+majority in dollar terms, is paid off on a monthly basis by the borrowers on the credit cards. What
+you're seeing is you're seeing nominal spending rising because inflation has risen, which means
+that the debts on revolving credit inevitably have to rise because the overall level of spending and
+charges on the accounts are rising. That's why you need to look at it relative to disposable income.
+Secondly, if you look at buy now, pay later, a lot of people get focused on that. Just for context,
+buy now, pay later, the amount of borrowing, the impact on GDP is equivalent to the GDP
+of Saginaw. Saginaw, who cares about Saginaw? Probably 99% of the people watching this video
+probably can't even pick out Saginaw on a map. I come from Detroit, so I know where Saginaw is.
+That's what we're talking about. Who spends their time talking about Saginaw? But that is the
+reality of what people are doing when they start to talk about buy now, pay later. That's how big
+that is. It added 10ths, tiny basis points onto GDP because it is so small. But yet, people are
+talking about it because it's a shiny thing that looks bad rather than quantifying it. That's why
+it's so important. You have to quantify these points. It's not, oh, there's some stress in one
+corner, some stress in another. Therefore, the whole system is going to come down.
+What's going on with the vast majority of households? With secularly low unemployment,
+their incomes are growing at 5% nominally. They have bought houses that they financed
+between 2% and 3%. Those house prices up 40% and their stocks are surging, making their 401(k)s as
+good a shape as they've been in a long time. That's what's going on. The result is that these
+households are spending their nominal incomes and creating real spending power. That's the aggregate
+picture. That's the picture for the median household. If 65% of households own their own
+home, 65% of households own stocks. If you own stocks and you own your home and you have a 2%
+mortgage and you're one of the 97% of folks out there in the labor market that are employed
+and your wages are growing at 5%, it hasn't been better than this in a long time.
+Okay. All right. That's a great list of things to be looking at here. I've got maybe one or two
+questions to dig into that stuff, but I don't want to detract us anymore from the main event.
+So maybe we'll get back to some of this stuff in a moment, but it's very helpful context.
+Don't let me put words in your mouth, but it sounds like you're pretty sanguine
+about at least the US economy looking forward here for the rest of the couple of years?
+Well, any humble macro person will recognize that the foresight is in, at least in a cyclical basis,
+is in the three to six month range. What's going to happen nine months from now? You don't want
+to get over your skis on that. A lot of things could change. So I think when we look at the
+picture in particular to kick off the first half of the year, and that connects to whether the Fed
+is going to cut, et cetera, it looks like the economy has a fair amount of momentum in place
+to continue to expand in a way that shouldn't lead to too much in the way of needing significant
+monetary policy easing. Looking a lot further beyond then just becomes more and more uncertain.
+Okay. So let me put it this way. You feel pretty sanguine right now and until in such time as you
+come back on this program and start to see things that worry me, you're feeling pretty good.
+That's right. I'll send you an email when things are not looking good.
+All right. Great. Okay. So to the main question here. So this question about peak globalization
+and maybe is it already in our rear view mirror? I noticed this initially in a tweet that you put
+out on Twitter or X or whatever it's called now. And maybe if you can just give a little backstory
+to the data set that you were looking at there. We have had periods in the past where we've shifted
+from a more globalized economy to a lesser one. And so it's not like this has never happened,
+but certainly globalization has been a really big trend for most living people. I mean, most folks
+watching this video, that's kind of all they've known has been increasing globalization. If that
+trend is truly starting to plateau and perhaps start reversing, what implications is that going
+to have? Well, let me pull up the chart if you'll bear with me. Because I think it's a good chart.
+Can you see this? Yep.
+I think this was great context over a 200-year timeframe. What have we experienced? Most of us
+and what the chart is, is the amount of trade that has occurred as a percent of the global economy.
+And so measured as total imports as a percent of GDP reflected by adding up all the countries
+based upon their population. So take all the country's population, weight them, imports as
+a percent of GDP. And what you see here is relative to history, we've got one of the biggest,
+basically the most global trade we've ever had in the last 150 years, which is not that surprising.
+In particular, since we've brought on over the course of the last 50 years, a huge number of
+different economies into the global mix for Japan and Asia, and then China coming after that.
+Basically everyone alive today only knows this post-war surge in global production integration
+that you see starting in 1945 and basically rising until the financial crisis and really just after
+all the way to COVID. And that's a really important dynamic because what it did is it
+increased a lot of efficiency. It was downward pressure on prices. It was a significant pressure
+on the middle class of particularly the expensive developed world in terms of their wages. And
+basically just created a ton of efficiency in the economy. Maybe not today, but if you go back
+five or 10 years, basically every good and almost every service was basically either built or done
+in the most efficient place in the world where the productivity adjusted cost of that labor to get
+that service or good done was the lowest possible cost everywhere. And getting to a peak in that
+and then possibly reversing that creates a radically different dynamic than basically
+anyone's experience. But it's not that unusual in sort of a global economy sort of sense to have
+these sorts of ebbs and flows from the post-World War I through World War II environment. A lot of
+isolationism, a big drop. You had the UK dynamic when the UK became the global leader. You had a
+big expansion in global trade and as they trailed off that also faded. So it's not like these things
+are certain. I think many of us sort of take for granted that trade globalization is the reality
+forever and it's definitely not necessarily the case. Okay. World woke up after COVID and said,
+"Alright, we had these hyper-efficient supply chains but the cost there is resiliency in case
+a monkey wrench gets thrown into the gears." Boy, it probably makes sense for us both from
+an economic security standpoint but in certain cases from a national security standpoint
+to bring some of those home. So we've got a lot of money flowing into building infrastructure here
+in the US to try to re-shore French or some of those supply chains. Then of course Russia
+invaded Ukraine. America sort of weaponized its financial system against Russia. I'm not saying
+whether that was the right or the wrong thing to do but it certainly sent a message to other
+countries that like, "Well, maybe not America's bad side today but I could be tomorrow and I don't
+want to be completely vulnerable to that." At the same time and we can debate what the reasons for
+this is but I think you're seeing a rise of nationalism in a lot of places around the world.
+Europe I think is a good example right now where we're just seeing more populist candidates getting
+elected at the top of the political pyramid and so it seems like there's a lot of seeds being laid
+for this rolling over of the chart that you just had there where we could see less and less trade
+being percent globalization going forward. A, I guess first, do you believe that those
+seeds I mentioned are ones that are going to actually create that future and if they do,
+what does that look like? I mean you can maybe make some pretty easy bets like, "Okay, that's
+probably going to have more secular inflation in it just because the cost structure is going
+to be rising at least in the developed world as we do that." But what other knock-on effects would
+you expect to see? Well, I think for a lot of folks the impact of this shift from essentially
+optimized production across the world to parallel production across the world will in many ways very
+clearly have that inflation effect. But what I'd emphasize is that the sort of medium term, short
+to medium term effect of that is actually growth positive which is very interesting and it's
+globally growth positive because essentially what we're going to do over the course of the next five
+or ten years is in each one of these different economic blocks, create parallel infrastructure
+production and services infrastructure that didn't previously exist. And so if you think about it,
+the t-shirt manufacturing that once was basically in the US then went abroad to Southeast Asia now
+gets replicated. Maybe it's not in the US or maybe it's in lower income areas of the US or in Mexico
+or in the rest of Latin America, but that's just that building that infrastructure requires
+investment. That investment is a positive impulse on overall demand which is actually in the short
+term a bigger impact on the inflationary dynamics than actually the shift in the goods production
+because what it does, the actual investment has a levered effect on economic activity and happens
+today, not over the course of the whole productive capacity. In the US context in particular what
+we're seeing is things like the CHIPS Act and infrastructure and stuff like that which are
+directly responsive to this dynamic creating a lot of strength that would have otherwise not
+occurred. So I think that's really the first stage and particularly important in the context
+of these economies that have had an inflation problem recently and are already operating at
+late cycle relatively tight environments.
+Okay. So that's growth positive. Basically, it's a short term stimulus, right?
+It's a big short term stimulus, which I think it's easy to skip over that fact that, "Oh,
+this is inflationary and that's kind of it." It's like, no, the first thing is it's growth
+stimulative. Then it's inflationary as production capacity shifts to essentially onshore or
+close shore supply relative to offshore supply. Then the other thing we should talk about and
+reflect on is it's beneficial. There's big winners and big losers on that, which is the folks who had
+the countries and ecosystems that had their productive capacity hollowed out and the groups
+in these economies that had been out competed by global supply of labor that came on from farm to
+factory. Those folks are going to actually see a marginal benefit, whereas those who are so
+reliant on the internationalization, and that is particularly China, but also India and other
+places in South Asia that were very reliant on the plugging into the globalization pipeline,
+those folks are going to see a real detriment to their ability to continue to see the type
+of growth that they saw before. Okay. So, yes, I don't know exactly how much it,
+but some material percentage of global commerce flow that was going into their coffers is not
+going to go there anymore, and it's obviously going to impact them pretty strongly. Let's
+talk about the states for a second. So, if I understand you correctly, I remember, when was
+it '92? Was that Ross Perot and the giant sucking sound of jobs that we're going to hear because of
+NAFTA? And then, of course, you're talking more on a global scale, where we sucked all these jobs,
+largely sort of middle-class jobs off to other countries, production jobs, etc., because they
+could be done, as you said, on a much cheaper basis there. How beneficial do you think this
+could be to the middle class? Is this really good news for the American middle class? Because
+the middle class has been getting pretty beaten up for a good while, and I think if you talk to
+folks in the middle class right now, they almost kind of feel like an endangered species. Maybe I'm
+using a little bit of hyperbole there, but that's how they feel. Is this something for them to really
+cheer going forward? Is this going to make a material difference to the prospects of the
+middle class in America? Well, I think for cohorts that have seen a significant decline
+in their labor opportunities, the onshoring of productive capacity is a pretty important
+positive for those areas. And I think, in particular, as you start to look at where
+in the U.S. context, where are the most attractive opportunities to start to build
+this infrastructure is in places that you're not going to build this infrastructure
+within 100 miles of New York City because it's going to be too expensive.
+Instead, you're going to build it in the fallow fields of forgotten Detroit or Cleveland
+and Saginaw or Flint. That's right. We'll see how many Michigan references we can make in this
+particular conversation. But I think for those areas, the people who have continued to engage in
+manufacturing production, just very, very high skilled manufacturing production, are still around
+in those areas. And so you have a lot of capability, a lot of expertise in terms of how
+to set these things up, build them, et cetera. But what hasn't happened is it hasn't drawn in
+the additional free labor in those areas that's much cheaper today than it was in the past.
+And so I think that that can create, how is the U.S. going to significantly support incomes
+of those who don't have college degrees. I think it's going to be through this infrastructure
+process, first building the buildings and then staffing the buildings that are doing
+the manufacturing capacity. And so that's going to be a real benefit for maybe not the middle class.
+And I probably distinguish it because I think there's other things going on with the educated
+middle class, the white collar worker. But for the blue collar worker, this may be one of the
+better 10 or 20 years that has been in place relative to the last 50 years.
+Okay. Well, that's something to cheer. How much, and I'm probably asking you to speculate
+unfairly here. I just don't know and I'm curious. What do you think the national, the folks that are
+deciding to do this right at the corporate boardrooms and maybe with the influence of folks in Washington.
+How much do you think they're trying to reassure here? Is it like, "Hey, we're not going to
+reassure everything because that's just not cost effective. We'll still work with these guys
+internationally. We're just going to work with them not as much and we're going to have enough
+critical capacity here so that if we have another global pandemic type thing, we're going to have
+some domestic supply that we can scale up and we already have the infrastructure and the
+knowledge and stuff on how to do that. It's a lot easier to go from 5% production to 15% or 20%
+production than it is to go from zero production to anything. And so how much of it is sort of
+like that where it's like a minority stake in the production ecosystem, but it's
+one that you could scale up if you had to. Or is it more than that? Is it like, "Hey, we're
+just going to keep trying to do this and turn the clock backwards and see how far we can go?"
+Yeah, well, I think in some ways it's going to come down to what the policy framework is
+that's going to exist for the U.S. and I think the U.S. in particular, but other
+developed economies. If you just take for instance something like putting 60% tariffs on China,
+which is a proposed policy, or at least they talked about policy from one of the presidential
+candidates, that type of magnitude of tariff policy essentially totally changes the economics
+of onshore versus offshore production or nearshore versus far offshore production.
+If you go back to the chart I was showing before, we went from a period of time where something like
+15% of GDP was in some sort of tradable structure in one form or another to about 30-35%. There's no
+reason why we couldn't go back to 15%, let's say, something back to sort of the average pre-post
+World War II in an isolationist environment. I'm not saying that necessarily that that's a
+certainty that we're going to go there. I'm just saying if you're thinking about what this could
+look like in a sort of, let's call it a maxi isolationist environment, you could get to
+something that looks in that order of magnitude, particularly on a blocks perspective, so maybe not
+USA in particular, but like U.S., Canada, Mexico is a block or Western Hemisphere is a block.
+That would mean moving 15% of GDP essentially of global activity, basically duplicating something
+like 15% of GDP of global activity in one form or another. If that happens over the course of 10 or
+20 years, even 10 or 20 years would be a meaningful impact on economic conditions for the investor,
+the people building the capacity, and would be a meaningful detriment in terms of no new capacity
+build for the folks who are feeling the pain from the unwind of the globalization trends. That's a
+dynamic that could be meaningfully supportive to a U.S. economy, and I should say it happens
+in an environment where we're also having these demographic challenges, and so you have lower or
+falling supply of labor need to reshore, need to build parallel infrastructure. That combination
+of things is pretty challenging when it comes to thinking about how are we going to move and build
+and plus the skill loss that's happened over the last 40 years in terms of literally doing it.
+Putting that all together is a pretty challenging task if we're going to really decouple from each
+other. Yeah, and let me continue my U.S.-centric line of questioning here because this conversation
+comes just a few days after I had one with a demographer really getting into the challenges
+that, I mean, it's rampant across much of the world now. I mean, really, except for Africa,
+most countries are on track to basically start entering some form of population decline in the
+next couple of decades, and they're all aging as well, so the key productive age cohort of
+25 to 54 year olds is already shrinking in almost any country you and I can name except for Africa.
+So it sounds like part of the recipe for success going forward for
+countries is going to be who can attract and grow that cohort. If you can do it
+internally, great, but if not, what's your supply of new people who are going to be
+filling that need of younger productive workers? And I guess I want to sort of connect that to your
+comment there about, I guess, trading blocks where we've seen a lot in the headlines over the
+past couple years about the rise of the BRICs and a lot of postulation that the
+unipolar world is now becoming at least bipolar and who knows, maybe they might create their own
+competing currency and all that stuff. I don't want to get into that, but I guess
+in your study of this so far, what do you think is the likelihood that we will fragment
+into trading blocks where it'll be America -- I don't know who they are but I'm sure we'll still
+keep a lot of our Atlantic alliances and maybe get even closer to Latin and South America because
+that can be a source of younger workers for us and then have the rest of the world try to
+rotate around what seems to be the emerging BRICs access? Well, I think the story's
+probably a little different between the different major blocks when you look at
+the U.S. The obvious place to turn, which has the combination of geographic
+proximity, similar enough value structure and corporate structure and strong
+pretty well-educated labor force growth is for the U.S. to really turn first to Mexico, which
+of course we've done for 25 years, but then also turn to the rest of Latin America. I think
+that's really, from the U.S. perspective, I can easily see a transition here from a NAFTA block
+to a Western Hemisphere block being the primary economic engine, which is interesting because
+a lot of the talk with the BRICs is like the intersection between, say, Brazil
+and China. If anything, it seems like this shift to a less integrated world is more likely to
+break that rather than support that relationship, given the geographic proximity as well as, and I
+should emphasize, the capital flows dynamic as well. We've talked a lot about trade and
+production and things like that. That is also another very important dynamic here because
+when you go through a period where you're going to have to rebuild so much infrastructure,
+the places that are going to be able to do that most effectively are the places
+that have the deepest, most effective capital markets and access to capital.
+The U.S. dollar is a huge liquid capital market with tons of skill in terms of allocating it,
+particularly to emerging economies, whereas other groups like China have proven
+certainly to struggle to some extent in doing that access to global or providing global capital in a
+way that is at least economic in nature. They've been proven to be able to do it in a non-economic
+way through Belt and Road, but not really in an economic way that over time is going to really
+pay the dividends the way that the Western and particularly U.S. capital markets have
+become very effective in. All right, so just kind of connecting the dots from what you're saying
+here, I take it that there are definitely points of view out there that say, look, U.S. has had a
+great ride, but it's got a lot of problems and its best days are behind it, and whether we want to
+talk about its debt burden or the erosion of the middle class. There are whole litany
+things we could go through to say, okay, this is the list of reasons to be concerned,
+but with your broad brushstrokes, I'm sort of hearing a different story, which is,
+hey, the next couple of years may actually be pretty good in the U.S. and a number of other
+places because of this short-term stimulus from all the infrastructure spending and stuff like
+that, but also when we look at kind of who's positioned well for a potentially post-peak
+globalization world, the U.S. has got a lot of strengths going for it that a lot of other
+countries on the chessboard and even a lot of other big ones on the chessboard and China, etc.,
+don't have. So are you pretty sanguine about the opportunities for the U.S. economy from here?
+Knowing there are going to be bumps along the road.
+Yeah, I mean, I think my mind is, I'm reminded as a kid growing up in Detroit right around 1990,
+we, you know, there's the question of which sort of languages were you going to learn in school,
+in elementary school and middle school, and at the time we all had to learn Japanese because at the
+time everyone had penciled out that the Japanese, particularly in the auto industry, were going to
+take over the global auto industry and, you know, the U.S. was going to be beat and we needed to get
+on board and be prepared for that situation. And what we saw over the course of, while I was
+learning Japanese, the U.S. economy was having the single greatest period of 10 years of the last
+hundred, and Japan had a terrible outcome because of a combination of demographic and debt-related
+issues. And, you know, I don't want to extrapolate one place to another, but it certainly, all of the
+tales of China taking over everything in the world and being the great superpower certainly reminded
+me of the feeling in Detroit as a kid in 1990, learning Japanese, when I was hearing all of those
+tales over the course of the last 10 years. And so, you know, these things don't, they seem
+very obvious at the time that there's going to be one obvious winner and one obvious loser.
+When, you know, I think what's happened, what's been proven by the U.S. over the course of the
+last 75 or 100 years is, you know, a resilience to be able to reinvent and recreate and lead
+over and over again, despite the challenges of a variety of different powers that have
+threatened it. And so, yeah, I think there's a lot of stuff, there's a lot of things in place for the
+U.S. to maybe not be the sole leader or the only leader the way it was sort of in the post-war
+period, but to be, you know, the best amongst the opportunities that are out there over the
+course of the next 10 or 20 years. Okay. So, thank you. This has been a super fascinating
+discussion. And it's great to hear some of these fundamental reasons for long-term optimism, which
+is great. Let's translate this now into what you do on a day-to-day basis, right, which is figure
+out how to, you know, manage investor capital for the future you see ahead. And, you know, in
+theory, at least the economy and the markets should be connected to one another, but they're
+not the same thing. And I'm curious to get a sense for given kind of the macro outlook you've shared
+with us, kind of what kind of investing strategy you've put together. But I also just
+wanted to give a nod to the fact that, you know, you said this wasn't an asset price-driven
+expansion, but, you know, asset prices are doing pretty well right now. Animal spirits are running
+pretty high. We're back into margin expansion. We have a market that's got really narrow breadth
+right now. And so one can make the argument that asset prices, you know, could be excessive,
+at least relative to fundamentals in this current market. I wonder if you feel the same and how
+that might be impacting your investing right now. Well, I think I'd probably separate two things.
+A lot of what we talked about related to sort of the secular trend, the possible secular trend to
+de-globalization is really the sort of thing to start to think about for your strategic portfolio
+rather than tactical bets. Absolutely. That stuff's going to play out over decades.
+Over going to play out over decades. I think the thing that's interesting about that
+is that a lot of people in terms of their structural predisposition, in terms of where
+they would typically allocate capital, it's been very oriented around, you know,
+strong growth, low inflation, that's basic, which has been a great trade for the last 30 or 40 years
+of global integration. And what we see here, you know, in a post-globalization or deteriorating
+globalization world, which is likely to have, you know, higher inflation, higher pressure on
+commodity prices, et cetera. I think that's a real interesting story from a strategic perspective
+where the vast majority of investors are totally unprepared for that, right? They're basically
+prepared for the next 40 years to be the same as the last 40 years. And it's very possible we see
+a totally different environment where there's persistent pressure, upward pressure on inflation
+and, you know, higher levels of risk in the economy than what people saw before. So from
+a strategic perspective, it really draws you away from sort of traditional 60/40 to much more
+balanced, particularly holding diversified commodities. I think also in that context,
+the de-linking of, you know, global capital markets will likely cause those outside of the
+dollar market in particular to look for other monetary assets. You know, I'm kind of an old
+school macro guy, so my mind, of course, gets drawn quickly to gold and the demands basically
+from non-US entities to hold gold as a way to hedge, you know, dollar exposures and that
+withdrawal of capital. You know, people who are into the world of alternative money might also,
+you know, argue and reasonably argue that maybe Bitcoin is a reasonable alternative as well and
+might cause, you know, might be an area where, you know, folks who may not have access to dollars
+might choose that as a currency to either save or transact. And I don't have a particularly strong
+view on Bitcoin one way or the other, but, you know, I think there's some reasonable logic
+related to that that would align with this more secular view. In a secular inflationary world,
+investing in something that sort of holds its purchasing power as an inflation hedge
+makes sense. That's right. And finding other money other than dollars if you're locked out
+of the dollar system, either as a saver in a state level saver like a sovereign wealth fund
+or central bank, or as an individual saver, you know, where, you know, having dollars stuffed in
+your mattress if you're in Beijing may not be as effective in the next 20 years as it was, you know,
+in the previous period. And so I think that's kind of an interesting, you know, basically an
+interesting sort of strategic situation for many portfolios that are just not very well prepared.
+You know, what happens if, you know, inflation is not at 2% or 1% for the next 20 years because of
+all the dynamics we described? What if it's at 3 or 4%? That's a very different environment than
+most people have saved in. So that's, you know, I think that's probably the most interesting
+strategic story that's going on. Great. Sorry to interrupt, but just to maybe add so you can riff
+on this. But a higher inflationary world generally means a higher interest rate world, correct? I
+mean, interest rates are basically a function of inflation and inflation expectations. So higher
+cost of capital. I just want to put that into the mix because you said it may be a very different
+next 40 years than we've been used to for the past 40. And the past 40 was disinflationary and just,
+you know, an escalator down in bond yields. So that could be a very different world going forward.
+That's right. I mean, I think whether or not inflation remains elevated or ends up being
+elevated meaningfully relative to what we experienced is really a choice by the central bank.
+The question is not whether or not there will be inflation pressures as this plays out. There will
+be inflation pressures that will emerge as a function of this. The question is, you know,
+how much inflation is going to be taken versus how much is the Fed and the central bank going to,
+and other central banks going to basically keep a lid on that inflation by keeping interest rates
+high and suppressing demand in that context. And so you don't know which one it'll be,
+so you kind of want to be positioned for both of them. I think one of the key things that,
+you know, it's a particularly large flip from the era of zero interest rates and unlimited
+money supply that many businesses and investment strategies frankly have been built on. So if you're
+a venture capitalist or private equity manager, like it has been a great 15 years, but it may
+well be quite a challenging next 15, which we're just at the start of, if you're reliant on,
+you know, zero interest rates and unlimited liquidity in an environment where we have,
+you know, this amount of infrastructure rebuilding and elevated inflationary pressures.
+Okay. All right. So those are sort of secular outlooks. And if I took decent notes,
+you think sort of inflation hedges make sense to have in there, especially for
+people in countries that are exposed to dollar risk. I guess one question on this,
+folks like Jeremy Grantham, you know, highly respected investors, you know, he for a while,
+and I think he still continues to say, hey, you know, lots of opportunity in emerging markets,
+don't forget about those guys. And of course, price and value are two different things. But
+my guess is you would say emerging markets are not going to perform as well as some might think
+in the type of, should we go down this increasingly deteriorating globalization path?
+Well, I think it matters a lot. There are no emerging markets. There are countries and there
+are particular economic conditions. And so the path that we've described actually could be very,
+very, very positive for a country like Brazil, right? With, you know, strong demographics and
+geographic proximity and, you know, relatively well-managed actually macroeconomic conditions
+and elevated interest rates that could come down. And, you know, that's a combination of things that
+actually could be very positive for a country like that. Whereas the story for, say, Philippines or
+Vietnam, which may be locked out, you know, may be forced to instead of being sort of a globally
+integrated economy, be a China block integrated economy, it could be quite poor for them. So
+matters a lot who we're talking about in that context.
+Got it. Okay. So take a very active approach to it. And it really matters what team you're on and
+what the prospects of that team have. Okay, great, great clarification. All right. So if we can bring
+in our beam from years to decades out to 2024, and let's say at least the parts of 2024 and your
+headlights feel comfortable talking about here, what are you looking at right now? Because the
+vibe I got from you sort of earlier is pretty good in the near term, right? So is it sort of game on
+for everything? Or are you worried at all about how far and how fast stocks have gone or any other
+assets? Well, I think one of the fun things about being a macro investor is you can pick the trades
+that you want to pick and not trade the things you don't want to pick. And that's an important thing.
+You don't have to trade every market. You don't have to think about every market. You just want
+to find the best opportunities. And so I think coming into the year, the best opportunity seemed
+relatively clear that we were probably not going to have seven cuts that were priced in to the US.
+And probably there was going to be pressure on bond yields to rise and for stocks to outperform
+bonds. Now, the reality is in the last six weeks, pricing has changed a lot. Just before we got on
+here, I was looking at it and now we have three cuts priced in for '24, not seven cuts priced in.
+That's a heck of a move, particularly in eight weeks. That's a heck of a move to have seen
+over that timeframe. And so now interest rate policy on the short end is reasonable. Maybe
+there'll be less than three cuts because the economy is stronger and inflation is a little
+higher. But you don't want to pick trades that are the difference between three cuts and two cuts.
+Who cares? No one has that level of precision. The difference is between seven and three and two.
+That's what you want to trade. And so right now, when I look across the overall financial markets,
+you have a strong economy, you have elevated inflation pressures, you have a Fed that probably
+is going to be a little more cautious than what many people had expected. And I should add,
+and you have large fiscal supply that's coming into the market that's going to pick up by 50%
+on a net issuance basis in the second quarter of the year. And so the real question is,
+why are bonds... Can bonds continue to be priced in a way where there's essentially a zero term
+premium on the long end of the bond market given that set of macroeconomic conditions?
+It seems unlikely we're going to see that. And so yield curve steepening seems like one of the most
+compelling dynamics right now. Right now we have an inverted yield curve and we still have an
+inverted yield curve. And so seeing a shift to a steeper yield curve environment seems compelling
+given what's happening with the macro economy and also what's happening with the overall flows
+dynamics. So that's really what I'd center on. I just want to make sure the viewers are following
+you here. So when you talk about a steepening of the yield curve, I believe you're talking about
+the long end of the curve catching up to where short-term rates are right now versus the other
+way around, right? Exactly, exactly. Which means that bond prices will come down, yields will go
+up. That's exactly right, is that a lot of the tightening, I mean, essentially a lot of the
+tightening that we've seen so far has been really the short end dragging up the long end, rather
+than the long end reflecting the underlying strength in the economy, the inflationary
+pressures in the bond supply. And so that's the sort of thing that can continue for a period of
+time. But it's almost like each day the recession doesn't come, the long bond holders look at
+themselves and say, ooh, this may not be the right trade here. I'm not sure I necessarily want to
+hold this much duration. I might not want to hold as many bonds as I'm holding right now,
+just as the supply of the bonds coming into the market is rising substantially. And so that really
+looks like the best opportunity when I scan across the markets and look at all the different things.
+Now, most people don't care about trading yield curves or short rates, they probably mostly care
+about equities. And what I'd say there is we've gotten a heck of a run of stocks in particular
+relative to their performance versus bonds. We've got a heck of a run on that. And the economy is
+strong, but it's going to be tough to meet the level of expectations, particularly in
+earnings that exist in the market, whether it's in the MAG-7, but also S&P 493 is expected to have
+double digit, higher double digit, year-over-year earnings by the end of the fourth quarter.
+That's going to be tough. It's not impossible, but it's going to be tough. And so
+I think we're transitioning and you just even see it in the market. Those bond yields rising are
+putting a feel of a bit of a lid on what's going on with stock price appreciation. And so
+that dynamic, that interplay will probably add up to a more contained equity market environment
+on a forward-looking basis than what we've seen over the course of the last three or four months.
+It's been a heck of a ride in the last three or four months with any context. It's been one of
+the best stock market three or four months that has ever existed outside of bounces at bottom. So
+it would make sense to have a bit of a pause on a forward-looking basis, particularly if
+we see a yield rise that comes with it. Okay. And I'm just curious, how are you playing that?
+Are you actually beginning to sell here and lock in these gains? Are you just putting hedges in
+in case there's a correction? Are you making big sector rotational shifts? How are you
+dealing with that reality of, "Hey, we've had it. Great. We've had a nice surprise on the upside
+here. What are we going to do about that going forward?" Well, I think that still the best trade
+if you're going to hold equity risk is stocks versus bonds. And so the thing that I see on
+that is cutting back the strength of that position, which has been a heck of a position in terms of
+trading over the course of the last 12 weeks or something like that, and instead shifting.
+If you agree that the US economy is likely to be in pretty good shape, then you're better off
+betting it on yield curve steepening than you are on betting it on stocks outright or stocks
+versus bonds, given where stocks are. If we get another couple of quarters of 3% GDP growth,
+bond yields are going to move up a fair amount relative to short rates, and that'll be a pretty
+good trade. So whenever you're trading markets, it's always a question of where is the best
+disconnect between what's likely to transpire in the macro economy and what the markets are
+pricing, and that's where the best disconnect exists today. All right, that's great. So Bob,
+thank you so much for coming on here. I just have a couple of quick last questions for you. We'll
+wrap it up here. But I do want to say I have a lot of people that come on this channel. We do
+four interviews a week, so you can imagine we produce a fair amount of these discussions over
+time. And I would say that you are more optimistic than the average, and people are always asking me,
+"Hey, you should get more bulls on the program. Why do you interview all these bearish people?"
+And I don't recruit people for bullishness or bearishness. I just recruit people who are data
+driven in their framework and can have a data driven rationale for why they see what they see.
+And for whatever reasons, the majority recently have been more on the pessimistic side. So it's
+really nice to hear the other side of the argument and explained so clearly and well here. And then,
+of course, viewers can pick and choose which argument they think, personally, is more
+compelling. First off, would you call yourself bullish right now? Again, I don't want to put a
+label on you if you feel like it's an unfair one. But I think relative to the people who've been on
+this channel recently, I would describe you as such. Yeah, I wrote at the beginning of the year,
+my view was, instead of this idea of higher for longer, my thought was stronger for longer. And so
+you call me an economic bull. And then what that means for asset prices,
+that means I'm a bond bear as a function of that. A macro guy doesn't think about bullish and
+bearish as only one particular asset. You think about all the assets and bullish stocks versus
+bonds, bearish bonds, bearish short rates, all of those things are all around the central idea that
+the strength of the economy is not sufficiently reflected across asset markets at this point.
+Okay, great. And I should have qualified. I would have been an economic bull, but yes. Okay, great.
+An economic bull.
+Great, great. Well, the door is open here to come back on anytime in the future you'd like to when
+you're seeing anything positive or negatively on the horizon that is evolving the way that you
+think. It's really nice to have people in both camps here that, again, aren't doing it from a
+place of dogma. They're just doing it from a place of looking at the data and then making their case.
+All right, so two last questions for you. First one, very important. For folks that have really
+enjoyed this discussion and would like to follow you in your work, where should they go?
+Yeah, I'm very active on Twitter or X or whatever the heck you call it these days. I still go to
+twitter.com every time I write a tweet every morning. It's @bobbyunlimited. I'm very active
+there just on the play-by-play of what's going on in the macro markets. And then if you
+don't like to read tweets and like videos, I also have the last couple months started a YouTube
+channel, also @bobbyunlimited, with clips from various appearances. And then for those of you
+more into the finance industry dynamics, I use LinkedIn to talk a little bit more about some of
+the dynamics that are going on in the asset management business as well, which you can
+find me under my name. Awesome. Fantastic. And when I edit this, Bob, I'll put up the URLs to
+those on the screen so folks know exactly where to go. Folks, we'll have them listed in the
+description below the video, too, if you want one-click access to them. Okay, I'm going to ask you
+the last question in just a second. I got a little bit of housekeeping to do beforehand, but just to
+give you a heads up. It's that we've been talking about all sorts of macro market money related
+topics here so far. What's one non-money related investment that you would encourage people to
+consider adopting in their lives? And I'll give you 30 seconds to think about that while I just
+do our housekeeping here. First off, folks, if you've really enjoyed having Bob on, we'd like to
+have him come back on in the future again when he's got the next big
+insight from what he sees through his forward telescope there. Please let him know that by
+hitting the like button, then clicking on the red subscribe button below, as well as that little bell
+icon right next to it. I want to remind folks that the Thoughtful Money Spring Conference is coming up
+very quickly now, so less than a month away. The lowest early bird price discount that we're
+offering for tickets is going to expire soon, so if you're thinking about coming to the conference,
+lock that in by registering now. And a reminder, if you're a premium subscriber to our sub stack,
+you'll get an additional $15 off of that lowest early bird price. And if you want to game the
+system, it only costs $15 a month to become a subscriber. Feel free to sign up for the $15.
+Use it to save the $50. Pocket the $35. I want you to get the best deal you can get. Lastly,
+Bob's given us a lot of great things here to think about. A lot of different ways to look at what's
+going on right now for the average investor. I know it can be kind of overwhelming, which is why
+I recommend that most viewers work with a good financial advisor, work under the guidance of a
+good financial advisor, but importantly, one who takes into account all the macro issues that we
+talk about in this channel, including the ones that Bob and I talked about here. And you know,
+when you add those series of requirements together, the universe of financial advisors
+really gets pretty small. So if you've got a good one who's doing well and will buy you for that,
+great, stick with them. They are worth their weight in gold. If you don't, though, you'd like
+a second opinion from one who does consider talking to one of the ones that's endorsed by
+Thoughtful Money. To do that, just go to ThoughtfulMoney.com, fill out the very short
+form there, have one of those free consultations. They don't cost anything. There's no commitment
+to work with these guys. It's just a free public service they offer to help people position
+prudently today in advance of what may be likely to happen down the road. Alright, Bob, thanks for
+your patience there. We're now back to you. What's one non-monetary related investment you think is
+worthwhile considering? One of the things that's really, I think, been compelling in the course of
+my life is walking, which is, you know, this is going to be, it feels like a pretty low-key
+idea, but you'd be surprised at the magnitude of the benefits that come with walking,
+both intellectual benefits in terms of, you know, creativity and thinking through problems. Some of
+the best work that I do and thoughts that I come up with occur on the morning walk with a dog or a
+quiet walk with a colleague. And also, I think one of the things that's even more compelling about it
+is, you know, there's so many people so focused on, you know, various forms of exercise. You know,
+there's no meaningful health difference between similar distance walking and things like running
+and other cardio outcomes. And actually, one of the things that came out in the middle of COVID,
+which didn't get nearly as much press as probably deserved, is 12,000 steps a day reduces all-cause
+mortality by 60% once you account for all the typical issues like smoking and diet and other
+exercise and other health conditions, which like, if I told you, what's one thing you can do to
+reduce your probability of death by two-thirds, like, would you do it? You know, you probably
+should. So, you know, 12,000 steps, do it. I'm so glad you brought that up. I completely
+agree. And more important than me agreeing with you are guys like Mark Sisson and Peter Attia,
+who are some of the greats now in the functional health space. Mark Sisson has been doing this for
+much of his career. He's in his 70s now. He still looks amazing. And he was a big runner. That was
+sort of his on-road to health, fitness. And I heard him interviewed recently and they sort of
+asked him, "Hey, you know, what are some big changes, you know, you may have made as your
+thinking has evolved?" And the top of his list was walking. And he said, "I kind of looked down
+as a runner, you know, but as I got older and I started walking more and I actually saw the
+benefits of the two," he said, "I think that walking is the perfect exercise for humans."
+He said, "It's the movement that our bodies are most evolutionarily adapted for and the health
+benefits of it are great." And there's a lot of data out there where folks, you know, can go find,
+see the proof of that on their own. But the thing you also mentioned that I just want to underscore
+is the mental health benefits and sort of the expansive thinking. And I assume,
+I presume what you're saying when you're walking, that's walking in a disconnected state from
+digital distractions, right? Oh, yeah. Yeah, for sure. That's actually having a dog is the best
+thing for a walking environment because, you know, you have to pay attention to your dog the whole
+time. Well, you know, I'd also just say having a dog is the best thing. They are the best mental
+health boost in the world because, you know, having somebody that treats you like you're the
+most important person in the universe to come home is great. All right. Well, look, we'll have
+to wrap it up there but wonderful answers all across the board. Bob, really appreciate your time
+here. Thanks so much for coming on the channel. Everybody else, thanks so much for watching.
