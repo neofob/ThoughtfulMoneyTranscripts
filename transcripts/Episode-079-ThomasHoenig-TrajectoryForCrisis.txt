@@ -1,0 +1,682 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. The Federal Reserve is one
+of, if not the most significant institutions in the world, given the global impact of its policy
+decisions. It influences the price of nearly everything, as well as the availability of jobs,
+the stability of our banking system, and the purchasing power of our money. When the Fed chair
+speaks, the entire world stops to listen. But the average person has a poor understanding of how
+this colossally important entity operates, or even why it exists. And after a series of asset price
+bubbles, which some argue were in another one now, a chorus skeptical of the Fed's actions has emerged.
+So today, we're doing our best to shine as bright a light as possible on the Fed. How and why it
+operates, the good as well as the shortcomings of its actions to date, what directions its policies
+are likely to take from here, and how all of this impacts the households of regular people just like
+you and me. We've got the great privilege of speaking today with Thomas Honig, former CEO of the
+Kansas City Fed, former voting member of the Federal Open Markets Committee, a former director
+of the FDIC, and now a distinguished senior fellow at the Mercatus Center. Dr. Honig, thanks so much
+for joining us today. Thank you and thanks for having me. I look forward to the conversation.
+Thank you. I do too. It's a real privilege. I must say, too, I made the wise or foolish decision to
+let my viewers know that you were coming on for this interview, Dr. Honig, and invited them to
+submit questions. And I got buried under the edge. I lost count as we got near 200 questions. Folks,
+I pulled as many of those as I can to ask Dr. Honig here, please forgive me, I'm not going to get
+through even a small fraction of all the questions that were submitted, but I tried to
+really pull the most representative ones out. I also must say, Dr. Honig, in the commentary that
+folks submitted, there was an awful lot of praise for you. A lot of folks have read the book The
+Lords of Easy Money by Christopher Leonard. You play a big role in that book. Folks
+really appreciated the role that you played during the great financial crisis in terms of
+doing your best to shape Fed policy there. You were a dissenting voice, which we'll talk about
+in just a moment. But there were other folks there, too, in the comments that have some
+personal connections in one way or other to you. I think one person, their brother had
+worked with you and just couldn't say nicer things about you. So I wanted to acknowledge
+that. If I can, let me just read one quote that somebody submitted here, too. They said, "Look,
+I don't have any questions other than thanking him for trying to do the right thing. Unfortunately,
+more often than not, people 'grow a conscience' only after they've left a position of power and
+responsibility. He is the exception." So I just want to let you know, you've left a very indelible
+mark there in the consciousness of a lot of these people. And I'll be transparent, Dr. Honig,
+this is an audience that spends a lot of time focused on macro.
+I wouldn't say there are too many Fed lovers in the audience and that might be for good
+reasons. It may not be and we'll hopefully clarify here today. The purpose of this conversation is
+literally just to try to help people get a better understanding of how the Fed operates and perhaps
+your own personal point of view on a number of issues. We're not here just to bash away,
+but there are a lot of skeptics out there. But anyways, you seem to be the exception
+in their mind. So again, congratulations. So lots and lots of questions. I'll stop rambling
+and we'll just jump in. If we can start with a very broad question and do your best just
+to give us the elevator pitch on this. We don't have to go super into it, but
+at the highest level, why does the Fed exist? What's its purpose?
+Well, it has more than one purpose, but the one that we focus on mostly is in the conduct of
+monetary policy for the United States and to provide liquidity in a consistent manner for
+the United States over time. And very quickly, in the 19th century, where there was not a central
+bank of the United States, there was not a Federal Reserve, the country would periodically run into
+major liquidity crises. There was not enough money. It would flow to the wrong place. And
+the Federal Reserve was established to help mitigate those liquidity crises. And then it
+became more and more involved as a creator of money through its so-called open market operations.
+That is its ability to buy assets, primarily treasuries or mortgage-backed securities,
+by actually creating a liability on itself to the banking industry. That is truly
+creating money. And so that's become kind of the central role and a very important role,
+as you mentioned, because it is the provider of increases in the money supply in the U.S. economy
+to provide liquidity into the economy. And the goal is to provide greater stability.
+And that's where some of the disagreements come, as whether they're actually providing more
+stability or creating instability. Okay, well, we'll get into that, maybe,
+you know, unintentionally creating instability rather than creating stability. Let me ask you
+this. So when you said it was created to help prevent liquidity crises that we saw in past
+centuries, we've heard the term sort of lender of last resort. So is that initially why it was
+created, which was when we get near a crisis, then the Fed can, and nobody is, you know, willing to
+lend to each other, the Fed can step in and be that lender of last resort? Was it really sort of
+created as an emergency measure? In a sense, yes. It was created because banks make loans. They're
+an intermediary. They have short-term liabilities and longer-term assets loans. And so when people
+become uncertain or when the economy has an event, you know, it could be a war, it could be a pandemic,
+whatever, then people don't want to lend any loan. Banks are unable to lend. People don't want to
+leave their deposits with them. They want to have it in their hand. And those times created
+panic. You couldn't get your money, you couldn't make payments. And so the Fed was established to
+be able to take from the banks and their collateral, that is their loans, put them on
+there as a security, and then they would make loans to the banks that would give them the cash
+to make payments to these folks who were uncertain and wanted their cash in their hand. And then when
+the crisis passed, people would put their money back in the bank and the bank would repay the loan
+and life would go on. The difficulty is that that became more and more of a standard operating
+procedure. And then the Fed learned how to operate its so-called money desk by actually increasing
+the amount of money on an ongoing basis to provide liquidity into the system to allow the economy to
+grow and to prosper and to reduce unemployment. And then it became a policy tool, not just for
+liquidity crisis but for continuing to grow the economy over time. And that's when it shifted to
+a broader role in the US economy. Okay, so it did evolve from initially sort of a break glass and
+kind of emergency role to an ongoing management side. If I can say, for example, it was the
+discussion about creating the Fed came after a panic in 1907 when one bank had a difficulty and
+people became very afraid and wanted to withdraw funds and we had a liquidity crisis across the
+country. And the banking industry itself led by at that time Morgan of JP Morgan found ways to
+accumulate cash to over time address that crisis. But people said that's no way to act. It was,
+that was no way to perform. So we had to create something and they came together and created the
+Federal Reserve at that point. And it was, and even creating the Federal Reserve was very
+controversial. That's why you have a so-called public sector, which is the Board of Governors
+and a more private sector, which is the Federal Reserve banks. And there's 12 of those located
+across the country from Boston, New York, all the way to San Francisco, including Kansas City.
+Right. Which you ran. Which I ran for a number of years.
+All right. So sort of where I was going with this is so that the Fed's role and responsibilities
+have expanded over time. And some might sort of call that mission creep. I'm not saying
+necessarily that it is, but it raises the question, is all this needed or was this just sort of an
+entity that found itself in a position where it could increasingly expand its power structure and
+ability to influence? I guess I'd love to hear any thoughts you have on that, but let me let you
+give your answer in the context of my next question, which is what is your current assessment?
+If that's what the Fed's mandate was when it was created, and then you know how it's evolved since,
+what's your assessment of its level of success to date? How well has it delivered upon
+the mission and the hopes and the expectations? And maybe you sort of like societal good as your
+main metric for has it been successful? That's a very good and difficult question.
+Track record has been mixed. It is in some ways and in important ways responsible for the Great
+Depression, because during that period when it should have provided more liquidity, it did not
+provide more liquidity. And so that caused the recession or the recession to become a depression
+during that period. It was mixed in the 70s, for example, when we had the Great Inflation, because
+the Fed in its efforts and its desire to provide enough liquidity provided liquidity on a constant
+but somewhat inconsistent basis over the decade, and that allowed inflation to go from as low as
+one or two percent to 14 percent when the decade of the 70s ended. And it was successful in the
+early 2000s after the recession in 1999, because it lowered rates and provided liquidity, but then
+it went on too long and it created asset bubbles and housing boom and so forth that finally erupted
+in the Great Financial Recession of 2008-2009. And then it again from reacting that created too much
+liquidity going into the next decade, which allowed its balance sheet to get out of hand,
+distorted the distribution of wealth in the nation. So it has helped provide liquidity
+into the markets that has allowed the markets to grow over time, but also it has also created
+volatility periodically over those years, which is why I say its track record is mixed. And I think
+we have to acknowledge that. And I think the Federal Open Market Committee, the Federal
+Reserves, has full discretionary authority to conduct monetary policy. So it's its judgment
+that dictates whether it increases or decreases the amount of money or liquidity into the system.
+And there probably, in my opinion, needs to be some boundaries put around that to where they
+can't do it beyond a certain point without making it a political event and having to go to Congress
+for permission to stay outside the boundaries, which I think would bring more discipline to the
+process. Okay, excellent. You're heading towards territory that I'm looking to ask you some
+questions on, which is great. And I do want to put a pin in your point there about spurring
+wealth disparity through its policies. It's something I talk a lot about on this channel,
+and I'm just giving you a heads up. I'm definitely going to ask you some questions about that in a
+little bit. All right, so just getting back to sort of how you currently look at the landscape,
+I'm curious to hear what your current assessment of the macro situation that we find ourselves in
+right now, in terms of where we are, in terms of economic growth and inflation and interest rates
+and all that, with the lens of, given how you evaluate the current macro situations,
+are the Fed's current policies the right ones? Well, for the moment, I think that they are the
+right ones. They went on with easy monetary policy too long after the pandemic. And that
+created the very high inflation rates that have been very harmful, I think, to the US economy.
+Now, part of that was supply disruptions, but a big part of it was growing their balance sheet from
+less than $4 trillion to $9 trillion in about a year. So we had 9% inflation. So since then,
+they've raised rates from literally nearly zero, 25 basis points, to five and a quarter percent.
+And that has helped bring the inflation levels down, as well as supply has also been improved,
+but so has constricting the excess demand that was created with this very,
+very accommodative monetary policy and liquidity creation. So they have done that. And that,
+you know, was too late in one sense, but at least they got it done. And we've got inflation back
+to at least 3%. It needs to be lower than that, I would say. So right now, they're following,
+I think, a pretty good policy. They're in debates. Everyone's talking about the fact that they're
+going to lower rates in June. They even themselves talked about lowering cutting rates in the fourth
+quarter of last year. That has been, I think, counterproductive. But now they are in a dilemma,
+because everyone's now expecting rates to be cut in June. But the conditions are that we're kind
+of in an inflationary recycle. Inflation has been up the last two months. We saw recent data coming
+out where inflation is up, commodity prices are up, wages are up, services prices are up, housing
+is up. So now they have a dilemma. They're going to have to at least stay where they are if they
+don't raise rates. And they have indicated they're not going to raise rates. But they at least should
+not be cutting rates until inflation is much closer, at least to the 2% target. So I call it
+it's their time to walk the tightrope. Do they give in to the pressures of Wall Street and
+others to lower rates? Or do they say, no, inflation has to be brought back down and we're
+going to see it through? And that's their dilemma. And I hope they stay and see it through to bringing
+inflation back down. Because otherwise, inflation will reignite and they will have a bigger problem
+two years from now. >> Okay. I have a zinger of a follow-up
+question, but I'm going to wedge something in it beforehand, which is, okay, so we have
+interest rates up now above 5%. A lot of people, at least that I talked to on this channel
+two years ago when this all started, this whole hiking regime started, said, yeah, there's no way
+they're ever going to even get above 3%. The economy just can't handle it. We've got so much
+debt now. I guess one question is, well, there's so many ways I could take that. But I guess the
+key question I want to ask is, do you think that Powell's sort of dovish pivot, at least in terms
+of the guidance he's been giving, that in mid-December sort of surprised everybody, we went
+from not even talking about rate cuts to, oh yeah, sure, we're probably going to do some next year.
+Do you think that that shift in the visible bias towards cutting now is coming from confidence,
+where if you listen to his press conferences, Powell says, well, we don't want to wait until
+inflation gets down to two because there's all this momentum behind our hiking regime, and then
+inflation could get "too low," lower than we want. So we got to start cutting earlier. Do you think
+it's due to confidence like that, or is it due to fear that the lag effect of this higher cost
+of capital on the economy, the longer we stay up at these high rates, we start getting into
+the danger of debt defaults or corporate earnings constriction as companies and households hit the
+maturity wall? Well, it's probably a combination, but certainly there was this strong view that
+inflation was under control, that it was coming down rapidly, that we've been successful,
+and therefore we can think about cutting rates.
+Just to include this in your answer, but he's not ignorant of the '70s. As you said,
+it ping-ponged around. You don't want to have hubris around this because you saw what happened
+last time. Well, exactly, and the second part of it is he is very, I think, legacy conscious. I'm
+putting words in his mouth, but I'm saying legacy conscious, that he does not want to be known as
+Arthur Burns who allowed inflation to ignite. He wants to be more in the viewed as a Volcker-like
+person who took strong actions and brought it down. So that's where his bias was, but he also
+does not want to have a renewed recession that would bring a great deal of unhappiness
+on Wall Street and perhaps in the markets more generally. He doesn't want to see unemployment
+go up, and therefore he's anxious to say, "We won the inflation fight, so now we can
+start assuring that the economy doesn't fall into recession because of our tight policies,
+and therefore we're cutting." And so he's in that dilemma, and he has to work his way through it,
+and so does the FOMC. My view is, and I wrote on this, that the '70s is more likely to repeat
+itself if you get too confident too soon. And I even said when they were talking about this
+in December, that if you look at the consumer price index, since June, since they stopped raising
+rates, it has not fallen really much below 3%, and core has been clearly 3%. So why are they talking
+about cutting rates? It wasn't as if they were coming down from three to two and a half. They
+were staying around that 3% range, and they should have been more cautious in their words and actions
+to where they're not in this position of, well, if they don't raise rate in June, people are really
+going to have a market tantrum. So now they're in a tighter spot than they would have otherwise
+have been. But it's a tough job, and you make those choices. And the desire to reassure that
+we're going to have a soft landing somehow got ahead of itself. So let me ask this. Look,
+obviously, I mean, you tell me, but you know better than I, but obviously, I don't think
+any Fed chair would ever say, hey, folks, we're going into a recession. We need a recession,
+and I think we're going into one. We're trying to, or even worse, we're trying to engineer one,
+because then everybody would price that in, and you would instantly get the recession.
+But let me ask you this. The Fed and our fiscal and political authorities,
+from my vantage point, they just seem to want eternal summer. Like every time there seems to
+be a hint that the business cycle wants to actually go into a downturn, which is natural,
+we act like it's this abomination and must be suppressed at all costs. Is that true or
+am I overstating it unfairly? But it seems that they just don't want the business cycle to happen
+anymore. But that is the natural way of things. That's what clears out the malinvestment.
+You said he doesn't want to stay too high, too long, and cause a recession, but really,
+shouldn't at some point we say, look, that's part of it. Yeah, we need to have a recession. Maybe
+let's try to manage it so it's not terrible. But yeah, let's have a clearing out cycle from time
+to time. Well, a very good point. But here's the difficulty. Policymakers, whether it's a committee
+or a chairman by himself, they are prone to want to have good outcomes. And good outcomes are
+defined as low unemployment and low inflation both. But the bias is towards low employment.
+And what we had in this country for generations was we were on perhaps an inefficient so-called
+gold standard. But the main point of that was it was a rule. You had to be able to redeem
+and make good. And that became the discipline. But we gave that up in 1971. And we made the policy
+choices now fully discretionary. The committee gets to decide Congress on monetary policy,
+Congress on fiscal policy. And the politics of it is we want to make our public happy with us.
+And the way to do that is to have full employment and a good economy. And you think about that in
+terms of always the short term, always looking towards full employment, which then leads you
+to make these mistakes and not allow the markets to clear that if you have too much stimulus,
+you'll create inflation. You'll have a need to really tighten down and create a recession.
+And part of monetary policy's challenge is the political side of things, fiscal policy.
+Because in the pandemic, we increased our spending in one year between 2019 and 2020 50%.
+So we moved from $4.5 trillion to about $6 trillion, rounding numbers here, but in one
+year. And then we kept it there. So the national debt increased from that period of around $24
+trillion over time to now it's $34 trillion. And a big part of that was the Federal Reserve enabling
+it because the Federal Reserve bought a good deal of that debt and put it on its balance sheet and
+printed the money to do that. So in an effort to make sure that no one suffered from the pandemic,
+they engaged in both very strong fiscal stimulus and very strong monetary policy.
+But the problem was the worst of the economies was over by the fall of 2020, the fall,
+not the winter, not the following year, the fall. And yet the stimulus programs,
+infrastructure spending, chip spending, manufacturing,
+subsidized chip manufacturing spending, infrastructure spending, and the Federal
+Reserve was buying on average $120 billion of debt every month. And so you're putting all this
+new printed money into the system. And it, of course, created an asset problem. We saw housing
+more than double or double. We saw the stock market boom. We saw all these assets, even
+commodities. And then, okay, so we increased interest rates to bring inflation down after it
+got to 9%. And we're sitting there saying, well, we'll do it. We'll bring it down. It's coming
+down. That's good. So now we don't have to worry about it so much. But the fiscal side is still
+spinning. They're borrowing more than ever. And the Federal Reserve has to stay there and say,
+am I going to allow this to continue? Well, they're saying no. But right now there's a
+lot of excess liquidity still in the marketplace. And so that's what's funding the government debt
+and the private sector. But that's going to go away. And that's when the challenge will come
+back to the central bank. Are you going to monetize the debt some more? Are you going to
+hold firm and force the Congress to pull back spending? And are we going to suffer a recession
+at that point? And that will be the hard point for both the Congress and for the Federal Reserve,
+that to this date, they've been able to finesse through, but I don't think that's going to last
+very long. Okay, so when I mentioned I had a zinger of a follow-up question, this was it,
+which was you said that at least at this snapshot moment in time, you think the Fed's policies are
+about right for where we are. My follow-up was going to be, well, what about the fiscal policy?
+It needs serious work. It needs serious work. We are going to run a trillion-dollar deficit.
+We're going to run more than a -- we're going to have a trillion dollars of interest payments
+at a $2 trillion deficit. And that's not sustainable over the long period. And by that,
+here's what I mean by that, though. It doesn't mean we're going to fall off a cliff. We're
+the United States. We have a lot of industrial capacity to keep going. But here's what happens.
+When you do that, to fund that debt, two things has to -- you have three possible
+buyers of the debt, foreign interest, domestic interest, and the Federal Reserve. And we know
+that foreign interests have -- they're kind of pulling back. They have enough U.S. dollars,
+trillions of them. The domestic side, they've picked it up. Money markets are now buying -- with
+all this excess liquidity, they're buying some of the debt. And they love the short-term rates.
+And they love the short-term rates. So what used to be an excess of their money that the
+Fed pulled out, which was $2.5 trillion, is now less than a half a trillion. So that's coming down.
+And the banking industry has also moderated its own holdings of it, allowing the money markets
+to take that. But then that leaves the Fed. And the Fed said, well, I'm not -- we're not going
+to buy any more of your government debt for now. And so that means that it has to go more and more
+from the private sector, right? They have to lend to the government, the private sector in the U.S.
+And over time, as that extra liquidity that was sitting in those money markets goes away,
+it's going to have to come from others. And that means private sector borrowers are going to have
+to start competing with the government for those funds unless the Federal Reserve starts to print
+money. And that's when the challenge comes. And I think we've -- because of all the excess
+liquidity that was already there, we've avoided that. That -- the day of reckoning lies ahead.
+And so when I say the Fed is doing okay, they're trying to bring inflation down. They have rates up.
+But the federal government is still borrowing far more than the private sector over time can fund
+for it without causing interest rates to rise and hard times to become more likely in the future.
+All right, so how do the monetary and fiscal heads dance together, if at all? So do they
+coordinate or is the Fed looking at the Treasury right now and saying, in Congress, and saying,
+"Guys, what are you doing? You're making my job a lot harder." Well, whenever Chairman Powell has
+asked that question, he says, "Well, we don't do fiscal policy. That's their issue. We have to
+watch our monetary policy." And that's a fine answer if what he means by that is we're not going
+to monetize the debt. But what he -- I hope he's saying, at least in private, to the Secretary of
+the Treasury, to members of Congress, to members of the Senate, "If you guys don't get your act
+together and get this debt under control, you're going to put us in a very difficult position,
+because we cannot -- we cannot monetize your debt without causing inflation to reignite,
+and we are not going to do that. That's not our job." If he's saying that, then more power to him.
+I don't know what he's saying. I hope he's saying that. But then the time will come when that has to
+be addressed, and he's going to have both political parties yelling at him. He's going to have a lot
+of unemployed people yelling at him when they should be yelling at the Congress for bad policies
+for over a decade. A decade. So if you're saying this story sort of hinges on Congress's willingness
+to change its tune, I don't live in the Beltway. You've been close to that world that I have,
+but I have extremely little optimism that they're going to do that proactively, simply because I
+don't see anybody with the political desire or courage to get up there and basically promote
+austerity. Yeah, and you're right. I don't see it either. Prior to the great financial crisis,
+there was an attempt, bipartisan, and Simpson-Bowles was the two senators, bipartisan.
+They put a very good plan together, and people at least in the Congress were talking to one another,
+both sides of the aisle, and it couldn't pass. So now you have a more strident environment. I don't
+see it passing either. So that means we will put the Fed under more pressure. Interest rates will
+probably rise, and it's not necessarily go off a cliff. That's a possibility, but here's the other
+thing. Even the Congressional Budget Office, looking ahead, is projecting that our national
+debt in 10 years will be greater than $50 trillion from where it is today at 34, 35.
+And they're also, and it's the most important point, are projecting that our real growth rate,
+our real growth rate, which is our real ability to create wealth for the nation, will fall from
+an average rate of 2.2 to 2.3% to 1.8%. Now, over that period, that means there's a trillion dollars
+of real wealth lost in our economy because of our bad policies, and that's in one decade.
+So if you don't correct it between now and then, or you don't correct it at least after then,
+then you become a poorer nation over time. And think about it. Think of other nations
+in the past who were leading global economic powerhouses. When they engaged in foolish policies
+or, shall we say, undisciplined policies, they didn't stay global powerhouses forever. And it
+may take 50, 75 years, but it's inevitable. And that's the part when they say it's not
+sustainable. It's not next year. It's not two years from now. It may not even five or six or
+seven years from now, but over time, we slow our ability to create real wealth and make ourselves
+poor and our next generation poor. And it's not just the Congress. I will tell you, I've given
+speeches all over the country and they say, "Tom, we have this deficit. We have to address this."
+I say, "Yes, you're right. And so we're going to have to deal with our taxes and our spending."
+And for example, we have a retirement age of 67, one time 65, 67 for social security. It needs to
+be at least 70. And the reaction is, "Oh my gosh, you can't do that." And then I go to the housing
+market and they say, "Well, we got this deficit. We have to take care of it." I said, "Yes, we do,
+but we have to eliminate some of the subsidies for housing because it's reducing tax revenue."
+They say, "Oh, you can't do that to us." Then go to agriculture. So until we have leadership
+in this country that says we have a problem, it's going to take shared sacrifice. And if we do that,
+we can solve the problem and it can be done. And it can be done by the two parties because when
+Clinton was in office and Newt Gingrich was the Speaker of the House, they came up with a
+compromise of both spending cuts and tax increases. And no one likes tax increases, certainly not me,
+but here's a compromise. And by the end of that decade, we had a surplus
+international government. So it's doable, but it takes cooperation and it takes a sense of
+sharing of sacrifice. If I'm saying you in housing, you have to pay more or you in this
+area of agriculture, you have to pay more and not me, well, then it falls apart.
+You lose trust and you lose confidence in the process. And that's very, very costly
+to your national wealth over the future. All right. I totally follow and agree with
+the logic. And I'm sad because you're validating a lot of my assumptions of how things
+do currently work in DC. It's sort of a political nimbyism, certainly when it comes to cuts,
+which is like, yes, everybody can agree that that seems like a problem in the future,
+but nobody wants to be the one to suffer the cuts for it. I think one of the bigger problems we
+have right now, too, is the current cohort of folks in Congress, their whole professional
+careers, the pie has continually grown. So what they know how to do is distribute an ever-growing
+pie. They don't know how to deal with a shrinking pie where you say no to people and you have to
+tighten your belt. So I don't even know right now if they're even thinking about arguing about
+potential cuts, because I think their mindset is still, how do we grow the pie? And I do wonder,
+and this is one of my questions for you, in the pandemic, it feels like we kind of crossed a line
+that we hadn't been willing to cross before by sending direct payments to households.
+How big a deal was that? Is that a huge deal? Okay. Because it seems like the next time
+things get rocky, the clamoring from both Congress and from the constituents is, hey, yeah, time to
+send those checks again. Well, and it's still carrying forward. I mean, the only bipartisan
+bill I can talk about today is we have a bipartisan bill that would both continue the child tax credit
+and continue keeping taxes low on certain investments and certain business spending.
+So the only agreement is, yes, we're going to increase our debt more so we can allow for these
+benefits to these two different groups. And so I think that's part of it. Now,
+to your point about the pandemic, part of the reason for that is in the great financial crisis,
+there was a bailout, but the bailout was to a certain group, the largest banks.
+Well, and to the wealthiest, right? Because when you have zero interest rates and asset values go
+up, only those who have assets benefit. So you had this period where you actually redistributed
+wealth to the wealthy and the resentment among the American people was horrendous and understandably
+so. So now we have the pandemic and you can understand why, well, we're not going to do that
+again. We're going to make sure everyone gets it. And that's what they did. And, okay, that's fine
+if we understand it as a pandemic and it cannot continue, but apparently we haven't understood
+that and we're continue to spend very substantially, you know, the increase in spending
+that moderated, we increased to 50%, it stayed that level and it continues to stay that level and
+increase moderately, but it will increase more aggressively with the interest payments on the
+debt. We have national defense to take care of, our entitlements programs, which is two-thirds
+of the budget are indexed. So we have all these things to take care of us. So that has to continue
+to grow. And that means we have to borrow more and more because we're not going to increase taxes
+either, we argue. And I have argued somewhat, shall we say, from my point of view that I think
+Republicans and Democrats play off of one another for their own benefit. For example,
+Democrats want to spend more and they know they can't get the Republicans to agree to tax
+increases to fund the spending. So they spend it anyway, but on the other hand, the Republicans
+know that they want to keep taxes low, understandably so, but they won't be able to stop the spending
+increases. So they stand in kind of a stalemate that the only thing that happens is the debt goes
+up. So we both spend more and we don't increase taxes and our future generations will suffer the
+wealth reduction. All right, so you're singing from my song sheet a lot here, Dr. Hunig, about
+the diminishment of the prospects for the future of society and for the wealth disparity because
+yes, we bailed out the wealthy during the great financial crisis, but we bailed out the wealthy
+in the pandemic crisis as well. And really what did we end up -- yes, those checks to households
+help, but what was the cost of that? The cost of that was a huge rise in the cost of living.
+And now those checks are gone, but the higher cost of living remains. But it goosed asset prices.
+So again, the wealthy are doing just great and the bottom 80 plus percent are left with
+a worse situation than they had before. So you still have the same outcome in both scenarios.
+And I do want to actually, again, dig into that even a little bit more in terms of
+how corrosive you feel that is, how concerned that you think you are, because when your populace
+basically begins to give up on their future, nothing good comes from that. You're nodding
+as I'm saying this. But before we get into that, I do want to ask you this question. So we talked
+about the mixed record that the Fed has. You talked about the current fiscal policy, which
+you think is on the wrong track, heading the wrong direction. Let's just play for a minute here and
+say everybody decides that Dr. Honig should be calling the shots. What reforms would be at the
+top of your list? Well, the first thing I would do is, depending on how you want to go about it,
+but I would go to the Treasury and I would say, I want analysis of all of our spending,
+all the government spending, and I want a group, and they can do it cooperatively with the Congress,
+both parties, so we have a full government involved in this, and we start prioritizing,
+truly prioritizing, what is most important and whether we're willing to pay for it
+out of current dollars, not out of future dollars that we have to borrow today and not out of
+printing money that inflates us, and I want the priorities listed, and then I want us to explain
+that to the American people, and here's the real important part of that, and that means entitlements
+are on the table as well, and subsidies are on the table, and I want you to go through it, and we
+have to make systematic cuts, and then I want to know where we can reasonably increase taxes,
+because it's going to have to be both sides, otherwise you won't have bipartisan agreement,
+but not so much that we destroy the productive capacity of our economy, that is, we discourage
+investment, we penalize expansion, so I want that done, and I want it done in a certain period of
+time, four months, five months, I mean that means really hard work, and then I want to go on a,
+I want to go out to the American people, and I want to explain this, and this is how we're going
+to proceed, here's the areas that are going to be cut, here's what we expect, and yes, some people
+will suffer, some people will not as much, but it won't be because we favored them, it's because
+here's how the cuts work out, but it will be shared sacrifice, and we're going to implement these
+systematically, and in the long run, we will be well served by it. Now, explaining long run will
+be one of the major challenges, that is, we cannot afford to see our real growth rate fall from 2.3,
+2.4, to one and a half percent, because we will all lose, and here's how, so that has to be
+explained, and you know, that's an enormous task, I realize that, but it has been done elsewhere,
+and it can be done here as well, but it has to be, you know, people willing to talk, not hating one
+another, but willing to talk about how we make this work. It's a huge task, but that's the only
+way we will solve this problem. The other way we will do it is, if we do encounter an off-the-cliff
+crisis, and no one accepts our debt anymore, our foreign sector and the Fed can print it,
+and it just inflates us into nothingness, then that will force us to do some hard choices,
+but that means it won't be as fair as doing it in a systematic, calm manner that we have time
+to do now. Those are our choices, and whether we like it or not, those are our choices, and I hope
+the J-PAL and other leaders in Congress and the Treasury are willing to talk and recognize that
+as they talk to one another today. Well, I hope you're right. I'm more of a pessimist.
+Sadly, I think it's more of just a realist, which is that, you know, you're familiar with the field
+of behavioral economics, where just a revolutionary wiring and how we are culturally and all that
+stuff. We tend to not have to face something tough until we're forced to, and there's that
+famous Winston Churchill quote about Americans, which is, "We'll do the right thing, but only
+after we've exhausted every other opportunity." So, sadly, a lot like the guy who doesn't change
+his diet until he has the first heart attack. It probably takes some of these issues. I hope you're
+right, and Dr. Honig, you've got my vote to be, you know, interim emperor and make all this stuff
+happen. I assume in your formula there, the goal would be to be running at a budget surplus again
+at some point. Well, I think I would be satisfied, given the depth of the problem, if we could get
+our debt growth to fall substantially below our national income growth, our real national income,
+our real debt growth growing substantially below, so that we do over time grow out of it without
+sacrificing so much of our productivity and our real wealth down the road. So, I don't want it to
+be, you know, kind of a hard haul. I don't want it to be so shocking that we go into a major crisis,
+but it has to be where we have confidence that we will grow out of it, not in a hundred years,
+but in 20, 25 years at max. And I will tell you, in the last time we did this, in the 90s, I think,
+I got my dates, it was done more quickly than people thought it would be done.
+So, if you really do it, you can be successful. But like you, I'm more of a realist, because we've
+actually grown farther apart, and it's more difficult for the parties to talk to one another,
+and therefore it's more difficult to get this solution through.
+Well, and also sadly, it's just not the playbook, right? We had those aberrant few years you talked
+about, but it's really since the early 80s, we have grown our debt far faster than we've grown
+our GDP. So, everybody alive who's in the system has been, like that playbook has to be tossed out.
+We have to have new people brought in who think differently. I mean, it's a big ask. Like you,
+I hope we do it. Right. And unfortunately, how many people tell me, "Well, we've had this deficit
+for this long, we haven't had any major crisis from it. Why are you telling us this?" And I keep
+saying, "It's not necessarily falling off the cliff, it's a death by a thousand cuts, and suddenly
+you bled to death." And that's what I tell them. Think about how, you know, can a household survive
+if all they use is their credit card and they think they don't ever have to pay it back?
+No. And we can't, governments have a longer period, they have a longer life,
+but it holds for them, I think, over time equally as well.
+Okay. Dr. Hanig, we are hardly going to make a dent in these questions, which hopefully just
+means at some point we can have you back on and continue to go through them at some point in the
+future. First off, thank you for giving us your time and giving us such phenomenal answers here.
+I am going to keep you for another 10 minutes or so if I can, but I just want to let everybody
+know that I'm looking at the tip of the iceberg here with 10 minutes left. Let's see here.
+I'm going to ask you, these may not be in any real linear order, but they're just questions
+that folks are really interested in. All right. So what's about housing? We're at basically
+record unaffordability in the housing market right now. And many see the Fed as being a central
+reason for that, for having inflated housing prices by zerp, right? Making it really cheap
+to borrow to get into a house initially, by then buying just gobs and gobs of mortgage-backed
+securities to support the natural clearing of that marketplace. Any thoughts you have about
+the Fed's role in housing and what you see as the future of the housing market here now that it's
+kind of locked up with mortgage rates at 7% and now available only to the wealthy that can afford
+it and so many folks are priced out now? Well, I think the point is a well-made point. I think
+zero interest rates contributed to asset inflation. They kept telling me, "Tom, there's no inflation."
+I'm saying inflation comes in different forms and asset inflation is a form of inflation.
+And we've made housing much more expensive and we think we're helping out with zero interest rates.
+And I'm saying, well, if you can't afford the down payment because the price of the house has gone up
+so much, the low interest rate won't make it more affordable. And so you have to get the price of
+housing stabilized. And once you get it stabilized, the equilibrium rate of interest isn't zero.
+It's just not. I mean, I wish it were, but it's not. It creates distortions in the market. It
+creates inflation that we see in housing. So we have to have interest rates that are going to be
+much higher than 25 basis points. And in the '50s and '60s, even those periods of low inflation,
+the normal, what I'll call the market rate of interest was probably in the 6% range.
+And so if we go back to 25 or 50 basis points or 200 basis points on a loan for a house of 30 years,
+we are going to see housing prices shoot up again and become less affordable over time.
+So I totally agree that we need to stabilize that market going forward or else we will have a very
+maldistribution of wealth as fewer people can really afford it unless the government pays for
+it and then the debt goes up and we have inflation that way as well. So there's no simple,
+no easy answer to that problem in the future. Okay. So I listened to your answers here, Dr.
+Hunig, and they're just imminently reasonable. I feel like you see the world very somewhat of the
+way that I do, very somewhat of the way that most of the viewers of this channel do.
+And maybe this is a slightly uncomfortable question for you to answer it. I'm not asking
+you for you to name names or anything, but you are a dissenting voice in your time on the FOMC.
+So what is it about everybody else around that table that is making decisions that aren't as
+common sense as reasonable as you're saying here? Are they the out of touch academics that some of
+them point them to? Is it just the evils of groupthink that you get a lot of people around
+a table and they get stupider than they are individually? Or are there political pressures
+even though folks say the Fed isn't political? Like why don't they just think rationally the way
+that you seem to? Well, I don't have a really good answer for that. I would say part of it is
+where money is involved, politics is involved. And there is a lot of pressure on the Fed to
+think short-term as well, although they're supposed to be independent so they can think
+long-term, but there's a lot of pressure to think short-term.
+Sorry, pressure from whom? Is it the administration calling them?
+From Congress, from labor, who misunderstand I think some of those issues. From Wall Street,
+for sure, they're very short-term thinkers in many ways. So those are part of it. Part of it
+is experience. They're academics, you have this theory and you work with it and so forth.
+One of the reasons that I descended was experience. I was around in the crisis of the '70s and '80s.
+Yeah, you were involved in cleaning it up, right?
+I was very much involved. It was a mess. And part of it was I saw what this ever,
+you know, we have to stimulate. Yes, inflation is rising, but we can't have unemployment.
+We'll take care of it later. That came through until we had this crisis. And in this country,
+in the '80s, over 1,600 commercial banks failed. It was disastrous for communities.
+And so I'm saying short-term has a price. And I witnessed the price. So when we came back
+to when I was descending, I said, "There's a price for this. You're pushing the
+rates to zero. That's not a sustainable rate. We should all know that. And we've had it since
+2008. We're entering 2010. And you want to increase zero even more." I said, "That's only
+going to turn out poorly." And in fact, the following decade, our productivity levels were
+half of what they were in the '90s. Wages didn't increase. Real wages didn't increase at all.
+And so I said, you know, "Learn from experience." You know, wisdom is partly your education, yes,
+but partly is experience. And don't ignore your experience. And so I've seen it now twice going
+on three times. We have to begin to think a little bit more long-term, both at the FOMC table and in
+the Congress of the United States. Is the short-termism more because of hubris and like,
+"Well, we just got to do something now"? Or is it more sort of, "Hey, this will solve the problem
+now, and by the time the chickens come home to roost, I'm not here anymore"? That's somebody
+else's problem. Again, some of both. And here's the most common theme I heard at the FOMC table.
+We have to do something now. We can and we will take care of it later. This hope above reality.
+In the Congress, I think it's more of short-term thinking, "I got to get reelected. I want to make
+people happy." On Wall Street is, "I want to be rich now, and I'll let someone else pay for it
+later." So all those motives come in and put pressure. But my issue with the Federal Reserve
+is it was supposedly made independent to think long-term, and it's allowed itself to be captured
+by the short-term. And an old central banker, when I was first named president, said, "Tom,
+your job as a central banker is to take care of the long run so the short run can take care of
+itself." And that's what we have to remember. If only more folks there thought like you like that.
+All right, let's see. Let me ask you this. What do you see as the long-term outlook for the
+purchasing power of the dollar and other fiat currencies for that matter? You talked about
+removing the dollar from the gold standard, remove the last discipline, the break on the system.
+So obviously, since then, all that's happened is the purchasing power of the dollar has declined
+even faster, and the dollar is doing better than most other fiat currencies. So are we just
+staring at the end game here, and it's just going to continue to play out like this? Or is there
+potential for something else? Well, unless we change our ways, we will continue to
+value the dollar and its purchasing power. And I tell people, yes, that they say, well,
+on the international level, the dollar is strong. And I say, yes, if you're grading on the curve,
+which we are with currencies, because they're all fiat currencies, you're grading on the curve,
+yes, we're still getting good grades in terms of the relative value. But if you
+grade on the absolutes, we're getting an F, because the value-- when you look at the consumer
+price index, it's really striking. Decades of stable prices until after World War II,
+until after 1970, '71, when we went off the gold standard. And I tell people, you have to be
+careful, because it had its cost to it. But since then, the price index has gone up exponentially.
+Not gradually, but it has just taken off. And I don't see how that future changes unless we
+get control of both our fiscal and monetary policies and our country's, shall we say,
+love for very low interest rates forever. And unless you get that behind us, and we think long
+term, the value of the purchasing value of the dollar would decline. And that explains, in part,
+why cryptocurrencies have had their rise in the world, because people perceive that at least
+there's some kind of governance on those mining machines behind it, where it can't just explode.
+Whether that lasts forever, who knows. But that's one reason I think they have had their prominence.
+All right. So I'm just going to let folks know, I've got tons of questions about
+your thoughts on Bitcoin, your thoughts on gold, your thoughts on moving to a digital dollar,
+your thoughts on central bank digital currencies, your thoughts on a competing currency from a
+BRICS standpoint. Will the dollar ever be backed by something? I think we're going to have to just
+leave all those for hopefully the next time you're on this channel, because it's unfair to ask you to
+address those in just a minute or two. I am going to ask you two unfair questions to address in just
+a minute or two that we could probably have a whole hour discussion on each. The first is just
+any sort of parting comments you want to have about this growing wealth disparity. This has
+been an issue for a long time and Fed policy I think has played a role in it, I'm going to say
+for decades. I think it got ramped up even more given what happened during COVID and the response
+we had there. We talked about why earlier. But there are some people who look at the Fed's
+policies and say, "Hey, these are contributing to wealth inequality here," and they're frustrated by
+that. There are other people who look at the policies and say, "Hey, that's the plan," and this
+is more sort of the mustache twirling. There's an Illuminati that's driving the world and whatever.
+I don't necessarily ascribe to that, but I don't know. If you think differently, let me know.
+But it might be a little bit of what you've said, which is the parties that are putting them under
+pressure or obviously putting them under pressure to serve those parties' interests.
+If that's what's sort of driving policy decision-making, then maybe it's not someone
+at the FOMC table saying, "How do we screw the little guy?" But the outcome is still the same.
+How concerned are you about the trajectory that we're on, where the middle class seems to be
+getting hollowed out? Each successive living generation now is more depressed and less off
+than the one that's preceded it. As I said earlier, nothing good comes from your public
+basically giving up on their ability to improve their station. In fact, that's what's made America
+so competitive in the past. So let me give you the floor on this.
+Well, here's what I think. I don't think there's a conspiracy theory
+as such. I do think that we've become so short-term in our thinking that we tend to want to
+please everyone. When you please everyone, you get really bad outcomes. Here's my last point on that.
+Whether you're an athlete or you're a scholar or whether you're a country,
+you win by being strong and exercising self-discipline.
+An athlete, no matter how much talent he or she has, will only be great with self-discipline
+and paying attention to improving. This country, we weren't perfect, but we had rules.
+We had a rule of law. We had a gold standard. I'm not saying a gold standard, but I'm saying a rule,
+which we don't have right now, that binds our hands. If we have those and we abide by them,
+then we have a much better chance of remaining strong and, over time, addressing some of the
+wealth issues that we have because it'll allow entrepreneurship to go forward. It'll allow people
+to have hope that they can, in fact, improve their own future. Not 100% by any means,
+but much better than where we're going with our current policies. Our current policies are
+short-term driven and subject to who's putting pressure on. Remember, the people in authority
+have pressures coming from people who have a lot of wealth, the lobbyists and so forth.
+That's kind of our future. Unless the leadership says we're going to exercise self-discipline
+and we're going to have shared sacrifice, our wealth will slowly atrophy and become less.
+Okay. All right. Last question, and I'm doing this just because I promised her I'd ask
+Stephanie Pomboy, who is an analyst that comes in this program a lot,
+just was very curious to hear when you think the Fed is going to return to QE.
+Is it just a matter of time that you mentioned that if Congress doesn't do a U-turn pretty
+quickly, pretty soon we're going to get into a pinch where there's going to be a ton of pressure
+on the Fed. Do you expect them to, at that point, finally let themselves get talked back into QE?
+I don't know that that will trigger it, but I do know one thing that would probably trigger it,
+a banking crisis. If you had a major banking crisis, for example,
+on the bank's balance sheets today, there's over $600 billion of unrealized losses from
+just government securities. You also know that there's trillions of dollars probably
+of asset values that have declined because of the high interest rates for commercial real estate.
+If there was a banking crisis, then the Fed would do QE. In fact, what form it will be,
+I can't tell you because when we had the banking crisis last March, 2023, the Fed's balance sheet
+actually went back up about $400 billion. If the banking industry gets in trouble and they
+have to provide liquidity into it, they will put the money out there and it will be in the
+trillions of dollars and we will have in effect QE. The real question then will be how long does
+it last? How much inflation does it generate? Will trying to pull back from it create a recession
+and they're not willing to accept that so they continue QE well into the future just like they
+did after the pandemic? Those are all questions I can't answer, but I do know the circumstances
+that will trigger it would be a banking crisis. I lied a couple very lightning round questions.
+One is just let's say on a scale of one to five, one being very stable, five being very unstable.
+What's your current assessment right now of the stability of the banking system?
+About five being unstable. Five being bad. I'd say about a three and a half to four.
+Okay. You're worried. I'm worried. I know people say it's very well capitalized. Well,
+it's not very well capitalized. I have argued that forever. The banks quote the risk-weighted
+capital, which says 14%, but capital of the total assets is around 7% to 8% in the largest banks,
+9% to 10% in the regional and community banks. The regional community are better capitalized,
+but remember if you have say 4% loss, you've lost half of your capital or more depending on who you
+are and people lose confidence in you. That creates the liquidity crisis. So we're very
+vulnerable to a confidence crisis in this country should we encounter another banking crisis like
+we had in March of 2023. And remember in March of 2023, people started running on all the regional
+banks until basically the treasury and the fed said 100% deposit insurance. That's the only way
+to stop it. And that's QE. Okay. Again, thank you for that very unfair question to ask you in the
+last second here. And I just want to remind folks that you are a former director of the FDIC. So
+you're a gentleman who is highly knowledgeable about bank risk. Okay. The last question,
+which is you mentioned that there's a date with destiny here as long as the fed maintains its
+current policies where the liquidity that's been sloshing around is going to start drying up
+and there's going to be increasing pressure on the fed to do something or else dominoes
+are going to start dropping and recessions going to start looming. Nobody can say this with
+certainty, but what's your general expected timeline for that? Is that something that's
+imminent? Is it something by the election? Is it a 2025 issue do you think? I think it's probably,
+I don't know. I should always say, I don't know for sure. No one knows the future,
+but I'm looking at the amount of liquidity that remains, the half trillion down from two and a
+half trillion and the excess reserves in the banking system. So I'm thinking of 2025,
+mid 2025 event, if it comes to that. And now in the meantime, if Congress gets its act together
+and the fed does other things, we might avoid that. And that's what my hope is. But I think
+the reality is there is at least a reasonable probability that 2025 would be a time when the
+fed has to make a decision, either print more money and buy this debt or force the private
+sector to fund it, which constrained the private sector further and risk a recession sooner,
+I should say, recession sooner and inflation later, for sure. Okay. All right. Well, look,
+this has been an absolutely wonderful discussion, a real privilege. Thank you, Dr. Hanig. I'm going
+to begin to wrap it up here. If I could ask you probably the most important question,
+which is for folks that have really enjoyed this interview and listening to you and would like to
+follow you and your work from here, where should they go? Well, I do have, I don't publish a lot,
+but I do have a blog on sub stack under my name. And it's, if you go to Mercatus Fin Red Rag
+on sub stack and look for my name, I do put things out. In fact, I wrote things on walking at the
+feds, having to walk a tight rope, the mistakes the fed have made through time that you asked
+me earlier today. There's a summary of that on there and a proposal to make it more rules-based.
+So that's on my blog. Other kinds of history of the feds, things are on there as well.
+All right. So Dr. Hanig, when I edit this, I will put up the link to your sub stack there on the
+screen so you know exactly where to go. Folks, there'll be a link in the description below this
+video too. So if you just want to go there with one click, you'll be able to do that.
+All right. I've got one last question for you, and I'm going to give you about 30 seconds to think
+about it, which is we've been talking about money related issues, money creation, all that stuff
+through the discussion so far. I'm just curious, you've had a long and accomplished career.
+What's one non-money related investment of energy or focus or behavior you would encourage folks to
+adopt into their lives? As you think about that, I'm just going to do a couple of quick housekeeping
+things here just for a few seconds. First off, folks, if you've enjoyed this discussion with
+Dr. Hanig and would like to see him come back on the channel at some point in the future,
+please let him know that by clicking the like button and then hitting the subscribe button
+below, as well as that little bell icon right next to him, in addition to Dr. Hanig's substack,
+if you're not already following my substack, please go do that at adamtagert.substack.com.
+That's where you get my write-ups. I call them Adam's notes. They're my cliff notes summaries
+of these key interviews. So to get the one from this discussion with Dr. Hanig, you'll get that
+there on the substack as well. And then last, trying to navigate the repercussions of
+everything we're talking about as you hear me say every week on this channel, folks, is very
+difficult for the average investor, especially the average person who's got a job to focus on,
+a family to focus on, etc. Highly recommend that you work under the guidance of a good
+professional financial advisor to help be your financial quarterback through that to help put
+together a customized portfolio and financial plan for you and then help you execute it. But make
+sure that they can take into account all of the issues that Dr. Hanig and I have talked about here
+and that all the other experts talk about with me on this channel every week. If you've got a
+good one who's doing that for you, great. Stick with them. They're rare. If you don't, you're like
+a second opinion from one who does, feel free to schedule a free consultation with one of the
+financial advisors that Thoughtful Money endorses. To do that, just go to thoughtfulmoney.com,
+fill out the short form there, only takes you a couple seconds. These consultations are totally
+free. There's no commitment to work with these guys. It's just a free public service that they
+offer to help as many people as possible, positioned as prudently as possible,
+for the potential implications of all the issues that Dr. Hanig and I have just talked about here.
+All right, Dr. Hanig, thanks so much for waiting. Let's get to your last question here. What's one
+non-money related investment you would encourage folks to consider?
+Well, I would highly recommend they invest in time in reading history and biographies.
+My family is very important, but outside of that, I have really learned about leadership
+and what works, what doesn't work by reading biographies and history. Yes, I'm an economist,
+but my real joy is in reading those things, because that's where you learn so much.
+And where you can't experience all the experiences personally, you kind of see it through others'
+eyes of people you admire. And there are a lot of good people to read about in biographies,
+not just bad guys. Well, and only if your contemporaries did more of that, it sounds like,
+that might address a lot of the short-term realism that's going on right now, where people would have
+a sense of what history tells us. Absolutely. And it's invaluable. And for all of us, I mean,
+for all of us, it's invaluable. Well, Dr. Hanig, I want to just say again, thank you so much for
+coming on the program. More importantly, thank you for your contributions in a critically important
+role during a critically important time. And again, I wish more people had listened to you,
+and I wish more people currently running these institutions think like you, but thank you so
+much for the example that you've been setting. Thank you for having me on. I've enjoyed it very
+much. Thank you for the conversation. And I hope your listeners have enjoyed it as well.
+I can guarantee you they have. Thanks so much, Dr. Hanig. Everybody else,
+thanks so much for watching.

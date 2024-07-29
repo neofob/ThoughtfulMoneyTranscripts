@@ -1,0 +1,659 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. Animal spirits have
+certainly been running wild in the stock market of late. The S&P is up over a thousand points,
+roughly 25% in the past four and a half months. Is this a new era of easy gains as giddy bulls
+are proclaiming, one that investors should just jump on in and make the most of? Or is this the
+latest incarnation of a rational exuberance and as caution warranted instead? For insight, we're
+fortunate to speak today with Jonathan Trousard, former partner and head of product at Research
+Associates and now founder of Trousard Capital Management. Jonathan, thanks so much for joining
+us today. Thanks for having me. Such a pleasure. This is the first time you've been on Thoughtful
+Money. In fact, this is the first time I've had the opportunity to interview you, Jonathan. I'm
+really looking forward to it. One of the topics I want to dive into you on this discussion is
+kind of, you know, what is driving the animal spirits in the markets right now,
+especially as that gets manifested by some of these story stocks like Nvidia, which I know you've been
+following very closely recently. So we'll get to that soon. But if we can, let's just start
+at the point I'd like to begin all these discussions with. What's your current assessment
+of the global economy and financial markets? Well, that's a great question. I think it's
+pretty clear that the global economy is really walking a fine line between a lot of data pointing
+to, you know, a very resilient, particularly a very resilient U.S. economy, which, as we know,
+is critical to the global economy and, of course, a huge amount of risk and uncertainty on a variety
+of vectors, everything from geopolitics to the credit standing of a lot of major players,
+whether they be sovereign or, you know, particular sectors like commercial real estate.
+I think it's interesting to think about what we've been experiencing over the last four years,
+particularly since COVID started as, you know, having played. I guess the way I would say it is
+if you're tired, that's OK. It's been a minute. And as a result of that, I think a lot of people
+are trying to process information in real time while, you know, running on fumes intellectually.
+And so it's causing just a lot of confusion. The other part of it, and this is something that I was
+talking to someone I respect very much in New York recently, is to recognize that the print is not
+sufficient to understand the way, you know, people are experiencing reality. One of the things that I
+was talking to this person about was the fact that if you look at the U.S. consumer, the U.S.
+households, you say, you know, kind of everything is great. Unemployment is down. Real wages are
+finally growing, you know, so on and so forth. And you say, well, why are you walking around like,
+you know, the world is on fire? Why are you walking around with your head down?
+And I think the reality of it is risk. Risk has been realized for a lot of people over the last
+four years. And as a result of that, they're thinking about it on a perspective basis.
+A good way to think about not past inflation, but for example, perspective inflation is the fact
+that I don't really care what my wages are today. I'm looking at my paycheck and I'm worried that I
+don't know what it's going to buy me in a year. And so in a real way, no pun intended, inflation
+uncertainty is like a wage cut right now, even though it hasn't happened. So look, the reality
+of it is the U.S. economy is strong and that has caused, I think, you know, some of the runway we've
+seen in markets. It's stronger than we all anticipated. Certainly about, you know, 15
+months ago when we went into 2023 with, you know, near a hundred percent probabilities of recession.
+And so in a lot of ways we've dodged a lot of bullets. And by the way, some bullets we hadn't
+seen come along, you know, before they hit us. Things like the bankruptcies of regional banks and
+Silicon Valley bank and so on and so forth. So that explains some of it. The other part of it
+is, and you know, this is where it's hard to, and I think we've gotten some data on that
+particular front last week with the Fed. The reality of it is I think operation,
+whatever, tightening at large, whether it's quantitative or real, was put on hold back
+in March of 2023 when those banks went under. And so it's just, we've been kind of floating out
+there with the impression that we're tightening, but not really, really. And so I think that's been
+causing a lot of uncertainty in the market, which is, you know, the officials are telling us one
+thing, but the reality of it is I think QE in particular was squarely put on hold back in March
+2023. All right. Sorry, you said QE was put on hold back in March. I'm sorry, QT I meant.
+Yeah. That's what I figured you meant. Yeah. And we've had a lot of folks on this channel of late,
+Jonathan, really kind of digging into the whys of what supported the economy, what has supported
+markets despite the rate hikes and QT. And it seems pretty clear that on a net basis,
+liquidity has been rising all through them, that it really bottomed in October of 2022,
+which is right when the markets bottomed. And as liquidity has continued to increase,
+so has economic growth and so has financial asset prices. I think the big question
+hovering out there in the world right now is, well, how long can that continue for?
+And a lot of debate on that because liquidity is not a really easy thing to measure and everybody
+kind of has their own version of how they measure it. But alongside that has been,
+there's one thing about the tide rising that raises prices. There's another thing about
+expectations for the tide that can cause prices to rise even further. That's multiple expansion.
+So let's get right to the heart of the discussion I wanted to have with you, which is
+how healthy and sustainable do you see the current stock market rally? I mentioned the fact that the
+S&P is up like 25% since the October lows. In 2023 itself, the Magnificent Seven,
+we're going to talk a lot about those stocks I think, they were up 106% that year. The NASDAQ
+was up 54%. The S&P was up 24%. Yeah, exactly. The S&P was up 24%. And again, to your point,
+nobody would have seen that coming at the beginning of 2023. We were all still in the
+throes of, oh my gosh, the stocks and bonds cratered in 2022 and this inevitable recession
+is right around the corner. So everybody was surprised. So let me just ask you first,
+have these valuations, the current valuation state that we're at right now with financial assets,
+has this been well earned or is the market pricing to some sort of fantasy at this point?
+So what do we know? We know on the one hand, again, earnings and the economy have been stronger than
+we anticipated. So it is very clear that part of it is just the bogey, the hurdle going into 2023
+in particular was just very low and we beat it. But, and again, you mentioned that I used to be
+partner and head of product at Research Affiliates. My former colleagues maintain
+a website with CAPE ratios for a whole range of markets, Shiller PE ratios, which measure
+valuations on a longer horizon. And I was reminded last week when I went and looked
+at the most recent data that the US market, and I'm talking about US large caps,
+are currently trading at the 97th percentile of all CAPE data going back to 1880.
+97 isn't quite a hundred. And I think that's important to note. In fact, we were even more
+stretched before the decline of the late 2022 period, but 97 is still about as high as it's been
+in over nearly 150 years. So that's where you have to say, look, do I think we're in the middle of a
+huge bubble? There are arguments for discounting that, but the reality of it is the valuations
+really don't give you a lot of comfort should anything go badly. And again, I think that's
+the way to think about it, which is we've been just, you know, as you're walking along the
+street and you're skipping over a bunch of cracks and we've been skipping over, you know, more than
+our fair share of cracks recently. But if we step on one, it could get, it could get ugly real fast.
+And I think that's the issue with the animal spirits part of it, which is, you know, when
+the bulls run, it's great, but when they start, you know, running towards you and for the exit,
+it gets, it gets, you know, pretty bloody pretty fast. Okay. So let me I want to get to the actual
+question of, are we in a bubble right now? Because you've actually done a bunch of academic research
+in this space. Before we get there though, let me, let me just sort of stay with the markets as they
+are right now. So we have these stocks, the magnificent seven that's been driving a lot,
+you know, they've been the, the quarter horses, you know, pulling the rest of the market behind
+them. There's some debate now is are we down to the magnificent six or five or even two or three?
+Yeah. But it seems clear that the lead, the horse or the lead sled dog, whatever analogy you want
+to use is Nvidia right now. Right. And Nvidia has just been on an incredible tear. Shares have
+basically doubled since the start of this year. Right. So and they had a phenomenal run, you know,
+in 2023. So that's on top of another amazing year. So, you know, Nvidia is the poster child for the AI
+boom. Right. And I guess one question is just, you know, there's no doubt, you know,
+unlike the.com boom, where some of the highest flyers had zero earnings, right, there's no doubt
+there's real earnings, you know, this company is making 10s of billions of dollars. It's,
+you know, it is growing its revenue at a staggering rate. But, you know, that aside,
+if we just look at the valuation metrics, are they in line with the performance of the company so far,
+you know, or are we getting into kind of, you know, crazy mania style valuations?
+In your answer, if you can maybe talk to price to sales for Nvidia as one example.
+Yeah. No, so I think it's so again, as you noted, Nvidia is a really interesting example,
+because the reality of it is this company is in the right place at the right time. And by the way,
+kind of got there in a semi-random way. I mean, they started with cards that were great for video
+games. And then all of a sudden were great for, you know, mining Bitcoin. And all of a sudden
+there's, you know, arguably the most high value application yet with AI. So that's number one,
+this company has got a thing and it's real and it's been very fortunate to be the right party at,
+you know, the right place, right time. And I think it's to your point about price to sales,
+you know, price to revenue, there's some, you know, the number is some version of 30,
+which probably actually higher now, which means that what you would have to do for, you know,
+as an investor to get your money back out of this thing would be to stop all activity, all CapEx and
+so on and so forth for the next 30 years. And then, you know, eventually you'd get your capital
+back, which is, you know, a pretty tall order. What I think is interesting. And again, I feel
+like Nvidia has been, you know, as the expression goes, renting space rent free in my head. And I
+think a lot of other people as well. I think it's irrational to think that Nvidia will forever be
+the monopolist in this market. That's number one. And clearly part of the excitement is it's the
+only game in town today, but is it really going to be the only game in town in the next 10 years?
+That seems fairly unlikely, particularly when you go back to this concept that it's going to take
+30 years to get your money back. So that's number one. The other part of it is you're right. The
+earnings, you know, the revenue line has been incredibly strong and these chips have been
+selling at very high prices. You know, a good analogy would be, you know, you're looking at
+cars on a, you know, a lot at a car sales place and all of a sudden the MSRP doesn't mean anything.
+Everything's going for, you know, two, three X to price. Which we saw two years ago. Yes, no,
+totally. These things really do happen. But you have to ask yourself, why are they happening and
+is that sustainable? And again, at the risk of playing fundamental analyst, which I'm not,
+you know, the sustainability of earnings is really important here. These things are going at a huge
+premium relative to where they were, you know, like an hour ago. And it's hard to believe this is part
+of the suspicion, not fact, but I think it's a reasonable suspicion. I think some of it is a
+premium related to the idea that these chips shouldn't be finding their way into China,
+but there is no way they're not. The data of, you know, import and export going into China suggest
+otherwise. And so my suspicion is some of the premium is just the cost of getting these things
+to places they shouldn't be going to. I'm just going to guess that. But even if you don't know
+that that's happening and we don't, I don't. Again, I think beyond the rational exuberance
+possibility, which is, which is here, I think a lot of what we're seeing with Nvidia is what I
+would just, you know, again, I look at markets often because as you said, I've been a student
+of bubbles quite literally since, you know, I was a baby in this profession back at UCLA,
+studying some of the, you know, the biggest bubbles in history with, with Earl Thompson.
+I tend to look at markets as a behavioralist. And yet I'm coming to conclude that one way to
+make sense of Nvidia is to look at it as, as an efficient market kind of risk premium. And let me
+give you a couple of ways to think about that. One is the one that I just suggested, which is
+Nvidia really needs to have a global market for this thing to make sense from a, from a valuation
+standpoint and whether or not these chips are finding their way into China today, which again,
+I repeat, I don't know, though I suspect it's happening. Nvidia is living in fear and the
+investors in Nvidia have got to be living in fear of a world in which, you know, the globe really
+breaks into two and the addressable market isn't the world. It becomes the Western world. And,
+and I think every day that we don't get to that point is a day where, you know, investors in
+Nvidia's stock have got to be rewarded for the risk born, but not realized. That's number one.
+I think there's some political risks too. Right now AI is in the infancy phase where, you know,
+there isn't a lot of regulation, certainly not in the US that's been put in place. And so this is
+kind of like best case scenario pricing where, you know, most anything is on the menu. It's hard to
+imagine that we're going to be living in a no AI regulation world forever. And so I think there's
+some political risk again that we don't know what that's going to look like. And then the last one
+is very, very like plain vanilla, old school thinking about markets. As excited as we are
+about AI chips, I believe that Nvidia has a huge amount of what I would call real economy beta.
+And what I mean by that is not their correlation to the stock market, but their correlation to the
+real economy. And if and when, because we know these things will happen, when the economy really
+slows down and takes a hit and, you know, corporates are wondering, you know, how to make
+payroll or certainly where to cut. My suspicion is, you know, US corporates will worry about those
+things before they worry about investing in AI applications. And the way I would say it is the
+US consumer is going to worry a lot more about where their next meal is coming from and where
+shelter is coming from than, you know, use of AI. And so this is a really exciting thing that's
+happening, but under the best of circumstances. And when those circumstances change, the really
+exciting thing might be, you know, put on the back burner for a bit. Well, Jonathan, you're taking
+this conversation where I want to take it. I'm going to ask you in a bit about your macro outlook
+in terms of what you think is going to happen in the future of the economy, because you started
+with the economy, US economy resilient, certainly resilient relative to most of the other major
+world economies. I've had a lot of people on this program, you don't have to agree with them,
+but that are saying, if you look at the headline numbers, yep, things still look pretty good in
+terms of unemployment and GDP growth and stuff like that. But if you start to dig, and in some
+cases not very deeply, you can certainly come up with a lot of skepticism about where things are
+headed in the future. You're nodding as I'm saying this, you even said a few minutes ago,
+when you have a market that's basically price for perfection, and you're stepping over cracks,
+if you eventually trip on one of those cracks, you know, that could bring things down. So even
+you are seeing cracks somewhere in the system, right? So I'd love to talk to you about,
+well, big enchilada, you know, what do you think the risk of recession is in the near to midterm?
+We'll get there, but let's stick with Nvidia just for a few minutes. So yeah,
+so you just raised a bunch of risks that really don't seem to be priced into the stock right now,
+right? It seems like no matter what happens, the answer is, it's a good day for Nvidia, right?
+So let me just pull up a quick chart here if I can. This is a chart of Tesla, right,
+which is one of the magnificent seven. It's the fallen angel right now in that group.
+And you'll see here, Tesla hit a high of over 400 bucks a share right at the end of 2021.
+It's now trading at about 178. So it's been more than cut in half over the past
+two plus years, right? And back when it was 400 bucks a share, you know, all we heard was,
+oh my gosh, you folks that aren't Tesla bulls just don't get it, right? It's not just a car company,
+you know, it's a software company, it's an energy company, it's a bet on all these different things,
+right? It's going to totally transform the world. And that's why Tesla was worth more than the
+market cap of, you know, Toyota and GM combined and all that stuff, right? That was the narrative
+that was pushing it at that time, right? And there were a lot of people at that time saying,
+man, this stock is priced for better than better for perfection. And of course,
+the bullish argument was, yeah, but you guys just don't understand the scale and the scope of the
+market opportunity that they're going after. I feel like it's very similar today with Nvidia,
+and I'm not an expert on Nvidia, right? But, you know, it seems like first, you have to buy into,
+you know, AI and that we're going to start realizing, you know, value gains from
+implementing AI really fast. And that Nvidia is going to be the main dog for a long time in the
+space and that competitors aren't going to eat its lunch. And to your point that some of these
+other risks like, you know, regulators aren't going to come in and say, hey, look, you can't
+sell to the half of the world that we don't like, you know, right now and all this stuff, right?
+So it very much feels like that movie is playing out again here. I'm not saying it guaranteed is,
+but I'm just saying it feels very much like Tesla did back then. What are your thoughts on that?
+No, I agree. And again, I think the Tesla story was probably a little bit sillier, just period.
+But Nvidia has got a lot of that going on nonetheless. And by the way, if you pull up
+the Nvidia chart, you'll note that, you know, Nvidia had a major, major correction the last
+time around when people went from, you know, crypto and NFTs for all to crypto winter very
+quickly in 2022. I don't remember exactly the numbers, but some version of down 30% or down 40%
+seems. Yeah, I'm pulling it up. It's hard to see. Right. So, but if you just go to that peak
+around the number 2022, what is that? 330. Call it 330. Went down to, you know, 112.
+Right. So that's down 50, you know, some version of 50%. The point is that's just the stock. And
+again, now to your point about the scale, it's just, it just looks flat, but it was down 50%.
+By the way, sorry to interrupt, but if you can in your answer, just address this. What is the
+rationale for it being worth 148, you know, let's say 150 at the start of 2023. And it's now almost
+1000. Right. 940. I think the revenues, I mean, the revenues really have gone hyperbolic. There's
+no question. The point is, you know, are the revenues, you know, sustainable and real and
+not real in a accounting fraud sense of the term as in, you know, reliable as a go forward indicator.
+And that's the challenge. I just, again, just think about the world in which we live, which is,
+which is predicated on competition. In what world is, you know, is there nobody in the wings looking
+at these revenues that have just gone through the roof and saying, I'd like to, I'd like to
+get some of that myself and I'm going to be throwing some money at it. So just the sheer
+nature of competition in the marketplace, it just doesn't seem likely that whatever's just happened
+to the revenues of Nvidia is going to happen again in a sustainable way. And I think that's the way
+to think about it, if that makes sense. And yes, I just think it's, again, I think the Tesla thing
+was, was always, you know, extra silly. So it's hard for me to say it's just like Tesla, but there
+is some of that going on, no question. And it's, if you're talking about AI, then you've got to
+be talking about Nvidia. And I just don't know that that's an equivalence that, you know, is
+going to hold for very long. Again, you know, I think about, and you were mentioning the tech
+bubble earlier. I was thinking about how much value was created by the original tech revolution.
+And I'm talking about, you know, what happened between call it 1995 and 2000. And I can only
+imagine that only a small fraction of the value generated actually went to, you know, the key
+players at the time. I don't care how rich people got at Microsoft. I guarantee you that it was only
+a small fraction of the amount of societal wealth that was created then. And I just don't, right now,
+what we're seeing is Nvidia shareholders capturing more than a hundred percent of all gains from AI
+so far first approximation. Wow. Okay. That's a, that's a,
+that's a big and important statement. Whereas we've seen in previous cycles you know,
+everybody gets their, their bite of the value creation. But the value creation is the big,
+the big pot. You're saying we estimate the value creation of this new AI boom and it's going all
+to one player. And in fact, maybe even more than a hundred percent right now. Look, I'm not saying
+these are actual figures. I'm saying, I think it's, it's an intellectually reasonable way to
+think about it. Yeah. All right. Well, look just to make one more sort of Tesla Nvidia comparison
+to get your reaction to. So, you know, Tesla again at its height, it was all right. EVs is,
+is the way the world is going. You know, it's a, it's a much better car. The
+new green deal is going to electrify the transportation grid. It's got nothing.
+This whole sector has got nothing but tailwinds behind it. Right. And here we are fast forward
+two years later. The bloom is kind of coming off the Rose of the EV market. You know, I'm not here
+to denigrate it, but there's definitely been a lot of questions that have been asked about you know,
+do these cars perform as well as we thought? Are they as efficient as we thought? Are they as green
+as we thought? And there's a lot of arguments to suggest that they're not. So in the, the,
+the laggard in this space was Toyota who hadn't really done much in the 100% EV category and stuck
+with their knitting of hybrids. And it seems like the pendulum is now starting to swing back to the
+hybrid space. And the hybrid might be the model that emerges here as, as, as the winning horse
+in this race too early to tell, and I'm not an expert on this. Right. But I'm just saying that
+the narrative isn't just EVs are, you know, the solution for everything the way that it was a
+couple of years ago. So you know, one might say that well that's an open question where in two
+years from now, might we be saying, Oh yeah, there's, there's a lot of things to expect from
+AI and it's, it's real. And it's going to make a big difference in the world over time, but it's
+not this cure for everything that it's kind of currently being sold as. I think that's right.
+I think that's completely right. Clearly the thing is, is, is going to change, you know, our reality.
+You know, I think it's hard to imagine a world in which, I mean, I, you know,
+in which people say, nah, it really was just, you know, all kind of hot air. But right now again,
+everybody it's a little bit, you know, it's a little bit, you have to look at where the
+silliness is happening. And right now everybody's got an AI company and, and you know, it's a little
+bit, I was, I was, I think a friend of mine was telling me recently, someone was pitching him
+an AI solution for his company and he said, well, great, what does it do? And the pitch was, well,
+I can do anything you want it to do. And you're like, how about you build a product that actually
+helps me in my job and then you come back. You know, so I think this idea that it can do anything
+has the distinct advantage advantage of being fuzzy. But the people that are actually going
+to be allocating dollars, you know, that, that are, they're literally taking out of their bottom
+line to improve their business is going to, are going to be a little bit more discerning than,
+cool, this thing could do anything. So one of the, and again, I'm, I'm not an AI skeptic but,
+but I do think that, you know, the, the hype has maybe reached levels of, of fantastical
+expectations in certain areas here. And, and one, one company that, that kind of makes me
+feel that way is Reddit and looking at the Reddit IPO right now. I'm curious if you have any
+thoughts on that. So I know a little bit more about Reddit than the average person because I
+work at Yahoo for 10 years. So I sort of know that space fairly well. And as I understand it,
+the reason why, you know, Reddit became red hot and wanted to IPO to capitalize on it was,
+I can't remember which AI player, but maybe it was Google, I think, approached them and said,
+Hey, we want to basically license your, your archive, right? We want to, we want to,
+we want to train our AI on your, your, you know, gazillions of posts from regular people,
+right? It's a ton of content that, that we're going to learn from, right?
+And okay, just taking that at face value, I get it, but that's a one-time game to Reddit.
+When you talk about how real are these revenue, this revenue growth, right? That's a one-time hit.
+And I mentioned that on Twitter and somebody said, well, Hey, I'm making license it to the other AI
+players. I'm like, okay, great. They, they get a few more checks. Right. But, but, but then it's
+done. It's, it's a one and done thing for them. Right. So the people that are getting all excited
+about Reddit right now they're putting a big multiple on that company. And I think the multiple
+part is really questionable. Now, secondarily, there's the concern I have, again, maybe knowing
+Reddit a little bit better than the average person of kind of garbage in garbage out.
+Right. I wonder like, what is your AI going to learn?
+Like I prefer not to consume some of this stuff. And whether that's in a direct fashion or indirect
+fashion through some kind of, you know, machine learning, you know, on, on it. But I think that's
+right. You know, and again, part of it, look, data companies clearly have been going at a premium for
+a long time. I mean, by the way, again, you going back to old foggy things that most people wouldn't
+even think of as, as data companies, you know, the old MSCIs of the world or, or even some of
+the index companies. So there's value in data. We know that. But to your point, you know, when,
+when the data you have is just, and I, and I don't want to be overly denigrating, but potentially an
+open sewer of, of human psyche in some corners you know, I'm not sure I want to be learning from that.
+But most importantly the thing that is worth remembering is, is the only way in which data
+truly are valuable is to your point, if they're gated and if everybody cuts the check and
+everybody learns on it, then the marginal value of that, of that training ground is,
+is very quickly back down to kind of, you know, the foothills because it's, it's now part of the
+bloodstream. So I think to your point, if, if Reddit has value and I think to your, it clearly
+AI is, is starved, but the large companies are starved for, for data they can, they can consume
+without getting sued. And one of the surest ways of doing that is to buy the data. But, but that,
+that, you know, again, doesn't seem, doesn't seem particularly replicable over time, which presumably
+is what a shareholder would want as opposed to someone who just wants a one-time payout.
+That payout is, is done. Now it's just a question of who's going to be holding the chips when,
+when it happens. But yeah, I think, you know, you're seeing a lot of this stuff.
+And again, I'm trying to give people credit. I'm trying to understand where it's coming from.
+I think there is an existential, I think a lot of this is excitement. And, and it's easy for me to,
+to, to make fun of excitement when I think it's excessive, but I think a lot of it is
+existential fear. I think people are in a mind frame where they realize the world is changing.
+And if they're not on the right, you know, whatever you call it, inflatable boat off of
+the Titanic, they might be left, you know, in a pretty bad place. And so they're trying to figure
+out how do you accrue, you know, kind of units of value before the thing really radically changes
+and the order has been flipped upside down. That's so interesting that you put it that way,
+just because I would, I would have said, yeah, fear is driving this, but I would have said it was
+not an existential fear, but, but FOMO, right. I've just, Hey, the, the, the, the market
+opportunity is concentrating, right. We've got, we've got one of the most narrow breadth markets
+that we've ever had. Right. And the, the folks that are in the winning boats are making a killing,
+right. And everybody else is looking around and saying, all right, I want some of that.
+Right. Like, and so to me, it feels more like, Hey, I want a winning lottery ticket and there's,
+there's some of these, some of these, you know, companies out there that seem to be them.
+Screw what I've been told about a well-diversified portfolio, we're not stretching for risk or
+whatever. I'm going to grab that thing. Right. Especially because my idiot neighbor,
+idiot brother-in-law, you know, keeps bragging about how much he's made on his Nvidia or his
+Bitcoin or whatever is, you know, whatever speculative asset is shooting the moon right now.
+And I would have said that that was driving them less than a, Hey, the world has changed and,
+you know, I got to be part of the new fancy thing, but maybe that's a flavor of it. I don't know.
+Yeah. I mean, I, and by the way, again, I think they're I guess the reason I'm willing to go there
+is twofold. One is I think it's too easy to make fun of your, you know, dumb brother-in-law making
+money and you know, whatever. So the, the, the straight FOMO, the mean stock FOMO is just silly
+and pedestrian. And, and if that's the scenario, it will resolve itself because you know, silliness
+doesn't get rewarded in the long, in the long run. But I do think, and again, this is where I'm
+willing to have more compassion perhaps, or just a better feel for it is forget FOMO. Maybe you and I
+are coming up with a new acronym, EFO MO, which is, you know, existential FOMO. And I think in
+a world in which you're looking at, again, think about everything we've lived through in the last,
+you know, call it whatever, whenever you start the clock, but let's just call it COVID. Okay.
+And you're saying this world is changing radically and in ways that I don't love and don't care for.
+And, you know, I've been put through the ringer and now there seems to be this new thing that
+may be taking you know, the economy and the, and the world in which I operate in a completely
+different direction. And, and I think it's reasonable to say, again, I, I'm trying to
+be educated about what I learned from looking at the big bubbles in history. Sometimes the social
+order changes and when it does it, people want to make sure they're on the right side of the ledger.
+It's not confusing. It's you know, it's, it's it's and so I think that's part of it. Some of it is
+just straight up FOMO is like how many dollars in my account? And I think if some of it is like,
+where, where am I going to be on the, on the societal totem pole when this thing is over?
+Got it. And also maybe two on the corporate totem pole, right? Which is like,
+just like in the.com era, everybody was scrambling to figure out how to get some digital part of
+their business. There's probably a lot of that with AI right now, which is, Hey, you know,
+it seems like that's where it's going. We better, we better invest big in AI now,
+even if we don't fully understand it because we just don't want to be the dinosaurs in the story.
+Yeah. If AI is the asteroid, we don't want to be the dinosaurs. Yeah.
+I think that's right. I think that's right. And so I guess my point to you is the reason I'm, I,
+I choose to think about it in those terms, at least at the margin, is that it allows me to have,
+as I said, have a little more understanding and maybe, you know, it it's, I don't want to just
+be dismissive of a bunch of people doing silly things because I, I, I think that, that paints
+too much of a caricature and, and either scenario isn't great. You know, I'm reminded of a piece
+that's someone, David Nadek, you know, wrote recently and he's like, the bubble scenario
+isn't great, but like the world order changing scenario is also pretty, pretty intense. So,
+you know, I think it's just, you know, if they both, if they both result in a bubble,
+whatever the driving force, it almost doesn't matter. Does it? Yeah, no, I think it's just,
+I mean, again, that the, the, and this is, this goes back to, you know, the way I think about
+bubbles and I'm, and please don't misconstrue what I'm saying as, as being conspiratorial in nature.
+It's just a mechanical thing. Bubbles are a wealth redistribution mechanism. There are people that
+lose money and people that make money and that's the bottom line. It's just the reality of it.
+And so I think part of it is like, who's going to, by the end of this thing,
+who's going to end up with more chips and who's going to end up with fewer chips.
+Okay. You're giving me so many great directions to go and we only have about 20 minutes left,
+so I'm going to try to try to get through as many of them as we can. So first off,
+to round out this bubble discussion, and by the way, just want to remind folks of your credentials
+here. You wrote academic research back at UCLA on financial bubbles. You did this in the aftermath
+of the tech bubble. So you've got a good understanding of why and how bubbles form.
+You also ran product, as I mentioned, at research associates, which I think, you know,
+it influences how 150 billion in assets are managed. So massive scale. So you're not just
+some guy with an opinion. You're a guy who really understands the world in which he operates.
+So we've kind of used Nvidia as sort of a case study here. But as you look at the market right
+now, where are we on your bubble meter? Are we in one? I'm trying to be very thoughtful. I
+apologize for the pregnant pause. Yeah, yeah, yeah. I don't want to be knee jerk about it.
+I think it's really hard. I guess on a meter, you know, one through five or something, I think it's
+a solid four. I think it's hard to say everything points to bubble. I think there's some things
+don't. But the predominance of the evidence suggests that this market isn't priced in a
+way that leads to really great outcomes for the next 10 years. How about that for a description?
+You know, it's just, we know empirically, and again, as you noted, I'm a PhD economist,
+and I've thought long and hard about both the theory of finance as well as with the data
+inform us. This does not require a theory. This is an empirical result, which is when
+valuations are high, prospective returns are lower, period. And whether that translates into,
+I guess the reason I'm giving you a four out of five instead of a five out of five is I was
+recently looking back at the Japanese stock market bubble of the 1980s. And that was like
+super extra silly. That was like six out of five. That was the granddaddy of all, yeah.
+Right. And so in a world where like the Japanese bubble happened, I can't call this quite a five
+out of five because I know there's room to stretch from here. But this isn't, this is, you know,
+it's going to take a lot of great fortune for these valuations to turn into, you know, healthy
+returns on a go forward basis. Okay. Is it fair to say that you think we are in a late stage bubble
+at this time? Late stage market. Yeah. Late stage market bubble, meaning we're getting close to the
+point where the gains we've seen are not going to be able to continue. And really one of two things
+are going to have to happen, either a pretty substantial correction to get prices down into
+better value or a prolonged stagnation. Yeah. I mean, again, this is where, you know, the future
+is unknowable. And again, I don't, I really don't want to add the intersection of humility and just
+the recognition that crazy things can get way crazier. Am I here to, you know, beat the drum
+that said we've seen the top? I have no way of knowing that. But I'm not excited about putting
+more money in US stocks at these prices. That's where I'm headed with all this, which is given
+this market environment. Is it one that somebody should say, oh no, we're only in the third inning,
+so I'm going to ride this thing for a while, right? I think it's just, I think it's just
+incorrect. You know, again, you have to look at things from the perspective of the structure you
+have and the structure we have, which are things like historical data and market valuations and,
+you know, all of that aren't suggestive that this is the beginning. They're suggestive that,
+you know, a lot has already happened and a lot is already in the price.
+Okay. All right. So let's see here. Let's go kind of to rapid fire. And then there's one topic I
+want to flesh out with you before we wrap up. So I talked earlier about like your macro outlook
+about where you think things are headed from here. You talked about, you know, Nvidia having maybe
+perhaps more economy beta in it than folks are realizing at this point in time. What is your
+expectation of the economy beta here? Do you think that the U.S. economy is strong and will stay
+strong enough for, you know, let's look at this sort of over the rest of the year, you know,
+perspective on it? Or, you know, do you feel that these cracks that you've mentioned are going to,
+you know, we're going to trip over one of them eventually. I like to use the term lag effect.
+You know, we've had this, this we've dramatically increased the cost of capital. And yes,
+that's been cushioned by a lot of net liquidity factors, including things that the Fed has been
+in charge of, like the reverse repo program and the BTFP, both of which by the way, are,
+are kind of ending at this point, right? Running out.
+Running out. Yeah. And so, you know, there's a good argument to be made. Definitely a big debate
+to be had over it, but a good argument made that the lag effect hasn't been repealed. It's just
+been delayed and it'll eventually arrive. So do you have an outlook one way or the other?
+I, yeah. You know, I mean, again, and I'll, I want to be very honest about the fact that this is
+about learning in real time. You know, I thought at the beginning of this year that, you know, the,
+the, the predominant argument, which was soft landing, you know, had a lot of credibility.
+And I think it's very clear that the cards that have been turned over since, you know,
+are taking us away from some version of, of soft landing to, you know, kind of this no landing
+world, which is a really bizarre world. So I thought, I thought it was, it was healthy to,
+to, to have, you know, give some credence to the soft landing and by the way,
+cheer for it. I mean, if we could have had it, that would have been amazing.
+Who doesn't want, you know, an economy that slows just right without causing a huge amount of pain
+on, on, on people that's, you know, we shouldn't want that. But it, the reality of it is inflation.
+No, I think it's important to realize that a high inflation regime is also a high inflation
+volatility regime. That's just the nature of it. So once inflation is high, then, you know,
+the month to month prints are just going to bop around just a lot more. But I think it's hard to,
+to look at the recent inflation data and not think that we're kind of stuck here. We all know the
+things that are going to wash out eventually if we're lucky, you know, the OER, the you know,
+the rental equivalent, so on and so forth. But I don't know about you, I drive past a gas station
+every day and it's pretty clear that, you know, oil is going up and gasoline going into, you know,
+the tanks of your neighbor's cars is going up, you know, all of that. So I just think we're gonna,
+we're gonna live or die in a lot of ways by either just something bad happening somewhere in the
+economy. And it could, again, I'm, I would be shocked if this, you know, we had heard all we're
+gonna hear on the commercial real estate set of things. I just think there's a lot of losses on a
+lot of books. And, and yes, the Fed has basically just backstopped the entire banking system for the
+last year. But at what point does, you know, one of those things, you know, spiral again, number
+one. So I think something like, you know, CRE risk could easily get us there. And the other part of
+it is, you know, it seems to me like the Fed has said, all right, we're just gonna, you know,
+roll out the mission accomplished banner on inflation and, and, you know, be done with it.
+If, if somehow someone gets a little bit more of a spine over the next few months and says,
+we're not, we're not quite there yet, then it could, the market could be in for,
+for a real surprise. And therefore the economy could be in for a real surprise because,
+you know, I think we've all made peace with this funding rate for a period of time.
+And by the way, it's not awful. I think it's a decent place to be, to make like reasonable
+economic decisions at the margin, but people weren't prepared for it. And so a lot of people
+are in the red. Yeah. So if we had more time, there's, there's a lot of data that I pulled up,
+especially around the signs of weakness in the American consumer. Don't have time to
+go into that given the topic I want to go into here. But we'll flag that because I really would
+love to bet, you know, get your thoughts on that. Cause one of the questions I have is how real is
+the current economic growth rate that we have right now and not real, you know, real versus
+nominal, but, but how dependable do we think this is going to be going forward? Right.
+So, but, but we'll, we'll have to, we'll have to punt that off for a different day.
+When we were getting ready to prepare you get on camera here you brought up a great topic that I,
+given your expertise that I wanted to give the audience a chance to hear,
+which is you know, you were head of product for, you know, this, this massive
+research firm that, that, that influences so much in client capital.
+I believe, and don't let me put words in your mouth, but I believe that you were expressing
+a concern that given the froth today that there's a real incentive. One might call it a perverse
+incentive for wall street, just to sell whatever it can into that. Right. And personally, I might
+think something like the Reddit IPO might be a good example, but you, you mentioned a number
+of different categories right now that have become very popular where, you know, you're kind of
+scratching your head and saying, okay, that's great for wall street to sell those things,
+but is that great for the market? You know, are the people buying these things, are they fully
+cognizant of the true price of them? So if I'm capturing the spirit of this correctly,
+can you just sort of elaborate on this completely? Absolutely. And, and again, you know, when I was
+head of product at research affiliates, we went by our mission, which was to do things for the
+benefit of investors. And so we often had requests for new products and new strategies, and we would
+sit around and say, but do we believe this isn't the benefit of investors? And if we said, no,
+we would just say like, I don't really care that there is, you know, you know, money in the banana
+stand. So but that's the way a lot of product groups around wall street in particular in asset
+management operate. If there is money to be made, I don't really think long and hard, so to speak
+about what it means for, you know, whether or not this is an advisable product. I think it's all,
+you know, you have to understand the incentives in the industry. So on that kind of vein and,
+you know, again, there are the things that you and I think are reasonable markers of such
+issues. You know, silly IPOs is a good one. Private credit being shoved into a bunch of,
+you know, high net worth investors portfolios is probably another good one for another day.
+But the one that is pretty obvious to me right now is what I would describe as engineered yield.
+And look, there are a lot of people for whom, you know, distributions are important,
+particularly as they're approaching retirement or, you know, they're in a phase of wealth where
+they've made their money. They just want to get distributions out of it. And I'll give you two.
+And this is where, again, understand I'm a PhD economist and I wrote my dissertation basically
+on option theory. So a lot of this is option centric. And so it helps to know that to get
+to the bottom line. Buy-write strategies, hugely popular in, you know, kind of wealth management
+at large has been made more popular by the fact that a lot of it has been going into ETF format
+recently and sucking up a lot of AUM. What's a buy-write strategy? You buy the stocks and you
+write, you sell call options on top of it to, you know, spike the distributions. And then you say,
+okay, that's great. That's an interesting thing if what you want to do is put a big fat distribution
+yield in front of people. But then if you're really asking yourself, you know, what's fundamentally
+going on here? Think about stocks. And again, start from the premise that imagine the following
+conversation. Hey, these things go up a lot or they go down a lot. How about you keep the downside
+and you sell me the upside. Okay. Then you say, you have one of two reactions. No, thank you.
+Right. Reaction number one, reaction number two, at what price? Okay. If you're going down the path
+of reaction number two, which is probably a little bit more sophisticated, but by the way, I don't
+think no, thank you is a terrible default. Then you say, okay, at what price? Well, let me tell
+you this implied volatility on us stocks is really low right now. You know, we can talk about
+percentile, some version of into 38 percentile going back in history. But the point is these
+options you're selling, you're selling for cheap on a thing that leaves you with a bunch of downside
+and not a lot of upside. Is that worth it to you? That's a, that's, you know, question number one.
+The other one, which, you know, kind of gets you a little bit further up, I guess the,
+the food chain in, in the world where people get interested in managing your money is, you know,
+in private banking and private wealth. I'm hearing a lot more about what I would describe as
+structured notes and these structured notes again are, you know, some version of, hey,
+you'll get 9% for the next year unless the market is down 15% or more at which point, you know,
+you'll participate in the downside, which is a cute way of saying you'll lose money.
+And then you say, well, okay, so these things have been engineered. It's literally in the title
+structured note. And you say, well, how do you structure them? Well, it's like a treasury rate
+when you're just currently earning roughly 5%. And then how do you get the, the, the difference
+between five and nine while you sell a put, that's how you get to participate in the downside.
+Are you excited about the idea of earning an extra 4% on top of a really healthy treasury yield
+for the benefit of selling market insurance? And again, at fairly low prices today because
+implied volatility is low. So this, this whole kind of short, I guess, put it under the umbrella
+of short vol products seems to me like a lot of marketing departments getting really excited
+about putting big fat yields in front of people. And, and those yields being finally easy to
+engineer because of where treasury yields are. But leaving me rather concerned that the people
+who are actually investing in those things don't get it. And when it goes badly, aren't going to be
+very happy with it. Got it. Okay. So it's just, it's a little bit of a version of the, if you
+don't know who the Patsy is at the poker table at you, right. Where wall street is, is amazingly
+inventive in coming up with new things to sell to meet market interest or market demand. Right.
+And what I hear you saying is, is they're getting very creative with these engineer
+yield products, but you fear that a lot of the people that are buying them, like don't really
+fully understand how they're going to work in every different scenario. And if today's current
+kind of Goldilocks conditions end for this product suddenly the product could look a lot less
+appealing and these people could, could be experiencing returns that they were just not
+expecting. It just, yeah, I think that's right. Okay. All right. So just, you know, just one more
+caveat folks about you know, wall street sort of like, Hey, we're, we're here from the government.
+We're here to help. We're here from wall street. We're here to sell you a great new product.
+Make sure you do a lot of your due diligence before jumping into one of these, you know,
+hot new hot new products that, that wall street is pushing. All right. Well, look,
+as we wrap up here I did say what kind of wanted to get to the end of, of your thoughts on, on where
+the market may be headed from here. You know, you've told us, Hey, you think it's pretty
+stretched, you know, four out of five on the bubble meter. And you know you don't want to be,
+you're not excited to deploy fresh capital, at least into stocks at these valuations for,
+for folks. This is a channel that's none of what you're going to say here, by the way, Jonathan is
+individual financial advice. Folks understand that this is just for educational purposes only.
+I'm going to talk in a minute about what folks can do if they want to get advice from a professional.
+But you know, they're, they're just trying to figure out, okay, gosh,
+given the current state of this market, then I've got, you know, I've got my financial capital.
+What are some of the things that I should be considering doing with it? Obviously,
+it sounds like you're saying, look, this is the time to be more defensive than offensive.
+Are there potential strategy? Are there certain strategies or certain asset classes right now
+that you particularly think are well suited to this environment, or maybe on the other side,
+particularly ill suited to this environment? Yeah. So and again, not financial advice. This
+is just looking at data and, and educating myself and sharing that education. Because I think it's
+helpful to think about how returns are generated. You know, we just talked about engineered yield.
+And, you know, I think a lot about reward for risk borne. And I think one asset class where it seems
+to me like the reward is well priced right now. And it happens to be that I think, you know, the,
+the edges of the scenarios, if you will, are pretty well understood, is a fresh, you know,
+government backed mortgages. And, you know, I'm not the only one talking about it. I know some of my
+friends in Newport Beach who, who live in, in, you know, fixed income land. I think you'll,
+you'll know who I'm talking about. You know, I know they're talking about it a lot. And if
+you think about what a, and I'm talking, I'm not talking about anything that's not government backed.
+But if you think about what I just told you, which is stock market volatility, implied volatility is
+very low right now. So it's not a great time to be selling options all over town. Bond interest
+rate volatility is very high. And so that becomes worth thinking about. And it happens to be that,
+you know, like a fanny, a fanny mortgage, a fresh one, you know, one that was just issued recently,
+at some version of 6%, right, is effectively functionally identical to being along a US
+treasury, roughly a 10 year treasury, and selling a call on it. Because what you know is going to
+happen is if rates come down, right, people will refinance their mortgage. That's the prepayment
+risk. And all we know now is that that's a real risk. Now, again, I don't know that we're going
+back to a 3% mortgage world. And by the way, I'm not sure we want to go back to that world
+because that means a lot of bad things have happened. But the reality of it is fresh mortgages
+seem to have a pretty decent risk return profile right now. Again, not, you know, just looking at
+asset classes. So that's that's one I'll leave you with. Great. That's a fresh one. I hadn't
+hadn't heard that one before. Great. All right. Well, look, as we as we wrap up here, for folks
+that have really enjoyed this discussion, and if this was their first introduction to you,
+where can they go or follow you and learn more about you and your work? Sure. Well,
+the easiest way is to go to my website, www.troussard.com. That's T as in Thomas, R-E-U-S-S-A-R-D as in
+David.com. And look, I encourage you to do one of two things. If you're obviously curious about
+having a conversation as to what it would look like to work together, and I can give you my
+opinions about where you are today from a from a wealth management standpoint, please contact me.
+There's a contact page on our website. But honestly, just drop me a line. One of the
+one of the beautiful things about running a boutique wealth management firm is I want it
+to be personal. So my email address is Jonathan@troussard.com, J-O-N-A-T-H-A-N@troussard.com.
+But if you're not, you know, there if you don't want to have that conversation at a minimum,
+please sign up for our newsletter. I put out a piece roughly twice a month. I try to be a light
+spammer. I try to keep it light and interesting. And at the bottom of every one of our pages on
+the website, you can just put in your name and email address and you'll be added to the mailing
+list and you'll be getting the newsletter twice a month, roughly. Great. All right. And look,
+Jonathan, when I edit this, I will put up the links to your website and your email
+right there on the screen. You're a brave man to share your email. All right. I'm going to do
+a couple of quick like 30 seconds of housekeeping and then I'm going to ask you the last question,
+Jonathan, just so you can noodle on it, which is we've been talking all about financial related
+topics so far. What's one non money related investment you would encourage folks to consider
+adopting in their lives? So, folks, right before we get to that, if you've enjoyed having Jonathan
+on would like to have him back on this program again, particularly when his bubble meter ticks
+up or down next, there's some material change in it. Let him know by hitting the like button
+and then clicking on the red subscribe button below as well as that little bell icon right next
+to it. Just a reminder for folks, too, that everybody who is a premium subscriber to our
+Substack gets my Adam's Notes summaries of all the interviews that we do on this channel, including
+this one with Jonathan. One quick note. Well, we've just added an executive summary feature
+to it. So, in addition to the full write up, it now begins with a couple of bullet points,
+just capturing the key most important takeaways from the conversation in case of the TLDR version,
+too long, didn't read version of the notes. And then so to get the Substack, obviously,
+just go to AdamTaggart.Substack.com. And then lastly, to echo what Jonathan said there, and echo
+what I say on every one of these programs is for the vast majority of people watching this, trying
+to navigate these markets that we're in, particularly given how stretched they are,
+four out of five on Jonathan's bubble meter here, can feel very overwhelming for the majority of
+people. I literally just sat down with a couple that's retiring, actually have a fair amount of
+capital, but very little experience never managing it themselves. Guy was an entrepreneur focused on
+his business. They're feeling very vulnerable now about making sure that what they've worked
+so hard to amass lasts the rest of their lives. So, I gave him the same advice I give everybody
+here every week, which is the vast majority of people should be working under the guidance of
+a good professional financial advisor, not just one who's good in general, but one that takes into
+account all of the macro issues that Jonathan and I have been talking about here. And when you add
+that requirement onto the universe, it actually starts getting much smaller than you would expect.
+There's a lot of advisors out there that cut their teeth on the 2010 through 2021 era where
+you could really do no wrong because of all the intervention by the Federal Reserve and the
+central planners that just kept stocks moving up year after year after year. Now, we are in a
+different era now, and we're now in one where valuations are super stretched again. So anyways,
+make sure you're working with one that understands that backstory so that they can take all that into
+their portfolio allocation for you. So if you've got a good one who's doing that for you and
+implementing it for you, taking care for you as a good financial quarterback, great, you should stick
+with them. They're very valuable. But if you don't have one, or you'd like to get a second opinion
+from one who does, consider scheduling a free consultation with one of the ones that Faffle
+Money endorses that the guys you see with me on this channel week in and week out. To do that,
+just fill out the short form at thoughtfulmoney.com, only takes you a couple of seconds.
+These consultations are totally free. There's no commitment to work with these guys, just a free
+public service they offer to help as many people as possible positioned as prudently as possible
+for what may lie ahead. All right, Jonathan, we're back to you. What is one non-monetary
+related investment that you think is worthwhile folks consider?
+A couple of years ago, someone mentioned to me, Martin Short's multidimensional,
+whatever, life assessment method, comedian. And I think you can Google it.
+The Saturday Night Live comedian, Martin Short?
+Yeah. And I've been doing it for myself and I've found it very helpful. He woke up one day famous
+and he realized that if he predicated how he's doing in life on the basis of whether he's more
+or less famous than yesterday from the point that he was now at, it was going to make for a pretty
+miserable existence. And so I came up with, I don't know if it's eight or nine categories for
+himself and they truly spoke to me. It's not just how famous or rich you are. It's about how you're
+doing with your friends, how you're doing with the family from which you came, your parents and so
+on, the family you now have. Do you feel creative or do you not feel creative in your own professional
+efforts, so on and so forth? And so I really encourage people to look up, again, I think if
+you Google Martin Short's whatever dimensions of happiness or something, it'll come up.
+And it's not a bad idea once in a while to try to see how you're doing on these dimensions. And look,
+if you find that you derive a lot of joy from your friendships and you haven't been nurturing
+them as much as you might have last year, maybe lean into that a little bit, that sort of thing.
+All right. Very, very well put. And I think people are noticing on this journey of me asking a lot of
+the wealth experts on this channel the same question. It seems very clear that the people
+who spend the most time in the realm of money understand the best that money isn't the source
+of happiness in life. It can be a catalyst, no doubt. But the things that really bring us
+fulfillment and joy and when we look back at our lives and say, was it a good life?
+Money is not playing the starring role. It's all these other things. And so it's great to
+hear that you are adding additional validation to that. Well, Jonathan, look, this has been a
+wonderful discussion. I'm so glad that you come on the program. We've now gotten to know each
+other. The audience has gotten exposure to you. Really look forward to having you back on in the
+future if you can make it. But the door is open here anytime. Thank you. That was lovely. I look
+forward to it. Great. And everybody else, thanks so much for watching.

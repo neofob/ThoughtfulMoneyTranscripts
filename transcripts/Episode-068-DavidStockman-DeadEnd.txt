@@ -1,0 +1,792 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. To better understand the current economic environment we find
+ourselves in, it helps to better understand how we ended up here. And few have as detailed an understanding as today's guest,
+who's been a true insider in both Washington DC and Wall Street for his extremely long and accomplished career. We're fortunate today to speak
+with former Congressman, economic policymaker and financier David Stockman. David, thanks so much for joining us today.
+Great to be with you.
+Well, David, look, it's been a while since we've been able to sit down together. I've known you for a long time. It's so great to finally see you
+again here and have you with your inaugural appearance here on Thoughtful Money. I gave the streamlined introduction because you really have
+done so much and I just want to read sort of your official CV here for folks just so they know your backstory. David Stockman represented
+Southern Michigan in the US House of Representatives from 1976 to 1981, and later served as the director of the Office of Management and Budget in
+the Reagan administration and was the youngest cabinet member of the 20th century. Since then, he's held executive positions in many of the most
+influential banking buyout and private equity firms, including the Blackstone Group and Salomon Brothers. I don't know if this is still true, but at
+least I know that you've served as a member of the Council on Foreign Relations, and you have many other accomplishments too numerous to list here,
+including a brand new book out. Anything else you want to add to that?
+I think we've pretty well covered it. But it does remind me of an issue that we've talked about over and over, and I think it's a good place to
+start. We are truly now at a fiscal and monetary dead end. And I really mean dead end. And one way, you know, you always need context because
+everybody's been reading, you know, the debt was public debt was up a trillion dollars in the last hundred days, and it's continuing to rise
+rapidly. And I think by the end of this fiscal year, it'll be 37 trillion, not 34. Sometime in 2025, it'll be, you know, 30 trillion, I mean, 40
+trillion, and then we're heading to 60 trillion before the end of the 30. So the point is, it's a huge growing number. But sometimes we lose
+track of it because of the recency bias, we just keep hearing another trillion here, another trillion there. I happen to be able to note the
+other day at a conference I was at, I went to Washington in 1970, started as a young staffer on Capitol Hill, the public debt was 325 billion at
+the time, it's 34 and a half trillion today, that's a nice round 100x. And of course, you can say, well, yeah, big numbers, but you know, the
+economy's a lot bigger, there's been a lot of inflation. But the fact is, even if you take the nominal GDP, which after all is the national
+income that we have to support and finance that 100x gain, the nominal GDP is only up from 1.2 trillion to 27 or so where we are today. So the
+point is, it's a half century in which the public debt has mushroomed 100x compared to an economy that's up by 25x in the same nominal
+dollars. Now, you don't have to do a lot of fancy math to understand that that doesn't compute, that doesn't sustain, and that now that we're at an
+accelerating rate of growth in the debt, and the Fed has reached a dead end, in my view, where it's not going to be able to monetize any more of
+the debt for a good while to come, we've got a real dilemma. The chickens are finally going to come home to roost. And I think that big picture
+framework is what provides the context for understanding where we might be heading in the near term in terms of financial markets, politics,
+elections, the world economy, and a lot of other things.
+All right. So I usually ask as my kickoff question, what's your current assessment of the global economy? Well, you just sort of nailed it there
+with this monetary and fiscal dead end. So let me ask you a couple of questions, both short and long term. I guess short term, I think I just heard
+you say that the Fed is going to be compromised in its ability to monetize the debt going forward. So can you explain the why of that statement?
+Sure. And also, let's have some context. I think the 100x number on the public debt is a pretty easy thing to contemplate. 1970, the present half century.
+The Fed's balance sheet was 70 billion back then in 1970, and it peaked recently at 9 trillion. So that's 130x, and it tells you something.
+If the economy grows 25x, the debt grows 100x, and the balance sheet, which is really just the tracking of how much money has been printed
+cumulatively over time, is up 130x, you can see what the game has been. We should have had a crisis a long time ago.
+The bond vigilantes should have been creating havoc. We should have had rapidly rising interest rates crowding out in the bond pits and all the
+things we've always talked about. But the Fed saved the day. It came in and essentially absorbed the debt, monetized the debt at such a fantastic
+sustained rate, which obviously, again, has accelerated enormously since 2019, that the day of reckoning was postponed. But then suddenly, out of the
+blue, when we had Powell and all the rest of them telling us that it was transitory, don't worry, we get 40-year high inflation. And after the peak,
+which was way back in June 2022, as we all remember, we're still at a point where it has not settled down. I look at the 16% trim mean CPI. I think
+it's a much better, more stable, more smooth measure of where we're going. It came in today, again, at 3.5%. It's been stuck there since last March,
+which means that they've unleashed an inflationary tide in the economy that simply isn't going away. Even if you believe the 2% target, which I
+don't think makes a lot of sense, but it's there. And as a result, they're not going to be restarting the printing press, so to speak, that is cutting
+rates. That's just the outward evidence of what they're doing. They're not going to be starting that anytime, in my view, in 2024. And I don't see how
+they started the next year or the year after. The inflationary pressure is just too deeply and thoroughly embedded in the economy. There's a lot of
+dimensions to that that we can get into. But think about this, with the Treasury, Uncle Sam, now borrowing a trillion dollars every 100 days, and that's
+exhilarating, by the way, with an election coming up between two guys who should have been retired long ago, neither of which has any interest in
+reducing the deficit. I mean, Trump doesn't care. And Biden throws some numbers on the screen like he did today, which are incredible and are not
+going to change anything. So if you have an election that won't address the matter, if you have a political system that is entirely dysfunctional on
+the matter, we're going to have growing borrowing and the Fed isn't going to monetize it. And so therefore, interest rates are going to remain
+much higher than they've been over this artificial period of the last decade or two decades. And I think the market is mispriced for interest rates,
+let's say on the 10-year, that remain way above 4%, 5%, 6%. When you have the 10-year, which is the benchmark, it's the cap rate, really, for the whole
+economy trading where I think it's going to be 5 and up from there. You can have a PE at 25 or 30 times because it just doesn't compute. But that's
+where the market is today. So I think we're in an inflationary blow off, a speculative top in the market. Again, we have the top 10 stocks, as I
+think a lot of people know, accounting for 33% of the total market cap of the S&P 500, which is even bigger than the 25% share that the top 10 had
+back in 2000 at the peak of the dotcom bubble. So we've got a great, tremendous bubble. We've got an enormous amount of speculative blows into a
+shrinking number of mega cap stocks, all premised on interest rates far lower over the long haul than they are today and that they can possibly be
+over the next several years. So there's a moment coming that probably won't be as pleasant as people would like to experience, obviously.
+Well, it sounds more than that. So you're talking about a market repricing and it sounds like the market would need to reprice anyways, given the fact
+that interest rates are higher than most folks think. But we're also in the speculative fervor, meaning the fall is going to be potentially a lot harder
+because of that. I want to talk about how violent you think the market correction could be. But before we get there, let's talk about the economy. Because if
+interest rates are going to go higher, we already have a higher for longer economy. The Fed raised rates and has kept them there longer than most people
+expected and certainly longer than the market initially expected. Market was always printing in a pivot and rate cuts and has always had to adjust. A lot of
+people initially said, there's no way the economy is going to be able to handle interest rates at five or higher. And it kind of magically has. And I've had a lot of
+discussions on this channel about why and it seems to be lots of net liquidity that's been pumped into the system. You can very clearly see that in October 2022,
+those who track liquidity show that the flows turned positive again, right then and that's when everything's sort of gone off to the races. The question is, how
+long can that continue for? You talked about the deficit spending that's been going on in addition to things like the BTFP and the draining of the reverse repo
+program and some of the things that were going on with TGA that again, all helped kind of push liquidity into the system. So it's extended. Now, if rates,
+interest rates go even higher here over a secular term, the lag effects have got to eventually start pulling this economy materially lower. And so we've
+had this battle between hard landing and soft landing. Narrative wise, the soft landing or even no landing folks have won out here. Are you expecting
+something much harder going forward, given what inevitably must happen, I think, in this type of over leveraged economy with interest rates where you
+think they're going to be?
+No, I think the Main Street economy is going to run out of gas, because people are not fully accounting for the aberration, the totally aberrant Main
+Street. I'm not talking about Wall Street or financial liquidity or flows, but I'm talking about Main Street that happened during the pandemic and the
+lockdowns and the huge stimulus measures that were pumped into the economy during that period, because it was kind of a double whammy. On the one
+hand, supposedly, at one point, you know, we had 60 million people drawing unemployment benefits, not all at the same time, but over a year or
+so, we had the unemployment rates soar into the teens, at least on a temporary basis, the GDP in the second quarter of 2020 dropped at a 32% annual
+rate. So on the one hand, you had an economy that, you know, hit the skids, but Washington pumped in so much money so fast, the three stimulus
+bills, the CARES Act in March of 2020, then another one in December that Trump signed, and then another one that Biden signed, American Rescue Act a
+couple months later. Altogether, that pumped six and a half trillion dollars into the economy in a very short period of time. And that's more money,
+by the way, these are all big numbers, but it was more than the 4.5 trillion total federal spending before this whole pandemic thing started. So on the
+one, on the one hand, you had this enormous flow. On the other hand, they shut down large parts of the economy, and you know, the restaurants and the
+bars and the gyms and movie theaters and the malls and so on.
+Nine essential businesses.
+Yeah, which turned out to be quite substantial. But the point is, people were forced to save to hoard cash because they couldn't spend it. Now, they
+did the best they could buying stuff on Amazon. And of course, merchandise goods, you know, exploded or sales exploded during that period. But the
+effect of it was to build up a totally aberrational cash balance in the household sector. And if you take all the sources of cash in terms of bank
+accounts and money market funds and so forth, they normally would would have been running 10 or 11 trillion, it got as high as 18 trillion in a very short
+period of time. So in my view, there has been four or five, six trillion worth of excess cash, unusual cash, you could call it savings, you can call it
+whatever you want, that built up during 2020 to 2022. That now is slowly being worked down. But it's providing a delayed stimulus, even though
+they're not right now in current spending, putting out any new money. The point is the stimulus, both direct and indirect that I'm talking about the
+forced savings and the massive federal handouts and spending created a situation that we've never been in before. And households therefore have
+not been nearly as sensitive to their financial risks as they might have otherwise been, because there's still so much cash in the balance. But the
+truth is, the cash in the bank is now working its way down quite rapidly and steadily. And once that unusual aberrant cash cushion is used up or is
+substantially worked down, I think the psychology of the consumer, the household sector is going to change a lot, number one, and the mechanics of GDP
+are going to change as well, because spending will then have to come out of current income and not out of, you know, this unusual hoard of cash in the
+bank. Now, no one intended this, I don't think anybody had a plan in Washington to do it. But that's exactly what the result was during that period. And
+that you have to take into account. I call it this great iceberg of excess cash is slowly melting. And as we get as the cube shrinks, we're going to
+get into a different macroeconomic setting.
+All right, so here we've used the analogy of the pig in the Python. So whether we're talking about the ice cube, or the iceberg, or whether we're talking
+about the pig, how much of it's left do you think ballpark?
+Roughly, and there's different ways to measure it, but I believe that over a third of it is already melted. I believe the last third won't make a
+difference, because by then people will realize they're not as flush as they thought they were. And so we're probably in a turning zone of the next
+year or two, where the relevant active part of that huge cash hoard is going to be used up. And then we're going to be back on our own two feet.
+That is you spend what you earn, and the economy isn't growing very fast. Earnings aren't growing up, you know, after inflation, hardly at all. So we
+don't have a very robust economy. And we have growing interest rate, rising interest rates. And by the way, and I think, and you know this, but I
+don't think a lot of investors focus on it. There's 97 trillion of debt out there on the economy. We know the public part of it is, you know, the
+34. But if you take the household sector is over 20 trillion, you take the business sector, both corporate and non incorporated is another 20
+trillion and the balance is financial. But you know, I think what people should focus on is in round numbers, because we're dealing here in a world of
+big things. In round numbers, we have 100 trillion of debt carry on the US economy, public and private. 100 basis points, 1% percentage point
+change in the rate is a trillion dollar extra cost of carry. And I think a trillion dollars is a meaningful number. I mean, I think it is going to
+affect behavior, business behavior, household behavior, government behavior, there's going to even if we get into a recession here, that's stubborn
+and last longer than people would like. I don't think you're going to see a lot of fiscal stimulus because they really blew it during the pandemic with all
+these COVID bailouts and, you know, measures. So you're not going to get the fiscal stimulus and I seriously doubt the Fed is going to be able to
+do much because inflation is just stubborn. Now the way I look at this and I think that I look at both the 16% trim mean CPI on a year over year
+basis, which is now 3.5. And I look at it on an annualized run rate basis. And the interesting point is that it dropped the run rate, which is the
+monthly annualized rate dropped to about three to 4% zone way back in March of 2023. And it's been stuck there ever since. And so when you have
+the current run rate stuck in the three to 4% range, the year over year rate is just math, it takes, you know, an anniversary effect to get into the
+three to 4% zone. And that's where it stuck. Now, people say, well, you know, inflation was 9%. And now it's running 3% on the headline or 3.2. So
+isn't that great? The battle's been won? No, actually, if you look at the trim mean year over year, it peaked at seven, it's barely under 4%. Now
+that's all the progress we've made. And it's way, way above even their own target. Now, I think the 2% target is kind of stupid, it ought to be
+zero. But the people on the Fed are so wedded to this idea that it's some magic elixir at 2%, just enough, not too much, not too little. And
+they have staked the entire credibility of the Fed on this 2.00% inflation target, even if you measure it on the PCE deflator. And they're
+just not getting there. You can look at, you know, all of the internals of the inflation metrics of the CPI, the PCE deflator, and all the rest
+of them, and you can't get there. Okay, you can always find something that was too high this month. So it'll come down like airline fares that
+were apparently very high, and so they'll reverse. But there's a lot of stuff going on there that's crazy. You know, they had a huge reduction
+built into the CPI for insurance, medical insurance costs. It was entirely a flaky kind of thing, which was nobody saw their medical
+insurance. It didn't come down 30%. That was what was built. I'm pretty sure it didn't come down even zero at 1%. Okay, we all know that. But the
+point is, when you start cherry picking this one, or that one is going to be lower next month, so we're making good headway. That is not true. If
+you look at the underlying components, the internals, the drivers, we've been stuck in a three to 4% zone, I think for the last 10 months. And
+there's little reason to believe until the economy really rolls over into a significant and long lasting recession, that it's going to drop much
+below that. So the Fed is sidelined. That's the key point. And obviously, we've had enough fiscal stimulus for a couple of decades, or even a
+lifetime.
+So my questions are stacking up here. But that very last point, let me start with. So I understand the box that the Fed is in, if inflation indeed,
+starts, sticky, maybe even starts going back up. And it sounds like you're taking the under on Fed rate cuts going forward over the next couple
+of years. So you mentioned both Trump and Biden don't seem to care about getting the deficit under control. Honestly, I don't think I can name a
+prominent politician that would get up today and at least run for election or reelection on a, "Hey, we've had the successive deficit spending, we
+now need to kind of rain it under control, folks." I just don't think we have that kind of backbone or appetite for that kind of thing in today's
+political class. Tell me if you think I'm wrong. But where I'm going with this is, why can't the fiscal continue? What is the limiter on the fiscal
+side of things?
+The limiter is whether you monetize the debt or not. You know, the savings rate in this country is basically rock bottom. And if you look at what I
+think is important, the net savings rate, which is household savings, business savings minus government debt, okay, it ends up at zero. And if you
+go back 30 or 40 years when the economy performed well, the net savings rate was more like 7%, sometimes as high as 10%.
+Sorry to interrupt, but I just interviewed Lacy Hunt, like two hours ago for my upcoming conference this weekend, and by his calculations, it's
+negative. And that was basically the crux of his whole presentation, which is, when you've got net negative savings as a nation, bad things
+happen.
+Well, that's the truth. And if you look at this chart, and again, we don't have it on the screen, but we'll get it to you one way or another.
+It does look like 7%, 8%, 9%, 10% in the 70s and 80s. It's worked its way down. We were in the 3% to 4% zone in the 2000s. But once we got into a big
+borrowing after the year 2000, but especially 2019, it went negative. And that's where it is. In other words, government is borrowing more
+money than the household and business sector combined are saving. And if you don't have net saving, how do you fund any net investment above
+depreciation and amortization of the existing stock of capital? That's the dilemma that we're in. And I think he's totally right on that. And
+that's why I think it can't go on. The Fed basically created false savings. It created in the period from the financial crisis, as everybody
+remembers, the Fed's balance sheet was 900 billion, it ended up at 9 trillion. So you created 8 trillion worth of credit out of thin
+air. And it was that 8 trillion of credit from 2008 to 2021-22 that kept this whole game going and allowed a fiscal policy that should have
+actually been pretty brutal in terms of its impact on the economy and on the interest rates and the ability of main street households and
+businesses to borrow. We sort of stole a decade and a half of unsustainable monetary finance, central bank finance.
+I think it's something most people don't realize, to your point, is we just stole, in your calculation, I guess, a decade and a half worth of future
+prosperity.
+Yeah, exactly. And the mechanism is quite simple. See, back in the day, when I was a budget director, we've talked about that before, Volcker was
+chairman of the Fed. He wasn't about to monetize the deficits that were being created by the politicians, Republicans or Democrats. He knew
+it was unsound, it was unsustainable, and it was a bad policy for the central bank. So here's the key point. The politicians back then
+understood that if we borrowed too much over a extended period of time, it was going to crowd out private investment. And you would hear
+from the car dealers, you would hear from the farmers, you would hear from the small businessmen, you would hear from the retailers, because
+everybody has working capital that needs to be financed. They have working capital lines and so forth. And when those are being
+crowded out, because the bond pits don't have enough savings available, then you get an instant feedback into the, you know, I would say the
+macro economy, the Main Street economy, and then the people out there who are being adversely impacted start sending strong messages to
+Washington. And there is a kind of checks and balances fiscally. But once Greenspan found the printing press in the basement of the Fed
+some way when he got there, and became, you know, the toast to the town and ran that thing, and then was followed by Bernanke and Yellen
+and now Powell, you know, all bets were off, the crowding out didn't happen, the bond vigilantes were retired. Nobody heard from the
+local, you know, households and home builders and car dealers and so forth. And so the thing drifted for a couple of decades. But the new
+ballgame, utterly new, is the Fed has run out of rope, so to speak, and now they're going to have to finance it the honest way, the deficit,
+that is, in the bond pits out of savings, which are meager, and that's what's going to trigger the next phase of the financial era that we're in.
+Alright, so talk about that next phase, because I keep going to the so what of what you're talking about, and where my brain goes is slower economic
+growth. Companies are going to be forced to have to start cutting costs, especially as we go through this maturity wall over the next couple years.
+You're saying they're going to be rerating their debt at even higher rates than today, which is like, you know, double what they were the cost of the
+debt on their existing books. So I just don't see how we don't have a recession, maybe even a pretty painful one. But you're talking about something
+that feels very long lasting than just sort of your garden variety business cycle recession.
+Yeah, I think it's a lot bigger than that. I would call it the great refi reversal. In other words, if we go back to the turn of the century, or maybe
+even right before the financial crisis, 207 or 208, and we look where real interest rates were, that is, the 10 year or even, you know, overnight money
+less the inflation rate, you know, real interest rates were positive two or 3%. And for the last decade, they've been most of the time negative, both the
+10 year, you know, is still barely positive, been negative for at least 15 years. And the same is true with the overnight money. So as a result of
+that, the the entire economy was in a constant refi mode, because both nominal and real interest rates were heading steadily lower, you could make
+money, you could help yourself by refinancing at lower and lower and lower yields. Now there were little periods where rates reversed, obviously,
+but on a trend basis, look at the charts, they basically said for the last 20 years, you were working your way down a descending curve of rate costs,
+rate yields, whether it was short term money, one year money or 10 year or even 30 year money, you know, as well, I mean, just throw this in, because I
+think it's relevant. You remember, I think you and I talked about it a while, three or four, three years ago, I think it was the government of
+Austria issued 100 year bonds with a three and a half percent coupon, okay, 100 year bonds, and I thought that was ironic, because Austria, you
+know, hasn't even existed in its current form for 100 years, it got wiped out in the 30s, as people know, but in any event, though, anybody that
+bought one of those bonds at the time has lost 75% of their money, just from the re rating that has occurred since then. Now, a great deal for
+Austria, though. Yeah, no, but I offer this because it's a microcosm of the big picture. And that is for 20 years, the thing to do if you were a
+homeowner, if you were a fortune 500 company, and anybody in between was to constantly refinance your debt at lower rates, and thereby free up
+cash flow for buying back stock, or investing or, you know, having another vacation, or whatever you were doing. What I think is going to
+happen now is there is 40 trillion of household and business debt out there, you know, the average maturity is, you know, maybe six or seven
+years at most, if you take the mortgages and the bonds and the short term money and the credit cards and everything else. And for the next couple of
+decades, all of it is going to have to be refined as it comes due, as it matures, and it's going to roll over into higher rates. It's going to
+happen year after year after year, this mass of 40 trillion of private sector debt, and I'm not even counting financial institutions now, is going
+to refi higher, it'll change the psychology, it'll change the cash flows available to do things discretionary spending in the household sector, you
+know, stock buybacks and shareholder distributions in the corporate sector, behavior is going to have to change in a big way. And in the opposite
+direction of what we've had over the last 20 years, as the Fed, you know, monkeied around with market interest rates and led us down this primrose
+path.
+Okay, so paint for our viewers, what that's going to feel like for them. You know, what I hear you saying is, I don't see how there's not a massive
+market correction in this thing, right? I see there being lots of layoffs as companies transition from labor hoarding to dear God, we just got to,
+you know, we just got to survive, right? I don't see a quick snapback in the business cycle to this, unless there's massive stimulus that rides to
+the rescue, which you are saying is unlikely to happen for the constraints that you've just mentioned. So to me, this sounds like a multi year, I
+mean, maybe like half decade kind of, you know, period of forced austerity. Maybe that's what the system needs. But I just wanted to help folks
+prepare for what you think might be coming.
+Yeah, I think you can use the word austerity, you can use a long slog in the, you know, mud of a very challenging economy. But remember, as
+interest rates reset higher and higher, and as core balance sheets are refinanced at higher and higher yields, costs are going to go up, household
+costs are going to go up. Business, you know, interest expense is going to cut into S&P 500 earnings. So you're going to have an earnings impact
+first. And secondly, with higher interest rates, you're going to have higher cap rates, lower PEs. I mean, another, you know, corollary of the 20
+years of downward trend in yields and rates and the refi thing we've been talking about was a PE expansion because, you know, the obvious talk on
+Wall Street was, well, if the, you know, the 10 year benchmark yield is lower and lower, then the PE can be higher and higher. And that's why
+everybody buys tech stocks, because they have a long duration. And so therefore, with low interest rates, you want to extend your duration, all of
+that. But the point is, if PEs are basically going to reset downward, and if earnings are, by earnings, I mean, in the capital E, big sense, both
+corporate and household earnings are going to be squeezed by higher and higher carry costs on the, it's really the 97 trillion in debt, because taxes
+are going to have to be raised to pay the federal part of it, the government part of it, then I think it's a different economy. It's, you know, it's
+a very sort of awkward cycle, not a virtuous cycle, but an unvirtuous cycle, where everything in a sense is moving in the wrong direction. Valuation
+multiples down, earnings down, prospects, less and less bullish, and therefore, you know, speculation is going to be dramatically curtailed as
+well.
+Yeah, this sounds like, you know, the end of the era of speculation, and a return to probably real value investing for those that have capital left
+to invest. Let me ask you this, on the wages side of things, to me, this sounds like an environment where the pendulum really shifts back to the
+employer, because jobs become scarce, and people just become thankful to have a job. So it sounds like it's rough for the average individual because
+costs are going up, right, cost of living is still marching higher, wage increases, you know, we've had some improvement in that relatively recently,
+you know, after years of it being a really bad trade off, but it doesn't sound like they're going to have, it doesn't sound like wages necessarily
+going to keep up with the cost of living in this environment. If these folks were in the markets, if they didn't get out in time, they're going to
+have losses from where they are today, and it's going to be a slower appreciation in the markets than what folks have gotten used to over the past
+decade plus. You're nodding as I'm saying all this. Is that sort of the environment that folks should be preparing for today?
+Yeah, I think so. And remember, households have been borrowing like there's no tomorrow at the time of the crisis in 2007, 2008, they said, Oh, you
+know, we overdid it, everybody borrowed too much mortgage lending was out of control and so forth. Well, debt peaked, total household debt
+peaked around 14 trillion then or 1415. Now is 20 and it keeps going up. There was a short period of time where there was a small
+reduction in the household debt level, but that reversed quickly. And after say, 2014, 2015, we were back off to the races again. So, you know,
+none, no lessons were learned, no adjustments were made. And so I think now it's going to happen the hard way. That's the first point. So you
+can't support a standard of living by incremental borrowing, because it's going to be too expensive to do or even carry what you have. The
+second thing is there is a constant confusion, I believe, between the level of prices and the rate of change. And of course, we're in such a
+Keynesian mindset that dominates both Wall Street in Washington, because it's convenient that people say, Oh, isn't it great, the headline
+rate was nine, now it's three and a half. So we're making great progress. No, the real point is that since Biden took over, the cumulative CPI
+headline is up 19%. That's one fifth of whatever you had in the bank, not too long ago, January 2021, one fifth of whatever wage you had at
+that time, which may have crept up a little bit, three, 4%, 5% in the interim, it's gone, you know, it's gone up in smoke. So the point is
+that the real household sector has got a long way to go to catch up because of this cumulative inflation, even if the run rate currently is
+more behaved like three or 4%. But we should actually be, you know, suffering or experiencing a period of disinflation, that is negative price
+change to at least restore some of the purchasing power that people previously had. But of course, you know, we have a policy framework in the
+country that basically says, well, we'll see your inflation raise it 2% and move along and everybody will live happily ever after. I don't think
+the world really works that way, even though the people at the Eccles building seem to think that's the case.
+Alright, I'm going to finish on the economy and then get to your market outlook. So when does this start to really manifest? I mean, I can point
+to all sorts of cracks in the system right now that suggests that we're heading towards this direction you're talking about, but when is it
+really going to be felt as part of consciously, but by the average person?
+Well, if I had to pick a date, and this may sound a little sarcastic, but I would pick a date around January 2025. Okay. And the reason January
+6, if you want to get a specific date. And the reason I say that is I think we're headed for a constitutional crisis that will scare the living
+but Jesus out of the establishment out of Wall Street, out of thinking people generally. And by that I mean, it is likely that you could end up
+with a hung jury in the Electoral College, because I think you're going to have a really strong challenge to these two awful main party
+candidates from Robert Kennedy. And I think it's possible that he can pick up a lot of discontent Republicans who, you know, believe in
+fiscal austerity, and he's doing a good job of talking about that. And a lot of Democrats who've given up on the mainstream Washington sort of
+deal, let's have a few more wars, Democrats who are running the Biden administration today, he only needs to win a few states, say in New Hampshire,
+say in New Mexico, say in Nevada, just a few states. And the fact is, the rest of the country is so divided between the red state and the blue state,
+the red voter and the blue voter, that nobody gets 270. Okay, he only needs to get 15 or 20 electoral votes. I think it's very possible. The other
+two end up with less than 270. And for the first time in 200 years, the election goes to the US House under the 12th Amendment. And what people
+haven't even begun to focus on yet is that an election in the US House is a ballgame that is so different than anything that we're used to, popular
+vote, electoral college vote, that is going to have startling consequences and impact. First of all, it's one state, one vote. That's the way they
+wrote it in 1809. Nobody could, you know, was looking ahead to a situation in 2025. So it's one state, one vote. Wyoming has the same vote in this
+selection of a president as California. South Dakota is just every bit as important as Florida, Ohio, New York, or Michigan. And therefore, there's
+going to be tremendous maneuvering in the run up to that house election. And then, you know, it could take multiple rounds of voting for someone to
+get 26 states. Now, you know, I can talk too long about this. But if you just think about it, take a state like South Dakota, the Republican
+Congressman, there's probably going to get reelected. He doesn't like Trump at all. So maybe he makes a deal with Robert Kennedy for the South
+Dakota vote, if you follow where I'm going. Or there is a case where someone could put together a coalition in Michigan, for instance, in which
+some, you know, economically conservative Republicans join up with some Detroit area Democrats, and you get seven votes in the Michigan vote,
+therefore, for Kennedy and not for Biden or Trump. This is the kind of scenario that is not really far-fetched. It's probably more likely
+than not, given the way things are going. And, you know, Trump may be in jail by then and lots of other crazy stuff. But it will create so much
+uncertainty about where we're going, about is it that's really going to be raised, you know, what policies are, what are the implications for
+the Fed, that I think it starts a completely new chapter, in which finally, all the cans that we've been kicking down the road, everything
+that we've been, you know, sweeping under the rug, comes to the surface, because suddenly, everything has changed. And the uncertainty factor
+has gone from, let's say, on a scale of 10, from a two to a nine. And I think that's where we're heading. And if that happens, it's very hard to
+think that kind of, you know, let's not worry about anything speculative mania that you have in the market today can last. You know, I think
+the speculators will run for the hills after a few big bad bumps that are likely to develop on the way to the House vote for president.
+Okay, so that is totally fascinating. You got to be honest, I've heard a tiny bit about that, but I hadn't really directed my thinking as deeply as
+you obviously have on this, and that definitely would bump the uncertainty factor up as high as you just talked about. Assume for a second that we
+don't have that runoff, right? That one of the two dominant candidates right now wins. How much does that push off the reckoning? Years? Months?
+As much of what you talked about is math. Possibly, it pushes it off a little bit or a few months. But here's the thing, if that doesn't happen, and
+somehow all the electoral votes still go to the blue candidate and the red candidate, if you look at the states, you look how this is shaping up, I
+don't see anybody breaking away too far, either Trump or Biden, above the 270. And as a result of that, you have so much acrimony in the system
+today, so much distrust. You know, we've gone through all these alleged, you know, fake elections and, you know, in all of this stuff we've had, first
+the Democrats said that Trump didn't win 2016, Putin did. Well, that was a big lot. And then Trump said he didn't lose in 2020, but he actually did. So
+if we go into an election that is bitterly fought, and maybe Trump wins and says he's going to pardon himself the day he's sworn in, I think you could
+still have a pretty serious post-election environment of political turmoil and crisis that wouldn't be as bad as waking up some morning and finding
+out, from my view, it'd be a good thing that Robert Kennedy is president, but from the point of view of the mainstream and the point of view of people
+thinking life is going to go on as normal, and we're going to kick the can for years to come, if you wake up with either Robert Kennedy as president, or
+Trump again on a contested election that the Democrats believe is not valid, I think you're going to be in this pretty much in the same ball.
+So it's enough uncertainty to get the job done. Super fascinating. So anyways, David, as we start to wrap up here, so many questions for you, I'm not
+going to get to this time around. But I want you to come back on the program anytime in the future. Especially as you see more clarity or make audible
+changes to what you just outlined for us here. So let's talk about the market risk here just for a moment. Again, at the end of the day, this is a
+channel of regular retail investors that are trying to prudently grow their wealth, but primarily avoid losing a big chunk of it or becoming collateral
+damage to exogenous forces, many of them are the type that you've laid out for us here. Right now, undeniably, we're in an era of rampant speculation.
+We've got the invidities of the world trading, depending upon the day, anywhere between like 33 or 40 times sales, right? I mean, it's just these are
+crazy numbers. In the very narrow breadth market and all the things that we can talk about, about signs of sort of late stage asset blow off here.
+Combining that with your outlook of the future and the fact that you see sort of the beginning of the reckoning starting within a year or so, at least
+economically. What's the size of the correction that you think is due in this marketplace?
+Well, it's very hard to predict those things. You can only look at the charts and if you look at these charts, there are a lot of different ways to
+assemble them, obviously. But we looked, you know, very much like we were in March and April of 2000. Or maybe if you go back far enough in July,
+August, September of 1929. And we know what happened afterwards. You know, in March and April of 2000, the NASDAQ dropped by about 30% in 30
+days. That's the kind of thing that happens when you're at one of these speculative blow offs. And we do now have, this is just a startling
+number, 33% of the S&P 500 market cap is in the 10 top stocks, stocks starting at Microsoft with $3 trillion and Apple a little under it. And then
+the other suspects. So everybody has flowed into what's working. I mean, listen to what the guys that come on a bubble vision every day. Well, you
+know, we're investing in A, B and C. Why? Because it's working. Well, you know, that's just a euphemism for saying it's going up. And so therefore
+I'm buying it. But no one ever knows enough to get out or when exactly the music's going to stop. But this is so much like the setup that we've
+seen in speculative tops in the last century, that you have to expect that some kind of blow off adjustment will be of a kind of magnitude that
+we saw both in 2007, we saw in 2000, we saw in the 1970s, and certainly 1929.
+All right. What percentage do you want on that? Well, you know, into, you know, the S&P 500 dropped, you know, 50%, 50%, okay, so there's a
+number for you. And I think we're in and they'll say, well, this is different. They always say this time is different. But I think if you look at the
+underlying numbers and PEs and expectations for smooth sailing in the economy, we're heading for that kind of, you know, classic every several
+decade correction. Okay. Thank you. All right. Well, look, as we start to wrap up here, I'm going to ask you about your -- well, actually, first
+before I get to your books, given that fact, right, that we're at risk of a halving of the current market value, are there particular assets right
+now that you -- assets or investing strategies that you favor? And are there any that you would just like avoid like the plague right now?
+Well, I would avoid like the plague cryptocurrencies, I would avoid like the plague that Magnificent Seven or whatever, I would avoid like the
+plague stuff that is moved by 40%, 50%, 100%, 200% in the last few months, because those -- all those movements are signs of these blow off
+tops that we know about, that we've seen so many times, you know, I was looking at it today, because, you know, back in 2000, the top 10 account
+for 25%. Well, I looked at three of the stocks, okay, three of the stocks were Cisco, GE, and I'm trying to remember what the -- IBM. And they
+accounted for 40% of all the market cap of the top 10 back then, their combined value was 1.3 trillion. Now, here we are, 24 years later, all of
+those stocks were trading at 50, 60, 100 times net income, here we are 24 years later, and the market cap of those three is, you know, down by 40%.
+So those are the kind of things that remind you, maybe you were smart enough to sell GE, to sell Cisco, and keep Microsoft, okay? But maybe
+you weren't, you don't know when we're at the top of a, you know, a blow off top. But even if you hung on to Microsoft, the rate, the return
+since then, 24 years adjusted for inflation is 3.5%. So your best deal was Microsoft at 3.5% after inflation, your worst deal was, you know, the
+three high fliers in that top 10. To me, that is a strong, powerful lesson that when you get near one of these turning points, inflection points,
+it's best to get out of everything that's been working. It's probably better to stay as liquid as you possibly can, and recognize that the
+Fed is not going to be crushing rates anytime soon. And that if you're making 5% or 4% on a money market, or a 90 day bill, that's a pretty darn
+good return, considering all of the alternatives. So, you know, that's my view at the moment is get out of the high fliers, get into bills, and
+wait out the storm.
+Okay, and then for the type of environment that you see going forward, I guess I want to ask you about gold, but I was gonna ask generally about
+commodities, though commodities might, in your future, might not do so hot just because economic demand is going to be low.
+I think a weak economy is likely to put downward pressure on what I would call use economies, use commodities like oil, or the metals, or the ag
+commodities. But obviously, gold is different, because it's really, you know, it's a speculative asset class. And it's likely to be a good
+refuge for people that are escaping the Magnificent Seven. They'll do it. I mean, this is what's happened many times in the past. So it's not, I
+wouldn't look at gold as a commodity, I would look at it as a safe harbor, when the whole financial system is going through a big reset.
+Okay. All right. Well, in wrapping up here, I want to hear about your new book and let you be able to tell folks where to go get it if they're
+interested. Real quickly, though, you wrote another book back 10 years ago, to 2013, called The Great Defamation. And I use that term all the
+time, and I cite you, because I think it's such a great term for how the system and price discovery and everything has just gotten so taffy, like
+deformed and stretched by all this intervention by the central planners, you know, in the wake of the great financial crisis. And I'm just curious,
+because you were there as a policymaker, you know, as I said, during the Reagan era, you were the youngest cabinet member of the 20th century, you ran
+the office for management and budget. Like, did you ever think the system could get this deformed as it's gotten today?
+Yeah, absolutely not. I mean, the thing that we had foremost on our minds in terms of fear factor was whether the public debt was going to
+cross the 1 trillion mark. When we got there on Inauguration Day, I think it was 970 billion or something like that. Now, a trillion every
+hundred days. Now I realize there's been a little inflation since then. But even setting that aside, it's a totally different ballgame. Now, what
+didn't we expect? Well, we couldn't persuade the Republican politicians on Capitol Hill, if you can believe this, that cutting taxes was a
+good thing politically. They fear doing it because they felt the resulting short term deficit would create such a crowding out effect in the bond
+markets, the yields would go up, interest rates would go up, and the folks back home in the home building business or other businesses would be
+hit hard. That's where we were then because Volcker was, you know, chairman of the Fed. And no one ever accused him of wanting to run a
+printing press at a red hot speed. So what we couldn't anticipate then is that we would evolve through Greenspan, through Bernanke and
+all of his gyrations, and through Yellen, and now into Powell, with a Fed that thinks, well, you know, it looks like inflation has settled
+down a little bit, maybe it's time to start cutting rates again. Why in the hell are they even thinking about cutting rates when we've had this
+massive, you know, infusion of credit into the system for so many years now? They shouldn't even be thinking about it if they had any, you
+know, historic appreciation for sound money.
+So I totally want to ask like what you think changed in terms of mindset and, you know, just the players that we have in the space, but I sense
+that that might be a good long one. Okay, give me the short one and next time you come on, we'll dive into it.
+Well, the short one is this famous episode in one of Hemingway's novels, when the guy was asked, well, how did you go bankrupt? And he
+said, well, slowly at first, then of a sudden, okay. And what has happened over the last 40 years is slowly we got used to bigger and bigger
+deficits every year. We got used to a Fed that was monetizing a little and monetize more, then, you know, bailed out the system in '99 and then
+bailed it out even bigger in 2007, 2008, and then went absolutely bonkers in 2020, 2021. So it was each step along the way was cumulative. And we
+got into a recency bias now, that is so far afield from where we used to be that people simply haven't seen it coming.
+All right. Much to our detriment going forward.
+Unfortunately.
+Yeah. Well, David, it's been so great having you back. And like I said, so many more questions. I want to dig into you next time you're on. For
+folks that have really enjoyed this conversation, who would like to follow you and your work and learn about your new book, where can they go?
+Well, I do have a book out now. It's called Trump's War on Capitalism. And it's basically an attempt to prove that he's probably the biggest
+spender, the biggest borrower ever to inhabit the Oval Office, and that the so called great Maggie economy wasn't anything close to what it was
+cracked up to be. But unfortunately, it's going to be either Trump or Biden in as the main choices, and neither of those are very good. But I
+comment on this every day, I have a newsletter called David Stockman's Contra corner, you can Google it, and it'll come right up. And, you know,
+this kind of things that we've been talking about, obviously, are important. There are important episodes or aspects that occur every day, you
+know, like Biden put out a new budget, which is kind of a phony. So I would be reporting on that, or some move by the Fed, or some development in,
+you know, Washington or internationally, all of this is on my daily newsletter. All right, well, David, when I edit this, I will put up links on the
+screen here. So folks know how to go to your website, get your book. And folks, I'll put links within the description of the video down here. And I just
+want to try to head off some of the potentially partisan comments that might be made given the focus of your book, David, you have been a pretty big
+critic of Trump. It's not your first book on him. But you are, I think, a liberal and probably very equal critic of the existing administration as well.
+Oh, yes, strongly. There shouldn't be any confusion. I don't know what would be a worse choice, Trump or Biden. And that's why I actually, you know, if I
+have to say, I strongly support Robert Kennedy. I think he's the only guy that has some reasonable idea about big sweeping changes, particularly
+on foreign policy and drastically reducing defense, that would allow us to get back onto some kind of rational fiscal footing.
+All right, well, look, we'll end it there. One of the questions I didn't get into, and I don't even want the short answer, because I want to hear your
+long answer, which is, you know, if I made you, you know, Emperor David, because you've worked in the guts of the DC political system, and you've
+worked in the guts of the Wall Street financial system, like what reforms would you prioritize? I think somebody with your background in your mental
+brainpower and your decades of sort of thinking this through and knowing, personally, all the parties, you know, in power, where you'd place your
+focus, but we're going to save that one for next time. David, thank you so much for coming on the program. Well, all right. Well, now's the time when
+the program will be bringing the lead partners from New Harbor Financial, one of the endorsed financial advisory partners, by Thoughtful Money. I'm
+joined today by lead partner Mike Preston. John Lodra is away this week. Mike, I know that you have, along with me, followed Stockman, met him in
+person a number of times. It's been a couple years since David and I reconnected, as I said at the beginning of the discussion. Boy, he hasn't lost a
+step. And man, he was sure bringing it today. So I'm curious, what were some of the key takeaways you took from the discussion?
+I love David Stockman, Adam, thank you. And I remember meeting him in New York City, he had a meeting with you a few years ago. In fact, I can't even
+remember how long ago that was a time fly so fast. It might have been five or six years ago. But David Stockman is a legend. He's, he worked in the
+cabinet under President Ronald Reagan, as you pointed out back in the 80s. And I think he's long been a critical critic of financial policies that
+aren't grounded in some kind of reality. And for the last bunch of years, I know David is one who speaks out on bubbles. He's talked a lot about this
+bubble. And he's been early, just like we've been early. And I really think it's almost impossible for one to not be early, if you're paying attention in
+this market cycle that we've been living through here. I mean, who thought that the Federal Reserve would continue to pull out every stop to make sure
+this bubble never corrects, not just in the stock market, but in everything collectibles and real estate and everything else. And as David says, they
+have or they being the Federal Reserve have a silly policy of making of saying that they they want to have 2% inflation 2.0% inflation, why is that the
+policy? I don't know, I think maybe the policy is that way, because we have to have inflation, it's the only way to serve the mountain of debt that we
+have the mountain of debt being 32 or 33 trillion right now in the United States, David Stockman says that he thinks by the end of the 2030s, that we
+could see 60 trillion, I've read other pieces that say, well, we might see 50 trillion, it's really hard to say, we're going at a run rate of almost
+3 trillion a year. And that's, you know, that's without a recession, if we see a recession, that'll go even faster. And frankly, if we have a crisis,
+then all all holes are barred, you know, the Fed will do whatever it takes, the ECB will do whatever it takes. They've all said that over the last 15
+years. And it's this ridiculousness that David Stockman talks about. And this is why I like him, because he's not afraid to call out what he thinks
+is a very dangerous policy, one that creates wealth disparity and the wrong kind of incentives, and it incentivizes speculation and rewards it. I
+think that's all wrong. I agree with him completely. But here we are talking about it, going on 10 years, actually 15 years plus, since the
+money housing crisis and the housing bubble. It's almost like we went in simulation mode 10 or 15 years ago. And it's hard to tell what's real,
+because money's not tied to anything real, the stock market's not tied to anything real. So what is real? I think sadly, we're going to find out, we're
+going to find out when the market loses confidence in the Fed's ability to do this forever. And so just a couple more things, then I'll wrap up
+here, that I'd like to point out about, about David's talk, he thinks the way out of this is forced austerity, I can't agree more, I think that, I
+think that what we probably would see is a standard of living decrease of 30 to 40%, if I had to guess, and one that would stay that way for 10
+or 15 or 20 years. So this is what we've been avoiding. We have said that the American way of life is non-negotiable. I can't remember which
+cabinet member said that, but that's what we have chosen to do. We've chosen to not take our medicine, not have austerity to just keep printing
+money, started way back with cash for plunkers, post tech bubble, and it just kind of went on and on with TARP and all the different quantitative
+easing. David kind of finished with when you asked him about what to do in the market, you know, to tell us about your outlook on market
+risk. David thinks that we're in a super bubble. David thinks that we are likely to have very large corrections, even though he said it's hard to
+predict and he doesn't want to predict. I believe I heard him say that he wouldn't be surprised to see us lose more than 50%. I wouldn't be
+surprised to see the market lose two thirds. And that would even would not even get us back to undervalued. He says that it feels a little bit
+like we're in the March 2000 timeframe, March, April 2000, and markets are in a blow off. That's absolutely true. It feels like March of 2000.
+It's a little bit too cute, I think to say it's exactly the same because here we are in March of 2024. We are in a blow off and it's impossible to
+tell when this thing will end. My best guess is it goes higher for a couple months, and then rolls over. He said avoid things that are that are
+that are wrapped up in this bubble, the mag seven, of which 33% of the S&P 500 is comprised of avoid that avoid cryptos, which he sees as a
+bubble, and buy Treasury bills. Well, we agree we're over 40% Treasury bills, they're still yielding over 5%. Essentially, he's saying,
+the feds crazy, the markets going to crash, you're finally getting 5% than Treasury bills, why not sit there and wait? And we agree.
+Yeah. So, David, what I really pay attention to with him is, he has sat in the center of the machine of power, both in DC and in Wall Street. So he
+really knows how all the mechanics work. He knows the institutions, and he actually knows personally the people running them. So you can't discount
+his perspective because he's got such an insider view. I heard him talk about two things. One, some imminent risks, just from market valuations
+alone, and from the lag effects of relatively recent policies, the 6 trillion that was issued during the pandemic in terms of stimulus that
+formed everything then. But he's also talking about the end of some very big secular trends. His great defamation really started decades ago. And he
+said that the economy has been in a constant refi mode for decades, as basically post Volcker era, as debt got cheaper and cheaper and cheaper over
+the next 40 years, we were able to continue to refinance at lower rates, free up capital to reinvest or put into assets to push them higher. And he's
+basically saying that that's long term secular trend, which pretty much is what every sort of living active investor right now has been their career,
+is now switching, and he calls it the great refi reversal. So debt's going to be rerating for years, he thinks at higher interest rates, even
+than we have right now, and he just thinks that's going to be a total game changer. And if that does happen, I think he's right. So it's kind of this
+confluence of like, hey, there's some real short term worries to have, but they're overlapping on longer term worries that he has too. So of course,
+the gazillion dollar question is when does all this matter? Because right now, the animal spirits are driving the markets. It's all about euphoria.
+And as you said earlier, Mike, this can go on a lot longer than we think. You said, wow, geez, some of these things Stockman's saying, he's been
+saying for the past decade or more. So when's it all going to matter? Because if it's 10 years down the road, then it doesn't really matter that much
+right now, we can just sort of keep playing the long game, the buy the dip game and whatnot. Now, Stockman seems to think that the wheels are going to
+come off either soon after the election, if not sooner. Stockman at this point in his career, he writes a newsletter. So if it takes another year or two,
+or if it happens next month, yeah, I mean, he's going to write about it, but he's beyond his own personal portfolio. He doesn't have too much at risk.
+You guys at New Harbor, you're managing hundreds of millions of dollars in client capital. So how are you handling this right now, Mike?
+It's a hard job, Adam. I'm not going to lie. We were early and I'll be very open about that. David Stockman was early. Nobody knew just how long this
+thing was going to go on. Nobody could have guessed how long markets could stay ridiculously overvalued. You can measure overvaluation in the markets.
+The Shiller price earnings ratio is still in the mid 30s, high 30s, depending upon when you look at it and how you measure it. And if you adjust for profit
+margins, we're probably touching 50 if you normalize profit margins, because profit margins are at least short term, stretched to the upside because of
+deficit spending by the government, which is not sustainable. So nobody would have guessed it would have gone on that long, not me, not David Stockman,
+nobody, not one of our heroes, John Hussman. All of us were fooled by just how far this thing could go.
+Sorry to interrupt, but I just got to repeat the great Hussman quote where he said, "Bubble market's fortunate to make a choice, look like an idiot now or
+look like an idiot later." And I think they do. You either have to say, look, I'm going to sit out the party because I know it's not going to end well and
+everybody, while the party continues raging, points at you and makes fun of you. Sometimes that can be really hard to endure if the party keeps raging a lot
+longer than you thought. That's what pulled Newton famously back into the South Sea bubble. So anyways.
+It's very hard and we've got strategies and rules in place. A big part of what we offer as a value is to be able to absorb emotion and to apply a rules-based
+system to our methodology, but still we're only about 40% invested in the market here, 40% long with hedges. And so if we got to further melt up, we're
+going to underperform. However, we're still going to make money and what we're trying to do is participate and still not have too much downside
+exposure. And the way we do that is A, by having an allocation of only 40% here. And we might even trim that if we go more vertical in the market. And B,
+taking income in with covered call sales and having hedges that will kick in at lower levels, say 10% below here. I'll show a chart maybe a little bit later
+that'll show our hedge on the S&P. But those hedges have some kind of deductible. So we might lose 2% if we have a 10% crash in one day, that type of
+thing. But we're trying to balance that out the best we can because our best guess is this market goes a little higher. So to answer your question,
+we try to play the game as best we can and give back as little as we can. And nobody knows when this thing's going to turn. Everything we're looking
+at right now continues to say that the offensive team is on the field. All of our short term indicators just reversed up again, albeit at extremely high
+nosebleed levels. This market has been amazing. It just won't give up much. We hit an all time high last Friday. And here we are today on
+recording on Wednesday, the 13th. Just a few days ago, we hit a high on Friday immediately reverse and now we're trading maybe a half a percent
+below the high. I believe that this market will frustratingly continue to put in new highs, maybe even go vertical for a short period of time. I
+almost hope for that to happen at this point, because that'll be a very clear signal that the end is near. So that could happen. Or maybe we
+just peter out and roll over at some point in a random timeframe. We just don't know. For now, we're picking the strongest sectors. We're hedging
+the best we can. And we're seeing some things that we really like, like a breakout in gold and gold miners starting to act better, which we can
+talk about, too. But that's my best guess, Adam, as we go a couple more months here. And we're trying to squeeze a little bit more juice out of
+the lemon if we can without getting stung.
+Okay, but this sort of echoes what Lance Roberts said on the program this weekend, which is, he said it's really time to start hedging your
+positions. I know you guys use hedges kind of as a general policy, but it sounds like you're having even more risk management in the portfolio
+than normal given these conditions. You've got less market exposure. You've got more hedges on the positions that you do have a greater degree of
+hedges. You're nodding as I'm saying all this. I also just want to note, too, what we're seeing is eerily what several people on this channel
+predicted at the end of last year, Felix Zulauf being one that sticks out in my mind where he basically said Q1, he thought was going to
+surprise to the upside in terms of both the economy and in the markets. And so far, he's been right. Now, just to finish his prediction, he
+thought end of Q1 was going to be the high watermark. And then the markets were going to have a much rougher rest of the year, declining by as
+much as 30% or more. TBD, if that's going to happen, we'll keep watch. But it is interesting just to note that so far, the Q1 script has been
+playing out pretty much exactly as he predicted here. So why don't you bring up your chart of the S&P there, Mike, to show us how you're hedging
+it, because I want to give you a chance to talk about that if you want to give an update on gold, like you said, but then I want to close with a
+conversation about Stockman's comment there that one of the next stages he sees here is the main street economy running out of gas, in his words,
+because end of the day, the people that are watching this video are regular people. And I want to kind of dive into what running out of gas really
+means for the main street populace, what folks should be planning for. Yes, there will probably be portfolio downside in that environment, but there's
+going to be other elements of their life like job loss and whatever. So I want to reserve a little bit of time to talk to you about that. So okay, we got the S&P up here.
+Okay, great. So here's the S&P 500 on a daily chart. You mentioned Felix Zulauf. I remember that interview. It was great. If I remember correctly, I think that Felix said that we would go up to
+maybe five thousand plus or minus I believe he said approximately five
+thousand and then a drop down into the three thousands I think that's that's
+very likely I also think it's likely that we might go a little more vertical
+here before this is over this has been a relentless uptrend since last October
+here's the bottom in October if I switch this to the weekly chart for a minute
+you can see that almost every single week since October has been up up up up
+up up up up up and even these red candles are hardly even down maybe one
+here the first week of January and so this is very very bullish if I go to the
+monthly you can see what we've all been living through here is 15 years of a
+market that's tried to correct but just hasn't been allowed to and so we're
+going on the fifth straight up month here there's no saying when this will
+end you know again I wouldn't be surprised to see 5500 even if we just
+see a big kind of moonshot spike up here that would be the kind of parabolic blow
+off top that would send an all-clear signal in terms of taking chips off the
+table but even then it can go further than you think right now going back to
+the daily chart we hit an all-time high last Friday it immediately reversed late
+in the morning and we came down on Monday open down on Monday but we
+immediately bounced back yesterday on Tuesday and today on Wednesday we're
+trading pretty flat presently the all-time high is 5189 we're trading at
+5169 so we're about 20 points off the all-time high I very much think that
+we're likely to make a new high and technically that type of red candle that
+we saw there on Friday that has sort of you know I know you call it an inverted
+hammer I don't know what name it is right but it's good they're a shooting
+star or an inverted hammer yeah okay but but isn't isn't that a can be the sign
+of like a top right where the the market runs up but then it can't hold those
+prices and then it ends up closing down yeah I don't know why I'm remembering
+that there's there's some it's a bearish engulfing day as well bearish engulfing
+that's what I was looking for mm-hmm yeah let me put it this way if we don't
+hit a new high with that be looked at as the bearish engulfing that marked the
+the reversal yeah I mean but yes but I've also found that particularly on
+daily charts these types of signals aren't that reliable bearish engulfing
+would be a little more reliable on a weekly or a monthly chart but this is
+indeed a bearish engulfing day and a shooting star you know we've made a new
+high and we ended near the low of the day and engulf the previous day however
+this markets been so strong you know look at every single time we've had a
+pullback it's been two days to a new high two days to a new high over and
+over and over again and it's happening again now I wouldn't be surprised to see
+Thursday or Friday make a new high thereby negating that now I should point
+out your short-term indicators have all turned back positive right they have a
+number of different things momentum indicators breath indicators bullish
+percents that we look at across the major major index indices have all
+reversed up and I should say at very high levels they hardly even took a
+breath before immediately going back the bullish you know that's the kind of
+market that we've been in and look at the distance to the 50-day moving
+average it's it's quite a big difference here you know almost 200 S&P points and
+then even further down to the 200-day moving average so at some point there's
+gonna be a correction and we're gonna come back at least to the 50-day moving
+average the question is when and might we go higher first I think that yeah
+we're gonna go higher first very likely we have a hedge here that's what this
+purple line is on 15% notional of the portfolio we keep moving it up it was at
+4,100 a few months ago then at 4,500 we just moved it up to 4,700 if we get a
+pop-up here to 50 250 or 5,300 we'll probably move that hedge up to 4,900 and
+we keep putting a little bit more money into the hedge every time we do that but
+the higher the market moves up the less money we have to put in at some point if
+we go vertical here you know we can move this up even further and it's not going
+to cost us much and invariably inevitably when we get the rollover we
+won't give up much we'll always give up something because the distance between
+here and that line is equivalent to a deductible like an auto insurance
+deductible but we can keep moving it up because we don't know when this is going
+to end and so that's what we're doing right now
+all right I always appreciate it when you visually walk folks through kind of
+your hedging strategies there and show them you know really folks this is the
+this is a material part of the value that a good financial advisor can bring
+to your portfolio management right where it's it's you know putting that
+insurance into the pro into the portfolio trying to do it on as
+cost-effective a basis as possible but basically what this is is providing you
+know some degree of safety net to your portfolio so that if indeed there is
+a correction which of course many of the recent experts on this program are
+concerned about because of how stretch valuations are you know if you're still
+participating in the market on the long side you can you can reduce and
+sometimes really material material reduce materially reduced your downside
+risk which is something that most regular investors just don't do right
+they basically just have one of two options I'm either long or I'm out or
+I'm short and shorting look if you time it perfectly you can make a lot of money
+in shorting but but shorting is really tough and and honestly most regular
+retail investors don't have much experience with it and those who do most
+of them don't have a lot of they don't have a very successful track record so
+again doing things like these prudent hedges very very wise for retail
+investors to consider deploying and if you don't have much experience doing
+it yourself again that's that's a real part of the value add that a good
+financial advisor can can bring. All right Michael let's let's turn to
+gold real quick before we start wrapping it up. Yeah now I'll just point out right
+before I pull up this chart of gold that we're taking profits in some positions
+as well we have been buying the strongest sectors in this run-up over
+the last bunch of months since October we're taking profits on insurance that's
+been it was a nice gain we already took profits in the industrial sector so you
+know one thing we are doing is we're starting to actually reduce our exposure
+a little bit at a time sector by sector. And sorry Mike when you say you're
+reducing your exposure are you just position resizing like hey it was five
+percent of the portfolio it got to seven we're bringing it back down to five or
+you actually reducing the original exposure like we're bringing it down to
+four percent or three percent. And we're actually selling it XLI was what we were
+in for industrials and we sold a covered call on it as it got extended that could
+completely capped out so we closed the position we sold a call on the insurance
+sector that was ticker symbol KIE that is maturing later this week we're gonna
+let that get called away barring any you know major major crash in the market
+between now and Friday. So what we'll often do is as a market gets stretched
+we'll sell call options which gives us a way to put a target on that stock saying
+we will be glad to sell it if it gets up there and in exchange for selling that
+call we're gonna we take premium in so it brings income into the account so
+both industrials and insurance are going out that way and that's a total of about
+seven and a half percent of our portfolio. We are putting in other pieces
+we just added software last week for instance and we're also looking at
+things like materials both industrial materials basic materials and even
+energy / oil is starting to look better so I won't promise or say exactly what
+we're gonna do there but we've took off seven and a half percent we put back two
+and a half percent pretty quickly and we'll probably put back that other five
+percent fairly quickly to keeping us right around 40% that is the 40% that I
+mentioned earlier but that 40% is 15% hedged with the S&P puts I just told you
+about plus many of those individual positions have their own call options
+sold against them so our net exposure mathematically is not 40% it's something
+under 30% and it quickly goes to zero on a deeper drop because of the the hedges
+that we have in place so lastly I'll bring up the chart of gold we've been
+saying this for a long time the gold chart looks fantastic and it's been
+doing very well even without the help of the dollar the dollar hasn't been
+falling the dollars been relatively strong here is a daily chart of GLD and
+ETF the tracks gold might want to start the monthly chart 15 years consolidation
+here the last four years have been really hard for gold bulls because they
+sat through a 40% bear market after the 2011 high and then when it looked like
+all was clear we were breaking out of this nice cup formation gold bulls got
+really frustrated because now they had to deal with four tough long years of
+sideways consolidation and how long have we all been saying the people that in
+the gold community anyway been saying when the heck is gold gonna break out
+what's wrong with gold is it being suppressed why is Bitcoin at new
+all-time highs and gold isn't participating well gold kind of trudged
+along on its own over the last four years and created a triple top most
+triple tops don't hold this one didn't either actually created an inverse head
+and shoulders formation and then boom it just broke out we're well over $2,100 an
+ounce closing in on $2,200 an ounce and so gold right now looks fantastic from a
+chart perspective and I can tell you I've read articles lately that talk
+about commodities trading advisors being long gold momentum traders are long gold
+trend followers are long gold because anytime you have a commodity at a new
+all-time high with no upside no resistance overhead a lot of people will
+jump in and try to ride that now that's no guarantee that it's going higher but
+it doesn't have any overhead resistance anymore and nobody knows how far it can
+go and this is all happening after the Fed funds to our target rate is up to
+five and a half percent at some point Powell will pivot probably after a stock
+market crash as rates come back down that'll be a tailwind for gold and I
+personally think we're entering an era here where confidence is going to be
+lost in the central bank's ability to print money forever and it's almost like
+gold is sniffing that out so gold here at this breakout offers quite a good
+opportunity I don't know how far it can go we've been saying for a long time
+though that a quick measured move would be up to around 2,500 in gold and it's
+presently 21 and change so there's still some good opportunity here all right and
+Mike I want to give you your do you've been pulling this chart up for a good
+while now you know basically telling folks you think this breakout was likely
+to occur and it finally has after you know what is that that's you know 13
+years or something like that 13 years so kudos to you for you know over the past
+quarter or two bringing up this chart and saying hey folks it looks like a big
+move is about to happen we'll see if it ends up riding up to 2,500 we'll keep
+letting you update us on a weekly basis on this but it is it is interesting to
+see and for those that own gold myself included it's very nice to see so tell
+us a bit about the miners which have have so far really really underperformed
+gold which is a big head scratcher because they're you know they're
+presumed to be the leverage play on the price of gold right price of gold goes
+up the mining stock should go up some multiple of that given their leverage to
+gold they haven't are you seeing any signs of life there we are here's here's
+the miners this is GDX that the majors the large gold mining companies how
+frustrating has this been you know the same four or five years that gold's been
+going sideways gold mining stocks have been going sideways to down right so
+gold is back at a new high let's kind of throw away these old highs that's a long
+time ago but why isn't why isn't GDX at least at these old highs just a few
+years ago so this is what's been frustrating and it's almost like the
+gold miners are trading at a discount relative to gold I personally think the
+market is going to catch up and change its mind on on miners it's always a it's
+always a dangerous thing to say the markets wrong but frankly I think the
+market is is wrong on this and that they're punishing miners too much for
+what can be perceived as bad management decisions by executives bad acquisitions
+bad use of capital bad use of the balance sheet that kind of thing and
+there's certainly concerns about political intervention and environmental
+concerns but the truth is in my opinion overall this sector is small and under
+followed and I think it can move very quickly let's take a look at a look at a
+daily chart just two weeks ago gold miners were at a new relative low and
+the negativity was palpable even longtime gold managers that we know you
+know put out comments that were almost capitulatory almost like throwing in the
+towel and then right after that we went up very very quickly here and gold
+miners retook their 50 and 200 day moving average they're now approaching
+last fall's highs if we consolidate here and break out then we can start to see
+short covering and the miners could really start to play catch-up and we
+have charts relative strength charts of gold versus miners miners versus gold
+and over the last week or so gold miners relative strength has hooked up or you
+know moved up relative to gold which means for on a percentage basis miners
+are now moving up faster than gold is over the last few weeks we'll see what
+happens on a longer term if I maybe a weekly chart could be helpful here oh
+you know a weekly chart just shows this consolidation over the last couple weeks
+okay look the last couple of years I mean I wouldn't be surprised to see GDX
+move up very quickly to 34 let's say over the next couple weeks as long as
+gold prices stay where they are the bottom line though is it's somewhat of a
+spring and a drastic underperformance relative to gold and I hope that it
+resolves to the upside time will tell yeah what's so interesting to me there
+is again these companies are supposed to by their nature you know like I said be
+leverage plays on the price of gold but as you said you know Wall Street loves
+momentum right so anything that begins to start breaking out that's capital
+tends to move into that space and the mining space is tiny and so the thesis
+has always been well once it starts moving and Wall Street wakes up to that
+and starts directing capital that way that these things could positively
+explode because you've got it wouldn't take a lot of capital to basically you
+know double the market cap of the entire sector right so do you think that type
+of moment may lie ahead for this space if gold keeps rising absolutely the
+market cap could easily double GDX is trading right around 30 here that would
+mean GDX around 60 yeah I think that maybe that's a little bit of a stretch
+to get there on a $2,500 goal but if gold overshoots to the upside a little
+bit goes to 26 2800 and we start to see a repricing of some of these things
+because the price earnings ratio in the sector is very low mid to high single
+digits and in a lot of cases so if we start to see multiple expansion and the
+market starts to value them at let's say 15 X instead of something in the high
+single digits and at the same time gold moves higher and money starts to pour in
+absolutely we might see close to a double in GDX and and much more in some
+of the individual names obviously not a promise and not advice to any particular
+person but this is this is my opinion on what's likely to happen in the sector
+okay all right well I got to wrap it up here for time wise I got to remind folks
+about the conference which is coming up now folks in just a couple of days the
+day this video is launching is Thursday the conference is on Saturday you only
+have a couple of days left to register for it folks I'll give more detail on
+that in just a second but last question for you Mike which is you know as I said
+Stockman talked about kind of mainstream Main Street taking it on the chin as
+what he expects to happen starts to unfold so we've got folks watching
+obviously those who have sizable financial asset portfolios have got to
+be worried about the type of market correction that David thinks is lurking
+out there and you know he said look wouldn't surprise him to see it be 50%
+maybe even more when all was said and done so you gotta watch out for that but
+you know if the mainstream economy really starts going hard into recession
+you know then you have to start worrying about other things right that are that
+are more that are even lower on Maslow's hierarchy of needs like losing your
+income right which then you know bleeds into like being able to keep your house
+and being able to put food on the table and stuff like that so you talk to real
+people you know all the time lots of clients lots of potential clients who
+are calling you about their wealth and whatnot you know is it time for those
+people to start maybe doing some some war gaming about what might happen if
+if Stockman's right and we do begin to you know that hard landing starts to
+manifest where it might not just be about like you know what hedges do I need
+in my portfolio and what percent should I be in safe assets like t-bills versus
+like what are some other things I should be doing with my life to reduce my cost
+footprint build up a savings fund it made me think about other ways to
+generate streams of income yeah this is where it could get really dark as you
+start to speculate about some things in the future if you if you accept what I
+think and what David Stockman thinks and that the Federal Reserve
+along with other central banks have completely lost their minds over the
+last 15 years you really think that through and ask yourself why have they
+done that well they've done that because the stakes are that high and it's like
+well it's like a Ponzi scheme frankly and that you have to keep getting
+larger and larger and larger else the truth gets known and what does that
+truth mean what are the ramifications of that truth being found out well you
+think about the fact that we're in what's likely the final five years or so
+of a fourth turning that gets even scarier what does that mean when you
+couple the climax of a fourth turning with a no holds barred central bank that
+has no plan B what does that look like you know we talked about austerity in a
+30 to 50 percent reduction in standard of living well our financial markets
+even going to continue to exist I think so you have to make a call on that
+though right and you have to think about what all of this means to your life the
+problem is it's impossible to tell what the climax of a fourth turning will look
+like under this scenario will we go to war it's likely will we have internal
+strife and social unrest absolutely David Stockman talked about that I
+thought a lot of this was going to come to a head back in 2016 when Donald Trump
+was elected and I know that Stockman at that time I had a book out and he I
+think he called Donald Trump the you know something about I forget what he
+exactly said but he said the the orange the orange hope or something like that
+and I thought all this was gonna come to a head then and it didn't and so here we
+are eight years later and we could have you know we could have a a good time the
+first time we could have a two-term president you know so Trump was
+president between 2016 and 2020 and he could come back in 2022 I'm sorry 2024 in
+fact that's what the futures and the betting markets say this is gonna be a
+lot of people unhappy about that and David talked about a scenario in which
+you know Congress can't confirm and vote and we could have a deadlock so all of
+these things line up with the with the culmination the climax of this fourth
+turning what to do about it simplify simplify simplify simplify pay off debt
+have some gold and silver it's it's great to have some other sources of
+income if you can a lot of people don't a lot of our clients though are
+retirees who thankfully have Social Security and or pensions so as long as
+those things keep paying they've got to worry less about income I do feel bad
+for the 40-something the 50-something that's in a corporate job that is afraid
+of losing that job if we have this kind of situation all I can say is to the
+extent that you can pay down debt and simplify that's gonna help you it's
+gonna have you out and just to be clear Mike these are conversations that your
+clients can have with you right they can come to you and say look this is my
+situation help me sort of you know battle strategy all of this and help me
+come up with a plan for all this correct it's exactly right these are the
+conversations we have all the time a lot of its psychological and I think we're
+good at it I think we're good at helping people feel safer even though we don't
+know the future either 100% but we can help simplify focusing on some kind of
+plan which takes away a lot of the anxiety and fear and yeah absolutely
+that's what we do or and we're happy to do it all right great well folks look if
+you if you feel you would benefit from a conversation like that reach out to your
+financial advisor and schedule that conversation today if you don't have one
+I'll tell you in a second about how you can perhaps talk with the guys at New
+Harbor or at least one of the advisors that thoughtful money endorses all right
+just to wrap things up here first if you enjoyed having David Stockman on the
+program would like to see him come back in the future please let him know by
+hitting the like button then clicking on the red subscribe button below as well
+as that little bell icon right next to it and again yes my reminder run don't
+walk if you haven't yet registered for this weekend's conference and you want
+to you want to attend it or if you can't attend it but you you want to get out
+the replays from the entire event which everybody who registers will get then go
+to thoughtful money dot-com slash conference and sign up now and remember
+if you are a premium subscriber to our sub stack you get $50 off the ticket
+price go look in your email and find the code that we emailed to you if you're a
+premium subscriber all right and and then to Mike's point there you know
+best time to repair your roof is when the sun is shining right not when it's
+raining so with all these storm clouds that David painted for us that he sees
+on the horizon you want to you want to plan for that now so like I said if
+you've got a good financial advisor who is helping you strategize putting
+together a personalized portfolio strategy for you and then executing it
+for you great stick with them but give them a call make sure that you're as
+prepared as you can be if you don't have one or you'd like a second opinion from
+an experienced one maybe even Mike and John and their team there at New Harbor
+Financial then consider scheduling a free consultation with one of the
+financial advisors that thoughtful money endorses to do that just go to
+thoughtful money dot-com fill out the short form there only takes you a couple
+seconds to fill out you get a personalized consultation that is
+bespoke to your individual situation these consultations don't cost anything
+there's no commitment to work with these guys it's just a free public service
+they offer to help as many people as possible position as prudently as
+possible for what may lie ahead Mike thanks so much for hanging with me for
+yet another week look forward to seeing you next week everybody else thanks so
+much for watching good to be here Adam and we'll see you next week

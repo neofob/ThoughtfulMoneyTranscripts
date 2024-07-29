@@ -1,0 +1,687 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. Since the October lows,
+stocks have roared back to record highs and bonds have risen solidly too as US 10-year treasury
+yields have dropped from 5% to near 4%. Will the bull run continue through the rest of 2024?
+I mean, it's an election year in America after all. Or have the animal spirits carried assets to
+unsustainable price levels, putting us in danger of a painful sell-off? To find out, we've got the
+good fortune to hear from macro expert Alf Pecatiello of the Macro Compass. Alf, thanks so much for
+joining us today all the way from the Netherlands. Yes, Adam. Nice to be here with you. Always a
+pleasure to be on the channel. Always a pleasure, my friend. We got a lot to talk about, including
+the new macro fund that you're launching. So I want to make sure we reserve time so you can explain
+what that's all about to folks. Yeah, a lot going on in the markets right now. You've been writing
+a lot about this stuff and talking about this stuff recently. So I want to dial through a lot
+of your recent work if we can. To kick it off, though, let me just ask the intentionally general
+question I'd like to ask you at the start of our conversations. What's your current assessment of
+the global economy and financial markets? I think the global economy is slowing down,
+clearly so. It's taking its sweet time for the tightening in financial conditions and in interest
+rates to feed into the real economy more openly. But it is happening. And we are having some more
+signals, I think, as we speak. One of it was the latest job report from the Fed from the BLS on
+Friday last week. And the job report showed that after revisions, the private sector is still adding
+200,000 jobs on average a month for the last three months, which seems quite a decently strong number.
+If you look a bit under the hood, you realize the sector concentration of these jobs being added.
+So it's quite concentrated into the government sector, the health care sector in particular.
+And the other thing you can realize when you look at it is that if you slice away
+the cyclical industries, so that's the manufacturing, construction, trade,
+this type of more cyclical-driven industries, they haven't really been hiring that hard for
+the last year. Actually, the hiring rate of the cyclical industries, Adam, is the weakest since
+2011. And on top of it, the creation of full-time jobs is now negative year on year, looking at the
+past 12 months. So again, yes, we are adding jobs, sure, but we are adding them only in certain
+sectors. The cyclical industries are hiring at a very, very slow pace on par with 2011.
+And also, you have a situation where full-time jobs aren't really being added. And so the quality
+of this job creation is something that generally shows some emerging weakness into real economic
+growth. Now, why is it taking so long? Because this type of weakness, we would have expected
+maybe six or nine months ago or 12 months ago, but it is taking way longer. And this is something to
+recognize. And the answer there is that the U.S. economy, I think, is better equipped than people
+think to handle the hit of higher interest rates for a longer period of time. And the main reasons
+are that American people and corporates have been pretty smart. They've locked in low interest rates
+for a long period of time. So when you raise interest rates, the pass-through, the cost really
+of these higher interest rates isn't really felt unless you need to refinance your debt. And if you
+have extended the maturity of your debt, then you probably don't need to do that very soon,
+be the corporate or be the household. And I mean, Americans have been smart terming out their debt.
+That means raising interest rates takes longer to feed in the weakness that you would expect,
+but it is now slowly starting to happen.
+Okay. So the lag effect is slowly starting to arrive. Is that another way to say this?
+Yes, I would say so. I think the next six to nine months are going to be pretty interesting.
+Because historically, if you raise interest rates and then you keep rates over 5% for a while,
+like the Federal Reserve is doing, but then real GDP growth keeps being around two, two and a half
+percent. I think people just throw the towel in on this recession thing. It's natural, Adam,
+like how long is it going to take? And then people say like, "Well, okay, something is wrong this
+time." You start hearing about the neutral interest rate is higher. I mean, those are key words for me
+to hear. They're like a signal because I heard the same words from Powell and FOMC members in
+September 2018. If you remember, the Fed had raised the interest rates in 2017 and in 2018,
+and it looked like the U.S. economy was handling that okay. And so at some point they thought that
+higher interest rates were not really restrictive for the U.S. economy. In other words,
+that the U.S. economy could handle higher interest rates more structurally or in Central Bank Jurgen,
+the neutral rate is higher, okay? And then Powell said that in September 18, and guess what? In
+November 18, December 18, the stock market went down 20% and we figured out that no, it wasn't
+different. The neutral rate wasn't higher. And now I'm starting to hear that discussion again.
+And it's human nature, Adam, right? I mean, you raise interest rates, you're supposed to slow down
+the economy. The economy doesn't really slow down a lot. And it's been now quite a lot of time since
+the Fed has gone through with this fast hiking cycle. Rates have been above 5% for three or four
+quarters now almost in a row. And then people just say, well, this time is different. The neutral rate
+is higher. When you start getting towards these discussions, funnily enough, as in 2007 or in 2018,
+you tend to be closer to the part of the cycle where it's more likely that weakness will show up.
+Yeah, all right, great. Yeah, it's the right when everybody decides, well, I guess what normally
+happens isn't going to happen is usually right when it actually happens and catches them by surprise.
+So I was talking with a consumer retail researcher earlier this week, Nili Taminga.
+And she was saying, you know, I think that from my lens, it looks like the economy is going to
+kind of muddle through. She said the thing that could change that for the worse would be either
+if the overleveraged consumer really starts tapping out, she has these different consumer segments,
+and one of them was overleveraged consumers. And that was about 20 to 30 million Americans. I mean,
+it's not a tiny bucket. And then she said either them or overleveraged corporations start buckling
+under higher for longer interest rates. To which when she said that, I said, wow, I can make a
+pretty good argument that both of those may actually buckle in the not too distant future.
+Sounds like you think the pressure on these particularly those two segments is going to
+continue to increase over the next six to nine months. Do you expect that shoe to drop? Like,
+would you expect those segments to start struggling pretty materially in a way that's
+going to bring economic growth materially down? I would say, Adam, what I look at right now is
+corporates more than households. And the reason why I would look at corporates right here is
+because, look, if you are a US high yield type of company, okay, so a junk rated below investment
+grade rated type of company, between 2015 and 2021, you were able to issue bonds. So to fund
+your business, basically, to issue that at interest rates, around four to 5%, all in,
+okay, so you were paying a risk free rate, and you were paying your credit spread on top. And overall,
+you could borrow at about 4%. Okay. Now, 10 year Treasury yield has been north of 4% for several
+quarters in a row already. Okay, Adam. And on top of it, you need to add credit spreads that are,
+let's say, in the 300 350 basis point area. So a high yield borrowing rate in the US is not 4%
+or 5% anymore, but it's north of 7%, in some cases, 8%, or double digits even. Okay. So why
+am I mentioning this? If borrowing rates for corporates are high, but for a short period of
+time, Adam, and then the Fed can cut rates, and then everything goes back, it doesn't really
+hurt a lot of companies, right? You have to think of the refinancing cycle like a long line over
+time. Some companies will need to refinance here, some companies here, some companies there. So if
+interest rates are high only for this period, it will hurt a very low proportion of the corporate
+sector, right? Because it's only these companies that are forced to refinance right when interest
+rates are high. But the longer you keep interest rates higher, the more likely it is that you're
+going to catch a wider share of these companies that are highly levered, they don't really have
+a great business model, and so they really rely on low interest rates to survive. And so the longer
+we go with this higher interest rate story, the more company will be forced to refinance at higher
+interest rates, and what happens then? So if you are a junk corporate, probably your business model
+isn't great. You have a pie of earnings, of cash flows, but it isn't really large, okay? And how
+did you survive in the past? You had a pie of cash flows, a pie of earnings, and because interest
+rates were low, only a certain small portion of that had to dedicate to service your debt,
+service your debt, right? But now with the same pie of earnings, pretty much because your business
+model hasn't really grown, think about it, you now have to dedicate a lot more of that to paying
+interest rates on your debt, because you're borrowing at 8% right now, right? And so when
+that happens, well, you can't hire anymore, you can't do any capex investments anymore,
+so basically you will stop hiring, in other words, of contributing to economic activity,
+and when that happens, the labor market is going to slow down, the economy is going to slow down,
+and it starts that cascading effect of finally seeing higher interest rates feed into weaker
+economic conditions. The process this time is much longer, because all these high-yield companies have
+basically been relatively smart in terming out their debt, so the moment they need to refinance
+comes much later in time than what we are normally used to in the cycle, but it's about to come. And
+I think it's something that people don't realize, because it just takes time, and it's a very slow
+and boring process, and we live in a world where we won't use every day, and we see the stock market
+going up, and then we tend to forget about how macro works, and how the lag of tightening cycles
+really works. So if I recall correctly, I think we have something like close to a trillion in
+corporate debt, maturing this year, rerating this year, and then more than that the following year,
+and then pretty substantial amounts still after that. Now, how long rates remain as high as they
+are, who knows, and the Fed has already kind of tilted that, hey, we're going to start cutting
+at some point. We'll talk in a moment about how much you think they may be able to cut this year,
+because I think they've got more headwinds now than they did when Powell made that initial
+indication. But more and more, I think kind of like the housing market with consumers,
+the corporate debt market, companies, their strategy so far has just been cross their fingers
+and just wait this out, and the Fed's going to ride to a -- all we got to do is survive until
+the Fed brings interest rates down, and then we can start rerating at less painful yields,
+or interest rates, and now it's looking like higher for longer is going to persist for some
+period of time here, and even if the Fed gets its three rate cuts this year,
+if they're paying double digits right now, maybe that comes down into the 9%. It's still a lot more
+than they were paying before, like you said. So we've got this maturity wall coming that you're
+worrying about, and from other conversations on this topic with other experts on this channel,
+I've heard them say, look, CFOs aren't stupid. First, they loaded up on the cheap debt,
+and they termed it out, so they put themselves in the position that's been good up until now,
+but they can do math, and they can see, you know what, under the best case scenario,
+we're going to have to take on some higher cost debt relatively soon,
+and I got to start preparing for the impact. So they don't make changes when the debt rerates.
+They make changes a quarter or two before. That's when they stop the hiring. Maybe that's when they
+start doing their first rounds of layoffs or whatnot. So as we go into this danger zone that
+you're talking about, I assume you expect to see in advance more and more of these companies start
+taking these cost cutting measures. Yes, I think you're perfectly right,
+and let me share a couple of charts with your nice audience here to visualize a bit what
+we're discussing. So if you look at this chart here, it shows that the bond market is assigning
+a higher probability to higher for longer. So what I do is I split bond market probabilities
+into three scenarios, soft lending, recession, and higher for longer. I use the option market,
+which is embedded in the bond market, and then I can design scenarios, and I look at option pricing
+to understand how much investors are pricing as a probability for each of these scenarios, okay?
+And if you look at the soft lending, it's by far the dominant outcome, right? Right now,
+70% probability is assigned to a soft lending in the United States by the end of the year.
+So that's by far the dominant probability being priced in. And the recession probability has been
+downgraded materially. It's now less than 10%. So people, as we were discussing, have thrown in
+the towel on a recession. It's not going to happen according to the bond market or to option traders
+in bond market. It isn't really going to happen anymore. But I want to draw the attention of
+people to this red line. This is higher for longer. And higher for longer wasn't really a thing until
+February, but look at that. Now higher for longer is almost a 30% probability scenario by the end
+of the year. And now 30% is not a negligible scenario Adam, isn't it? So 30% starts to be
+a meaningful scenario. And that is happening exactly because the Federal Reserve is coming
+through with this message that it's different. They only have to do a few cuts. Look at the
+economy. It's handling pretty well. But the reality, as we discussed, is that if you look
+under the hood, so if you look at the non-farm payrolls in cyclical industries, okay? So we're
+talking about the industries that are more sensitive to this type of refinancing rates
+that we are discussing. They're more sensitive to the economic cycle, okay, Adam? They have been
+hiring on a net basis basically below 1% year-on-year growth in full-time hiring.
+So these people, these companies here, are not really hiring anymore. If you look at the hiring
+pace of the cyclical industry out there, it's the weakest since 2011. So we are at really
+pretty weak levels. Actually, when we got recession kind of vibes, for example, in 2007,
+this line was close to 0%. And it seems like we're getting there, honestly. We're getting there
+slowly but surely. But the cyclical parts of the economy, the more vulnerable parts of the economy,
+are taking note of the fact that the bond market is imposing a high interest rate environment for
+longer. And as you say, CFOs have to program. So if they know they have to refinance at higher
+rates in two quarters, they are not going to hire people. At best, they're going to stop
+hiring completely. So this line goes to 0% pretty rapidly, which is already a harbinger for a
+recession in the past. But in the worst case, they probably will be forced to lay off some people.
+Which we're seeing now. So layoffs from the start of this year have been at a much higher
+pace than they were last year. And I don't have a chart handy right now, but a chart I've showed
+on this program in recent videos is one that shows this growing surge in WARN Act notices.
+So WARN Act is, if you're a big enough company, you have to give your employees advance notice
+that layoffs are coming. And what's interesting is if you look at the initial claims data,
+still pretty flat. But if you look at the WARN notice data, this is from over the past six months,
+it's up and to the right on a 45 degree angle. So these guys are tipping their hands. They're
+saying, "Hey, look, we're implementing hiring freezes." Of course, we've seen even in the BLS
+data that hours work per week or hours work per month are now coming down. So the companies that
+aren't doing layoffs yet are reducing the hours that their workers are using. So we're seeing what
+I would consider to be a lot of early indicators of what you're talking about here. Do you see the
+same? Yeah, I think it's the right interpretation also, because if you are on severance payment,
+you do not pop up most likely as an initial claim type of guy. And there are a couple of reasons for
+that. The first is that the severance payments can last for quite some months. So by the moment you
+get fired, then you've got a severance payment. And then by the moment you file your claim,
+then you're going to show up in initial claim. So it can take literally quarters in some cases.
+But also it's a matter of basically the claims or the type of payments you're receiving
+from the government once you claim basically to be jobless, it's not that great anymore. I mean,
+in some cases, the gig economy or type of works with delivery or Uber or other types of work
+actually pay you better than getting unemployment claims from the government. So there are a couple
+of reasons why you might want to say, even if people get fired right now, both because of
+severances and because of alternative type of income streams they can generate in this economy,
+there might be a reason why the claims aren't popping up just yet.
+So the situation is, look, I'm not sure why people are surprised
+that the internals of the job market are weaker. What do you expect? I mean,
+we have had interest rates over 5% now for three quarters in a row. And the Federal Reserve is
+saying, yes, guys, I mean, we're going to keep that above four and a half because at best we're
+going to deliver three cuts this year. So we're going to basically keep them above four and a half
+percent for more than a year. So what would you expect by the end of the year? I would expect a
+weaker job market. I mean, that's just natural. And if you look at what's happening so far in
+the labor market, Adam, I think so far so okayish in the grand scheme of things, but the direction
+of travel is also clear. So the private job creation, three-month average, that's the blue
+line. It's 200,000 jobs. And we discussed about the quality of these jobs, the concentration in
+certain sectors. So if you look at the internals, it's not as good, but from the outside 200,000
+jobs is not a bad number. It is though declining pretty rapidly from last year. I mean, the trend
+is quite clear in that blue line. It's coming down. Wage growth, that's also collapsed,
+which is another sign, that's the orange line, which is another sign that the job market isn't
+hot. People are not quitting actively anymore. People are much more conservative. That means
+they are not getting the wage gains they would get in a hot labor market. The power structure
+is shifting back to the employer. Correct. In a hot labor market, you want a hot labor market,
+look at late 2021 or early 2022 before the Fed hiked. Labor demand was very strong. We were
+having 600,000 net jobs a month in the private sector. That's a huge amount. And wage growth
+was over 6%. That's a hot labor market. And it makes sense. We were restarting the economies
+after the pandemic, huge fiscal stimulus flowing through the economy. We don't have anything of
+that sort right now. So obviously, you're going to have the labor market weaken. And the cherry
+on the cake is the U6 broad unemployment rate. That's the red line. That's very important. I
+agree. Yeah. So we can talk about what that is. It shows that it's basically bottomed very clearly
+at early 2023. And since then, it's been rising pretty steadily and it's now 7.3%. And I think
+this broad unemployment rate is quite important because it captures a broader definition of what
+does it mean to be unemployed. So the U3 unemployment rate effectively looks at
+unemployed people in the labor force. But the U6, the broader definition of unemployment rate,
+also looks at two more categories. It looks at people that are unemployed.
+It looks at people that are marginally attached to the labor force, which means they're not really
+trying hard to look for a job anymore. They've given up. And it looks at part-time for economic
+reasons. So those are people that are basically forced to work part-time. And they would work
+full-time if they could, but they are forced to work part-time because economic conditions
+aren't that strong and labor demand is not that strong. And that underemployment rate,
+so the broader definition of unemployment rate U6, has been picking up pretty materially over
+the last two quarters. And I think also here, the direction of travel is pretty clear. The job
+market internals are weakening. But again, my question is, what would you expect? Otherwise,
+it's reasonable that it weakens. We're just discussing here, Adam, how fast does it weaken?
+Where is the landing point? Can the Fed achieve a GDP growth of like one, one and a half percent?
+Or is it going to get worse? When and why? But the fact that the trend is negative,
+I think it's undeniable. So I'm going to try to
+pull up a chart here while we're talking. So when you look at past recessions,
+the chart I'm going to try to find shows that the unemployment rate generally tends to be fine,
+fine, fine, fine, fine. And then it starts spiking up. So as we sort of fall into recession,
+it's something, it's a transition that happens extremely quickly. So the fact that U6 is beginning
+to rise here, does that tend to be a leading indicator for U3? Yeah, U6 is generally being
+a broader definition. I think it works better because it captures also these parts of
+unemployment that aren't measured into U3. And if somebody becomes marginally attached to the
+labor force, or it's forced to work part time, even if she or he doesn't want, I think those
+are clear signs that labor market is slowing. The other thing that I want to show, maybe I
+can show a chart while you look for yours that looks at the cycle, let's say. So how long does
+it take for the job market to weaken once the Federal Reserve raises interest rates?
+Let's take a look at that. So the chart I'm sharing here looks at the inversion time in
+two to 10-year yield curve. So when the two to 10-year yield curve inverts, and then it looks at
+the trend in U.S. private job creation thereafter. So then it looks at all cases of recession we've
+had since the 80s. So the 80s, mid-80s, late 80s, 2000, 2008, and pretty much today. And the blue
+line that you see on the chart here is the trend in private job creation. So how many jobs are we
+creating in the private sector in the U.S.? And the counter that you see here, the zero is when
+the yield curve inverts for the first time meaningfully. So the counter is the number
+of months it takes for the blue line to drop until you are in a recession. And the recession
+is the red shaded area. So now take a look. Every time the cycle is always the same, Adam,
+the yield curve inverts times zero. Then you have a bunch of months when private job creation
+deteriorates generally from three to 400,000 all the way to zero. Pretty much zero jobs being
+created on a monthly basis. At that point, you know that you're about to go into a recession.
+The curve disinverts, by the way, right before or right into a recession. That's another clear
+signal. When the curve has been inverted and then it disinverts, when the job market is weakening,
+you're basically there. Now, if you look at what has happened over the last five recessions,
+the pattern has pretty much been the same. So you have had this inversion of the curve,
+weakening of private sector job creation, and then a recession, which pretty much then it
+weapon in line with the disinversion. Disinversion can happen a bit before, a bit later, but the
+pattern seems to be clear. And now you look at the last two recessions and there the pattern was
+pretty much the same. So inversion, weakening in the job market, disinversion, recession.
+Same in 2007. But look at the number of months that it took in 2007. In 2007, it took 27 months
+between the first significant yield curve inversion and a deterioration in the labor
+market, which was consistent with the recession. Okay. 27 months. Now we're at month number 22,
+23 as we speak, we're entering 23. But the trend looks pretty much the same. The only difference
+is that we start from a much higher level, 600,000 jobs. That's our starting level when
+the curve inverted, but we are walking towards that type of pattern where the next thing you
+would expect is a rapid sequence of disinversion of the yield curve and the job market going towards
+this zero 50,000 jobs added per month, which generally precedes a weak labor market in line
+with the recession. Got it. Those are fascinating charts, super useful. And yeah, I mean, it explains
+why it's maybe taking longer than people expected this time, because we started at the top of a much
+higher mountain that we had to descend. But, you know, we're not that far away now. So yeah, I mean,
+your sort of expectation of, hey, in six to nine months, we might really start to see some
+fallout. I think that seems to be perfectly believable given that last chart. And the other
+thing is we're talking about the US, but to be frank, if you ask me where a potential
+macro volatility event might arise, I think you're going to see it sooner elsewhere than in the US,
+Adam, because other global economies have tried to follow the Fed on their hiking cycle one on one,
+but they are not equipped nearly as well as the US is to handle these higher interest rates.
+I mean, the ECB, the European Central Bank didn't cut interest rates at the last meeting. They're
+basically looking at the Fed saying, hey, give me your green light before I can start cutting as
+well. But GDP growth in Europe is 0%. And in Canada, it's pretty weak. If you adjust for
+population growth, GDP growth in Canada is very disappointing. In Australia, you have a weak
+economy. In New Zealand, you have a weak economy. Shall we talk about China? Should we open that
+Pandora box? I mean, I think an accident might happen actually earlier somewhere else
+than it is in the US. The US is amongst the cleanest dirty sheets, let's say, out there.
+In fact, we would expect the weaker players to fall before the US does.
+Yeah, I would agree there. And honestly, these euphoria, animal spirits running loose,
+they run loose as well in 2007 with interest rates at 5% and late in the cycle.
+They run loose as well in early 2000 with interest rates at 5% and late in the cycle.
+It sounds like history is rhyming here.
+I think people should keep their eyes open, follow the macro playbook,
+follow the legs, look at the internals, do the work, and don't get
+fooled into this crazy animal spirit market we're looking at today.
+All right. So you're taking exactly where I want to take it. I just want to share my screen real
+quickly just to show folks the chart we talked about, and then we're going to go straight into
+animal spirits. So if you see here, this is the U3 unemployment rate. And you'll see right before
+every recession, it's fine, fine, fine, fine, fine, and how it starts popping up every single
+time. So we're already seeing U3 begin to come up. I forgot to mention that in this latest
+blowout jobs report, the unemployment rate did still manage to jump from 3.7 to 3.9. So we're
+very close to a four handle on unemployment. And again, I don't think anybody believes
+these numbers coming out of a BLS anymore for a whole variety of reasons, but certainly a very
+visible one is no matter what they tell you it is, the next month they're going to come back and tell
+you, "Oh, you know what? We actually just revised it down by a substantial amount." So we had a
+massive block jobs report in January that just got reduced by over 35% downwards this month.
+So turning it from a massive beat to really just more of an average number.
+So in the context of this sort of lag of what we believe to see are early signs that the lag
+effect actually hasn't been repealed and is beginning to enforce itself. And I'm hammering
+on this because I've talked about the lag effect for so often that I think a lot of people
+understandably might've said, "Hey Adam, you've been beating this drum forever and it just hasn't
+happened. Drop it, dude." I think both you and I are saying now we're beginning to see signs that
+it's arriving here. Can't take the victory lap yet, but things are beginning to look better.
+But markets don't care. Markets aren't caring about anything that we're talking about. So
+stocks hitting new highs, bonds doing pretty well, speculation completely roared back. We've got it
+in Nvidia trading at 40 times sales. We've got meme stocks showing life again. We've got Bitcoin
+at all time highs. So you mentioned here that this actually is pretty consistent with history,
+that the animal spirits kind of go wild right before we fall into these recessions. Darius
+Dale, who's been on this program several times, we've talked about how the party gets its wildest
+right before the cops show up. So what probability do you think that that's what we're seeing right
+now? That this is the last hurrah before the cops show up and spoil everybody's fun?
+I think there is actually even a connection between the last hurrah and the cop showing up,
+because if it's true that the Federal Reserve doesn't target Bitcoin prices, there is a
+potential nexus there. Because if animal spirits might even restart somewhere like in the housing
+market or in the neighborhood of the housing market, then the Federal Reserve starts to get
+pretty scared. Because they haven't won their battle on inflation. People are bidding any
+asset they can find. What if they start bidding house prices as well? I mean, it's not my base
+case, but in that case, they would be pretty much forced to come in and pull the brakes again.
+But the point here is, guys, investors aren't thinking macro here. So what's happening is
+you're having NFTs of penguins and monkeys being purchased for over half a million dollars. I'm
+serious. That's happening right now as we speak. Are we back to that again?
+Yeah, we are. Well, you can check actually there is public data. Over half a million dollars has
+been spent over the last few weeks to buy an NFT of a monkey and a penguin. So that's where we are,
+Adam. Not only that, we are seeing coins named after Joe Bowden or whatever the misspelling is
+of the coin going up 8,000% in a week. Yesterday, I think there was a coin on Elizabeth Warren with
+the misspelling going up 9,000% in a day. So guys, that's what we're talking about here. It's pure
+animal spirits. And if you want to move to conventional assets that incarnate a bit more
+animal spirits, then you can have a look at Bitcoin or gold. Now, let me stop you for a
+second before people eat me alive. Gold specifically is not only an interpretation of animal spirits,
+but it also has strong monetary features. That's why gold belongs in a macro portfolio.
+For Bitcoin, it's more of a new version, a more experimental version, let's say,
+of the potential monetary features. But you also have to recognize that when risk-free rates are
+at 525%, Adam, four quarters, and the Fed is telling you they're going to be reasonably around
+5% for a while, you do have a risk-free alternative that yields pretty well. If,
+despite that, you're going to buy assets that do not produce any cash flows like gold or Bitcoin
+right now, then probably you're doing that because of animal spirits to participate in the momentum
+trade to feel richer than your neighbor. There's a thing that I call the neighbor tracking error,
+and it's a very popular concept. So it goes like that. Tracking error is basically that
+difference in performance you might have against the benchmark. But what if we say the tracking
+error against the neighbor? What if the neighbor has Nvidia and super microcomputers and he has
+Bitcoin and maybe one of these Carvana stocks, which is basically bankrupt, has gone up 50%
+over the last few weeks? What if he has it and you don't? If you don't have it, then you're
+experiencing the neighbor tracking error. You're watching him become richer, basically, on paper,
+that is. You're watching him becoming richer, and you have this chasing attitude, this FOMO thing.
+You have to run into the momentum trade as well. And it doesn't matter whether risk-free rates are
+5%, 4%, 3%, 1%, 6%. In 2007 and in 2000, the same type of FOMO animal spirits were there.
+Risk-free rates were over 5%, both in 2007 and in 2000. So you did have an alternative.
+And nevertheless, people chased assets with no cash flows.
+This tells you they're not thinking about macro. It's pure animal spirits running loose.
+All right. Well, let me ask this. So Bitcoin, I'm assuming you think its run-up is mostly
+due to speculative fervor as opposed to store value, right? With gold, and you might be the
+second person in two days to make the same comment, but it sounds like you think gold
+price right now is being driven more by speculation than by a safety trade.
+So I need to make sure that people understand there are two things going on here.
+One thing is the animal spirits that are running loose that put people to bid
+any assets out there right now, pretty much, including assets with no cash flows
+like gold or Bitcoin, despite having a risk-free rate at 525%. So also gold and Bitcoin have been
+caught basically into the animal spirits type of behavior. But we can also apply a valuation
+framework to these assets that is more of a long-term valuation framework. Basically,
+Adam, I'm trying to answer the question, how much should Bitcoin be worth? How much should
+gold be worth? Those are the questions I'm trying to answer. And that's not a thing that has to do
+with today, animal spirits, but I think it's a useful framework that people can use to get an
+idea of where are the valuations and what is the right price for gold. And if Bitcoin might play
+a similar role of gold in the future as a potential alternative to fiat money,
+maybe a digital gold, let's say, can I use the same valuation framework to attach a price to
+Bitcoin? And the answer is, let's take a look together. So let me share a chart with you,
+starting from gold. And why do I start from gold is because gold has actually served the purpose
+of an alternative to the fiat system for centuries and has done so basically until the 1970s until
+the gold peg was basically released. And look, if you want to value an asset like gold from a
+monetary standpoint, Adam, what would you do? What I did is I looked at the market capitalization
+of gold. So I looked at all the gold that is on earth right now, basically physical amount of gold
+on earth times the price of gold. That gives me the market capitalization of the gold market,
+which is about, I think something about $7 trillion, roughly. Now, what does it mean?
+$7 trillion, is that a lot? Is that too little? If gold is an alternative that can coexist or
+even replace the current fiat system, then you want to measure the market cup of gold in percentage
+to the amount of spendable fiat money in our system today. So you want to basically compare
+the two measures, right? One is an alternative or a complement to the other, fiat and gold.
+So now you measured what is the market cup of gold, but what is the market cup of fiat money?
+In other words, how much fiat money is out there? Spendable real economy money. So that's what I
+did. I took the five largest economies in the world as a proxy for the globe, let's say, and I
+looked at how much fiat money, spendable fiat money, the money that we use, Adam. How much is
+it out there in China, US, Europe, UK and Japan? And the answer is that the market cup of gold
+today represents roughly 20% of total fiat in existence in the five largest countries in the
+world. Why do I think this is an interesting model to look at? If you look at the last 10 years,
+this has been a very, very nice model to try and derive where the price of gold should be.
+And the answer is it should be at about 20% of the stock of fiat money. The trick is that the
+stock of fiat money grows over time, Adam. And so that explains why if you want to keep this ratio
+at 20% over time, also the price of gold needs to go up. It has to go up, yeah. All right. So right
+now it says 20%. Can it get more expensive? Yes. In 2020, 2021, it got to 22%. The same in 2013.
+So gold could get even more expensive than this. Sure. And I like gold. I've said it a few quarters
+ago as well. And I think it could go to 2,500. Yes, it can go there. Now you have a framework
+to try and understand how gold is valued. And the most important takeaway, Adam, is the denominator,
+the fiat money in the five largest economies in the world, guys, I can assure you that it will
+keep growing over time because this is how the system is built. The system, the fiat system is
+built to grow the amount of fiat currency in the world. And so if gold has to preserve 20% of a
+growing denominator as its market cap, that means the price of gold has to go up over time as well.
+Now let's apply the same framework to Bitcoin. So what I did is I took Bitcoin or in general,
+the crypto market cap, which is roughly about 2 trillion as we speak. So 2 trillion represents
+about 4%, let's say, of the stock of fiat money in the five largest economies in the world.
+And now I can hear already a few people say, "Whoa, whoa, whoa, that means that Bitcoin has
+to go 5x in price, right? To reach the same level in this chart on this axis of gold, from 4%,
+we need to go to 20%. So then Bitcoin has to go 5x. So that means it needs to be worth $350,000."
+And here I'm going to be saying, "Wait a second, calm down. A few reasons there. First of all,
+this guy, gold, has proven his role as an alternative to the fiat system for centuries,
+and Bitcoin is a new kid in town, right? So you need to apply some slack, I would say,
+in this valuation. But even if you say, "Hey, over time, Adam, I would assume Bitcoin can cover
+half the ground of gold, let's say, so it can go to 10% under this valuation framework,
+in principle, there is room for Bitcoin prices to grow over time, both because this percentage can
+go up and both because, as always, the denominator goes up, the amount of fiat in the system goes up,
+and that pushes mechanically the price of Bitcoin higher over time as well, like it pushes the price
+of gold higher over time as well. All right, fascinating. So you're basically saying,
+"Look, there are fundamental reasons, obviously, just as the pool of money around the world grows,
+that these asset prices should go up." But I think earlier, too, you were saying,
+"Look, animal spirits are playing a big role in the here and now." How do you think about
+parsing out the fundamental value versus just the craziness of the moment?
+It depends whether you're a trader or an investor, and I would say, if you're an investor,
+you have already built a macro portfolio that has these assets as part of that portfolio to
+basically serve the monetary role you want them to serve if you need that hedge. So then you have
+some gold, you maybe have some Bitcoin in the right proportion in your portfolio, Adam, and now
+you're reaping the benefits of it. Now, interestingly, you're not reaping the benefits
+because the monetary system is changing right now. You're reaping the benefits for other reasons,
+but having these assets in your portfolio can be an added value to your performance adjusted for
+risk over time. They serve this monetary feature, this monetary hedge feature into your portfolio.
+If you're a more short-term investor, yeah, then I'm sorry to break the news to you that Bitcoin
+isn't going up because the monetary system is falling apart. Bitcoin is going up because it is
+an asset that also incarnates animal spirits, and that's why it's going up pretty rapidly,
+pretty vertically. And so now you need to ask yourself, "For how long can these animal spirits
+go on?" And it basically becomes a momentum trade. You need to be a trend trader, basically. You look
+at these things, the lines are going up. If you overlay the chart on Nvidia and Cisco, so Nvidia
+today and Cisco in the 2000s, they look one-on-one, right? So then that's a bit of a scary proposition
+because you say, "Well, some of these technical indicators are getting overstretched.
+Should I jump on the boat or should I be more conservative?" But that's a discussion for
+traders. You're talking about momentum traders here, and I'm not a momentum trader. I'm a
+macro investor. So I just want to make sure that people understand why the prices of gold and
+Bitcoin are going up. It doesn't have to do with anything monetary framework related right now,
+although you can apply a model, as we saw, to discount them. It has to do with animal spirits.
+So then be the judge of whether you want to pursue these animal spirits and try to close
+the tracking error with your neighbor or your friend that has Bitcoin and you don't, maybe,
+or you want to behave like a rational investor and look at portfolios from a macro perspective.
+I would suggest option number two.
+I was just going to say that. All right. Well, look, this is providing a great segue,
+which we'll make in a moment to your new macro fund, and also just the question I normally ask
+you, which is, "Hey, how are you allocating given the current environment that you see?"
+Real quick, if we can, can we just go to bonds for a moment? That's the bullseye of your expertise.
+We haven't really even talked about that much. Stocks are raging right now. We gave
+not to how speculative the price action is there. I don't think you would necessarily say that bonds
+are at a speculative high right now, but what do you see in the bond market?
+What I see is the front end of the bond market, which is basically forced to align with the
+Federal Reserve, Adam, because the Federal Reserve effectively can influence two-year
+bond deals very closely. Two-year bond deals can be thought of, Adam, as the reflection of what the
+Federal Reserve will be doing over the next two years. If the Federal Reserve says, "Hey, guys,
+I'm not going to cut trades. I'm very stubborn," then two-year yields are somehow pinned basically
+to a high level because they have to reflect what the Fed will be doing soon. You see that happening.
+Two-year interest rates have been basically over four and a half percent for a long period of time
+right now. A few cuts are priced in, but not many, and it's hard for the bond market to fight the Fed
+on the front end unless something is breaking. Until something breaks, two-year interest rates
+will be pinned around four and a half or 75 percent. Then you look at the bottom end of
+the curve, and that's starting to send some different signals. It's saying, "Well, okay,
+dudes at the Federal Reserve, if you don't see the internals weakening in the job market,
+if you don't see the fact that core inflation is already annualizing basically at 2%, and the
+direction seems clear, and you want to be stubborn at the front end, then what I'm going to do is I'm
+going to play some of that weakness in growth and inflation in the back end of the curve."
+So then the curve has been flattening, again, inverting even more to the surprise of many
+because we entered a year and everybody wanted the curve to steepen. The curve had to steepen
+to reflect strong fundamentals, strong economic growth, a proactive Federal Reserve cutting
+interest rates, and none of this is happening. The opposite is happening. The Fed is saying,
+"Nah, nah, I'm not going to cut rates." I even expect them now to say at the March meeting,
+"Oh, we are thinking about a higher neutral rate. We think that the economy can handle
+higher interest rates structurally." They're going into that direction, I think, as communication.
+Then the bond market is saying, "Yeah, sure. Two-year rates, you're in control, but the
+10-year and the 30-year rates, I'm more in control." So they are inverting the curve,
+pushing that potential weakness down the road basically into 5-, 10-, and 30-year bonds.
+That's been happening. I think how this is going to solve itself is when the Federal Reserve has
+been stubborn for long enough that it has managed to create some damage, or possibly that the damage
+has happened somewhere else in the world, in a systemically important market. Can it be China?
+It's already happening. Can it be Europe? Can it be Australia? Can it be Canada? Can it be
+New Zealand? I'm mentioning all these economies because they're structurally more fragile than
+the United States, but they've raised interest rates following the Fed almost one-on-one.
+So the pressure they're facing is much more intense. When you think China, it's a closed
+economy when it comes to capital flows. I mean, there are capital controls in China, so if something
+blows up there, it is hard for that to directly affect global markets, but what it can do is it
+can weaken trade flows. If China is weakening, China isn't buying stuff from Brazil, China isn't
+investing in Australia, China isn't investing in Canada, and that lack of flows can deteriorate
+already fragile situations that are there, for example, in Australia and Canada or in
+some emerging markets. So I think that this is how it's going to solve, either outside the US,
+probably more likely, or in the US, the Federal Reserve is going to be stubborn for so long,
+then it'll ultimately break something, and then finally the curve can steepen,
+but it steepens for the wrong reasons. It steepens, as we have seen before,
+just heading into a recession. Got it, and so it seems like you think this inversion will happen
+the way that it typically does, which is the front end will come down versus the bearish
+steepening of the long end going up. That's correct, and because I think we have already
+tried the bearish steepening last year. I think I was on the program explaining how that works,
+that bearish steepening move, and I think we have tried that and we have utterly failed because we
+have bear steepened and then after that we have had a big, big rally in the bond market, if you
+remember in November and December after that bear steepening. So I think now the final steepening is
+going to be the typical bull steepening preceding a recession, and that makes me, when it comes to
+asset allocation, that makes me in general, and I've been and I continue to be positive on gold,
+because when you have this type of bull steepening events preceding a recession, what happens, Adam,
+is that two-year interest rates drop very rapidly. So the Federal Reserve has to change their tune
+very quickly towards a dovish stance. So all of a sudden, risk-free rates aren't high anymore.
+They start to become much lower, and if they become lower, then people have an alternative,
+and the alternative is gold. At that point, it provides you with safety and people want that.
+So I think two to five-year bonds and gold are a good asset to have in your portfolio right now,
+and the other thing, if you really have to have an equity exposure,
+defensive equities have been killed. So anything that is like consumer staples, utilities,
+all these sectors that are less sensitive to the economic cycle, they've been left behind.
+So if you want to have equity exposure, there are decent companies, anti-cyclical, more defensive,
+you can have those. Two to five-year bonds I think are great. Gold is a good asset to have in your
+portfolio, and the dollar, interestingly, it's something that people always say, "If the Fed is
+going to cut rates because of a recession, then the dollar has to go down." I'm going to ask you
+to have a look at the conditions that are happening because if recessionary conditions are emerging
+because something is going wrong elsewhere in the world, then I'm not sure that the dollar goes down
+in that case. The dollar can be seen as a safe haven currency, as a deleveraging type of currency
+where everybody wants the safety of the dollar in that case. Yeah, and also just the Brent Johnson
+as the rest of the world gets in trouble and Eurodollar loans start getting compromised,
+it increases the demand for dollars to have to repay those. Wow, that's the quickest,
+most effective milkshake explanation I've ever heard, Adam. Great.
+I think I've been in interviews with Brent like four times already since the start of 2024. He's
+totally sick of seeing me. So great list of things to look at there. Let me just ask,
+when you say two to five year bonds are good, and by bonds, I'm assuming you're really talking about
+US Treasuries. Yes. So two to five because one, obviously, it's very safe. Two, if you buy them
+now, you're locking in a pretty good yield that will be relatively much better than the yield will
+be if the Fed starts having to cut aggressively like you think it will. So you're going to get
+that good, nice, tasty yield with safety for the next two to five years. Plus, you're going to get
+some appreciation in those bonds as well, right? So it seems like on a risk award basis, pretty
+good. You're nodding as I'm saying this. Yes, that's exactly it. And it's also those are very
+liquid instruments, which means that if you get it right in terms of the timing of a potential
+deterioration of global economies, then you have not only locked in good yields, but also you'll
+get the price appreciation and you'll get a very liquid instrument which you can sell and monetize
+at the moment when other assets are trading at a discount. So when equities have gone down to
+reasonable prices and you're sitting on treasuries that are making money, they're very liquid,
+you can sell them. And as Warren Buffett says, you should buy when other people are very fearful,
+not when they're greedy. And today they're very, very greedy. So I would suggest that you take the
+other side of the Buffett advice, which is be careful when people are greedy and instead
+be aggressive when people are fearful. One way to be aggressive is when you have had instruments in
+your portfolio, they're safe, liquid and have made money and that you can monetize to move into more
+risky assets at the right price. Makes total sense. And I'm just going to pull up this chart.
+I pulled it up prematurely, but this is a chart of the fed funds rate over the past couple of decades.
+And you can see how going into recessions, usually the fed realizes we stayed too high for too long
+and then it panic cuts all the way down. And so it sounds like when we talk about, you're thinking
+that history is probably more likely to repeat here, but that's exactly what we're going to see
+here, which of course makes the two to five-year US treasury much more attractive. The funny stuff
+is that generally when you proceed to recessions, markets are instead pricing a very shallow and
+predictable cutting cycle that never materializes. The cutting cycle is generally rushed into and
+very aggressive. So for instance, in 2000, the Federal Reserve, as you can see in the chart cut
+from 625% to below 2% in a year. So they cut 400 basis points in a year. Right now the market is
+pricing 75 basis points of cuts in a year, not 475 basis points of cuts. All right. So again,
+just to beat the horse dead, you're expecting more something like this to happen at some point,
+correct? Yeah. I would say that the risk-reward right now in positioning portfolios, because the
+recession probability is so low right now, you're getting opportunities to basically position your
+portfolio more defensively at very low prices. So you can get that done basically without having to
+live on the table a lot of premium. And I think people should look into that because it's not
+been a very successful type of positioning over the last year. In other words, you've still made
+some money, but your neighbor has become way richer than you because he has had Nvidia and
+Bitcoin, et cetera, and you didn't. And right now he's parting and the part is getting very,
+very loud, very loud. And when it gets very loud, this late in the cycle, history says it's a better
+idea to leave the party a bit early and go home safe. Have somebody else, a designated driver,
+go home safe in your two to five-year treasuries and sit it out. I think that's something people
+should consider. All right. Well, my friend, we're getting to the end here and thank you for sharing
+what you think are kind of good assets to hold in the current here and now given this condition,
+but you also are looking to the future, which is, hey, I'm not just trying to navigate the
+next couple of months. I'm trying to put together a fund that's going to help people navigate the
+next couple of decades. Tell us about that. So Adam, I'm launching my macro fund.
+And the reason why I'm doing that is because I think macro volatility will dominate the next
+decade. The use of fiscal deficits, the combination of fiscal and monetary
+demographics are completely different in China and elsewhere in the world than they were in the past
+10 to 20 years. In other words, inflation and growth will be much more volatile and a 60/40
+portfolio or other standard portfolios alone are not optimal to face such a volatile market
+environment. So a macro fund is a very good compliment to standard portfolios because it's
+able, being nimble, to look at opportunities around the world and try to monetize these
+opportunities. So I think the time is ripe to launch a macro fund. I was about to say
+relaunch because I already managed money in my life for ING, a $20 billion portfolio.
+I left that job in 2021 when the market was pretty much boring and dead,
+especially in interest rates and in effects, nothing was going on. But right now, instead,
+a lot is going on and I think it will be going on even further over the next five to 10 years
+and to protect people from this volatility and make sure they can harvest these opportunities,
+I think launching a macro fund right now makes a lot of sense.
+All right. Well, if folks want to learn more about it, where can they go?
+So the very simple thing to do is just to send me an email. You can send an email to
+fund@themacrocompass.com. So fund@themacrocompass.com. And you can simply ask for more
+information. What I will do is I will send you the fund memo. Fund memo is a simple document that
+explains the strategy, target risk, target return, instruments we're going to be looking into,
+and the various details of the fund, in other words. And if you're interested in looking into
+that and discussing a potential allocation, you just send an email, you receive the information,
+and you can have a chat with me about the fund.
+Okay, great. Alf, when I edit this, I will put up that email address right on the screen.
+Sure.
+Folks will also put it in the link in the description below. Is there any particular
+investor that this fund is the right fit for? I guess, especially do people need to be an
+accredited investor or is this for everybody? No. So how it works is that I'm now in the early
+investor window. So that means that I'm raising early interest, potential early interest for the
+fund. The benefit of being an early investor is that you get referential conditions locked in
+forever. So if you want to be part of this potential preferential window, you should try
+to hurry up because the window is going to close at some point. But to be part of this early window,
+your minimum investment should be $250,000. So less than that cannot be accommodated into this
+early window share class, basically. And it's also due to regulatory reasons. But to make it
+very simple, if you want to try and lock in these early benefits, you need to be investing at least
+$250,000. Later on, there will also be probably lower allocations or share classes accommodating
+for a bit of a lower entry level. But right now it's $250,000. All right. I'm glad we clarified
+that. And I just had to go get a securities license not that long ago. And I'm very fresh
+with all the regulations and restrictions that you're having to navigate putting this fund
+together right there. So I know a lot of these decisions are not yours. It's just the way that
+the regulators force you to do it. All right. Well, look, Alf, as always, phenomenal conversation.
+I could continue discussing all this with you for hours more, but I see it's already gotten dark
+in the Netherlands. That's where you are while we've been talking. I got to let you go have
+dinner with your wife. Real quick, as we wrap up here, I've got a little bit of housekeeping,
+just updates for folks. But then I want to ask you one last question if we can. So I'll give
+you a minute to think about it while I do the housekeeping. And that question is going to be,
+we've been talking all about money and financial topics so far. I want to hear one non-money
+related investment that you think folks should consider integrating into their lives. Right
+before I ask you that, folks, if you'd like to have Alf come back on the program again in the
+not too distant future, especially when he starts seeing some indicators on his screen more vividly
+that the lag effects that we talked about here may indeed be expressing itself and we might be
+getting into some tipping points, either market valuation-wise or economy-wise, please let him
+know you'd like him to come back on the program for that by hitting the like button and then
+clicking on the red subscribe button below, as well as that little bell icon right next to it.
+I can't believe I didn't mention this right at the opening of this discussion, but the Thoughtful
+Money Spring Conference is now less than one week away. It is this coming Saturday. If you have not
+registered for it yet, drop everything you're doing. Go do so now. Go to ThoughtfulMoney.com/Conference.
+Lock in your tickets. It's going to be a phenomenal event. I won't go through the litany of amazing
+speakers that we have for it. It's going to be like eight or nine hours worth,
+but you can get them at the link that I just mentioned. Just a reminder, if you can't watch
+live or you can't watch the whole day live, don't worry because replay videos of the entire event,
+all the presentations, all the live Q&A are going to be sent to everybody within 24 hours
+of its conclusion. Just a reminder, too, in addition to those of you who might be really
+interested in considering Alf's fund, for the rest of your capital, potentially very challenging
+environment heading up here that Alf did a phenomenal job of outlining here for us.
+Most regular people, I think, feel challenged navigating that on their own. They don't feel
+like they've got the experience, the expertise, or just the bandwidth in their life to do it all
+themselves. So for the vast majority of people watching this channel, that's why I recommend
+so strongly that you work under the guidance of a good professional financial advisor.
+If you've got a good one who takes into account all the macro issues that Alf and I have been
+talking about here, great. Stick with them. They are worth their weight in gold, and for all the
+right reasons that Alf mentioned, that gold value is probably going to appreciate going forward and
+so will the value of your good advisor in this type of environment, but there are very few
+people that hit that set of qualifications, but if you got one, stick with them. If you don't
+or you'd like a second opinion from one who does, then consider scheduling a free
+consultation with one of the financial advisors that you see on this channel with me week after
+week. To do that, just go to ThoughtfulMoney.com. Fill out the very short form there. These
+consultations are personalized to you. They don't cost you anything. There's no commitment
+to work with these guys. It's just a free public service they offer to try to help as many people
+as possible positioned as prudently as possible in advance of what might be coming. Alf, thanks for
+your patience. Now we're here at that final question. What is one non-money-related
+investment that you would encourage folks to consider integrating into their lives?
+Communication skills. So if I could walk back and go to 10 years ago and reassign my time
+and efforts, I would spend even more time than I did on my communication skills. That has to do
+with verbal communication, presentation skills, anything that has to do with being able to
+communicate more effectively. It's a superpower, literally, because there are plenty of smart
+people listening to this interview around the world, but the combination of being smart and
+technically good, but also being able to convey your message in a powerful way, it's very rare.
+And the communication skill coupled with good technical skills will supercharge your ability
+to be successful in whatever you do, being an employee at a good company and just going through
+your career or being an entrepreneur. So communication skills is the best investment,
+non-money-related that comes to mind. So I completely agree with that. I think
+that's such a great one. Communication skills are really the transfer mechanism between
+value creation and actual impact. There's an old saying in businesses, 20% getting a great product
+and then 80% getting your product in the hands of your target audience. And I think that's the same
+true on the individual level. If you have a skill set, but you don't know how to communicate to a
+potential client or partner, what you're able to do with that skill set is to communicate
+and they're not going to know, they're not going to be interested. As you said, it is like a
+superpower. And sadly, there are people who are great at communicating who actually may not be
+great value creators, but they put so much sizzle on the stake that they succeed a lot.
+That's true. So I think Jeff Bezos is a great communicator, for example. Most of the success
+of Amazon, I think, is built around his ability to communicate. Think about Steve Jobs as well,
+excellent communicators. There are plenty of books that one can read, especially, they detailed the
+ability of these great communicators. And so they studied their personal experience. And it's
+definitely worth an investment thinking about your own communication skills and working on them.
+Is there a particular book that you'd want to put on people's radar?
+I was trying to remember the title. I'm terrible at it. So next time I'm on the show, I'll make
+sure that I remember the title. But there is one on Jeff Bezos in particular. So if you just type
+Jeff Bezos communication skills book, you'll probably find it that I read a few months ago.
+And of course, I don't remember the title. I'm terrible at titles. I'm sorry.
+No worries. Well, folks, you can go to Google and find it. But anyways, Al,
+I thank you so much. And clearly from this discussion, folks can really tell that you have
+honed your communication skills to a very sharp point. I really love having this conversation
+with you anytime you want to come back on the channel. The floor is available to you,
+but can't thank you enough. And everybody else, thanks so much for watching.

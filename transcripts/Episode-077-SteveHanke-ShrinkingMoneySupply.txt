@@ -1,0 +1,540 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. When I interviewed today's guest expert back in August of 2021, when
+inflation was 5%, he made the bold prediction that the CPI would eventually hit 9%, a prediction that at that time seemed unthinkable, but it
+indeed proved true less than just a year later. He then called for inflation to moderate substantially, which it also then did. So where does he see
+inflation headed from here? To find out, as well as hear his latest outlook on the economy, recession risk, social stability, and the markets, we welcome
+back Steve Hanke, professor of applied economics at the Johns Hopkins University in Baltimore, Maryland. Steve, thanks so much for joining us
+today. Great to be with you, Adam. Always a pleasure, Steve. I know it's a very busy week for you. Thank you for making time for this conversation. Lots to
+get through, especially because you're located there in Baltimore and you just had a pretty serious tragedy happen in your city this week. If we can,
+let's start with the general question I'd like to ask at the beginning of these discussions. What's your current assessment of the global economy
+and financial markets? Things are generally sailing along pretty smoothly. However, I think there are a number of risks that are significant. We have
+two wars going on right now. Obviously, the one's been going on for some time with Russia and Ukraine. And that one doesn't seem to be, even though
+the Russians clearly have the upper hand in the thing, it doesn't seem to be winding down. And also the one in the Middle East with Israel and Gaza is
+not as contained as people like. The narrative coming out of Washington is that it's all contained or Jerusalem, it's all contained. Everything's
+very, very carefully calibrated and so forth. But in fact, things are, shall we say, unsettled in the region itself. So we have those two things. And
+then we have a real confrontation with the US and China. I mean, it's a commercial war that was really articulated and laid out in a long report
+by the Department of Commerce last April. So there's a lot of uncertainty in the picture, although nothing is crashing and burning as we speak.
+Okay, and so that's more sort of the geopolitical global economy side. Just curious about the markets. We just finished a barn burner of a Q1
+valuations, you could say maybe somewhat stretched. What do you think?
+Well, let's come back to the US. The markets have been a barn burner. I think the markets just a little ahead of where it should be, even though
+the PEs, what do we got PE on the S&P around 30. And remember from 1998 to 2000, it went up and peaked out at 55. So you can argue the bullish
+case is it's got a ways to run. But of course, remember after it peaked in 2000, we then had something called a crash. So I think the markets
+pretty pricey, and I'd be very cautious. I'd be more the Warren Buffett kind of mode. Set up a pile of cash and wait until the thing crashes and
+move in then for the picking.
+Okay. All right. Well, look, we'll get more to the market in a bit, but staying on kind of the global trends, because I know you spend a lot of time
+looking at the big macro trends that are driving the action. I'm curious to hear which trends have your attention the most right now. I do know one
+of them is what's happening on the monetary side with countries and specifically, you track the currency purchasing power, or maybe more
+specifically, the destruction of the currency purchasing power in a lot of countries around the world. You talk about a lot of the examples of really
+almost out of control inflation in a lot of countries and just to note a few I've taken from some of your writings. Turkey right now is at 74%
+inflation per year, Argentina inflation doubled during Malay's first month in office, Syria is running at 95% per year, Iran's at 44% per year. It
+seems sort of like currency has gone wild in an increasing number of countries around the world.
+Well, you've got about a dozen that are really in bad shape. You mentioned a few there. The top one actually is Zimbabwe, where the annual
+inflation rate I measure every day, it's about 1200% per year. That's the highest inflation rate in the world. You mentioned Turkey is around 74.
+That one's interesting because let's go through the ones that you talked about for a minute. Turkey, Erdogan obviously was re-elected and
+replaced the governor of the central bank and supposedly adopted orthodoxy. They had a very unorthodox policy at the central bank, which was
+based on Erdogan's ideas and Erdogan, his basic idea was that you have a positive relationship between interest rates and inflation. So if you
+want low inflation, you should impose low interest rates. If you want high inflation, you impose high interest rates. So he had the whole thing
+upside down. He replaced the central bank governor, but they have never been able to get the money supply under control. It's growing at about 65%
+per year in Turkey. So that's way higher than it should be if they wanted to hit any kind of a reasonable level of inflation. So Turkey's got a real
+problem. They've increased their interest rates enormously since a new governor has arrived. Actually, they've had two governors. We had one
+and she resigned in somewhat of a scandal and we now have a new one. This is just since Erdogan was re-elected last year. The key lesson there
+and message is that monetary policy is not about interest rates. It's about changes in the money supply. That's the lesson and that's a lesson we
+learned from Milton Friedman. So that's the key thing. They have increased interest rates dramatically in Turkey, but they have not been able to
+control growth in the money supply and it's the money supply that causes inflation to change. So that's Turkey. Now Argentina, we had Malay was
+elected and went into office in December. Since he went in, he has not delivered on his main campaign promise, which was to replace the peso with
+the US dollar, to dollarize the economy. Right, that would have crushed inflation, Adam, but inflation has actually gone up. The official
+inflation number now is up around 270% per year.
+Alright, and I'm curious, I read some of your reports saying that you had optimistic expectations for Malay and a lot of his reforms, but
+the fact that he dropped the dollarization one is really concerning you. Well, yes, that really is his Achilles heel. I think a fatal mistake
+because the first thing you have to do, if you have a country where you have raging inflation, triple digit inflation, and endemic inflation like
+Argentina, you have to crush the inflation. That gives you credibility and it stabilizes the economy and stability might not be everything,
+Adam, but everything is nothing without stability. So if you crush inflation, you stabilize the situation, then you can take the next step with
+reforms. He got the sequence of things all wrong. He abandoned the idea of getting rid of the central bank, getting rid of the peso,
+replacing the peso with the dollar. He put that on the sideline, on the back burner, and he started throwing in these proposals for rather
+radical reforms, which of course have to eventually be done, but he has virtually no credibility. The inflation got worse, not better.
+So why do you think he did that? Because you're right, it was a huge thing you ran on. I think he had very bad technical advice and the
+technical advice that he'd received from his own people, as well as people like experts from the IMF who, by the way, are against
+dollarization, but they said it wasn't feasible. They advised him you can't do it because the net foreign reserve position at the central
+bank is negative and I analyze the thing very carefully because I know how to do it because I'm speaking as someone who's actually
+dollarized two countries. One was Montenegro in 1999 and the other was Ecuador in 2000-2001. And what you need, Adam, is gross
+reserves that are positive and greater than the value of the notes and coins outstanding because you have to simply swap the foreign
+reserves that you have in your hand with the notes and coins in the domestic currency that you're eliminating, the peso in this case, and
+they had gross reserves that exceeded at any reasonable exchange rate. They could have easily exchanged the gross reserves that they had
+for the peso notes and coins that they had. And I know this as a matter of theory but I also know it as practice because in Ecuador we
+dollarized when we had negative net foreign reserves but we had gross reserves that were greater than the sucre notes and coins that were
+outstanding at the exchange rate that was chosen to do the dollarization with. So it was all feasible. He just had bad advice.
+Okay. Is it too late or is it something that he could do?
+Well, you could do it at any time. I think to pull these chestnuts out of the fire he should do it tomorrow. I mean if he dollarized
+tomorrow within 30 days the inflation rate would be down in single digits.
+Okay, well here's why this matters so much. Steve, I'm just going to pull up here real quick an index that you create. I'm not sure if you
+want a misery index named after yourself but you got one. So I know on your misery index here, Venezuela has
+had the top spot for a long time, but Argentina just pushed it off the number one spot here. So if you're not getting these policies
+right, they've got real impact for the well-being of your citizens, right?
+Absolutely. So I just finished this new misery index and Argentina is the most miserable country in the world. So you say, "Well, how do you
+get the misery index? How do you calculate that?" It's simply the inflation rate plus the unemployment rate multiplied by two plus
+the lending rate minus the GDP per capita, the change in GDP per capita. So you've got three bad things, high inflation, high
+unemployment, and high lending rates, and you've got one good thing in the picture that you subtract out of there, which is the change
+in GDP per capita. As it turns out, that actually doesn't help Argentina because even that's negative. They're in a recession. So that
+isn't a positive number that you're subtracting. You have a negative number so it's not helping you. So everything they have in the misery
+index is bad.
+Alright, so Argentina is really in a world of pain right now. Are you optimistic that even if he doesn't dollarize that Malay's reforms will
+eventually start pulling that misery down or do you fear it's going to get even worse?
+I think if he fails to dollarize, I think he's toast basically. He's not going to be able to get much of anything accomplished.
+There's a big gap between rhetoric, his rhetoric, and the reality on the ground because actually he has a very small faction within the
+Congress in Argentina and the Congress has already pushed back most of the reforms that he's thrown into the hopper. Now, they would not
+be able to do that if he had dollarized and crushed inflation because he would have a lot of credibility, he would have a lot of popular
+support because he crushed the main problem in Argentina, which is inflation. And by the way, in that misery index, there are two things
+that are related to inflation. One directly is the inflation number but the other is the borrowing cost. Borrowing cost or interest rates
+on credit are very related to the rate of increase in the price level or inflation and those two things account for about 95% of the
+misery index number for Argentina. So inflation and very high borrowing costs are basically the whole picture.
+Okay, so I want to scroll down here. So we've got a misery index of almost 322 for Argentina, running all the way down here to the United
+States, which its misery index is only at 16.7%. So you think, okay, we're much better off than the folks are in Argentina, and I think
+largely we are, but the two things you just mentioned, inflation and high cost of debt. We had a lot of people watching this video who's
+saying, "Yeah, my life's gotten a lot worse because of those two things over the past couple years." So even though we're dramatically
+better relatively in misery index score to a place like Argentina, we still feel the effects of those two things pretty strongly.
+Well, that is true. However, the misery index, the US rank, you ran down that -- let me just look at my scoring here. I looked at 157
+countries, and the US is 132. That 16.7 number that you gave, that puts us in there 132, Israel is 133. So we're the 132nd out of 157.
+By the way, the least miserable country is Thailand, that's 157, and then Japan, and then Switzerland, then Qatar, then Malta, then
+China. China's 152. China's doing much better than we are. Their misery index is 9.8. Now, one reason that's so low is that inflation is
+essentially non-existent in China right now. So coming back to the US, by the way, just a remark, because there's a lot in the press
+about this, and that is the misery index score is not all that bad, and things are getting a little bit better. The inflation is coming
+down. Economic growth has been strong, the stock market strong and everything, but people have a very negative view of Bidenomics and the
+performance of President Biden, and I think the reason for that is twofold. One, they look in the rearview mirror and see what things were
+like, maybe three years ago, and they say, "Well, inflation wasn't nearly as bad and the economy was doing good. Unemployment was low."
+Everything was a little better.
+And things cost 25% less.
+Right. Things cost a lot less. The rearview mirror is one thing. The front windshield, looking ahead, is another factor, and they're looking
+ahead and saying, "I'm worried," but some of the risks that we talked about at the opening of the show, what's going on in the geopolitical
+scene with two wars going on, that the US is financing, by the way. The US is financing that war in Ukraine. It's also financing the one in
+Gaza, and then people say, "And what about a recession? Are we really going to keep riding along and sailing along smoothly? Maybe we're
+going to have a recession." I think we're going to have a recession, by the way, and the reason I think we're going to have a recession is
+that we've had a money supply since March of 2022 that's declined, contracted by 4.5%. Now this kind of contraction, we have to go back to
+1929, 1933, Adam, to find a contraction like this, and we only have four contractions since the Federal Reserve was established in 1913 in the
+United States, and every one of those has always been followed by recession. So John Greenwood using the quantity theory of money that allowed us
+to nail the inflation forecast when things went up to 9.1% in 2021. We use that same thing and we see a recession in the cards, and we also see
+inflation, by the way. The good thing, that might be a bad thing, but the good thing is that we anticipate inflation to be around 2% or maybe
+below 2% by the end of this year, the consumer price index. So inflation down, the economy probably dipping into recession later this
+year, because of what? The contraction in the money supply. Remember, changes in the money supply are the key to the whole thing. That's the fuel for
+the economy, the money supply. You got to look at the money supply.
+Alright, so you took this exactly where I wanted to take it. I wanted to get to the quantity theory of money. You walked us through the math of
+that in previous times I've interviewed you, developed by Milton Friedman, or at least championed by Milton Friedman, and like you said, you
+use that to nail the 9% target many, many months before we actually hit it. Like I said, back when you made that 9% prediction when I was
+interviewing you then was unthinkable to many people, but yet it played out like you said the math said it would. So that same math tells you
+that it's going to be below 2% by the end of the year. And because of the importance of contracting money supply that drives that equation, but that
+also drives the economy, and generally as the declining monetary supply leads to declining economic growth, ergo your prediction for a recession.
+Yes, and then we go back to the market. We were talking about the market. I said I thought it was a little bit pricey. I prefer a Warren Buffett
+kind of cautious backing off, piling up cash in anticipation of a slowdown in the economy because once it slows down, earnings slow down, free cash
+flow slows down, and multiples contract, and the market backs off. So that's kind of my general sentiment on the market is it might very well
+continue to go up. Remember I said it went up quite a bit higher than it is right now in terms of PE ratios in 1998 to 2000. But of course,
+we know what happened after that. After the peak of the PE, it came tumbling down. That was really something that was more related, I would say, to
+kind of a bubble type situation.
+It was a mania. It was a psychological mania where folks were chasing all the dot com promise.
+Right. That was a so called dot com bubble. You've got a little bit of this now, by the way. We had the dot com bubble. Now we have kind of an AI
+bubble. AI is going to transform the world. All of a sudden, some people say the potential growth rate in the United States for GDP, now it's about
+2.2% and they say, oh, with AI, it'll jump up to 6% or something. I think they're drinking Kool Aid from Silicon Valley to tell you the truth.
+This is not going to happen. But there is that, as they say now, they don't call it a story, they call it a narrative. That narrative is swirling
+around that we're going to have huge improvements in productivity in the United States and elsewhere because of AI.
+And you know what, maybe we do. A lot of the promise of the dot com story or narrative back then did come to play, did come to fruition over time, but it
+took a long time. And what happened was so much of the future value was pulled into the present during the mania that price was just pulled way too far
+into the future. And so the correction had to happen, but over time, a lot of that promise did get fulfilled. Maybe the same thing will happen with AI,
+who knows, but it just seems like a similar pulling in of tomorrow's value to today is happening right now, and that may have to get bled out.
+Yeah, well, I agree. A little bit over excitement and unrealistic. I mean, you just don't see those kinds of huge jumps and changes in a country's
+potential GDP growth rate. It just doesn't occur.
+Alright, interesting. So because I think you expect GDP to slow from here, given the contraction in the money supply, none of this is personal financial
+advice, but I would expect that you would probably favor bonds right now, at least maybe US Treasuries, because they're paying a lot more than what I think
+you expect inflation to be at the end of the year. A, is that true, and B, might now be a good time to go further out the duration curve to lock in
+today's interest rates if you expect inflation to be that low in a year?
+Well, the answer is yes, your characterization is correct, because interest rates follow inflation. In other words, inflation, wherever inflation
+goes, that leads to changes in the interest rate. So if we go out on the duration, I mean, the key interest rate is a 10 year treasury. So if you go out to the
+10 year, I think that's a pretty safe bet for a trade, not necessarily an investment, not something where you take the 10 year and put it in the safety deposit
+box and forget about it, but as a trade, I think it will be probably a profitable trade because the interest rate will fall as the inflation rate
+continues to fall and goes down to, I think, let's say 2% by the end of the year. If the inflation rate is 2% at the end of the year, believe me, the 10 year
+yield is going to be quite a bit lower than it is now. I mean, it's up above 4%, a tad over 4%. It'll drop down and you'll have a pretty good capital
+gain. So that's how you want to trade. You want to trade it, not invest in it, is what I'm saying.
+Got it. And even if it takes longer than you think for inflation to hit that target, you're still getting paid a positive real return for figuring out
+how the story ends.
+Absolutely. So I think that's a pretty -- the odds are very much in your favor on being along the 10 year right now.
+Okay. Well, since we're talking about inflation and interest rates, what do you expect monetary policy to be for the rest of the year? Do you think
+Powell's going to deliver free interest rate cuts? There's a lot of reasons why it optically might be difficult to do that in the short term just with
+financial conditions as loose as they are, markets at all time highs, unemployment rate still at quite low readings, and even though there's probably a
+lot you and I can talk about, the true health of the employment market might be, or do you think he's eventually going to get the air cover to cut
+because inflation is going to moderate the way that you think?
+Well, if history is a guide, the Fed right now is focused very much on the labor market and what's going on in the labor market. Now, that happens to be a
+lagging indicator. Things happen in the labor market after economic activity starts changing. So if you go into a recession, what happens? You don't lay
+off your people and get rid of them right away. You hold on to them because you've usually invested a lot in their human capital development and so
+forth. You don't like to get rid of labor.
+Right. Sorry to interject, but they always say generals fight the last war. On the labor side, we laid off 40 million people during COVID, and then
+companies had to go back and hire those people back really quickly and realized how painful it was to lay somebody off and then if a scrambler
+bring them back on. So they're remembering the pain of that, which is why they're hoarding talent so much.
+Oh, absolutely. There's no question about it. Let's just walk through this scenario. The Fed is and historically has, in these situations, looked very
+carefully at the labor market, and the labor market won't start really deteriorating seriously until the economy is already tanking. So if we go into
+recession, what's going to happen? The labor market will tank a lot with a big lag relative to what's really going on in the economy and profits and
+everything else. So they'll be late to the game. So I think they will pivot eventually, because if we do go into a recession, which I think we will go into,
+the labor market will eventually start deteriorating, and at that time, the Fed will take action, but it'll all be too late. So as a result of this, you get
+this roller coaster ride up and down, up and down with the Fed. That's the basic problem with the Fed. They're not looking at the right thing. They're
+ignoring changes in the growth rate in the money supply. To hit the inflation target in the United States of 2%, and to keep things on an even keel, the rate of
+growth in the money supply measured by M2 should be about 6% per year, Adam, and now it's about year over year negative 2%.
+2%. So I think I told you this before we hopped on, your outlook for declining inflation because of the contracting money supply and then concerns
+about recession, you're right there with Lacy Hunt. So it's good company to be in there. I also hear you're saying it's not different this time, the script is
+probably going to follow the way that it has in recent history where I think for the past recessions and living memory, like the past four or five, they've all
+been preceded by a rate hike campaign by the Fed, then we plateau for a while, and then we hit recession and then the Fed is cutting desperately, but it's
+because it's behind the curve and it's trying to catch up to what's going on. Sounds like you see something very similar is likely ahead in the future.
+Well, yes. I do and remember again, you're talking about interest rates here, but monetary policy is not about interest rates, it's about changes in the money supply.
+It's focusing on the money supply. So that's another reason why I have a very cautious stance right now and I'm not an enthusiast about the market.
+The market's going up, up, up, and I'm kind of not on that bandwagon.
+Got it. I'm definitely detecting caution from you. So I asked you about monetary policy. Let's go to fiscal policy. So the Fed is actually -- I want to say
+they've been showing restraint because they've hiked interest rates so aggressively and they're doing QT. Now they've been doing other things that provide
+liquidity to the markets, like the drawdown of the reverse repo program and some of the stuff they did with the BTFP, but in parallel, you've had the fiscal
+side of the equation just going full drunken sailor. We've got massive deficits as a percentage of GDP. It's levels we only see during like world wars.
+So what do you expect from the fiscal side going forward, especially in an election year?
+I don't think things are going to change very much.
+And what will that do to the economy? Will it short-term stimulate the economy still?
+No, people are always confused about this. If you look at fiscal policy and monetary policy, monetary dominates
+and it always dominates.
+In your answer, can you address fiscal dominance? Because there are a lot of people that are saying that we're in a period of fiscal dominance,
+which people are thinking, "Okay, that means that fiscal policy is more important."
+Well, there's nothing in the historical record to indicate that that's true, either in the United States or anyplace else.
+And one thing that's tricky about looking at it, to really find unambiguous cases that people can understand,
+you've got to find situations where the fiscal and monetary policies are going in opposite directions,
+and then you can figure out which ones dominating.
+Who wins that tug of war?
+That's the only way to do it without getting out in the weeds with econometric studies and so forth that most people don't understand.
+So when we look at the United States, when did we have a super tight fiscal policy and I wouldn't say it was excessive monetary policy,
+but moderate monetary policy, reasonable monetary policy, they were essentially going in opposite directions.
+It was in the Clinton administration. It was in the 1990s. Clinton, most people don't realize, since World War II,
+Clinton was the most fiscally conservative president in the United States, by far.
+Reagan was, Eisenhower was, but Clinton was really on steroids.
+Remember, the last two years of the Clinton administration, we were actually running surpluses.
+Yeah, we had that blip of a surplus, yeah.
+So you had very tight fiscal policy and the fiscalists would say, "Oh, that's going to drag the economy down.
+It's going to slow things down." On the other hand, Greenspan was the chairman of the Fed and the monetary policy was rolling along.
+It was a pretty steady rate of growth, reasonable, but it was positive and reasonable and what dominated money.
+And if you go to other cases around the world where you get these extremes where the fiscal is going one way and the monetary is going
+another way, the monetary always wins.
+All right, so monetary always wins. Does that mean that what's going on fiscally is kind of irrelevant for the rest of this year?
+Well, it's not irrelevant because if it's out there and you have a big fiscal deficit, it's potentially dangerous because what
+might happen is what happened in 2020-2021 when the Fed was the one buying all the treasuries and monetizing the deficit.
+And when they did that, of course, that increased the rate of growth in the money supply.
+That's why the money supply shot up. In its peak, it was growing about 27% year over year, the money supply, and that's because of why.
+That was because the Fed was buying about 90% of all the treasuries that were being issued with that ballooning deficit that was occurring.
+Right now they're not doing that. As you indicated, they're engaged in quantitative tightening, so they're not buying the treasuries.
+They're running off treasuries off their balance sheet and that's one reason, by the way, that the money supply growth is contracting.
+It's anemic and it's actually below that 6% hanky's golden growth rate that would be consistent with hitting a 2% inflation target.
+It's a negative 2%. It's not a positive 6, but that's because the imperative quantitative tightening.
+So what are the odds of us, if that doesn't change, if we stay at that negative 2%, what are the odds of us actually maybe flipping into
+deflation at some point in 2025 or 2026? Oh, we could in 2025. If the contraction year over year continues at -2% for much longer, we could
+very well see an outright deflation in 2025. And I'm guessing that's why Powell has recently been jawboning about, hey, at the Fed we're
+talking about reducing QT. He hasn't said ending it yet but reducing it because I got to imagine with the reverse repo program being set to
+hit zero, that's kind of been an offset to a lot of QT. Without that, then you really feel the bite of the QT, correct?
+Now you're talking and thinking logically, but the Fed is not logical, Adam. They're not looking at the money supply. You and I are talking
+about the money supply and we're talking about the credit counterparts that explain why the money supply goes up and goes down. That's our
+conversation. But the Fed has been adamant that they don't think there's a reliable linkage between changes in the money supply and changes in
+economic activity or changes in inflation. That is the position of the Fed. So whatever they're looking at, they're data dependent. So they
+basically have their finger in the wind. They're looking at all the data that come out day after day after day and trying to decide what in the
+world to do. And most of the data that come out, they're all lagging indicators. Now the reason that that's dangerous, if you think in terms of
+the quantity theory of money, and I said the fuel for the economy is the money supply. So we get changes in the money supply happening and
+then with long and variable lags, other things happen. Asset prices change. We get changes in economic activity. We get changes in inflation.
+But those come way after the changes in the money supply that have happened. So if you're data dependent, you're looking at data today that has
+been caused to move around because of something that happened a year and a half ago or maybe two years ago or maybe even three years ago.
+All right, so this is obviously why the Fed is chronically behind the curve. You expect them to continue to be behind the curve going forward. So
+you're talking about something that I mentioned on this channel all the time, so I'd love just to clarify your point of view on it. I talk about the lag
+effect and it's a lonely conversation in today's world because the narrative has moved on to it doesn't matter. It's different this time. We had the
+most aggressive hiking regime along with quantitative tightening, and it hasn't mattered, and so it's not going to matter. So forget about hard
+landings. Forget about soft landings. We're going to have a no landing scenario going forward. It sounds to me like you feel like, nope, the lag
+effect is real. Maybe it's been delayed by certain things, rising liquidity, whatever, but it's going to manifest. Is that an accurate summary?
+Yes, it is, and the only thing I would add to the long lag is that we have found that these lags are highly variable too, so it's a very tricky
+thing to get into precise forecasts of what's going to happen because the lags between changes in the money supply and changes in economic
+activity, they're not only long but they're variable. In other words, it's not some off the shelf kind of formula that, oh, the money supply surges
+and we know that in 18 months the economy will surge. It's not like that. Maybe it'll surge in six months. Maybe it'll take two years. Maybe it'll
+take even three years. So you have to be watching everything all the time. It's fine to be watching the data, but you've got to have this lag
+thing in your picture. Otherwise, you're just going to be looking at noise, basically. If you don't look at the source of what's changing these data day
+to day, which always goes back to the fuel, the fuel for the economy is money.
+Alright, and when did the money supply start tipping negative?
+I will tell you exactly. The year-over-year number started tipping in December of 2022. It was slowing down big time before that, but the
+year-over-year number went negative in December 2022, and if we look at the three-month annualized rate, that went negative in June of 2022.
+Okay, so it sounds like what you're saying is the big lag effect to try to figure out here is the lag effect from when money supply started to
+shrink. And it's been shrinking now for a year and a half on a year-over-year basis. So in other words, it's not a blip we have to worry about in
+the data series. It's an ongoing trend. So at some point, that lag effect will catch up with us, and presumably the longer that the money supply
+continues to contract, the bigger whatever that lag effect from it's going to be whenever it arrives is going to last for a long time.
+Right, and now you've set this thing up beautifully the way you've explained it. It's very clear. The one thing in the picture, remember, that in
+2020, early 2021, we got a huge explosion in the money supply, and that puts, shall we say, a lot of excess cash balances in the system, and that
+has only now been drained out of the system. The excess cash balances, that would be M2 divided by GDP. That's the cash balances. So that's been
+drained out. That's come down to about the trend rate right now, and what that means is it pushes the lag out. If that big balloon of excess
+cash money hadn't been in the system, we probably would be in the tank right now.
+So Steve, I've used this analogy so much on this channel that folks are sick of it, which is that all that stimulus you're talking about, that's the pig in
+the Python. We shoved this massive pig into the Python. It's taken a long time to get through it. What you're saying now is making me think of
+another analogy, which is after the Python swallowed the pig, somebody put a grenade in its mouth. So we have to wait for the pig to get through
+the Python, which is almost done, but at some point that grenade is coming through the Python and is eventually going to go off and that's going
+to be the period of whatever negative stimulus is, this shortfall.
+Instead of the grenade analogy, you could say with the negative, the pig has gone out and now you also have leakage in the system.
+Or maybe not a grenade. The body fluids in the Python are leaking away. Or it's going to say maybe instead of a grenade, they put a big pill of a
+Zempic in the Python and so it's now going to get a lot skinnier. Yeah, right. That's exactly what's happening. It's going to get a lot skinnier and we can anticipate
+seeing this on the scene, I think, the second half of this year. It's going to start showing up. You can see it now if you slice and dice
+everything. There's kind of a little weakness showing up here and there, but you'll start seeing it to be more pronounced a little bit later this year.
+Last point on this and then we'll start wrapping it up. Given the size of this Zempic pill, which is not a tiny pill, it's a decent size one because you
+said the money supply has been contracting now for a year and a half and it's still ongoing. Does that mean if we start seeing the impact of the lag
+effects from this, say, by the end of the year, second half of the year, whatever, do you expect a prolonged period of us having to deal with this?
+So maybe does 2025 kind of look like prolonged recession? Well, it obviously depends on what the Fed does from now through the end of the year
+because, again, with the lag in 2025, what happens in 2024 is relevant. What happens to the money supply? It depends on what's going on in the money
+supply and we don't know. Are they going to stop QT? Is something going to happen that actually causes them to ease up?
+No. It doesn't look like that. It doesn't look like it at least until June that they're going to do anything. Right. If you look at the federal funds
+futures market, the Chicago Mercantile Exchange, they have the first reduction in Fed funds and let's say loosening up coming in June.
+Right. A modest amount. Not a radical change, but just the market is pricing in a modest loosening up starting early in the summer.
+Right. And of course, the market's been wrong for a year, over a year, in terms of what the Fed's going to do. It was always pricing in a pivot
+earlier this year. It was pricing in seven rate cuts this year. Oh yeah, but they listen to Paul and if you listen to him and you're data dependent
+like the markets, you change your perspective on where you think the Fed's going to be going.
+Alright, so let me put it this way. Unless the Fed takes somewhat drastic action this year, it seems like you think 2025 is going to be a rough
+year economically. Yes. Okay. Alright, so in just wrapping it up here, Steve, we talked about a lot of the challenges, a lot of things not being
+done right from a policy standpoint, a lot of the problems we have. I actually didn't even get to this point, but I'm going to just mention it.
+The US Congressional Budget Office's latest long term predictions indicate that by 2044, interest costs will be greater than all discretionary
+government spending combined. We've got a massive debt problem in this country that seems to only be getting worse. That's a whole probably other
+discussion for us, but the concluding question I want to ask you on this general topic is if I made you king hanky, emperor hanky, what reforms
+would you prioritize right now? Oh, it does get into this budget because what you just said is that the Congressional Budget Office is saying
+that there's a fundamental structural problem with the public finances in the United States, and either you change the structure and you cap
+government spending in some way or we're going to have to increase taxes tremendously to pay for this. One of the two, and I'm for a debt break,
+a Swiss style debt break, and the Swiss put in a debt break, they made a constitutional change after having a referendum, and the debt break basically
+says that the government spending in Switzerland can't go up any faster than the rate of real GDP growth. So the government can't crowd out the
+private sector, and they must in the intermediate period, one, two, three years, actually two, three, something like that, balance the budget.
+That's the Swiss debt break. Now the only way you can do that in the United States is to have a constitutional amendment, and that means you have to
+invoke article five of the Constitution, which I'm for, and having a constitutional convention to look specifically and narrowly at the fiscal
+situation, and the idea of putting some kind of debt break in that would restructure the government's finances. It would make the structural
+change that you would have to have to control things, and if you don't do that, we're going to be in for very heavy taxes.
+Alright, so I think what would happen there is it would constrain economic growth. The economy may not grow as much because it's not being debt
+fueled, but the better part of that story is we wouldn't get into all the solvency issues that would then require all those drastic measures
+you're talking about. I love that idea. I think the odds of it being enacted are very low, at least proactively by today's politicians.
+Statutorily, you could have -- let's look at the two options. One is to do this with statutes, and those have always failed. Every time we've had a
+statute, Graham Rudman, for example, that worked for a couple years. It was kind of like a Band-Aid, but the statutory changes on the
+fiscal front do not work. You've got to do a constitutional change, not a statutory, and the constitutional requires a constitutional
+convention under article five, and I'm on the board, actually, of an organization that is pushing this and moving it forward, and we
+might very well, I hope, have a constitutional convention on this topic, and that would change the structure on the fiscal front and cap
+things and save us from what will be essentially punishing taxes, either inflation taxes or real out-of-the-pocket type taxes, one of the
+two. You're going to get taxed one way or another, either with an inflation tax or paying Uncle Sam every April a larger chunk than
+you've been paying in the past.
+Well, Godspeed to you on that, Steve, and I think I speak for the vast majority, if not all the people watching this video, and if there's any way
+that my viewers can help or support or participate in that, please let them know how to do so. On that note, too, Steve, as we wrap things up
+here, for folks that have really enjoyed this conversation and would like to follow you in your work, where should they go?
+They can follow me on Twitter, just @steve_hanky, and right now I'm rated the third most influential economist in the world with this
+Twitter following.
+Third most influential, but number one in our hearts, Steve.
+Yeah, well, absolutely, and the other way, of course, just write me an email, hanky@jhu.edu, and I'll put you on my regular distribution
+list or if you have some question, I'll try to answer it.
+You're very courageous to share your email publicly. Thanks for that, and Steve, for better or worse, when I edit this, I will put up the
+links to your Twitter handle and your email there. Expect your email inbox to explode. Folks, I'll have links to those in the description
+below the video here. Alright, Steve, in the last minute we have here, just in wrapping up, we've been talking about sort of financially
+related money-related issues, this whole conversation. What's one non-money-related investment of time, energy, focus, whatever you would
+encourage people to consider adopting in their lives?
+Well, speaking as a man, I think the critical thing is that choice you make when you decide to marry someone, and fortunately I made the right one.
+That is a great answer. I'm shocked that actually I've had a lot of people mention sort of relationships and whatnot, but choice of
+life partner has not come up yet, and I think that's a phenomenal answer. My wife is a marriage family therapist, so I kind of almost
+have to say that as her spouse, and having married a great spouse, I totally agree with you. And of course, there's everything from
+personal happiness and whatnot for making the right choice, but even just the dollars and cents of it, I think the data is really clear
+that one of the better catalysts you can have in your life for financial well-being is actually having a good supportive spouse, correct?
+Absolutely. There's no question about it. In my case, Mrs. Hanke and I collaborated across the board on everything, including, by the way,
+what we're talking about, political economy, especially the geopolitical aspects of the thing. She comes in heavy duty. At one point in
+her life, she was a professor also at Johns Hopkins, teaching at Johns Hopkins, literary criticism. Since then, she's made a switch over
+into geopolitics. Well, you are a wealthy man in many different ways, Steve. Great answer. Thank you so much for coming on the program.
+I really appreciate it. Look forward to having you back on later this year, anytime you want to come on, especially if something on the
+dashboard that you monitor really starts flashing in a way you want to get out in the world, but can't thank you enough. It's been such a
+pleasure to have you back on. Well, thanks for having me, Adam. Good to be with you again. Thank you.
+All right. Well, now's the time of the program where we bring in the lead partners from New Harbor Financial, one of the financial advisors
+endorsed by thoughtful money to come on. We'll react quickly to the great discussion we just had there with Steve, but they'll also tell us
+what's been on their radar over the past week as we've just finished up this barn burner of a Q1. I'm joined as usual by lead partners,
+John Lodra and Mike Preston. Guys, thanks so much for joining. Mike, what do you have to think about the conversation there with Steve?
+Hey, Adam. It was a great talk with Steve. Steve basically started off the talk. He asked him what he thought about the global financial
+markets. He said, "Well, we're sailing pretty smoothly right now, but we've got two wars going on and a lot of uncertainty, and we have
+the market at a very pricey level." He said we were at a price-to-earnings ratio of 30. I'm not sure exactly which price-to-earnings ratio he
+was using, but that's in the ballpark, depending upon which way you look at it. The Shiller price-earnings ratio is even higher up in
+the mid to high 30s. If you look at the price-earnings ratio on a 10-year smooth basis, like the Shiller PE ratio, it's a lot more
+reliable. It shows that we're at nosebleed levels. We've never been here except for at the very top in 1999 and 2000 and 1929. He
+said right about at that point in the talk that he likes to sit in cash and wait for the crash. I like how that rhymed. That's not what
+we're doing exactly here at New Harbor, but we're doing some of that in that we have a little over 40% cash equivalent still. We've
+made a lot of changes in our portfolio the last couple of months, which we'll talk about probably later in this talk. When Steve
+said sit in cash and wait for the crash, like Warren Buffett does, and Warren Buffett, by the way, has something like it's either
+180 billion or 280 billion in cash. I can't remember which it was, but it's a record high for Berkshire Hathaway too. Professional
+investors are seeing this. He talked about the money supply. I think he said, Milton Friedman said, "Inflation is a money
+supply situation." If you can enable sharing, Adam, I'm just going to share a chart of the money supply. He said the money
+supply peaked in 2022 and it's been trending down. That indeed is true, but it hasn't really been much of a move. I'm just
+going to show it here quickly if I can. This is the St. Louis Fed website. For the people that don't know, you can go here to
+fred.stlouisfed.org. There's a whole bunch of different charts here put out by the Federal Reserve themselves. But M2 money
+supply went from around 15, 16 trillion. That was right as COVID started. We went from 15 to 20 or even higher, maybe 14 to
+21. The money supply exploded by 50% in one year during COVID. That's another way of saying that one out of every $3 in
+existence during that time was created in that year, which is pretty crazy.
+And sorry to interrupt, but because of the quantity formula of money, that's why Steve was so confident in making that 9%
+inflation prediction call way back when because he saw that surge in the money supply and just put that into the equation
+and said, "Oh, because of money supply increased by this much, inflation is going to have to increase by that much."
+It was insane. Obviously, we had inflation. Inflation went right to 9% and I bonds were paying 9%. It felt like that was
+going to last forever. Well, we've actually trended down pretty smoothly into the maybe 4% range or so. But Steve said we
+peaked in 22 in the money supply. He's right. We did right here. But you really have to kind of squint to see the
+reduction. So I'm not sure that I see or that I'm as confident as he is, but he's obviously the expert in this
+field and I'm not, but it's not really a big drop after what we've seen here. So we'll see if that actually does feed
+through and creates a recession. He thinks that we're going to see a recession next year. I heard him say at the end of
+the talk, unless the Fed does something big, but he thinks they're going to be late. And we agree, they're probably
+going to be late to the party, they're going to wait for some kind of crash or big drop in the market, and then
+they're going to do something. Even though the dot plot shows some minor changes this year, maybe as many as three
+interest rate cuts, I think they're going to be very, very slow. And, you know, the markets anticipating them
+already, there's certainly not going to be large resounding rate cuts that one would expect to see in response to a
+panic. So again, he reiterated the changes in money supply are the key to everything. We'll see. And he said the 10
+year yield, he thinks he's going to have to be under pressure, particularly if we have this recession, and the Fed has
+to respond, even if it's late to the game, even if they've got to respond to the 10 year yield should go down. And he
+thinks that buying 10 year bonds here makes a lot of sense. We agree. It may take a while to respond, because in
+investments like TLT is still hanging around in the mid 90s, and the 10 year yield is still at around 4.2. But the 10
+year yield should go down towards 3% again, when the Fed reacts and when we have some kind of big downturn in the
+market. So we agree that being invested in long term bonds, he said the 10 year but even longer bonds can make a lot of
+sense. So I think I'll stop there and take a pause and give John a chance to say something.
+John, we'll come to you in just one sec. One thing I just want to note is of the topics, there's a whole slew of experts
+that come on this channel every week, right? And they all have different viewpoints of different outlooks. I would say
+the majority of them are concerned about overstretched market valuations are concerned about things like the lag
+effects and eventually the economy slowing down and recession being in the mix somewhere in the future. But I would say
+that one of the things that I see the greatest disagreement on amongst the folks that I talked to is inflation. I've
+definitely got a fair amount of people and they're like, hey, it's going to be just inflation is going to be secularly
+higher going forward, interest rates are going to be higher going forward than we've been used to. I had some on last
+week, delivering that message. And then we have folks like Steve Henke, or Lacey Hunt, or Stephanie Pomboy, or whatnot,
+who are saying, look, no, we think that disinflation and really deep, eventually deflation is the bigger thing to worry
+about. Lacey, if you watched his keynote presentation from the recent spring conference we just did two weeks ago, he
+walked through a zillion charts explaining this in great depth, going into the money, the shrinking money supply and all that
+stuff. So it's going to be really interesting. That's one where it seems like there's going to be real winners on the side of
+that bet and real losers on the side of that bet. And according to Steve, we're not going to have too much longer to wait to
+find out. By the end of this year, it really should be pretty clear who's won that bet. So anyway, it's going to be
+interesting. John, let me hand it over to you. Anything you want to add to what Mike just said there?
+Yeah, sure. I too really enjoyed Steve's comments. He's a very astute analyst and I like his style. I actually had a chart handy.
+I was given the privilege to be a guest speaker at a Bentley University class last week, I think it was. Mostly seniors,
+college seniors. So it was really exciting thing for me. I got to do a little bit of an Adam Taggart educational give back to
+the world kind of thing. So it was really a much smaller scale. It's probably 30 people in the class.
+It's okay. I'm sure you sounded a lot smarter.
+I don't know about that. But it was great because I was able to bring some of these charts that we oftentimes obsess over
+into the classroom of the next generation. And I actually had one on Steve talked about the money supply as a percent of
+GDP as kind of a key thing. Mike just brought up the M2 chart, which is shocking in its own right. In some ways, it's more
+shocking if you look at it on the metric that Steve talked about. So I'll just share that. Again, I had this chart from that
+talk I gave. And as sharp as the rise that Mike showed on a percentage of GDP basis, it was actually quite a bit more
+shocking. I mean, that is like as vertical as you can get. Now, the pullback, Steve's talked about the drain of money
+supply as money M2 over GDP. It has been a little bit more pronounced on that basis as compared to if you look at just GDP.
+But I want to just kind of have that chart in handy. That is pretty dramatic. You look at this chart goes back to the '60s.
+You know, range bound there, you know, '50s, maybe '55, '60%. There's late '90s, it got pretty low. But look at over the last
+in response to the great financial crisis and then COVID. I mean, it's just off the charts absurd compared to what history
+would have talked about. Just a couple other charts, maybe I'll just throw in that I had handy. He talked about if he was king,
+he would institute a rule like I think he said Switzerland put in place that debt can't grow faster than GDP. Well, this is
+what our debt to GDP chart looks like here in the US. You know, we've crossed that over and it's been accelerating. Now, if you
+look at a percentage basis, yeah, the rate has maybe declined recently, but look at that little uptick there. So I would vote for
+him as king if that was the one pillar of things to consider.
+Me too. And John, go back and pull up the debt to GDP chart there. Just the absolute value of both. So this is the absolute value of both
+of those numbers, right? So the debt is now bigger than GDP. But if this were a map of the growth rates of debt versus GDP, debts been
+growing faster than GDP since pretty much the mid 70s. And that's basically this chart. Anytime the slope here is increasing,
+that's basically saying the debt is growing faster. Yeah, you're absolutely right. That's a pretty upward sloping line with a couple of
+pretty pauses. Yeah, but it just means for, and it looks like it's really the early 80s is when it really started taking off. But for most
+people who are watching this video, it's been the entirety of their adult life. So what we think of as normal is this period of debts
+growing faster than our national debt growing faster than our income, which is essentially if you're a household that's like growing
+your debts faster than your household income, which is, yeah, it feels great. You feel wealthier because you've got money to spend,
+but there's a piper to be paid at some point in the future. That you point out, yeah, the debt did start taking off in the 80s. That's also
+when a 40-year decline in interest rates started. So the ability to take on more debt had this huge tailwind. Are we going to have
+another 40-year tailwind of declining interest rates from where we are now? I don't think so, at least certainly not to the same degree.
+So we're in a brand new environment. And one of the other things I had to inform the Bentley students about is I told them to look at their
+pay stubs. I put up a screen of a mock pay stub and it said, what are these FICA things? And I showed that and I said, this is you paying your
+share of government programs. And oh, by the way, this next slide is right off of the social security website that 2034, the fund is going to be
+unable to pay full promises. So yeah, we've got some things we're running towards here that can be kicked down the road decades like it was before.
+So I'm curious, John, how you do this, because I have to speak to lots of audiences on this stuff. And you want to make the audience aware of the
+reality of the situation and talking to younger audiences, it's even more important for them to become aware because they're the ones that are
+going to have to live the longest in this future that's coming. And you can make the biggest differences in their lives if they make good
+changes now. But how do you have that conversation without just crushing their optimism for their future?
+Yeah, I was very concerned about that. I kind of put it in the context of this isn't going to fix itself. Your generation has a lot of power
+here, especially when you think about voting. And I told them that politicians aren't leaders, they're followers, you just got to make them
+follow you. And the only way you do that is by demanding more. You can't be passive in the arena when it comes to politics. You got to vote is a
+simple thing. Even if you think it doesn't matter, if you take that attitude, you're going to have a lifestyle of thinking things don't matter.
+You got to do those little things like voting, if you're going to do the big things right. So yeah, it was a tricky message. But look, we all
+deserve truth and especially our young folks. Yeah, you have to have it. You don't do anybody any favors by sugarcoating it. I always just find
+it is a challenging art to be able to be honest, to hold their attention and to not just completely demoralize them. And I'm not saying I'm
+perfect at it. So I'm just curious how you feel to that. All right, well, look, in the remaining few minutes, we have your guys. So we just
+finished a Q1 where pretty much everything went up. The dollar went up, gold went up. Maybe bond prices didn't go up so much, but bond yields
+went up a bit. The S&P went up by a lot. The Nasdaq went up by a lot. The Russell 2000 went up by a lot. Bitcoin went up by a lot. Kind of
+everything we can think of practically has gone up. So from the casual observers perspective, what's there to worry about? This is like
+best environment ever. Strong GDP growth, low unemployment, easy to make money in the markets. I want to give you guys a chance to react in
+any way to that as capital managers right now, because my sense is you're not taking the current market environment as a signal to go whole hog
+and go long everything. Mike, let's go to you.
+No, absolutely not. I mean, you're right. Everything is up. Everything's at all-time highs. It's pretty surreal, actually. The market's been up,
+I don't know, 15, 16 or 17 weeks out of the last 18 or it's been down maybe one or two weeks. It's been a relentless up move, but it has been
+persistent and relentless. And we can't deny the indicators that continually point upwards. And the problem is it's like
+a pressure cooker just continues to build pressure and pressure and pressure. And that pressure is up for now, but it becomes ever more
+unpredictable as the trend continues. And that's what's tough for individual investors. And that's what's tough for us. We're using our
+tools the best we can to participate and have good risk controls on board. We're somewhere around the low 40s, 40 something
+percent, depending upon the account. Exposed to equities, we've got some really good tight hedges on board. We have the had the
+ability to adjust those hedges. Just yesterday or the day before we adjusted one of our hedges on the S&P. We had moved
+previously from 4,500 to 4,700 on the S&P. We just moved it up further to the to the 4,900 level. So as the market goes up, we keep
+moving that floor up little by little, because it costs us less and less to do so as that market goes up. But the S&P
+finished the first quarter up 10%, huge up quarter. And I just read somewhere, something like 94% of the time, when the
+first quarter is up, then the S&P is up for the year. I don't think you can rely on those things, particularly not in an
+election year. But it was a really strong quarter. And it's been straight up since October of last year. But you know what
+else is at an all time high? Gold. Gold is up 8% roughly for the year to date. And it's got a massive breakout on a long
+term chart that we've been talking about so often here. Bitcoin is at an all time high. Everything's on an all time high,
+real estate, everything across the board. So pretty frustrating as a money manager, and as an individual investor, but we
+have a system. And we do have exposure in the 40s, like I said.
+Yeah. Sorry to interrupt you there, but just to help you explain the cognitive dissonance that might be in some
+viewers minds, where you're saying everything's at an all time high that's frustrating as a money manager. I think a lot
+of people be like, what do you mean? You should be like partying.
+The reason is we don't have a static allocation. If we just put people in the market and let it sit there over time, it
+would feel great right now. And maybe we'd be a little nervous as it keeps going up. But we know it's not real. We know
+that a good part of what we're seeing here is not going to stay. It's an illusion, so to speak. And this market can and
+will turn and probably wipe away many years of gains. It's happened twice already in my career. It's happened twice
+already in the last 25 years. The tech crash, the housing crash, this one should be bigger if it ever happens, if it's
+ever allowed to happen. So that's why it's frustrating. Those that know the truth, that can see the data, that are
+trying to educate people are frustrated because we're trying to get a little bit of gain, and we are, but we don't want
+to give up that much if we crash from here. We have to accept something, a few percent of the downside. But for the most
+part, we're trying to get some very conservative gains and give up very little on the term.
+All right. And again, we've talked a lot in the past about your risk management tools, so we won't go into them in detail
+now. But you talked a bit about how you keep erasing the hedges that you have on your portfolios as the market goes up,
+which is what gives you the ability to sleep at night while you're along in this market, where if there's a big
+downdraft that comes out of the blue, like you fear could happen at some point, you've got the insurance in place, you've
+got that safety net in place to minimize your downside risk. John, I'm coming to you here. I just want to give you one thing
+to react to, which is, I talked to a lot of people. I've been doing this now for three years. And nobody has a crystal
+ball. So a lot of people have outlooks that have not panned out exactly the way they thought they would. And that's more
+than norm, because the future is unknowable. But I do like to shine a light where somebody really nailed a prediction. And I
+talk about like how Darius Dale coming into Q4, coming into Q1 said his model was the most bullish he'd ever seen it that
+thought Q1 was going to be great. Well, Q1 turned out to be great. So I like to give Darius props for that. Steve really
+nailed that 9% inflation prediction at a time where it was, like I said, really hard to believe. And he did it with math,
+right? He's an economist, and he pulled up the quantity theory money, and he walked us all through the why and how of each of
+the inputs and said, hey, since money supplies increased by this much, inflation is going to have to increase by this much
+going forward. And the formula was right. So I think you have to take with a lot of respect, the prediction of that same
+formula going forward now that money supply is shrinking, right? And if so, then, you know, Steve says, look, unless the Fed
+goes bananas quickly on the rescue side of things, we're highly likely going to have some sort of contraction in the
+economy, you know, probably as soon as the end of this year, early next year. So, you know, how do you guys take that into account
+in your management strategy for your client's wealth going forward?
+Well, one thing we can say with 100% confidence is that in the short term, the market can and oftentimes will do things that are
+completely at odds with what the fundamentals should say, will be candid, we're more invested in stocks right now than from a
+fundamental standpoint, we would otherwise want to be. And why is that? Because many of the technical indicators that we
+follow, which technical indicators are more or less a kind of code word for psychology and investor psychology behavior,
+whether it makes sense or not, sometimes it's downright insane. So some of the data that you know, folks like
+Steve pointed to, you know, really, for us set the backdrop for what kind of risk controls makes sense to have, even if in the
+short term, we may be positioning in ways that we think are at odds with the bigger picture fundamentals. So for example, just
+late last week, we added a slice of a position long equities in the Russell 2000. It's an index that has lagged, but there was a
+pretty, pretty convincing breakout there and again, relative strength and things like that. But we did so with very tight
+hedges. We did a collar position that over 50 days, it has a 50 day life has upside potential of about 4%, with a downside
+risk of no more than 3%. Right? So very contained risk. We think in the short term, given some of the technicals, we're
+likely to see more upside than downside. But if we get completely wrong there, first of all, our position size is very
+small, but we've we've got these code options that we fully paid for and then some by taking in premium by selling the call.
+So we feel very comfortable straddling that line. But make no mistake about it, we wouldn't have been comfortable adding a
+bigger position or one without the belt suspenders that we've had. So yeah, I mean, kudos. I mean, it's Steve, Steve certainly
+was a lonely. He was making that call at a time when everybody that had a pulpit was saying this is transitory, the Fed
+included. And yeah, it came back to you can't just do these things without at some point having consequence. They're not
+perfect indicators. He himself pointed out that the lag effects are oftentimes long and variable, but they're still there. And
+you have to be cognizant of that and understand that you can't be perfect. But the consequences of being imperfect and on the
+wrong side of things are far greater than being imperfect and on the right side of things in the big picture.
+All right. Well said. All right. Well, look, we'll have to start wrapping it up here, guys. Folks watching a couple of quick things.
+One, if you enjoyed the conversation here with Steve would like for Steve to come back on the program, please let him know that by
+hitting the like button, then clicking on the red subscribe button below, as well as that little bell icon right next to it. And as I
+think, Steve, but certainly John and Mike have really been emphasizing here, it's a tricky time, especially for the average
+investor who's just trying to make sense of what's going to happen next in these markets. And you've got the current FOMO raging
+mania that's going on, but also the very sobering warnings that Steve for sure is ringing. Of course, a lot of other folks on this
+channel are ringing similar versions of it. And most people, you've got real lives, families, jobs, and stuff to focus on, and whatever
+happens, you just don't want to become collateral damage to it. So I highly recommend that the vast majority of people who are watching
+this shouldn't go it along and just try to sort of figure it out, groping in the dark. You should be working under the guidance of a good
+professional financial advisor who takes into account all the issues that Steve and I talked about that John and Mike have mentioned
+here, and then puts together a personalized strategy for you and then executes it for you. If you've got a good one who's doing that, great,
+you should stick with them. But if you don't, or you'd like a second opinion from one who does, maybe even John and Mike and their team
+here from New Harbor Financial, then consider scheduling a free consultation with one of the financial advisors that Thoughtful Money
+endorses. To do that, just go to ThoughtfulMoney.com, fill out the short form there, only takes a couple of seconds. You then get a fully
+personalized bespoke consultation with the advisor that you get matched with or that you indicate you want to talk to. These consultations
+are totally free. There's no commitment to work with these guys. It's just a free public service they offer to help as many people as possible,
+positioned as prudently as possible today for what might be coming down the road. John and Mike, thanks so much again, guys, for hanging with me
+for yet another week. Maybe next week we can do, if gold continues its breakout here, as you've been predicting for a long time, guys,
+especially you, Mike, maybe we can do a deeper dive into that and the miners specifically, because it looks like that complex, which has been
+much hated for very long, may be showing some signs of life right now. But we'll save that for next week. Guys, look forward to whatever happens
+between now and then, you guys making it sense for everybody here and everybody else who's been watching. Thanks so much for watching.
+And thank you, Adam. We'll see you next week.
+Thank you again, Adam. See you soon.

@@ -1,0 +1,759 @@
+Welcome to Thoughtful Money. I'm its founder and your host, Adam Taggart. When today's guest was on this channel back in December, he explained
+that rising net liquidity was responsible for the surprisingly strong performance seen in both the economy and the financial markets in 2023, and he predicted that these net
+liquidity inflows would continue, leading to even higher prices ahead. Well, here in the final month of Q1 2024, things have so far pretty much played out according to a script.
+So where does he see liquidity heading for the rest of the year? To find out, we're going to have another very important conversation today with Michael Howell,
+founder and CEO of Cross Border Capital. Michael, thanks so much for coming on the program today, all the way from London.
+Yep, great, Adam. Very good to be here.
+Hey, it's always a pleasure to interview you. As I said in the intro here, particularly interesting time to interview you here because from your last appearance here,
+you've been bang on in terms of what's been happening. So I want to get into your latest outlook on liquidity, obviously, because that seems to be the horse driving the cart
+here so far. Lots of questions around that, but before we get to them, I'd like to just kick us off with a general question I'd like to ask you at the start of these
+discussions. Michael, what's your current assessment of the global economy and financial markets?
+Well, I think broadly constructive. I think the background is that liquidity, which in my take drives most things, is in an upward cycle and that cycle bottomed
+in October of '22, pretty much coincident with the British gilt crisis. The upturn was reinforced by the SBB failure in the US, the Silicon Valley Bank, etc.
+Liquidity has been coming into markets over the course of the last 15 months. That's beginning to now spill over into real economies. Real economies are getting a bid,
+they're getting traction. And I would suspect that what we're looking at is a peak in the cycle in the liquidity cycle, at least sometime around the end of 2025,
+which means that the world economy should have a better second half of '24 and growth should be picking up through next year, too. It may not be as rapid as we
+thought it would have been in the past, but I think the inflection is in.
+Okay, so basically what I hear you saying is that the party that is underway is still pretty much in the early hours of the party. It's got real room to run
+here pretty much through the end of 2025. Am I hearing you correctly?
+I think absolutely. I mean, the fact is that the backdrop of sluggish economies, let's put it that way, and policymakers that probably want to stimulate
+growth is the best outlook one can imagine for financial markets. This is the ideal spot.
+Okay, so you're in London here. We just had, I think, two economies in London just technically go into recession, UK and Germany, I believe. So I assume
+you think that will those be relatively short lived here then as economic growth gets juiced by this rising net liquidity?
+Yeah, I guess. I mean, at the end of the day, what really matters in the world economy is not so much some of these smaller European economies. I mean,
+clearly, Germany is an important engine. But we've really got to start looking at what's happening in the US and maybe more particularly what's
+happening in China and Asia. And I think you've just got to look around and look at some of the data that's coming in. The US economy looks pretty
+robust to me. I mean, one can sort of, you know, play around with the numbers and get, you know, different takes. But I think broadly speaking, you're
+looking at a robust economy. And if you look at China, there's every indication that the Chinese economy is beginning gradually to lift out this sort of
+the doldrums that it's been in for most of the last 18 months, two years, it may not be as rapid a growth as we saw, you know, ahead of the COVID
+crisis, but growth is growth and it looks like it's picking up. You look at, you know, Pacific Asia Pacific trade volumes, that's certainly beginning to
+accelerate. I believe I'm right in saying the report of LA reported in January, a record month.
+Okay, so we'll get to markets in a bit. But just high level, liquidity, rising liquidity helps asset prices as well. And we saw the markets, their
+bottom was in October 2022, as well, and they've pretty much just had a great ride since then. It's actually kind of been picking up steam as
+we've turned into the new year here. Do you see that more or less being the continued trend from here? Or is there a danger that the market can get
+ahead of itself, and price too much of this rising liquidity and too fast?
+Sure. I mean, there's always like, basically, should people say, oh, liquidity is rising, stocks are going to rise? Or would you say it's a little more
+nuanced than that?
+Well, it always is a little bit more nuanced. I mean, that that's for sure. But I think the broad, the broad idea is, is there that, you know, we're in a
+bull market, bull markets, you know, last what, on average, about two to three years, this one has been running for about 15 months, 16 months or so.
+Generally, if you look at the math of this, what you'd find taking the S&P as a benchmark for an average cycle, you should have seen by now about 60%
+two thirds of the normal gains in a bull market. So let's not get carried away here. We're not going to double again from here easily. It's quite
+possible that markets are going to get some decent returns over the next 12, 18 months. But it's going to be more difficult than it was in the last, you
+know, 18 months, that's for sure. Now, I think one's got to as well look at rotation markets, you know, never stand still the same sectors don't always
+lead. I think what we've got to expect now is that the rally starts to broaden out. That's what one would expect. It's likely to move into more
+traditional cyclical areas. Technology may continue to be a runner. But, you know, technology is always an early cycle mover. You know, Bitcoin and
+cryptocurrencies have clearly got the bit at the moment, they're very, very liquidity sensitive. And any inflections you get in in liquidity, even in the
+short term, could cause a nasty air pocket there. The concern that I've got in the very short term, let's say for Q2, is that it's a very difficult
+quarter for the Federal Reserve and the US Treasury to negotiate. Now, the reason for that is you've got a number of cross currents coming in. Now
+without being too wonkish or technical, let me just cite a couple of those. One is the bank term funding programme that was put in place after the SVB
+crisis is terminating as of the middle of March in the next few days. Banks will have access to that for a year up to the termination date. But
+essentially, what you see now is pretty much what you're going to get, I would imagine. So there's not going to be any great impetus coming
+through on that score. What the Federal Reserve is trying to do is to steer banks more and more to the discount window as a source of emergency
+funding. So clearly, that's an uncertainty we've got to we've got to think about. The second thing that is upcoming is what's happening to
+something called the reverse repo programme. That was something that was put in place after the COVID crisis. It was basically a way of, if
+you like, substituting for what were then Treasury bills in short supply. A lot of market participants wanted short term access to high quality
+paper. And without, you know, if they were going into the banking system, they were forcing rates below where the Fed wanted. So the Fed
+basically introduced these reverse repos, they have been a source of liquidity back into markets in the last few months, as money market funds
+have basically taken money out of those accounts and put them into Treasury bills directly. So that's been a source of funding, it's unlikely
+that is going to go on at the same pace. So you've got to read that as if you like, a lack of or a lacking of liquidity in the next few
+months. The third thing is, again, a sort of a technical factor. But again, we've got to watch these things because they're important for
+investors taking a short term view is what's happening to the Treasury general account. The Treasury general account is a way of always
+basically an account at the Federal Reserve, as the name suggests, held by the US Treasury, it's basically their current account. If the US
+Treasury sees more tax inflows than it pays out in in outlays, then that account will build up. In other words, the bank account will increase in
+volume, that is money withdrawn from the money markets. So if the Treasury general account is bloated because of higher tax revenues, that is
+a withdrawal of liquidity. And seasonally, this the Q2 is normally a big seasonal quarter for for that account. So what we may see is a
+temporary dip in what we call Fed liquidity and the amount of liquidity the Federal Reserve puts in. Now, it's my view, and I'm, you know,
+becoming a minority here. But let me state it even so that I think the Treasury has to start thinking and the Fed have to start thinking about
+this QT program. The reason for that is the QT is running on is withdrawing liquidity from markets progressively. So far, it has had no net
+effect. In actual fact, bank reserves have managed to climb despite the the QT program. And that is because of some of these other factors that
+I've just mentioned. The Federal Reserve in terms of recent speeches, is sounding quite cavalier about the size of Fed liquidity and bank
+reserves. It's saying it's quite willing to allow bank reserves to dip. I think that's hugely dangerous. I don't think it will get that far
+because the one thing that Janet does not want to see is another SVP during election year. So I think they're going to be extremely cautious.
+And I think the debate will start to swing to how they can start to slow down the QT program. And I think what I would envision is basically
+rising Fed liquidity through the year, but this coming quarter may be a little bit tricky. So the trend is up, but we may go down before we go
+up is the short answer.
+Okay, and that's actually really important. And I was hoping that we could get into this, which is that when you say it's sort of going to go up
+over the next two years, it's not just a straight line up on a 45 degree angle. It has its wiggles and its ebbs and flows. And when it does
+ebb, we could see things that are highly sensitive to liquidity get impacted by that. Alright, so many places I want to take this. So I guess
+first off, while I asked this next question, I know you've got a bunch of charts handy there, Michael, could you bring up the one just of
+liquidity right now? I think you've got a chart of how you measure liquidity. And you compare it to Goldman's financial conditions index.
+Yeah, okay, let me do that.
+Yeah, that's the one right there. And then we'll go back in a second. And I'll just have you remind folks sort of how you are calculating
+liquidity, because seems every expert I talk about has their own little unique variations on it. But we can see very quickly here, that the
+way you track liquidity, your global liquidity index, which is the orange line here, did indeed bottom pretty much right around the end of
+2022. And it's basically been a straight shot up, and it's still continuing to go up. So we're not seeing any reversal of that yet. So I guess if
+there's any comments you want to make on this, I'll let you but I do just want to note the commentary you just made, which is, we've been told that
+we're in this tightening cycle, and that the Fed is doing right hikes and that they're doing QT. But at least for the past year and a half or
+whatever, that hasn't really mattered, because it's just been it's been drowned by all this rising net liquidity, correct?
+Correct. Absolutely correct. I mean, the quiz has gone up for a number of reasons. One is that a concept we call Fed liquidity, which, as the
+name suggests, is created by the Federal Reserve has itself been rising. And I can go into that, I should say that the orange line on this
+chart has been advanced by six months to show that it's a leading indicator of the Goldman Financial Conditions Index. So what we're
+suggesting here is that there's still a lot of momentum in the orange line, it's still, you know, it's still winging its way up. So that's
+clearly a positive sign. The other things one's got to throw in here is that the other sources or some of the other sources of liquidity
+globally are things like the People's Bank of China. China has been easing pretty aggressively for certainly at least six months, if not a
+tad more, but they're trying to get the Chinese economy stimulated. And one of the things that we've been observing is they seem a lot
+more willing now to allow the Chinese Yuan or renminbi to devalue against the US dollar. That was a line that was set in stone through
+most of 2022. And part of 23. And now that now seems to have gone. So the Chinese are more than prepared to actually stimulate their
+economy, rather than protect their currency. The Bank of Japan is equally adding liquidity, I've been very skeptical against the
+consensus view that the yen is likely to see a rebound. Either last year or this year, I think the yen is a fundamentally weak
+currency because of this very loose monetary policy. And I can't see the yen rallying significantly. And I think the Bank of
+Japan, despite all the the rhetoric about they're about to tighten, they're about to tighten is going to keep keep the money, the
+money taps open. So I think that you know, what you've got is a generally a global picture of liquidity expanding. Now, what I can
+show you maybe in a I'm going to come to a heat map is this heat map, which you can hopefully see on the screen is what all central
+banks are doing globally. Now, this is impressionistic. Each of the little tiles there is showing a central bank in a particular
+month. So you've got all the list of the major central banks worldwide shown on the left hand axis there. They total about 90
+different central banks that we monitor. This is not weighted by size at all. This is giving a flavor as to what is going on bank by
+bank. And the timeline is on the top beginning in 21. And moving out to latest value is January 24. And what it shows, I think
+impressionistically, was that if you look at the middle of 21, that's when policy was easiest, where you've got that big green
+splodge in the middle. And then basically by what about them about sometime around about the end of 2022. What you see there is a
+significant red, red splodge, suggesting that central banks are very tight. And that's, that's the backdrop. That's pretty much
+what's been going on. Since that time, you can see that the the mosaic has begun to change color, the hues have moved much more
+towards the green or orange end of the spectrum, suggesting that central banks are beginning to add liquidity progressively, and
+collectively into markets. And that's, that's what we're seeing. You know, as they say, if it's if it's yellow, and quacks is a
+duck, and it seems to me that it's quacking pretty loudly right now. Just on the question of the Federal Reserve, let me try and
+nail this this point. What you've got here is a chart that is showing the Federal Reserve balance sheet, which is the red
+line, that is measured on the left hand scale. And that's shown in billions of dollars. So what you've seen is a Fed balance
+sheet, which peaked at around about 9 trillion, and is currently edging its way down to about seven and a half. So there's been a
+very slow decline. But what that red line shows is actually the QT program, there was a step up at the time of the SVP
+crisis, you can see visually there, the dotted line that I've shown on the graph, just below the red one is the originally
+slated QT program. So you can see how much we veered off that already. But clearly that red line is still going down. The more
+important line is the orange line, the orange line is measuring the net liquidity injections of the Federal Reserve into US
+money markets. So in other words, this is the net footprint, if you like, of the Federal Reserve in the markets, and that orange
+line is clearly inflected in going up. And that's why that's why financial asset prices have gone higher. Now, what you can
+see as well, as I've extrapolated through mid year, what we think Fed liquidity could do, and there was that nasty step, that
+nasty step, where liquidity goes up, but then comes down, is almost entirely accounted for by seasonality in the Treasury
+General Account, because of the tax inflows that we would suspect through certainly beginning through April. And that that's
+really the the essence of that. But, you know, we need to put this in context. And to put it in context, we've got to take a
+longer term perspective. I'm just going to go back to looking at an earlier chart. This chart here is measuring global
+liquidity. Global liquidity is a concept that I came up with many, many years ago when I was at Salomon Brothers, in the mid to
+late 1980s. It was a concept that evolved because the markets were becoming international, they weren't just US centric. There
+was a world outside of America, particularly Japan and Europe. And you need to understand credit creation, if you like, or
+liquidity creation in a wider world economy. So we came up with this idea about global liquidity. And the the metrics, you
+know, been pretty much in pretty much intact ever since. I mean, there's been a few refinements to the definition, but
+broadly, it's it's on track. It really comes back to the whole philosophy that Salomon Brothers used to used to have
+pioneered by Henry Kaufman, which was taking a flow of funds view of markets. And it's that flow of funds dynamic, which
+really embeds itself in this global liquidity cycle. What you can see here is a cycle that has a frequency of seemingly 65
+months, that seems to be a pretty regular movement. As a heads up, I first sort of fitted that red line to the data series in
+2000, by using a Fourier analysis for those that are interested, and it's been extrapolated ever since. So, you know, what
+you see is what you get is not it's not a fitted line, certainly over the last 2025 years, but it seems to be repeating
+along that same, that same sort of period or cycle. And what has happened is that the global liquidity cycle bottomed
+pretty much on cue in late 2023. And it's been rising ever since. And this inflection is absolutely on track with what we'd
+expect to be happening in markets now.
+Just real quick, you said it bottomed in late 2023. Did you mean 2022?
+Oh, sorry, I beg your pardon, that correction, I stand corrected 2022. Exactly. October 22, I should have said 22. The everybody seems to
+argue that this investment cycle that we're in is a very abnormal and a very unusual one, we would say that's wrong. It's a very
+normal cycle, everything that you're seeing with one exception, and that is the level of US Treasury yields is what you'd expect in a
+normal cycle. Treasury yields look to us way too low term premium, which again, is a wonkish concept, unless you're a bond
+investor, seem a negative, and they shouldn't be. And there may well be some nascent yield curve control going on by the US
+authorities, namely in the form of issuing an awful lot of Treasury bills over the last six months, which is probably a major
+distortion of the of the fixed income markets. Just to reinforce the point that we're in a normal cycle. This is how we view the
+global liquidity cycle from an asset allocation point of view. What the liquidity cycle is showing in orange is a lead of the
+economic cycle by around about 15 months or so. And again, I would suggest that's pretty much on track. Because if you go back to
+when the liquidity cycle inflected in October roll on 15 months, we should be getting an inflection now around now in the world
+economy. So that looks to be pretty much on track. And the blobs if you go back and look at this, basically yield curve inflections,
+which again seem to be on track. The sorry, I'm going to go to this this chart. This is just something which I think is worth
+dwelling on for a moment, which is saying, you know, what phase of the cycle are we in? Now, we're in the early phase of the
+upswing. In other words, from the trough through to the midpoint of the cycle, that is what we label as the rebound area. And you
+can see on the traffic light diagram in front of you that we basically show on the left hand side, asset classes on the right hand
+side, industry groups. The four seasons, if you like of the investment cycle, rebound, calm, speculation and turbulence are
+labeled there. And in the rebound area, what you'd expect to perform and what I should emphasize here is this is not a sort of
+fitted data set. This is what a history shows on average in in these cycles. So you know, this is a cross check if you like to see
+whether we're in a normal cycle or not. And you what what you would normally expect during the rebound phase is that in
+terms of let's look at the asset classes, equities, credits, commodities, bonds, bond duration, you'd expect equities and
+credits to be the big outperformers during the rebound. That's pretty much what we've seen. Many people were skeptical,
+particularly about the credit markets, certainly about certain areas of the equity markets, but they've been proved wrong.
+And both those asset classes have been strong performers. Commodities have not been good. But they may be coming to their own
+soon. And I would argue bond duration is not a great area to be I think there's a distortion in the bond markets anyway. But
+certainly we're now seeing the bond market selling off. As you move to calm what you'd expect to see is equities continuing to
+to motor, you'd expect credits to really not necessarily underperform and not be not be great performers. Let's say the shine
+comes off credits, commodities take their place, and you still want you don't want to be in bonds. And then if you look at
+the industry groups, what does that tell you, it says that you really want to be in rebound in cyclicals, you don't want
+defensives. Initially, you want technology stocks, that's that will likely be the leaders. But as you move towards the calm
+face of the market as liquidity gets, you know, gets a lot more momentum behind it, technology keeps going, financials and
+energy start to come through as other assets. And I would suggest, you're looking at the big US bank stocks like JPM, as a good
+bellwether of financials doing well.
+So fascinating, and I just want to take a pause here and note for viewers who are always looking for me to ask, I usually ask this
+at the end of the conversation, "Hey, where do you think asset classes are heading?" You're giving your answer right here, and you're
+giving it very visually. So, folks, right now, just to reiterate, Michael sees us in the rebound column here. And Michael, I'll, you
+know, I'll let you come back on this program anytime you want going forward when you think we're entering a new phase, or there's
+anything else going on liquidity that you want to highlight for folks. But just to ask you to sort of guess here a little bit, if you
+think that this current cycle is going to last through the end of 2025, around when would you expect us to hit calm and then with the end of
+2025 be speculation or turbulence?
+I think the end of 25 is more likely to be moving towards the turbulence phase. Okay. You know, I mean, no cycle is truly normal. I mean,
+there are clearly nuances. One's got a guide. I mean, one of the reasons for looking at this traffic light system, Adam, is really to
+get confirmation of what phases we're in. So if you start to see financials outperforming, and you see energy stocks beginning to get
+traction, then that's pretty much confirming that we're in this calm phase. If you start to see commodities beginning to lift off,
+that's again a further sign. But all I'd say is to come back to the point, this is not an abnormal cycle, this is a very normal
+cycle. And the distortion is in the bond markets. And because the distortion is in the bond markets where US Treasury yields have been
+artificially depressed, that has caused the yield curve to give a full signal for economists. And that's the bad. It's not the fact the
+cycle is different.
+All right, well, let's dig into that just for a second. So why do you feel that yields are, Treasury yields at least, are lower than you
+think they should be for this moment in the cycle? Is it literally due to intervention? I mean, you mentioned earlier, it was the
+Treasury, a big contributor was the Treasury selling a lot of short term debt here, but is it sort of a form of your yield curve control on
+behalf of the US?
+Well, I think I mean, that's that would be my reasoning. What you've seen is an abnormal swing towards Treasury bill funding, which has
+created an artificial shortage of coupon supply, particularly around the 10 year tenor. And as a result of that, what you've seen is
+his term premier have been unusually depressed. Now, I think one's got to say generally, that there is a shortage of good quality
+coupon supply in the world economy. And that has been the case, largely since the global financial crisis. And I would again say
+it's been artificially constructed by the authorities, because what they've done is they've forced banks and insurances to hold a lot
+more safe assets. Now, there are not that many safe assets. It truly in the world economy, you can choose, you can think of German
+bonds, and you can think of US Treasuries. And then you're sort of scraping around to think of good quality, safe assets. So what
+they've done is artificially created a huge increase in the demand for those types of assets. And as a result of that bond term
+premier have been depressed. Now, what I show on this chart in front of you just to explain that is the orange line is the 10 year
+Treasury yield. And we show that in terms of the level and a 200 day moving average. But below that I've extracted what is
+called the term premier, which you might take as a risk premier on treasuries. But it's really it's a measure of the interest rate
+risk, or conversation of the interest rate risk of holding a treasury. Now what that reflects beyond anything else is supply and
+demand for bonds at that tenor. And what you can see is you're beginning to see a very clear inflection now, in that term
+premier, it has been depressed for a long time, certainly through 2021 22, and part of 23. And it's now beginning to turn
+higher. And that is a danger sign. And what is driving that term premier higher is a shift away from bill finance towards more
+and more coupon supply. Now, this chart here is trying to demonstrate that point from a longer term perspective. And what I
+show here is the net supply of duration, if you like, duration just being here a measure of coupon supply. In other words,
+the supply of 10 year treasuries, 20 year treasuries, 30 year treasuries, etc, longer dated bond issuance. And I've looked at
+that relative to the term premier. Now, the black line, which is the supply of duration is a is a percentage change year on
+year of net supply. And what I've taken into account of that I've stripped out what the Federal Reserve itself is has been
+buying, etc. Now what you see, I hope or hopefully what you see is quite a decent correlation, maybe not perfect, but a
+decent correlation between the term premier and the growth of net supply. What we're facing worldwide, but what we're
+facing in the US in particular, is a significant increase in the potential supply of coupon debt. And we and unless they
+introduce a new Basel for or some other regulation on the banks and the insurance companies, what you've got now is not the
+same step up in demand that you saw in the wake of the GFC, that that that coupon supply is going to be taken up by the
+private sector, unless the Federal Reserve decides to ditch its QT and come back for another QE dose. But that's really the
+problem. Now, if I go to the math here of debt, this is the thing where you've got to hold on to your chairs, because it's
+looking very scary. Now, these, let me stress are not our data, they come from the Congressional Budget Office, the
+Congressional Budget Office is a bipartisan organization, it is deemed to be neutral or independent, and it's giving what we
+would say are pretty decent or acceptable plausible estimates of what's going to happen to us debt. Now, what I would say, as
+a caveat is number one is that I think the CBO numbers are conservative.
+I was going to chime in and say they're usually government projections are usually wrong on the on the air towards the
+optimistic side. So you're saying but this is what you see here is that those projections. And the second thing that I would
+say is that they don't take into account another recession. And what we know in recessions is that debt jumps. So it's bound to
+be too low. Now what you've got here is a chart that goes back to 1800. This is the public debt burden, it is scary. Look what
+happened to Britain in the 1950s. Now, that may be a great benchmark, because the British economy has never been a great
+performer since that time. It's quite possible. And this is the interesting, you know, part of the debate, that those levels of
+debt are sustainable. We've seen that after all in Japan, Japan can sustain high levels of debt, they can be funded. The
+problem is it comes with costs. debt is an encumbrance for the economy. So what you get a bad effects from too much debt,
+such as slower growth, such as embedded inflation, etc, such as maldistribution of wealth and incomes, all these things,
+negatives come from high debt. And this is what the US has got to avoid. So what you see here is the public debt burden.
+Now, one of the things that that we argue, which is a point to ponder, is that debt needs to be refinanced. And debt
+doesn't stay there in the system, it has a term. So if you issue a five year bond in five years time, you've got to
+refinance the bond. If it's a two year bond, you come back even sooner. If you've got the luxury of 30 year bond, great,
+because you can wait 30 years before you've got to refinance it. But the average amount of the average amount of debt in
+the world economies 350 trillion now with an average maturity of five years. So my math says you've got to refinance 70
+trillion of debt every year now in the in world financial markets. World markets are no longer new capital raising
+mechanisms for capex for new spending. They're essentially refinancing vehicles for existing debt, they're being
+swamped by the amount of debt that needs to be rolled. And you need liquidity or balance sheet space to do that. And what
+this chart here is trying to say is that if you look at the long run average since 1980, the debt liquidity ratios remained
+remarkably stable. So if you look at a rising debt to GDP ratio in the world economy, you got to think of a rising
+liquidity to GDP ratio. And that's the key point. So if liquidity rises, it has consequences has spillovers, it can spill
+over into asset prices, it can spill over into Bitcoin, it can spill over into high street inflation, but it has costs. And
+that's why investors need to think very carefully about asset allocation in the medium term. Because if you've got this
+monetary inflation going on, as essentially central banks are buying debt, they're allowing liquidity to expand to
+increase the refinancing capabilities, you're going to get more and more monetary inflation. And the scary data is this
+sort of thing. This is the data from the Congressional Budget Office, which basically shows net interest payments in red,
+and the primary deficit of the US economy in orange. So add those two numbers together, that is the public deficit. So
+what we're rolling on now, we're we're at 6%. But we're trending at an onwards year after year after year, at rates
+between seven and 8%. This is unprecedented. And basically, what you're looking at is a rising debt to GDP ratio, as the
+gray line says, in the US economy. Now, what is the US economy done wrong here? And the answer is that mandatory
+spending is just skyrocketing because of aging demographics. So Social Security and Medicare are taking up a larger and
+larger part of the public purse. And you can see here in this chart, which again, is Congressional Budget Office data is
+basically showing mandatory spending climbing in the brown area, discretionary spending, which has clearly been
+bloated recently, you know, by the, by the Inflation Act, but I mean, this is again, leveling at high levels, net
+interest payments, the bit at the top take a bigger and bigger slice of outlays. But the numbers that we put on top of
+each bar are reflecting the fact of how much mandatory spending outpaces discretionary spending year after year after
+year. And this is showing that this number climbs. Now, the bottom line here, in my view, but hopefully I'm wrong, is
+what are the implications for Fed liquidity? Now, if you if you say, Well, okay, the Federal Reserve has got to take up
+some of this debt, and maybe it's going to take up more debt than people are accepting. And in fact, even the
+Congressional Budget Office is assuming that the Federal Reserve takes up some of the debt. And you can see that in the
+baseline that we've got there in brown, our view is that it's required to take up even more, because in particular, what
+the CBO have in their projections is low defense spending. And I think defense spending is critical up. So what you've
+got here is a as a projection of Fed liquidity, which is what's important for markets, that basically triples between now
+and 2034. That's the big problem. That maybe is what Bitcoin and cryptocurrencies are starting to tell us. Investors are
+getting spooked by this whole thread of increasing debt, and maybe rising liquidity in Western economies. And I'm not
+kidding on the US here, in particular, because it's the cleanest shirt and the laundry. Other countries are in far, far
+worse shape.
+Okay, so let me let me just repeat back here to make sure I got this. You're basically saying that because of this massive
+amount of debt that needs to be refinanced, really every year, I mean, to the tune of 70 trillion a year going forward, and
+potentially at substantially higher interest rates than it was taken out at earlier, that's going to cause a rising debt to GDP
+ratio, which is going to be made worse by the aging demographics here in the US and the continued rise in mandatory spending,
+such that to keep the game going, the Fed is going to be forced, or at least feel a ton of pressure, to essentially triple the Fed
+liquidity that it's providing over the next decade. Did I get that right?
+Correct.
+Okay. So I think one of the key conclusions I come to from that, and you tell me if I'm right or wrong, is, like you said, there's no
+free lunch, you got to pay the price somewhere. Is the place we really pay the price, is that in the decline of the purchasing power
+of our currency?
+Yes, I think that that would be probably the correct way to put it. Yeah, the value of the dollar would decline, the purchasing power
+of the dollar would decline in real terms. So let's say against gold or against things like cryptocurrencies, that would be my
+guess. It may well be that the US dollar continues to outperform other paper units.
+Sure. That's a relative game by fiat. Yeah. Because everybody has this problem, maybe even worse.
+Everybody has this problem. This is the unusual part about it. But one of the other unusual features is that certainly COVID
+confirmed this, that policymakers, or let's say politicians, turn to debt financing of spending rather than tax financing
+of spending, because they just simply can't raise taxes. Whether that is because of popularist politics, the fact that
+popularism is there means that you can't stand up on a platform and say I'm going to raise taxes because no one's going to vote
+for you, whatever it may be, but that's the reality. Think of the current election in the US. None of the prospective
+candidates are talking about raising taxes.
+No, no. I mean, dear God, right now, I mean, that would be political suicide, whether we think that's good or bad thing right
+now, that would be a political suicide for either candidate right now. So I don't want to draw too much from this, but I
+follow your logic. And that's the conclusion I come to which is, hey, with a view of the next decade or so, the long term
+investor has to ask themselves, how do I keep ahead of this inflationary erosion of the purchasing power of the units that my
+wealth is denominated in? You said that Bitcoin might be sniffing this out. I mean, do you think that the recent dramatic rise in
+Bitcoin, perhaps even the current rally in equities, and the week you and I were talking gold has broken out to a new high, are
+they sniffing out this story? Or are they just reacting more in the short term to just rising liquidity?
+I think it's hard to say, but I think the reality is that, as this chart that I put up suggests, what we show here in orange is a
+market cap weighted aggregate of cryptocurrencies and gold in orange. So that's measured in trillions of dollars on the left
+hand scale. And then on the right hand scale, there is the pool of global liquidity, which is clearly a lot bigger. But that
+rising black line, the global liquidity line, which is which is testing 200 trillion there by 2025 is basically what we call
+monetary inflation. In other words, it's it's the amount of credit, credit money in the or fiat money in the in the world
+economy that is rising. But you can see that in terms of a trend, it looks as if that orange line is capturing it. The point to
+note here is that the dotted line we put at the bottom is US consumer price, the US consumer price index. So there's a big
+difference between monetary inflation and high street inflation. And what you know, what high street inflation is, is
+comprised of is monetary inflation past what we call cost inflation or cost deflation. And the fact that consumer prices
+have not moved anything like as much as monetary inflation tells you there's actually been an awful lot of cost inflation
+going on at the same time to keep prices, high street prices down. And that's things like productivity gains, that's
+falling commodity markets, that's the China effect, you know, etc. discounts of major retailers, all these sort of
+factors are keeping high street prices down relative to monetary inflation. But the fact is that that's, you know, a
+finite game. And at the end of the day, high street inflation will largely match one would fear the rise in monetary
+inflation to may not, maybe not one for one. But gold and crypto, which is the main point I'm trying to show here are
+monetary inflation hedges, not high street inflation hedges. So that's what you've got to start thinking about these
+assets. Now there are others, residential real estate looks pretty good, historically, as a hedge against monetary
+inflation. Now, clearly, you've got to be careful about where you buy your real estate. You know, not necessarily out on
+the boondocks, or whatever it may be. But you know, you've got to have prime real estate, prime residential real
+estate. And that tends to be a pretty good hedge. The other one to think about is equities. And I can show you, you
+know, a chart a little bit earlier on, which tries to show that this is now using weekly data. But it basically shows
+the path of global liquidity here in orange, and the black line is the S&P 500. Now, one of the interesting points to
+note here is, and there's been a lot of talk, particularly in the in the media in the last week or so, about is this a
+bubble or is this not a bubble. And I think that one needs to, you know, have a sort of sober consideration of that at
+that point. The fact is that if you look at maybe this following chart, this is the relationship between US equity
+holdings and liquidity. So in other words, what I'm doing is I'm taking that data, and I'm just looking at the ratio
+here. And this is the ratio of US equity holdings to US liquidity, I should, I should correct myself and say that this
+is just the US liquidity component, it's not the global. And if you look at that, you could argue, well, maybe the US
+market is extended. But then it's nothing like as extended as it was relative to the trend that we saw in Y2K. But
+there's clearly a risk that it could go down. The interesting point is, if you do exactly the same analysis for world
+stocks, you find this graph. And this is world equity holdings relative to the pool of global liquidity. Now, what I
+think is different right now is that many, many global investors are using the US market as their equity portfolio, if
+you like. So in other words, there's been a lot of money moving into the US, US equities now are global equities. They
+are the they are the prime equities worldwide. If you want access to tech, or you want applications of AI, you don't go
+to Europe, you don't go to Asia, you go to America. So America is basically this global equity market. And so what
+we've got to think about is relative to the pool of global money, with foreign money being, you know, shifted into the
+US, this is still giving a lot of support to US equities. And I can show you this measure, which is measuring capital
+inflows into the US dollar. And this is a really, I think, really important chart to think about, because what it's
+showing is how cross border flows have affected the valuation of the market, maybe the momentum in the market. Ever
+since the global financial crisis, what you've seen are huge amounts of liquidity, winging their way into the US. And
+that is for a number of reasons. It's basically because of the alternatives were not great, there was a Eurozone banking
+crisis, there was an anti corruption crackdown by Xi Jinping in China, we've had the COVID crisis, we've had US tech,
+which has dominated the world, etc. There's been Basel three, which has forced investors to hold US treasuries. But
+bottom line is money is coming to America. And even though that chart may be losing momentum, it is still strongly net
+positive. And understanding these cross border flows, in other words, taking a global view is really, really important. And
+I'll leave this thought, which is, you know, many people talk about the the death of value investing, etc. I think value
+investing died sometime around the mid 1980s. Because it was when the world economy began to open up, and foreign
+investment became important, that these flows of money between nations, between markets, into reserve currencies, out of
+reserve currencies, became the dominant features in financial markets. And that led its way towards momentum investing.
+And whatever, you know, the merits of value or not, if you've got money flow moving into markets, people want large cap
+stocks, they want indexes. And that's the world we've been in.
+Alright, fascinating. And you should probably expect a fruit basket in the mail from Brent Johnson, the developer of the dollar
+milkshake theory, because a lot of your charts are particularly this one, visualize a lot of what he's been talking about for many
+years, a lot of the crux of his frame.
+Yeah, I know Brett's work, very impressive. Absolutely on board with the whole thesis.
+Alright, well, again, your data is singing in song sheet with his framework there. Alright, well, let's see here. So the best way to
+take this, so let me ask you this. So liquidity seems to be the big dog here that drives the sled. You see it, on average
+continuing to rise for the remainder of this cycle through the end of next year, as you mentioned, what could either cause you to
+change your view? And if the answer is a different answer, you know, like, what do you worry about right now? Because right now, you
+could say, oh, liquidity flows are going to go up for the next two years. We don't have too much to worry about, we know the playbook,
+we'll just go back to your traffic light chart, and we'll invest in those things that should do well in this phase. What do you worry about
+could disrupt your prediction here?
+Well, I think one, you know, let me give some examples. I mean, one could be a significant pickup in inflation. I don't think that's likely to
+happen. But never say never, that's a risk. We could see a central bank error. What I've said is that the Federal Reserve is clearly trying
+to test maybe the resolve of banks in terms of or threatening to pull reserve levels of banks down to a threshold they call ample. They
+may get that wrong. The reason I say that is that the Federal Reserve is very is, is forthright in its discussions about ample reserves. The
+trouble is their estimates historically have proved to be very, very wrong. And in fact, in fact, one would even go as far as to say that no
+one has any idea, in truth, really no no idea what the level of ample bank reserves are. So it you're sort of feeling in the dark, and you
+know, we'll be doing that too much in an election year. So I think that's a risk. And as I've said, I mean, the cross currents that are
+affecting Fed liquidity this this year on the next quarter in particular, are sufficiently worrisome that we may get it, we could get an
+accident, I may be wrong, and you get, you know, a significant tumbling liquidity, that's quite possible. But that's another risk. I think a
+third one could be, in general terms, obviously, a geopolitical event, but I'm not in the business of predicting geopolitics. So I don't
+know on that. And then maybe, fourthly, another Lehman crisis, but I just don't believe the leverage is in the system, or the banks are as
+banks in particular, have got inadequate equity cushions in a way that they had before. So I think that the regulators have done a
+fantastic job in the last decade to actually make the traditional banking system and to some extent, the shadow banks a lot more robust. So I
+don't think we're going to get that problem.
+Okay. All right. Well, it's, like I said, it's going to be fascinating. Before I think I had you on the first time, Michael, you know, I'd begun
+sort of asking the question of a lot of the experts here. But at the end of the day, does it really, does all that really matters are net capital
+inflows? And should we just not worry about looking at all the other data that folks, you know, obsess over and just watch global net liquidity
+flows? And you've pretty much come on and done a really good job of making the argument of Yeah, that's probably all we really should do. And
+I think you've got to look at this and you've got to look at what the Fed is doing. I mean, those are the two the two key drivers. A lot of other
+things tend to follow. If investors are wanting to put money into the US markets, and the Federal Reserve is continuing to expand liquidity, you
+know, why shouldn't asset prices rise? Because that's what they normally do. And what I'm saying is that crypto, which is a really, really
+sensitive liquidity barometer, we we find that crypto tends to move about six weeks after an influx of liquidity, which is actually, you know,
+pretty, pretty rapid. That tends to be, you know, an excellent bellwether, whether the liquidity is rising or not. And if we're correct that
+that you caught, you know, the the the sky's the limit in many ways in terms of crypto, or Bitcoin, if we're correct in saying that the
+liquidity background looks as certainly in the US as generous, potentially as generous as we project over the next decade or so, given the fact
+that the the debt, the public debt burden is likely to be so big, the only way they can get out of it is to monetize.
+Alright, so let's talk about this thing, because I was looking at your Twitter account right before hopping on here. And you had a quote here,
+where you wrote demographics plus entitlements equal gold and Bitcoin, right? And I think it goes back to the chart you showed earlier. But it
+seems like you think that those are going to be really responsive bellwethers to liquidity. Let's take Bitcoin first, you brought it up a
+couple of times as being highly sensitive. And you said sort of the sky's the limit. Do you see Bitcoin as a really credible asset class for
+investors to consider here? Or does it come with some other risks that make you make it a good bellwether, but maybe not a great investment?
+Well, I think one's got to be prudent in terms of Bitcoin, for the simple reason that it's not legal tender. And the fact is that governments can do
+nasty things to make sure that competing currencies are not legal tender. And one has to go back to the gold the gold act, I think it was in was it 1934
+in the US, which basically meant gold was confiscated by the federal authorities. And the fines that were put in place for holding gold were
+wateringly severe. And that was a attempt to basically make sure that the dollar was the the main standard of value in the US economy. And it was a sneaky
+way if you like of devaluing the dollar or creating monetary inflation. But that's what they did. Now, maybe their ability to please Bitcoin is less
+good, but let's not stop them trying. And I think that they're that's, you know, one shouldn't have all one's eggs in one's bar in one basket. Start
+looking at other alternatives, you know, spread your assets into or spread your money into assets that can benefit from monetary inflation. High quality
+US stocks, large cap stocks can benefit residential real estate, prime real estate can do well, Bitcoin will do well, gold will do well. So I think those
+are the asset classes to hold, I would not be in bonds. And that's what I think is the is the the asset class, which is normally a casualty of monetary
+inflation's. Yields will rise. And that's what I think the trend is. We think the trend on the US 10 year Treasury is easily going to test five and a quarter
+percent.
+Okay, and do you have any sort of general timeline on that?
+Well, I think my view would be before the end of this year.
+Okay. Okay. And let me just ask you real quickly on gold, because as I just mentioned, gold hit a new time, new all time high this week. You know,
+we've had a lot of people mentioned gold on this program, time and time again, for a whole bunch of different reasons. One of our regular guests in
+the program will often bring up kind of this decade plus long kind of cup and handle that's been building. And I don't know if you necessarily need to buy
+into that tech technical pattern or not, but it has the big cup and then it has this handle that's made like a triple or almost quadruple top that
+looking like it's trying to break out. Could we be at a true breakout moment here for gold? And do you expect gold to -- how do you expect it to
+perform relative to the other basket of assets you just said should do relatively well? Like, is it going to be a bit of an average performer?
+Yeah, I think gold should do well. I think the fact is that if you look at the sensitivity of gold to liquidity, it has a sort of an equivalent beta or
+multiplier of something like 1.2 to 1.5 times. So for every 10% increase in liquidity, you get a 12 to 15% increase in the gold price normally. Okay,
+that's the normal maths of how it works. Bitcoin is about five times that, just to put it in perspective. So if you like Bitcoin has been acting so
+far, and I stress the word so far, like exponential gold, but gold is clearly an asset, it's a safer asset, and it will still perform well. Is
+this a breakout moment? It could be, and all I would say is start to look around the world at what central banks are doing. Other central banks are
+accumulating lots of gold, okay, the Chinese in particular. And that must tell you something, they're going to increasingly put their surplus
+where they can in gold, gold bullion. They can't do everything in gold. They've got to buy dollars still. The whole idea that they won't buy
+dollars is fanciful. They've got to, but at the margin, they're going to shift away and margins matter in financial markets.
+Alright, well, look, we've got to end it here. It's always so fascinating talking with you, Michael. And again, I want to give you kudos that
+according to the playbook that you have laid out to us so far, things have been playing out eerily accurately according to it. So I want to do
+recognize you for being right so far. It's a high bar to keep going. I know, I'm putting the pressure on you. But as I said, the door is always
+open here on this program. Anytime you see something happening in the data that materially impacts your outlook in one way or another,
+you're more than welcome to come here anytime and let our viewers know about it. I've got two last questions for you here as we wrap up.
+The first is very important, which is for folks that have really enjoyed this conversation and would like to follow you and your work,
+where should they go?
+I think the easiest way is substack. And when we've got a substack called capital wars, that substack is basically open to investors everywhere.
+We put a lot of work into detailing liquidity flows in that and our arguments. So it's not the full story, but it's a large part of the story.
+And certainly it's useful for high net worth individuals to look at that. For institutional investors, we've got a more detailed and data driven
+product. And that can be obtained by looking at our website, which is crossbordercapital.com. And of course, there's the Twitter handle,
+which is @crossbordercap.
+All right, fantastic. And when I edit this, Michael, I will put up the links to those resources on the screen so folks know exactly where to go.
+Folks, I'll also have links in the description below the video too, so you can get there with just one click. Last question for you, Michael,
+and this is something I've started relatively new here. I don't think I asked it last time you were on.
+We've been talking about all sorts of monetary and financial topics in this discussion, leading obviously to your recommendations on assets to look at.
+What's one non-money related investment that you would encourage people to consider adopting in their lives?
+Well, I think art. I mean, if you did ask me before, I will give you the same answer because I probably give the same answer to this question normally.
+I think art is certainly something people ought to do a lot more of because it brings out this sort of creative energy within people.
+And I think what's more, it sort of actually forces you to look and observe. And I think that's really, really important.
+I personally do life drawing, and it's a great, great discipline.
+Wow, that's fantastic. So the creative process, maybe next time we have you on, I can cajole you into sharing some of your drawings.
+I think that would be one of the great investments to buy and own as liquidity rises here. Well, fantastic. I love that answer.
+Michael, it's always a pleasure. Thank you so much for coming on. Thanks for being so liberal and sharing all the data.
+And I look forward to having you back on to give us the next update in liquidity when your dashboard shows that there's a material development.
+But I can't thank you enough.
+Great. Thanks, Adam. Pleasure to be there. Thank you.
+Well, all right. Well, now's the time on the channel where we bring in the lead partners from New Harbor Financial, one of the endorsed financial advisors by Thoughtful Money.
+I'm joined, as usual, by lead partners John Lodra and Mike Preston. Guys, thanks so much for joining us. Love to hear your recap here of what you took away from the conversation here with Michael.
+Great conversation, as always. Let's see, Mike, why don't we start with you?
+Really enjoyed the talk by Michael Howell, Adam, he talked all about liquidity for it seems like for Michael and his work, it is all about liquidity, for which he says bottomed in October of 2022.
+And he showed some nice graphs. He showed the global liquidity index. It seems to go in a five to six year cycle using that cycle length.
+It seems like Michael believes liquidity is going to peak at the end of 2025.
+So here we are at the beginning of 2024. According to him, we have two more years of the wind at our backs.
+Now, it is it's difficult for us because we have some disagreements in how we measure opportunity here.
+I think the talk from Michael and the graphs he showed said it's all about liquidity and it has been all about liquidity.
+Partially, that's what's been frustrating for anybody that's questioned this narrative.
+Anybody that's cared about valuations has been frustrated by this rising tide lifts all boats situation that we've been living through.
+I didn't hear Michael talk much about valuation and I'll be the first to admit it hasn't mattered.
+And we've been very conservative and some would say very early being conservative.
+We have to admit or we have underestimated just how much this liquidity could push things and how far and how much of a blow off top we could see one after another after another.
+And we're in another blow off top right now, which we don't even think is done.
+So it could it could end at any time, though. That's the difference, I think, in that our work on valuations has us extremely concerned.
+And we think that the market ends up a lot lower than we are now, probably 50 percent lower than we are now.
+But we can't tell us where the top will be. I don't think there's any way in the world we get through all of this year and deep into next year before this thing rolls over.
+And the charts that Michael showed said, you know, based on the work that he's done, the things he looks at, that he thinks that they will.
+So that seems to be a key point that we disagree on.
+I'd say this market might pop a little bit more over the next few months, but I think it rolls over and crashes before the election.
+I really do. I don't really have any definitive proof because nobody can prove what will happen in the future.
+But valuations are so insanely out of whack.
+The market has been narrow still, although it's starting to broaden.
+It's true. But, you know, valuations are just not going to support us up here for for very much longer.
+And I don't think throughout the end of 2025. Michael did say that maybe the second quarter we might see a pause because the bank term funding program is wrapping up.
+Reverse repo is slowing and the Treasury general account is going to have a big quarter probably with tax receipts.
+So that might suck a little liquidity out. I don't know. We really can't fine tune this much.
+Again, our best guess is the market might go a little higher and then roll over hard.
+Well, we haven't seen is that vertical spike, that absolute FOMO, if you're missing out a wave that we've seen in past market tops.
+We haven't seen that yet. And my guess is we might see more of that in the next couple, couple months.
+So one or two other things that he said that I thought were important that I'll wrap up.
+If he was relatively negative on bonds, he thinks that yields will go up maybe as high as five five point two five percent.
+By the end of the year, yields hit five percent on the 10 year back in October.
+That was TLT. If you look at the ETF TLT, which holds long term U.S. government bonds that reached around eighty eight.
+We'd probably see TLT around eighty six or eighty five if we reach five point two five.
+We don't think we're going to go that low on TLT or that high on yields.
+We would get more constructive and maybe add a little bit back more to our position if we saw four point five or so.
+But we're down around four point one, I think, right now as we speak.
+And that may be it. That may be it. So we're more constructive on bonds than Michael is.
+He also talked about gold and gold and Bitcoin, particularly gold, high quality stocks and residential real estate.
+Some of those things we think will do well, particularly gold. We'll talk a little bit more about gold later in our discussion here.
+Gold is actually broken out of this giant base we've been pointing out over and over again, and it's having a second day here above 2100.
+So it's very, very constructive. And as Michael points out, China has been buying prolifically and continuously.
+So with that, I will say that we have our differences.
+But in the near term, I think that we can't deny that liquidity has pushed this market much further than we think it deserves to be.
+It might go a little higher, but ultimately we think it rolls over hard and it does so this year.
+All right. Good summary, Mike. Yeah, it's going to be interesting if Michael Howell is right.
+It's going to be a challenging year for folks such as yourself who challenge a couple of years for folks such as yourself who track fundamentals and valuations so closely.
+And we'll talk about this a bit later, maybe when we get to the gold part.
+I just want to remind us all here that because of the amount of debt that's currently in the system and the fact that that is sort of deflationary,
+contractionary to growth in and of itself, Michael really hammered the fact that the government has a need to refinance 70 trillion of debt
+per year going forward. I think that's the global economy. And if you look at the rising debt to GDP ratio projection overcoming the next couple of decades,
+and you look at the horrible demographics that we have in terms of aging populace, shrinking cohort of the key 25 to 54 year old workers,
+Michael projects that the Fed is going to need to increase liquidity by three times over the next 10 years.
+So like if you've hated what liquidity has done to the logic of valuations, how it's deformed them, if Michael's right here, we could see much more
+deformation going forward. Now, that doesn't necessarily mean that asset prices are going to shoot the moon, but probably, but at the same time,
+that means that purchasing power of the currencies that these assets are measured in is going to go through the floor. So anyways, maybe again,
+we talk more about that when we get to the gold section. But, John, let's bring it to you here. Anything else? Any other color you want to add to what
+Mike Preston here just said?
+Yeah, sure. That was a great and fascinating talk, as always with Michael and Mike did a great job and you Adam in summarizing that. I guess I'd like to
+just tease out a couple of things. I want to acknowledge that Michael Howell presents somewhat of a different definition of liquidity. Thirsty people
+out there, analysts, want to make it real simple. They think of liquidity as what are interest rates, is the Fed doing QE, QT or whatever.
+And Michael, I think properly paints a much more complicated picture as to what this thing called liquidity is. And his construct looks at, and I got to be
+candid, I don't fully understand his contract. I don't think he gives quite the detail that I certainly would like to know more about. But he generally
+talks about it in the concept of balance sheet capacity, how much balance sheet capacity is there out there in the private sector to take in liquidity
+and do stuff with it. And that's where I'd certainly yearn for a lot more detail. And I point to the regional bank crisis that happened last spring, I think
+it was last spring of 2023. And that is an example. So at the heart, what caused that is banks weren't lending. They weren't lending to the private
+sector because there was no demand on the private sector. The private sector had plenty of capacity to borrow, but they didn't want to borrow. They
+were uncertain about the future. They didn't want to borrow and leave enough on debt. So what banks did instead is they bought treasuries and mortgage
+securities at really low interest rates. That effectively is lending. It's just lending to the US government or the mortgage backed agencies versus
+lending to commercial real estate or industrial businesses looking to grow their business. So I like to politely challenge this concept that if
+there's capacity and balance sheets, it automatically means liquidity finds a home. I don't think it's quite that easy. And in kind of segwaying
+from that, I think I'd like to just talk about this, I think, simplistic notion that many are tempted to take a leap on and think of liquidity as
+this thing coming into the market, the so-called cash on the sidelines or this wall of stuff coming into the market, and by doing so, driving
+prices up. There is no more widely propagated fallacy than this concept of things coming into or out of markets, cash on the sidelines, because in
+grand total, it's just things changing hands. So for example, when cash goes into the stock market, the people that part with their cash to buy
+stocks get stocks, and guess what? The people they bought those stocks from now hold that cash. So what it really speaks to is the psychological
+fervor by which different investors chase certain kinds of assets. As much as we are fundamentally focused on valuations, we cannot deny that
+psychological fervor has a tremendous impact on markets, especially when you get in blow off top kind of episodes, which we think we're in. So I
+just want to caution folks, especially the kind of clients we work with, that they're not out there to advertise mutual fund returns or hedge
+fund returns. They're out there to build a secure financial retirement. Recognize that this is largely psychologically driven, not
+fundamentally driven, and it can turn just as quickly when the psychology changes. So it's really important to kind of keep that in check and
+understand the basic premise there. So I'll stop there. I'm sure there's many more things we can dig into.
+All right. So let's see here. I get a lot of requests for folks to come on the program. One name that's been getting suggested a lot of late is
+Darius Dale. Because coming into Q1, he walked us through his charts. And for those that have seen my interviews with Darius Dale, you know
+what I'm talking about, I think he packs more data per interview than anybody else that I interview. And he was very bullish, said he was about
+the most bullish he's ever been coming into Q1. And lo and behold, his predictions have largely played out. I think that interview was done not
+that long after the last interview I did with Michael Howell, who was also very bullish in Q1. And they have very different methodologies,
+right? Michael's is all around liquidity, the way that we're talking about here. Darius's is based on literally like a zillion different
+indicators that he tracks, and he synthesizes them all together and then creates a dashboard and it tells him whether it's green light, yellow
+light, red light, it was bright green. I just scheduled, so folks should be happy to hear this, I just scheduled an interview with him. It's not
+going to be until April, later April, folks, because that's what worked in Darius's schedule. But I asked him, "Hey, are you still bullish on the
+markets the way that you were at the beginning of Q1?" And he said, "Pretty much." And he sent me a copy of his latest dashboard. So I do just want to
+give note to the fact that this market is undoubtedly very stretched, and you guys keep noting that risk. I just want to note that the recent bulls
+that have appeared on this channel are still bullish, given these conditions, given the indicators that they look at. Now what happens in the future?
+Who knows? Nobody has a crystal ball. That's why we have you guys on every week, John and Mike, so we can track this on a real time basis. But I do want to
+note right now that there is still a pretty big divide, at least in the next quarter or so's outlook from the bulls and the bears, and I'm not putting you
+guys in the bears per se, but I do know that you guys are cautious of the markets. Now, you guys have said, and Mike, you said this a few minutes ago,
+yeah, this sort of melt up we're having right now, who knows how high it could go? When the markets really get running, they can get crazy, and they
+certainly can go higher than you think, and oftentimes for longer than you think, but of course, the higher and longer they do, the greater the pain of the
+correction if indeed they have gotten overstretched. So we're going to see what happens from here, but I just want to note that even Michael Howell himself
+said, "Look, I've got this projection for the next two years of liquidity still rising, and I think it's largely going to be good for the assets that you noted
+there, Mike." But even he himself said, "Hey, it's going to have peaks and valleys as we go over the next two years," and he said, "Q2, here's
+looking like it could be a little bit rough. There's definitely some things that are going to impact the liquidity side of things, shutting off the
+BFTP, the fact that there's not much left in the reverse repo program to be drained, the inflow of tax receipts and the TGA that you guys mentioned there."
+So those are mechanical things that are going on that should take liquidity out, but they potentially are things that could impact sentiment, and that's going to
+be what you were saying there, John, which is it's almost more sort of investor confidence, investor sentiment that's driving what's going on right now.
+So if there's something that goes on that cools animal spirits, that might be the thing that kind of ends the party in this current rally, and there's a number of
+issues that Michael Howell mentioned, but there are other ones too, and Michael said, "Hey, look, one question that's out there is will the Fed let bank reserves
+dip?" If that did, that could really be a game changer. Now, he didn't think Yellen would necessarily want to have that happen in an election year, and I think
+everybody's kind of confident that they'll do whatever monkeying in the system they can to try to keep things supported, but there are things that could
+send curve balls to the market or spook people or maybe some of these people, maybe they do have different agendas. I don't know. Again, we'll find out.
+The point is I think the uncertainty is increasing on the mechanical side of things, while at the same time, the uncertainty of just how high can valuation
+multiples be stretched that we react to kind of on a week to week basis, that's in the mix too. So I'll hand it back to you guys here, but I'm not saying you will be,
+but Michael Powell could be proven right where, hey, maybe two years from now, all these asset prices are higher than they are today because of liquidity flows,
+but there could be massive drawdowns along the way, and I think that's one of the things, and John, you're nodding pretty vigorously as I'm saying this,
+I think that's what you're trying to protect people from because, as you said, people don't retire for a year or two. They retire for the rest of their lives,
+so you really want to avoid those drawdowns because they basically steal years from you. They can steal years from you.
+Well, that very much is the way we think, and we think in terms of probabilities. Of course, we have our convictions, but any good understanding of probabilities
+is there's a probability you're wrong. It's just a matter of degree, and as confidently as Michael Howell or Darius Dale might talk about their bullishness,
+I guarantee you if you ask them point blank, what's the probability? They wouldn't give it 100% probability. It's just not the way things work. We have to be humble.
+So too in our approach, and we have tools to address that. So for example, we can be more invested in equities right now, and we are,
+that we otherwise would want to be or we justify based upon fundamentals, but we can use tools that allow us to have upside but also protect downside.
+So for example, in client accounts, we have exposure to the equal weighted S&P 500, and the way we have that is through our long call options.
+We bought call options, in the money call options on a breakout last fall, breakout to the upside, and what a long call option effectively is,
+I'm going to keep it real simple here, but there's detail. It's essentially equivalent to buying stock, buying the equal weighted S&P 500,
+and simultaneously buying a put option to protect downside below a certain line in the sand. That's financially and synthetically the same thing.
+Just yesterday, we were able to push the strike prices of those call options up. We basically took about half our profits out of that position.
+And by pushing the strike price up, and I'll show you what we're on a chart here just to kind of give it some living color here.
+This is ticker symbol RSP, which we own for clients, and this is not a recommendation to anybody. Certainly, I can only do that on end-of-life spaces,
+but we bought RSP right around here on this breakout, and we bought a 145 strike price right here, which is where that breakout was.
+Just yesterday, we rolled out those options to the 155 strike, which is right around there. We were able to sell the existing calls for twice as much
+as we paid for the new calls, and we were able to keep about 80% of the equivalent stock market upside exposure.
+So in a real way, what this does is it raises our safety net closer to the current market level, and we've similarly done things like that over recent weeks
+with our put options. We have some put options on the S&P, and we're in some other sectors and things like that.
+All to say is we are investing in the stock market more than we otherwise would probably want to just based on fundamentals,
+but we're doing it with tools and belt and suspenders to protect against those very real drawdowns that can happen out of thin air in an environment like this.
+Great. I really appreciate you walking through that. You guys have done that in previous shows before, but it really underscores to folks one of the reasons
+why we encourage folks to work with a professional financial advisor because most people, they just go long only. If they're DIY, they get a sense of like,
+"Oh, I think the stock's going to go up. I'm going to put my money in it. I'm going to cross my fingers," and if it goes up, they're happy, but they don't necessarily have
+the defensive safety measures that you put in place, and if the market turns on them, they eat 100% of the losses where you guys are using an approach that,
+yes, it might limit a little bit of the upside, but it provides a bigger protection on the downside so that they're only experiencing a subset of the potential losses otherwise.
+That's called risk management, folks, and you hear us talk about that a lot on the channel. I'm coming back to you in just a second, Mike. Real quick though,
+on this topic of things that could change market sentiment, I'd like to get your guys' thoughts on the testimony that Fed Chairman Powell just gave today.
+He largely reiterated the message that he's said in the past, which is, "Hey, we're not going to stop fighting inflation until it's down. We got confidence it's going to be
+down in the 2% range that we're hoping for," but I think the language he used this time around rate cuts was he said, "We still are expecting to do rate cuts
+at some point in 2024." I think his guidance to the market beforehand had been a bit more confident, a bit more vigorous. They've been guiding to three rate cuts
+initially when he surprised the market back in mid-December. The market assumed the rate cuts were going to start relatively soon, perhaps even in March,
+and at one point the market was pricing in something like seven rate cuts. I just want to share my screen here real quickly. This happened all throughout last year,
+but it's happening again, where the market keeps having to readjust its expectations of the Fed's rate cut schedule. It has to keep walking them back.
+So you'll see here in this chart, on December 14th, when Powell dovishly surprised the markets, you can see the market was expecting the Fed was going to
+really pretty quickly and dramatically get rates down over the next year and a half or so. It then had to move that up on February 2nd, then had to move it up
+again, meaning fewer and fewer rate cuts in late February, and of course, that chart's probably going to adjust upwards even higher today after the Fed's
+testimony that it just gave today. So we're back in this world where the market just keeps trying to get ahead of the Fed, and the Fed keeps having to say,
+"Nope, guys, you're getting too aggressive. You're getting too aggressive." So who knows what's going to happen there, but at some point, if the market really begins
+to doubt that the Fed is not going to be that generous this year with cuts and/or easing, which I know the market has speculated a lot about, that's something
+that could really force the reevaluation of some of these valuations, especially now that they've gone on such a tear since Powell's initial dovish
+surprise back in December. John, you're nodding, as you say.
+Yeah, Adam, just a couple quick data points. At the end of last year, the market was probably pricing in about an 88% probability that the Fed would cut at the March meeting, this upcoming March meeting.
+That is now down to a 5% probability. At the end of last year, they were pricing in literally a 100% probability of some level of cut by the May meeting.
+Now, if you look at the CME FedWatch tool, that's down to a 25% probably. So the market has definitely recalibrated the expectations there, and that's something we called out
+all through the end of last year, the divide between the market and the Fed. And we're going to talk about gold in a bit. Mike's going to cover this, but I just want to point out gold's
+break out to recent all-time highs is happening in parallel with these rate expectations becoming much more sober, which is really another supportive thing for --
+For gold.
+Typically, higher rates is bad for gold. So the fact that the gold breakout is happening with this recalibration of expectations on cuts or no cuts or timing of cuts is really, I think,
+another stealth bullish thing that this breakout in gold is probably a real deal. So we'll talk about that later.
+All right. Well, we could talk about it now. Mike, we'll head over to you, and obviously, feel free to add anything to what John and I were just talking about there in terms of
+curveballs that could surprise the market, but as John said, gold is finally performing the way that you had been guiding us to for a long time. You've shown that
+decade plus long cup and handle. We're finally visibly above that triple or quintuple top that had been forming in the handle.
+Yes. Thank you, Adam. It's a few things I'd like to say, and then I'll get to the gold question. Michael talked about debt to GDP.
+Debt to GDP right now is about 120%. In fact, if I can, I'll share the screen so I can show you. This is the St. Louis Fed website. Debt to GDP in this
+particular chart goes back to 1970, ironically, roughly right around the time that Nixon went off the gold standard. It's been steadily up in a
+relatively calm slope, but of course, after 2008, all bets were off. We're presently up around 120% of GDP. You can see that number right here.
+Michael says he expects debt to GDP to maybe reach 250%. And just looking at my notes here, yeah, 250% by 2050. That's insane. That's insane.
+I think you asked the question, what happens? What are the negative consequences? Does your currency get hurt? Well, while we actually believe that
+Brent Johnson is probably right and that the U.S. dollar system will be like a vacuum in the early days of a financial crisis, long-term we may see
+some negatives for the dollar. And certainly if we go to 250% at GDP, we'll see some negatives for the dollar. And then on one of the charts that
+Michael put out there, he said, well, look at what the UK did in the 1950s. You know, they had a parabola just like he predicts that the U.S. will have
+by 2050. The point, though, is the United Kingdom hasn't been a world power in a long time and maybe never will be again. Who knows? It's hard to
+predict the future, but these kinds of crazy things that governments do are not a good sign. It's not a good sign of early stage growth. It's a sign
+of desperation. The last thing I don't know what will happen, though, is with all of that liquidity, will we just have a nice ride up in assets? I don't
+think so. We're looking at valuations that are higher than they've been in the last 120 years of recorded data. Unless we get an explosion in
+productivity and GDP, these numbers are not sustainable. We can't just say liquidity is going to push it higher. What we don't know is what
+the path is going to look like. So I wanted to get that out there. Also, I wanted to make a couple just a couple of notes of things that we're
+doing and then I'll get to the gold question. We are short term bullish. I almost hate to say it. We are short term bullish. Our short term
+indicators are positive. They have been for many months. We've been talking about that. We've been trying to ride up the market the best we can.
+We're about 40 percent net equities. We think it's a total gun to the head market that could crash at any time. But there's no technical
+reasons to believe that that's imminent. And so, yeah, we are short term bullish. We're taking profits in some sectors that have worked out
+well for us, insurance and industrials. And we're adding software very soon. We've been looking at that pocket of the tech group. And so we
+continue to try to try to operate there with hedges and continually increasing our hedges so that when we do get a rollover and a crash, we
+don't give back very much. So our best guess is we go higher and then there's going to be some kickoff event that'll make it hopefully obvious
+that a bigger decline has started. And that could very likely happen from a higher level. So it doesn't pay much. It doesn't help or it
+doesn't pay much to get out early in anticipation of that, particularly when we see so many strong charts still. So lastly, gold. We just
+talked about gold. Let me bring up our chart of gold in just a moment. And gold miners, I guess I'd like to close with that. Gold has a 20
+year pattern. That's pretty incredible if you look at a monthly chart. And I'm going to hit click share right now. Just give that a
+second to come up. So here is a monthly chart of gold. This is the ETF GLD. You can use gold itself if you want. This one's easy in our
+charting package to use. Essentially, over the last 20 years, we had this bull market and then a big sideways consolidation in what you
+might call a triple or even a quadruple top here. These triple tops don't usually hold. We've been saying that a long time here. But
+this is a giant base. One, two, three, four, going on the fifth year of a base. So a beautiful chart pattern. A lot of what we do has to
+do with chart patterns, technicals and chart patterns. We've been expecting this to break out for months now. So we have a second day
+with gold above 2100 and it looks to close here. This is a monthly chart. And this would have a measured move to up towards 2500 or
+so. If we look at silver or SLV in this example on a monthly chart, you can see it's got this big consolidation. It looks more like a
+triangle. You've got an inverse head and shoulders perhaps going on here. If you want to get creative, it might be a little bit of a
+stretch, but that's what it looks like inside of the triangle to me. I believe we've got to break out of this triangle and we've got a
+pretty violent move up towards 30 on this asset. And then I think gold goes towards 2500 on that chart that we were just there. So
+let's take a look at GDX, a big ETF that owns gold mining shares to say that this has been a disappointment would be an
+understatement. It's been puzzling to us why gold stocks have underperformed for as long as they have. Sentiment has been getting
+very, very bad in the sector. We can tell that a lot of different ways, the people that we connect with. Take a look at GDX. It's
+woefully underperformed. You know, it's way below these previous peaks when the chart I just showed you with gold is that a new
+peak. So what's going to happen? Is it going to play catch up? Are we going to have a vertical move? I actually think that's quite
+likely. It's a very small sector. Let me go to the daily chart here. And this recent low the other day basically touched the
+October low and came within a few cents of it on this asset. And then it's just been vertical from here. We very quickly
+recaptured the 50 and 200 day moving averages. And so this type of thing could cover, cause some short covering. I can see GDX
+going right to maybe 33, 34 in the next few weeks if we get some short covering and gold holds what it's doing. This is the
+weekly chart. You can see what happens to other weekly time frames. You get three or four weeks straight up. We could easily be
+back in this range. Longer term, going back to the monthly chart, I think that GDX would be 45 plus if we hold 2,500 on
+gold. Right now it's completely unobserved sector with really bad sentiment. Fundamentals are starting to get better and we're
+glad we're still in it. It hasn't been an easy thing to hold. The reason we're still in it is because we have been able to
+hedge a good part of the position throughout this past couple of few years even. So it's been a hard thing, but it's really
+washed out very negative and we still like it here.
+All right. So it'd be super interesting to see what happens. And Mike, you've been telling us to watch this for months and
+months. So I want to give you credit for calling this and we'll watch it closely to see how it transpires from here. A couple
+of questions. One is you said that if things go well, you could see GDX breaking out following the price of gold. Now the
+miners are supposed to be a leveraged play on gold. Therefore, they should go up materially. Whatever gold does, the
+miners should head in that same direction just in a materially stronger intensity. And so you were saying if things go
+really well, GDX could get up to $45 or so from its current price of what was it like around $28, $29. So I was looking in
+that chart you showed. Well, back in I think 2011, where we had the last high in gold, GDX was in like mid 60s. So the
+question I have is, I know you said it's a head scratcher why they've been so disappointing. But wouldn't you expect
+GDX to hit a higher price this time round if we did get like $2,500 gold than it did back in 2011? You think so, Adam, but the
+truth is that things have changed. So the price of gold might be $2,500, which is much higher than it was back in 2011. But the
+world has changed. Inflation has changed. The cost of getting the metal out of the ground has changed. I don't have the chart at my
+fingertips, but I can tell you right now the cost of getting an ounce of gold out of the ground is around $1,200 an ounce. Back in
+2011, I believe that number was closer to $600. So because of inflation and labor and energy costs and things like that, the
+whole cost of doing business has increased. So a new high in gold here at $2,100 is not equal to $2,100 in 2011 because of all
+those things. There's been some really bad decisions by management as well, some bad acquisitions. Just just some
+overinvestment in some bad places, some balance sheet destruction. And that all happened back, I would say in the wake of
+the 2011 bubble, I think that CEOs were overly optimistic, and they made some bad decisions. That has, a lot of that has
+been cleaned up. Some of the negatives, though, do remain about this industry. It's politically messy, it's environmentally
+messy, but it's a very, very small group. And it responds tremendously to a move up in gold price. If gold prices at $2,100,
+and I just told you the cost of getting it out of the ground is $1,200 or so, that's a $900 profit per ounce. If you were to go
+from $2,100 to $2,600, you know, add $500 to that, all of a sudden the profit goes from $900 to $1,400, which is a huge
+jump percentage wise, 30 to 40% jump in profit, which flows right down to EBITDA or profitability. And through the
+leverage effect of how equities are valued, you could see a monstrous move. A lot of these equities are trading at high
+single digit price to earnings ratio. So if you've got a big jump in profitability of 30 to 40%, with just a few hundred
+dollars increase in the price of gold and couple that with margin expansion, as investors start to realize the sector even
+exists, you could see numbers much higher. We try not to predict, but absolutely I could see GDX going to a new high. But I'm
+trying to say what I think is more likely near return in the next year or so. But we'll hopefully ride them higher if they go
+there.
+So this isn't personal financial advice, obviously, folks. But would you say, Mike, that now is looking like a particularly
+attractive time to get exposure to mining stocks, especially for those that don't have it? Because we finally have this
+breakout that you've been looking for. And so if things progress from here the way that you think, where that multiplier from
+the increase in profitability on the income statement of the miners really starts to kick in, and then Wall Street starts to
+look at this sector again, after having left it for dead, you could make an argument that's got pretty good prospects ahead of
+it. Do you think that now is a good time for new money to come into the space, new investor money to come into the space?
+I do with the caveat that it's not individualized advice. Like you said, we'd have to talk to anyone that's considering that
+directly if they'd like to have that conversation. But the news has been so bad. The sentiment has been so bad in the sector
+for quite a long time, so bad that it's good, frankly. And with this breakout that I think the big thing is the breakout in
+gold. A lot of people were thinking it was the triple top. A lot of people were thinking, oh, the dollar's strong. It's not
+going to it's not going to go higher or the Fed isn't going to cut. It's not going high. Well, the Fed is saying they're not
+going to cut. And I do believe the Fed's not going to cut until we see an equity market crash. So the Fed is saying they're
+not going to cut, as John just talked about earlier, and yet gold has broken out solidly well above 2100. And imagine down
+the road, maybe later this year, the Fed does start cutting. Maybe it's in response to an equity market accident. I don't
+know. With the target rate at 5.25, there's a lot of room for downside. And so you could have an all time high in gold with
+an easing Fed after that, and maybe even some other turmoil in the world if it starts to become obvious that the Fed and other
+central banks really don't have the ability to pull a rabbit out of the hat into eternity. If you start to have a loss in
+confidence that the Fed's going to be able to continue to do this, there's going to be a rush into real things. Couple that with
+a drop in the Fed funds rate and other central banks potentially easing, we could see gold go much higher. I think 2500 is the
+first term target. I think that gold stocks, I hesitate to say they could easily double from here. If we move up towards 2500,
+maybe not on GDX, but a lot of the individual stocks and maybe the junior sectors could double from here easily. And then
+some. We'll see. You know, we'd have to, I don't want to predict too far in the future, but I think in the next year or so, I
+could see gold 2500 plus I could see some of the juniors doubling. I could see GDX up 50 to 70%. So take everything into
+consideration by your own personal situation and tolerance for risk and don't take too big of a position because it's really
+hard to hold on to. But in this in particular has worn people out to the bone, including us sometimes. So that's a good sign in
+general. That's a good sign. And like I said, we just retook the major moving averages. It would be a great time to start edging
+into it if you don't have a position. Again, what we would need to have an individual conversation with anyone considering to do
+so based on that advice.
+Okay. All right. Well, look, we got to start wrapping it up here. I do want folks to know that one to dive deeply into gold, we're
+going to have Matt Pipenberg, who's a big favorite of a lot of the viewers on this channel. He's going to be talking about gold at
+the upcoming Thoughtful Money conference. The bonus video that everybody who registers for the conference gets is going to be Jeff
+Clark's latest gold mining stock picks. So you get that basically for free when you pay to register to attend the live event
+itself. And then a question I was going to ask you guys, we just don't have enough time here, is the dynamics of a what's going on with
+Bitcoin in general, but how much of the attention that might have been going into gold in a non Bitcoin world is getting stolen away by
+Bitcoin right now. We're going to also have Mark Moss talk about Bitcoin at the conference as well. For those that have been living
+under a rock, Bitcoin had fallen dramatically to a low of, I think around 16,000 last year, and has come roaring back this year. And a lot of
+people are just beginning to say, look, I don't understand this asset class, but I probably need to start wrapping my brain around it. That's
+what that discussion with Mark is going to be. Again, that's at the upcoming conference. All right, guys. So in wrapping up here, folks, if
+you enjoyed having Michael Howell on here, I think his perspective of liquidity and its implications is valuable. We'd like him to come back on
+the program again in the future. Please let us know by hitting the like button, then clicking on the red subscribe button below, as well as that
+little bell icon right next to it. And a reminder that the thoughtful money conference is coming up and now less than a week, it's going to be
+Saturday, March 16th. So if you haven't registered for it yet, folks, you don't have much time left to get your tickets. And a reminder for that,
+too, that if you are a subscriber to Thoughtful Money's sub stack account, sorry, got to get that out of my mouth. If you're a subscriber to our
+sub stack account, you get an additional $50 off the price of a conference. So if you're a premium subscriber, go get the code before you register
+so you can get your 50 bucks off. If you're not a subscriber, a premium subscriber yet, you can become one only costs $15 a month to do that. So
+just sign up for a month, pay the $15 save the larger $50 pocket the $35 I want you to get the best price for the conference. And all right, just as we
+do every week, but I think we did a good job of reiterating it today. For most people trying to figure out how to navigate this market, and to do it
+safely, and to take advantage of risk management best practices, we highly recommend that folks work under the guidance of a good professional
+financial advisor, one that takes into account all the macro issues that Michael Howell and I discussed that John and Mike and I have discussed here,
+and that the other guest experts that appear on this program every week discuss with me. And really, folks, when you put those layers of requirements on your
+selection process, the universe really starts to shrink a good deal. There's a lot of financial advisors out there that really don't study the macro side of
+things, the way that this channel does. So if you've got a good advisor who is doing all that for you, though, and doing it well, and not just coming up with a
+strategy and the plan, but executing it for you, great, stick with them. But if you don't have one, you'd like a second opinion from one who does perhaps
+even John and Mike and their team there at New Harbor Financial, well, then consider scheduling a free personal consultation with these advisors that you see
+with me on this channel every week. To do that, just go to ThoughtfulMoney.com. Fill out the short form there, only takes you a couple of seconds.
+These consultations, they're highly personalized, but they're totally free. There's no commitments involved in them, no obligations. It's just a free public
+service that John and Mike and our other advisors offer to help as many people as possible, positioned as prudently as possible in advance of what may be coming
+down the pike. All right, gents, thanks so much for spending another week here with me. John, I'm going to let you have the last word this week.
+All right, I'll keep it short. We are so fortunate to get calls from folks that reach out to us, and it truly is a low pressure conversation. We've got a great team.
+I think anybody that reaches out for a consultation will find our team very skilled and expert on several types of matters, but very pleasant to speak with as well.
+So we invite you to reach out. No pressure whatsoever. Thanks again, Adam. Another great conversation. Certainly, we work hard to keep our gears and our heads
+turning to make sure we're thinking about things from several different angles, and this content helps us to do that.
+All right, thanks so much, John. Well said. Reminder, folks, sign up for the conference if you hadn't yet. For those listening on the podcast, can't see my overlays,
+go to ThoughtfulMoney.com/conference. John and Mike, thanks for another great week. Everybody else, thanks so much for watching.
+We'll see you very soon, Adam. Thank you.
